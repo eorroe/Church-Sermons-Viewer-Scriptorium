@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scriptorium - Actionable Sermons Viewer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-[#1a1510] min-h-screen">
+    <div id="app" class="min-h-screen flex flex-col">
+        <header class="w-full py-6 px-4 text-center border-b border-[#c5a059]/30">
+            <h1 class="font-['Crimson_Pro'] text-3xl md:text-4xl font-bold text-[#c5a059] tracking-wide italic">Actionable Sermons Viewer</h1>
+        </header>
+
+        <main class="flex-1 w-full max-w-5xl mx-auto px-4 py-8">
+            <div id="breadcrumb" class="mb-6 hidden">
+                <nav class="flex items-center space-x-2 text-sm font-['Crimson_Pro']">
+                    <button id="breadcrumb-home" class="text-[#c5a059] hover:text-[#c5a059]/80 underline transition-colors">Home</button>
+                    <span class="text-[#c5a059]/60">&gt;</span>
+                    <button id="breadcrumb-church" class="text-[#c5a059] hover:text-[#c5a059]/80 underline transition-colors hidden"></button>
+                    <span id="breadcrumb-path-separator" class="text-[#c5a059]/60 hidden">&gt;</span>
+                    <span id="breadcrumb-path" class="text-[#c5a059]/60"></span>
+                </nav>
+            </div>
+
+            <div class="relative">
+                <div id="filter-hint" class="filter-hint-wrapper">
+                    <svg class="filter-hint-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="-400 0 300 100" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M -280 95 Q -280 45 -80 45"/>
+                        <polyline points="-100,38 -80,45 -100,52"/>
+                    </svg>
+                    <h3 class="filter-hint-text">Filter Your<br>Favorite Sources</h3>
+                </div>
+                <div id="content-container" class="bg-[#f4ece1] rounded-sm border-4 border-double border-[#c5a059] p-6 md:p-10 min-h-[500px] relative">
+                <div id="paper-texture" class="absolute inset-0 pointer-events-none opacity-[0.03] rounded-sm"></div>
+                <div id="loading" class="hidden text-center py-20">
+                    <div class="inline-block w-8 h-8 border-2 border-[#c5a059] border-t-transparent rounded-full animate-spin"></div>
+                    <p class="mt-4 font-['Crimson_Pro'] text-[#7e2217] italic">Loading...</p>
+                </div>
+                <div id="error" class="hidden text-center py-20">
+                    <p class="font-['Crimson_Pro'] text-[#7e2217] text-lg"></p>
+                    <button id="retry-btn" class="mt-4 px-6 py-2 bg-[#c5a059] text-white font-['Cinzel'] hover:bg-[#c5a059]/80 transition-colors">Retry</button>
+                </div>
+                <div id="main-content"></div>
+                <div id="church-filter-popup" class="popup-overlay hidden">
+                    <div class="popup-content">
+                        <div class="popup-header">
+                            <h3 class="font-['Cinzel'] text-xl text-[#7e2217]">Filter Churches / Sources</h3>
+                            <button id="close-filter-popup" class="popup-close">&times;</button>
+                        </div>
+                        <div id="church-filter-list" class="church-filter-list">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+        <footer class="w-full py-4 px-4 text-center border-t border-[#c5a059]/30">
+            <p class="font-['Crimson_Pro'] text-[#c5a059]/60 text-sm">Scriptorium &copy; 2026 - Developed With Heart and Soul By Edwin Reynoso follower of Jesus Christ</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
