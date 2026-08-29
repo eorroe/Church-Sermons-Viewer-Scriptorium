@@ -17,7 +17,7 @@ Pastor Philip Anthony Mitchell teaches that every believer is engaged in an inte
 
 ### Step 1: Recognize the Urgency of Your Spiritual Warfare
 
-Understand that you are likely living in the last seconds of the church age. Every opportunity to minister or share the gospel could be someone's last chance to hear it. Minister with the urgency of someone on the front line of battle, not as a casual performance. Take your call to spread the gospel and multiply disciples seriously.
+Understand that you are probably living in the last seconds of the church age. Every opportunity to minister or share the gospel could be someone's last chance to hear it. Minister with the urgency of someone on the front line of battle, not as a casual performance. Take your call to spread the gospel and multiply disciples seriously.
 
 ### Step 2: Return to the Source When Your Fire Dims
 
@@ -45,13 +45,13 @@ Stop performing perfection for others. Authentic faith means being honest about 
 
 ### Step 8: Be a Man of Character and Accountability
 
-For men specifically: resist the cultural attack on biblical masculinity by taking accountability for your actions, owning your mistakes, and surrounding yourself with men who will speak truth into your life. Real strength is found in humility, not dominance. Teach the next generation that real men take accountability, own their crap, and pursue holiness.
+For men specifically: resist the systematic spiritual attack against biblical masculinity by taking accountability for your actions, owning your mistakes, and surrounding yourself with men who will speak truth into your life. Real strength is found in humility, not dominance. Teach the next generation that real men take accountability, own their crap, and pursue holiness.
 
 ## Examples
 
 ### Example 1: Preaching While Sick
 
-Pastor Mitchell shares how he preached an altar call for healing while battling a mysterious medical condition, with full faith that God was healing others even as he faced his own suffering. Your circumstances do not negate God's character or your calling to minister. You can still preach healing because Christ is a healer, regardless of your own condition.
+Pastor Mitchell shares how he preached an altar call for healing while battling a mysterious medical condition, with 100% faith that God was healing others even as he faced his own suffering. Your circumstances do not negate God's character or your calling to minister. You can still preach healing because Christ is a healer, regardless of your own condition.
 
 ### Example 2: The Donkey Analogy
 
@@ -81,7 +81,7 @@ Paul wrote two-thirds of the New Testament, had divine revelation, and yet he bo
 - No one is above critique, but not all critique is from God
 - Your fire for God is measured by intimacy, not by platform size or public volume
 - God never creates a life for you that makes Him unnecessary
-- Even your most favorite preacher or the greatest platform cannot make you suffer-free
+- Even your most favorite preacher, a big staff, financial success, marriage, or any other "fill in the blank" achievement cannot make you suffer-free
 
 ## Security & Safety Notes
 
