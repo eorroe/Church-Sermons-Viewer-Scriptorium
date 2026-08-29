@@ -17,7 +17,7 @@ This sermon demonstrates that the doctrine of the Trinity is deeply rooted in th
 
 ### Step 1: Establish that Creation is Attributed to Three Distinct Persons
 
-Show that the Father, the Word, and the Holy Spirit are each credited as Creator in the Old Testament, yet there is only one God. Reference Psalm 104:29-30 (the Spirit creates and renews the ground), Job 33:4 ("The Spirit of God has made me"), Deuteronomy 32:6 (Yahweh is the Father who created you), and John 1:1-3 (the Word was with God and the Word was God, and all things were made through him). Note that John 1 is cited as a minimal New Testament reference. Conclude that Father, Spirit, and Word are all identified as Creator while Deuteronomy 6:4 affirms one divine essence.
+Show that the Father, the Word, and the Holy Spirit are each credited as Creator in the Old Testament, yet there is only one God. Reference Psalm 104:29-30 (the Spirit creates and renews the ground), Job 33:4 ("The Spirit of God has made me"), Deuteronomy 32:6 (Yahweh is the Father who created you), and John 1:1-3 (the Word was with God and the Word was God, and all things were made through him). Note that John 1 is the only New Testament reference used in this sermon. Conclude that Father, Spirit, and Word are all identified as Creator while Deuteronomy 6:4 affirms one divine essence.
 
 ### Step 2: Show That God Is Referred to in Plural Terms in Hebrew
 
@@ -33,7 +33,7 @@ Read Genesis 31:11-13, where the angel of God speaks to Jacob in a dream: "I hav
 
 ### Step 5: Show That God Himself Commands Worship of the Angel of the Lord in Genesis 35
 
-Read Genesis 35:1: "Then God said to Jacob, arise, go up to Bethel and live there and make an altar there to God who appeared to you when you fled from your brother, Esau." The Father (God) commands Jacob to build an altar to the Angel of the Lord, identifying the Angel as God Almighty worthy of worship. This is significant because only Yahweh can receive altar worship. Draw the parallel to Hebrews 1:8, where the Father calls the Son "God."
+Read Genesis 35:1: "Then God said to Jacob, arise, go up to Bethel and live there and make an altar there to God who appeared to you when you fled from your brother, Esau." The Father (God) commands Jacob to build an altar to the Angel of the Lord, identifying the Angel as God Almighty worthy of worship. This establishes the Angel of the Lord as Yahweh himself, because only Yahweh can receive altar worship. Draw the parallel to Hebrews 1:8, where the Father calls the Son "God."
 
 ### Step 6: Observe Jacob Praying to the Angel of the Lord in Genesis 48
 
@@ -41,11 +41,11 @@ Read Genesis 48:15-16. As Jacob blesses Joseph's sons, he says: "The angel who h
 
 ### Step 7: Examine Isaiah 48:12-16 for Plurality Within Yahweh
 
-Read Isaiah 48:12-16. Note that no speaker change occurs—Yahweh speaks throughout. Verse 12: "Hear me, O Jacob, even Israel, whom I called. I am he. I am the first, I am also the last." Verse 16: "And now the Lord Yahweh has sent me and his spirit." Highlight that within the single speaker (Yahweh), there is Yahweh the speaker, Yahweh who sends, and the spirit of Yahweh who is also sent. This is plurality within the one God—a direct Old Testament witness to the Trinity.
+Read Isaiah 48:12-16. Note that no speaker change occurs—Yahweh speaks throughout. Verse 12: "Hear me, O Jacob, even Israel, whom I called. I am he. I am the first, I am also the last." Verse 16: "And now the Lord Yahweh has sent me and his spirit." Highlight that within the single speaker (Yahweh), there is Yahweh the speaker, Yahweh who sends, and the spirit of Yahweh who is also sent. This is plurality within the one God—Yahweh the speaker refers to Yahweh who sends him together with the spirit of Yahweh who is also sent.
 
 ### Step 8: Examine Isaiah 63:7-11 for Distinct Persons in Salvation
 
-Read Isaiah 63:7-11. Verse 9: "In all their distress, he was distressed, and the angel of his presence saved them." Verse 9b: "In his love and in his mercy he redeemed them; he lifted them and carried them all the ancient days. But they rebelled and grieved his Holy Spirit." Note that Yahweh, the Angel of His Presence, and the Holy Spirit are three distinct persons all involved in the one act of saving Israel. Verse 11: "Where is he who put the Holy Spirit in the midst of them? Who caused his glorious arm to go at the right hand of Moses?"
+Read Isaiah 63:7-11. Verse 9: "In all their distress, he was distressed, and the angel of his presence saved them." Verse 9b: "In his love and in his mercy he redeemed them; he lifted them and carried them all the ancient days. But they rebelled and grieved his Holy Spirit." Note that Yahweh, the Angel of His Presence, and the Holy Spirit are each personally active in the one act of saving Israel, and the Holy Spirit's ability to be grieved demonstrates his personhood. Verse 11: "Where is he who put the Holy Spirit in the midst of them? Who caused his glorious arm to go at the right hand of Moses?"
 
 ### Step 9: Identify the "Arm of the Lord" as the Pre-Incarnate Christ
 
@@ -57,7 +57,7 @@ Read Jude 4-5. Verse 5: "Now I desire to remind you, though you know all things,
 
 ### Step 11: Answer the Objection of Singular Pronouns for God
 
-When a Unitarian argues that God is referred to with singular pronouns over 2,000 times in the Old Testament, show Isaiah 44:4-5, where Yahweh says, "I alone stretched out the heavens, by myself." If singular pronouns prove God can only be one person, then Unitarians face a contradiction: they believe Jesus was the agent through whom the Father created all things, yet Isaiah 44:4 says Yahweh did it alone. Turn their argument against them by showing it actually contradicts their own view of Jesus' role in creation. Also show places where God speaks with plural language, demonstrating that the Old Testament itself presents God as both singular and plural.
+When a Unitarian argues that God is referred to with singular pronouns repeatedly throughout the Old Testament, show Isaiah 44:4-5, where Yahweh says, "I alone stretched out the heavens, by myself." If singular pronouns prove God can only be one person, then Unitarians face a contradiction: they believe Jesus was the agent through whom the Father created all things, yet Isaiah 44:4 says Yahweh did it alone. Turn their argument against them by showing it actually contradicts their own view of Jesus' role in creation. Also show places where God speaks with plural language, demonstrating that the Old Testament itself presents God as both singular and plural.
 
 ### Step 12: Answer the Objection of Jesus Not Knowing the Hour (Mark 13:32)
 
@@ -87,7 +87,7 @@ Read Isaiah 48:12-16 aloud. Verse 12: "I am he, I am the first, I am also the la
 
 ### Example 4: Explaining the Arm of the Lord to a Muslim
 
-Read Isaiah 63:7-11, where the Angel of His Presence and the Holy Spirit both are identified as the ones who saved Israel. Then read Isaiah 53:1: "To whom has the arm of the Lord been revealed?" The "arm of the Lord" who split the Red Sea is the same figure described in Isaiah 53 as the suffering servant—despised, pierced, bearing sin. This is not an impersonal force; it is a person. Jude 5 confirms: "Jesus having once saved a people out of the land of Egypt." The one who saved Israel in the Old Testament is the Lord Jesus Christ.
+Read Isaiah 63:7-11, where the Angel of His Presence and the Holy Spirit both are identified as the ones who saved Israel. Then read Isaiah 53:1: "To whom has the arm of the Lord been revealed?" The "arm of the Lord" who split the Red Sea is the same figure described in Isaiah 53 as the suffering servant—despised and forsaken of men, bearing sin. This is not an impersonal force; it is a person. Jude 5 confirms: "Jesus having once saved a people out of the land of Egypt." The one who saved Israel in the Old Testament is the Lord Jesus Christ.
 
 ## Best Practices
 
@@ -119,7 +119,7 @@ Read Isaiah 63:7-11, where the Angel of His Presence and the Holy Spirit both ar
 ## Common Pitfalls
 
 - **Problem:** A Unitarian points to singular pronouns for God throughout the Old Testament and claims the Trinity is unbiblical.
-  **Solution:** Show Isaiah 44:4, where Yahweh says, "I alone created the heavens and the earth, I stretched out the heavens by myself." If singular pronouns prove Unitarianism, this contradicts the Unitarian's own belief that Jesus was the agent of creation. Also show places where God uses plural language (Job 35:10, Psalm 149:2) so the Unitarian cannot claim the Old Testament presents only strict monadic singularity.
+  **Solution:** Show Isaiah 44:4, where Yahweh says, "I alone created the heavens and the earth, I stretched out the heavens by myself." If singular pronouns prove Unitarianism, this contradicts the Unitarian's own belief that Jesus was the agent of creation. Also show passages where God uses plural language (Job 35:10, Psalm 149:2) so the Unitarian cannot claim the Old Testament presents only strict monadic singularity.
 
 - **Problem:** A Muslim or Unitarian claims Jesus is ignorant because Mark 13:32 says "no one knows the hour, not even the Son."
   **Solution:** Explain that the Greek word *oiden* can mean "to declare or make known," not just "to know." Reference 1 Corinthians 2:2 (Paul "knew nothing" except Christ) and Luke 20:1-8 (Jesus says "neither will I tell you"—he is not ignorant of his authority, he is withholding it). Reference Acts 1:7, where Jesus says the Father alone has fixed the times by his own authority—Jesus submits to the Father's prerogative to announce the hour, not his own ignorance of it.
