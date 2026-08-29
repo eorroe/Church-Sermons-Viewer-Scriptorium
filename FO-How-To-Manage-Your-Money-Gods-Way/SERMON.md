@@ -19,19 +19,19 @@ Create a written monthly budget that assigns every dollar a name before the mont
 
 ### Step 2: Get Out of Debt and Avoid New Debt
 
-Stop borrowing money. The borrower is slave to the lender, so eliminate all consumer debt including credit cards, car notes, and personal loans. Use the debt snowball method to attack your debts systematically. When you have no payments, every dollar of income becomes available for saving, giving, and building wealth. Do not take on new debt, even for large purchases; save up and pay cash instead.
+Stop borrowing money. The borrower is slave to the lender, so eliminate all consumer debt including credit cards, car notes, and personal loans. Use the debt payoff method that targets your smallest balances first to attack your debts systematically. When you have no payments, every dollar of income becomes available for saving, giving, and building wealth. Do not take on new debt, even for large purchases; save up and pay cash instead.
 
 ### Step 3: Foster High-Quality Relationships
 
-Intentionally choose the people you spend the most time with because you become who you hang around with. Read the same books, have the same conversations, and align your mindset with wise, godly influences. Surround yourself with people of character and quality who encourage financial integrity, generosity, and spiritual growth. Avoid relationships that consistently lead you toward poor financial or life decisions.
+Intentionally choose the people you spend the most time with because you become who you hang around with. Read the same books, have the same conversations, and align your mindset with godly influences. Surround yourself with people of character who encourage financial integrity, generosity, and spiritual growth. Avoid relationships that consistently lead you toward poor financial or life decisions.
 
 ### Step 4: Save and Invest Money
 
-Build an emergency fund before investing so unexpected events do not push you back into debt. Save enough for a rainy day and treat it as a priority, not an afterthought. Once your emergency fund is in place, invest consistently in diversified, long-term growth vehicles such as low-cost growth stock mutual funds inside tax-advantaged accounts. Live below your means, delay pleasure, and let compound growth work in your favor over decades.
+Build an emergency fund before investing so unexpected events do not push you back into debt. Save three to six months of expenses and treat it as a top financial priority before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in diversified, long-term growth vehicles such as low-cost growth stock mutual funds inside tax-advantaged accounts. Live below your means, delay pleasure, and let compound growth work in your favor over decades.
 
 ### Step 5: Build Wealth to Be Generous
 
-Use the extra money created by budgeting, debt freedom, and saving to bless others generously. Wealth is not evil; it is a tool that amplifies who you already are. Look for practical ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity breaks the cycle of fear and self-centeredness and creates a tangible experience of God's love for both the giver and the receiver.
+Use the surplus income created by budgeting, debt freedom, and saving to bless others generously. Wealth is not evil; it is a tool that amplifies who you already are. Look for direct, tangible ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity breaks the cycle of fear and self-centeredness and creates a tangible experience of God's love for both the giver and the receiver.
 
 ## Examples
 
@@ -47,9 +47,9 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
 
 - ✅ Write your budget before the month starts and assign every dollar a job
 - ✅ Pay off all consumer debt systematically and stop using credit cards
-- ✅ Choose your closest relationships intentionally based on character and quality
+- ✅ Choose your closest relationships intentionally based on character
 - ✅ Build an emergency fund before investing in the market
-- ✅ Invest consistently in diversified, long-term growth vehicles
+- ✅ Invest monthly in diversified, long-term growth vehicles
 - ✅ Look for practical, tangible ways to bless people in need around you
 - ✅ Spend less than you earn and avoid increasing your spending as your income rises
 - ✅ Be generous; generosity is contagious
@@ -74,19 +74,19 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
 ## Common Pitfalls
 
 - **Problem:** You pray for more money but do nothing with the money you already have.
-  **Solution:** Get on a written budget and faithfully manage your current income before asking God for more.
+  **Solution:** Get on a written budget and manage your current income before asking God for more.
 
 - **Problem:** You believe credit cards and loans are normal parts of adult life.
-  **Solution:** Recognize that the borrower is slave to the lender; pay cash for everything except a mortgage, and if you cannot afford it, do not buy it.
+  **Solution:** Recognize that the borrower is slave to the lender; pay cash for everything, and if you cannot afford it, do not buy it.
 
 - **Problem:** You are surrounded by people who spend recklessly and mock financial discipline.
-  **Solution:** Intentionally choose mentors and friends who live with character and quality; you become like the people you hang around with.
+  **Solution:** Intentionally choose mentors and friends who live with character; you become like the people you hang around with.
 
 - **Problem:** You spend everything you make and have no savings for emergencies.
   **Solution:** Prioritize building an emergency fund before investing or making large discretionary purchases; be the third pig, not the first two.
 
 - **Problem:** You think wealth is evil and that rich people are automatically greedy.
-  **Solution:** Understand that money only magnifies what is already in your heart; most wealthy people are generous servant kind gentle giving people, and you can build wealth to be a better steward and giver.
+  **Solution:** Understand that money only magnifies what is already in your heart; most wealthy people are generous, servant-hearted, kind, gentle, giving people, and you can build wealth to be a better steward and giver.
 
 - **Problem:** You judge people in need instead of seeing an opportunity to help.
   **Solution:** Practice humility and awareness; replace judgment with generosity so you can respond practically when God places a need in front of you.
