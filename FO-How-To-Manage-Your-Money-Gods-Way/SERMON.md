@@ -19,19 +19,19 @@ Create a written monthly budget that assigns every dollar a name before the mont
 
 ### Step 2: Get Out of Debt and Avoid New Debt
 
-Stop borrowing money. The borrower is slave to the lender, so eliminate all consumer debt including credit cards, car notes, and personal loans. Use the debt snowball method or another structured payoff plan to attack your debts systematically. When you have no payments, every dollar of income becomes available for saving, giving, and building wealth. Do not take on new debt, even for large purchases; save up and pay cash instead.
+Stop borrowing money. The borrower is slave to the lender, so eliminate all consumer debt including credit cards, car notes, and personal loans. Use the debt snowball method to attack your debts systematically. When you have no payments, every dollar of income becomes available for saving, giving, and building wealth. Do not take on new debt, even for large purchases; save up and pay cash instead.
 
 ### Step 3: Foster High-Quality Relationships
 
-Intentionally choose the people you spend the most time with because you become like the people you hang around. Read the same books, have the same conversations, and align your mindset with wise, godly influences. Surround yourself with people of character and quality who encourage financial integrity, generosity, and spiritual growth. Avoid relationships that consistently lead you toward poor financial or life decisions.
+Intentionally choose the people you spend the most time with because you become who you hang around with. Read the same books, have the same conversations, and align your mindset with wise, godly influences. Surround yourself with people of character and quality who encourage financial integrity, generosity, and spiritual growth. Avoid relationships that consistently lead you toward poor financial or life decisions.
 
 ### Step 4: Save and Invest Money
 
-Build a fully funded emergency fund before investing so unexpected events do not push you back into debt. Save enough to cover several months of expenses and treat it as a priority, not an afterthought. Once your emergency fund is in place, invest consistently in diversified, long-term growth vehicles such as low-cost growth stock mutual funds inside tax-advantaged accounts. Live below your means, delay gratification, and let compound growth work in your favor over decades.
+Build an emergency fund before investing so unexpected events do not push you back into debt. Save enough for a rainy day and treat it as a priority, not an afterthought. Once your emergency fund is in place, invest consistently in diversified, long-term growth vehicles such as low-cost growth stock mutual funds inside tax-advantaged accounts. Live below your means, delay pleasure, and let compound growth work in your favor over decades.
 
 ### Step 5: Build Wealth to Be Generous
 
-Use the financial margin created by budgeting, debt freedom, and saving to bless others generously. Wealth is not evil; it is a tool that amplifies who you already are. Look for practical ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity breaks the cycle of fear and self-centeredness and creates a tangible experience of God's love for both the giver and the receiver.
+Use the extra money created by budgeting, debt freedom, and saving to bless others generously. Wealth is not evil; it is a tool that amplifies who you already are. Look for practical ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity breaks the cycle of fear and self-centeredness and creates a tangible experience of God's love for both the giver and the receiver.
 
 ## Examples
 
@@ -41,33 +41,33 @@ Dave Ramsey describes standing in a grocery store checkout line behind a stresse
 
 ### Example 2: The Three Little Pigs and Emergency Preparedness
 
-Dave uses the story of the three little pigs to illustrate the necessity of an emergency fund. The first two pigs lived impulsively and were unprepared when trouble came; the third pig delayed gratification, planned ahead, and built a house that could withstand the storm. He applies this to modern crises such as pandemics, recessions, and job loss, urging listeners to be the third pig by saving a robust emergency fund before hardship strikes so they are not destroyed by unexpected events.
+Dave uses the story of the three little pigs to illustrate the necessity of an emergency fund. The first two pigs lived impulsively and were unprepared when trouble came; the third pig delayed pleasure, planned ahead, and built a house that could withstand the storm. He applies this to modern crises such as pandemics, recessions, and job loss, urging listeners to be the third pig by saving an emergency fund before hardship strikes so they are not destroyed by unexpected events.
 
 ## Best Practices
 
 - ✅ Write your budget before the month starts and assign every dollar a job
-- ✅ Pay off all consumer debt as fast as possible and stop using credit cards
-- ✅ Choose your closest relationships intentionally based on character and wisdom
-- ✅ Build a fully funded emergency fund before investing in the market
+- ✅ Pay off all consumer debt systematically and stop using credit cards
+- ✅ Choose your closest relationships intentionally based on character and quality
+- ✅ Build an emergency fund before investing in the market
 - ✅ Invest consistently in diversified, long-term growth vehicles
 - ✅ Look for practical, tangible ways to bless people in need around you
-- ✅ Live below your means and avoid lifestyle inflation
-- ✅ Be generous even with small amounts; generosity is contagious
+- ✅ Spend less than you earn and avoid increasing your spending as your income rises
+- ✅ Be generous; generosity is contagious
 
 ## Keep In Mind
 
 - Money magnifies who you already are; if you are angry, money makes you angrier, but if you are generous, money makes you more generous
-- Being broke is a temporary condition; being poor is a mindset that you can move beyond through learning and action
-- God often says no to prayers for more money when you are mishandling what you already have
-- Generosity is not possible when you are broke, disorganized, or fighting with your spouse over money
-- The smell of practical help—feeding a baby, putting tires on a single mom's car, helping someone get a degree—is the smell of the Holy Spirit
+- Being broke is a temporary state; being poor is a persistent condition that you can move beyond through learning and action
+- God says no to prayers for more money when you are mishandling what you already have
+- It is hard to be generous when you are broke, disorganized, or fighting with your spouse over money
+- Practical help such as feeding a baby, putting tires on a single mom's car, or helping someone get a degree is tangible evidence of God's love
 
 ## Security & Safety Notes
 
 - Do not share your bank account numbers, credit card numbers, or passwords with anyone
 - Use strong, unique passwords for all financial accounts and enable multi-factor authentication
 - Be cautious of get-rich-quick schemes and anyone who pressures you to invest quickly without full disclosure
-- Keep your emergency fund in a legitimate, FDIC-insured bank account separate from your daily checking
+- Keep your emergency fund in a legitimate, Federal Deposit Insurance Corporation (FDIC)-insured bank account separate from your daily checking
 - Never carry large amounts of cash or flaunt your wealth publicly, which can make you a target for theft or fraud
 - Review your bank and credit card statements monthly for unauthorized transactions
 
@@ -80,13 +80,13 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
   **Solution:** Recognize that the borrower is slave to the lender; pay cash for everything except a mortgage, and if you cannot afford it, do not buy it.
 
 - **Problem:** You are surrounded by people who spend recklessly and mock financial discipline.
-  **Solution:** Intentionally choose mentors and friends who live with wisdom and integrity; you become who you spend time with.
+  **Solution:** Intentionally choose mentors and friends who live with character and quality; you become like the people you hang around with.
 
 - **Problem:** You spend everything you make and have no savings for emergencies.
-  **Solution:** Prioritize building a fully funded emergency fund before investing or making large discretionary purchases; be the third pig, not the first two.
+  **Solution:** Prioritize building an emergency fund before investing or making large discretionary purchases; be the third pig, not the first two.
 
 - **Problem:** You think wealth is evil and that rich people are automatically greedy.
-  **Solution:** Understand that money only magnifies what is already in your heart; most wealthy people are generous servants, and you can build wealth to be a better steward and giver.
+  **Solution:** Understand that money only magnifies what is already in your heart; most wealthy people are generous servant kind gentle giving people, and you can build wealth to be a better steward and giver.
 
 - **Problem:** You judge people in need instead of seeing an opportunity to help.
   **Solution:** Practice humility and awareness; replace judgment with generosity so you can respond practically when God places a need in front of you.
