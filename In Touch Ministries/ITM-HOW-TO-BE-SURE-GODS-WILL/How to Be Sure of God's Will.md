@@ -47,7 +47,7 @@ Before making any decision, ask yourself these questions:
    When you are walking in God's will, He gives you a sense of peace—a quietness in your spirit, no irritation, no crowding doubts. You will not need to ask others what they think. You will say, "Yes, Lord, thank You, Jesus." If you do not have this peace, stop and ask God what He wants you to do.
 
 5. **Is this the right timing?**
-   It may be God's will to do something, but timing matters. Many people make costly mistakes by stepping ahead of God or being too late. Wait for God's timing.
+   It may be God's will to do something, but timing matters. People make costly mistakes by stepping ahead of God or being too late. Wait for God's timing.
 
 6. **Is this consistent with the way God works?**
    Consider whether your action aligns with how God has worked in Scripture and in the lives of other believers. Can you do this and know you have His approval?
@@ -101,7 +101,7 @@ You made a decision years ago that has caused regret. God is not disappointed be
 ## Best Practices
 
 - ✅ Start every decision by asking God for His will through prayer and Scripture.
-- ✅ Ask specific test questions before making choices, especially serious ones.
+- ✅ Ask the test questions before making choices.
 - ✅ Teach children early to ask God about decisions so they learn dependence on Him.
 - ✅ Wait for God's peace and right timing before acting.
 - ✅ Be consistent between who you say you are as a Christian and how you act.

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches that patience is a gift from God, not a human effort, and is essential for experiencing His best in every area of life. Dr. Charles Stanley explains that patience is the will to wait on God's timing, even when circumstances pressure us to act. Through the Holy Spirit, believers are empowered to trust God's protection, guidance, and perfect timing, leading to obedience, healthy relationships, and the fulfillment of God's purpose.
+This sermon teaches that patience is a gift from God, not a human effort, and is essential for experiencing His best. Dr. Charles Stanley explains that patience is the will to wait on God's timing, even when circumstances pressure us to act. Through the Holy Spirit, believers are empowered to trust God's protection, guidance, and perfect timing, leading to obedience and the fulfillment of God's purpose.
 
 ## When to Follow This Sermon
 
@@ -31,7 +31,7 @@ Choose to obey God even when you do not fully understand His timing. Submit your
 
 ### Step 5: Discern God's timing
 
-Ask the Holy Spirit to show you when to move. Understand that what you are asking for may not be God's will at the moment, but His plan for later. Ask for the grace to wait until He gives you permission.
+Ask the Holy Spirit to give you clarity about when to act. Understand that what you are asking for may not be God's will at the moment, but His plan for later. Ask for the grace to wait until He gives you permission.
 
 ### Step 6: Love God above all else
 
@@ -39,13 +39,13 @@ Realize that true patience flows from loving God more than yourself, your desire
 
 ### Step 7: Wait and watch God at work
 
-Relax and do not push God. Trust that His timing is perfect, and when you wait on Him, you will see Him bring situations to the right conclusion. Thank Him for the outcome, knowing that waiting was the right choice.
+Rest in God's perfect timing, and do not try to force His hand. Trust that when you wait on Him, He will bring situations to the right conclusion. Thank Him for the outcome, knowing that waiting was the right choice.
 
 ## Examples
 
 ### Example 1: Waiting for direction in a major life decision
 
-You are considering a job change, a move, or a relationship commitment. You have prayed and asked God for guidance, but you have not heard a clear answer. Instead of forcing a decision, you choose to wait, trusting that God will direct you at the right moment. In time, circumstances align or a clear conviction settles in your heart, confirming that waiting was the right path.
+You are considering a job change, a move, or a relationship commitment. You have prayed and asked God for guidance, but you have not heard a clear answer. Instead of forcing a decision, you choose to wait, trusting that God will direct you at the right moment. When you wait on God, circumstances align or a clear conviction settles in your heart, confirming that waiting was the right path.
 
 ### Example 2: Responding to God's "no"
 
@@ -53,7 +53,7 @@ You prayed for something you deeply desired—perhaps a specific relationship, a
 
 ### Example 3: Patience in marriage or friendships
 
-You are frustrated with a spouse or close friend who is not meeting your expectations. Instead of reacting with anger or demanding change, you choose to be patient, remembering that everyone makes mistakes. You extend grace, pray for the other person, and allow God to work in the relationship. Over time, the relationship deepens because of your patience.
+You are frustrated with a spouse or close friend who is not meeting your expectations. Instead of reacting with anger or demanding change, you choose to be patient, remembering that everyone makes mistakes. You extend grace, pray for the other person, and allow God to work in the relationship. As you continue to wait, the relationship deepens because of your patience.
 
 ## Best Practices
 
@@ -72,7 +72,7 @@ You are frustrated with a spouse or close friend who is not meeting your expecta
 - This sermon does not replace personal Bible study, prayerful discernment, or wise counsel from mature believers.
 - Patience is a process; you may need to practice it daily in small situations before you can trust it in larger ones.
 - If you have never trusted Jesus Christ as your Savior, patience in the Christian life begins with surrendering your life to Him first.
-- Stop and ask for clarification if you are unsure whether you are waiting on God or simply procrastinating.
+- Stop and ask God to show you whether you are waiting on Him or simply procrastinating.
 
 ## Security & Safety Notes
 

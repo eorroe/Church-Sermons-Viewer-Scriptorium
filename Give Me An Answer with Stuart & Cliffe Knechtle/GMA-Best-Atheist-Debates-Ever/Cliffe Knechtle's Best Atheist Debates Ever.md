@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon compiles Cliffe Knechtle's most powerful exchanges with atheists, ex-Christians, and university students who challenge Christianity on morality, the reliability of Jesus, the existence of hell, biblical contradictions, and the uniqueness of Christ as the only religious figure who claimed to be God and rose from the dead. The consistent thread across every exchange is that the truth of Christianity depends entirely on whether Jesus of Nazareth is historically who he claimed to be and whether he rose from the dead — not on the behavior of Christians, not on passion or sincerity, but on whether Jesus is who he claimed to be and whether he actually rose from the dead.
+This sermon compiles Cliffe Knechtle's exchanges with atheists, ex-Christians, and university students who challenge Christianity on morality, the reliability of Jesus, the existence of hell, biblical contradictions, and the uniqueness of Christ as the only religious figure who claimed to be God and rose from the dead. The consistent thread across every exchange is that the truth of Christianity depends entirely on whether Jesus of Nazareth is historically who he claimed to be and whether he rose from the dead — not on the behavior of Christians, not on passion or sincerity, but on whether Jesus is who he claimed to be and whether he actually rose from the dead.
 
 ## When to Follow This Sermon
 
@@ -37,7 +37,7 @@ When someone raises slavery, polygamy, or harsh Old Testament laws as a problem,
 
 ### Step 5: Respond to "Bible Contradictions" With Perspective, Not Perfection
 
-When someone claims the Bible has contradictions, explain that different perspectives on the same event are not contradictions. If one gospel mentions one angel at the empty tomb and another mentions two, that is two different perspectives — not a contradiction. The New Testament is based on over 5,200 Greek manuscripts, giving us an incredibly high degree of certainty about what the authors wrote. Minor textual variants (for example, differences in how closely a manuscript repeats a phrase) do not change any doctrine. Have the humility to say "I don't know" when you do not have an answer — but do not accept a contradiction where there is only a difference in perspective.
+When someone claims the Bible has contradictions, explain that different perspectives on the same event are not contradictions. If one gospel mentions one angel at the empty tomb and another mentions two, that is two different perspectives — not a contradiction. The New Testament is based on over 5,200 Greek manuscripts, giving us a high degree of certainty about what the authors wrote. Minor textual variants (for example, differences in how closely a manuscript repeats a phrase) do not change any doctrine. Have the humility to say "I don't know" when you do not have an answer — but do not accept a contradiction where there is only a difference in perspective.
 
 ### Step 6: Address Hell and Judgment Honestly
 
@@ -45,7 +45,7 @@ When someone says they cannot believe in a God who sends people to hell, do not 
 
 ### Step 7: Engage Other Religions With Respect and Intellectual Honesty
 
-When someone asks whether Muslims, Hindus, or people of other faiths are wrong, be honest: if the atheist speaks the truth, you are wrong. If the Muslim speaks the truth, you are wrong. The question is not which religion is most passionate or most sincere, but which one is actually true. Read the primary texts of other faiths if you claim to love people in those faiths. Muhammad lived 500 years after Jesus and never met him. The eyewitnesses of Jesus (Matthew, Mark, John, Peter, James) all insisted Jesus claimed to be God. Muhammad explicitly rejected the deity of Christ in the Quran — but if Jesus truly claimed to be God in the first century, then Muhammad's claim contradicts the eyewitness testimony. You cannot have it both ways. Either Jesus was who he claimed to be, or he was a liar. There is no middle ground.
+When someone asks whether Muslims, Hindus, or people of other faiths are wrong, be honest: if the atheist speaks the truth, you are wrong. If the Muslim speaks the truth, you are wrong. The question is not which religion is most passionate or most sincere, but which one is actually true. Read the primary texts of other faiths if you claim to love people in those faiths. Muhammad lived more than 500 years after Jesus and never met him. The eyewitnesses of Jesus (Matthew, Mark, John, Peter, James) all insisted Jesus claimed to be God. Muhammad explicitly rejected the deity of Christ in the Quran — but if Jesus truly claimed to be God in the first century, then Muhammad's claim contradicts the eyewitness testimony. You cannot have it both ways. Either Jesus was who he claimed to be, or he was a liar. There is no middle ground.
 
 ### Step 8: Call People to Read the Gospels Themselves
 
@@ -95,8 +95,8 @@ A student says: "I was in church for a long time and I don't buy it. Christians 
 
 - This is a compilation of live, unscripted Q&A sessions. Some responses are unpolished, some are repeated, and some show Cliffe Knechtle thinking in real time. That is part of the authenticity.
 - The transcript ASR occasionally misidentifies Cliffe Knechtle as "Cliff Candley." The speaker is Cliffe Knechtle, a well-known Christian apologist who has debated on university campuses for over 30 years.
-- The video runs over an hour and covers multiple distinct challenges. No single answer settles every objection, but the cumulative case for Christ's reliability is strong.
-- Many of the challengers are thoughtful, university-educated students — not straw men. Their questions are real and deserve real answers.
+- The video runs over an hour and covers distinct challenges. No single answer settles every objection, but the cumulative case for Christ's reliability is strong.
+- The challengers in the video are thoughtful, university-educated students — not straw men. Their questions are real and deserve real answers.
 - The question of whether Gandhi or other righteous people of other faiths are in hell is deliberately left unanswered by Cliffe — he says he does not know anyone's eternal fate. Humility on this point is consistent throughout.
 
 ## Security & Safety Notes
@@ -119,7 +119,7 @@ A student says: "I was in church for a long time and I don't buy it. Christians 
   **Solution:** Learn to distinguish between the universal moral law (Exodus 20) and the 613 theocratic laws of Israel (Exodus, Leviticus, Numbers, Deuteronomy). They are not the same.
 
 - **Problem:** Trying to resolve every apparent Bible "contradiction" with a pat answer.
-  **Solution:** Many supposed contradictions are simply different perspectives on the same event. If one gospel mentions one angel and another mentions two at the empty tomb, both can be true. Do not over-explain — acknowledge what you do not know.
+  **Solution:** Supposed contradictions are often simply different perspectives on the same event. If one gospel mentions one angel and another mentions two at the empty tomb, both can be true. Do not over-explain — acknowledge what you do not know.
 
 - **Problem:** Claiming certainty about who is in hell or heaven.
   **Solution:** You do not know. Even Cliffe Knechtle, after 32 years of campus ministry, will not say with certainty whether any specific person is saved or lost. Humility here is not weakness — it is honesty.

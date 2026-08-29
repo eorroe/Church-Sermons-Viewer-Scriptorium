@@ -16,11 +16,11 @@ Dr. Charles Stanley teaches that genuine, loyal, and devoted friendships are amo
 
 ### Step 1: Evaluate the depth of your current friendships
 
-Ask yourself how many of your friends are truly loyal, devoted, loving, genuine, and true. Recognize that casual friendships are common but do not provide the anchoring support that genuine friendships offer. Distinguish between many shallow connections and a few deep, lasting ones.
+Ask yourself how many of your friends are truly loyal, devoted, loving, genuine, and true. Recognize that most people have fewer than five friends who meet all of these criteria. Casual friendships are common but do not provide the anchoring support that genuine friendships offer. Distinguish between many shallow connections and a few deep, lasting ones.
 
 ### Step 2: Commit to building rather than expecting friendships to happen
 
-Understand that real, genuine friendships are not found—they are built. Accept that they require time, effort, and energy. Resolve to invest intentionally in relationships rather than waiting for them to develop passively.
+Understand that real, genuine friendships are not found—they are built. Accept that building genuine friendships requires consistent time, effort, and energy. Resolve to invest intentionally in relationships rather than waiting for them to develop passively.
 
 ### Step 3: Base friendships on mutual concern, not personal neediness
 
@@ -28,7 +28,7 @@ Ensure your desire for friendship is motivated by wanting to contribute to the o
 
 ### Step 4: Be willing to risk rejection and pain
 
-Recognize that hurt, misunderstanding, and rejection are inevitable in any meaningful relationship. Commit to enduring these difficulties because the reward of a genuine, anchored friendship is worth the pain.
+Recognize that hurt, misunderstanding, and rejection happen in every meaningful relationship because all people are imperfect. Commit to enduring these difficulties because the reward of a genuine, anchored friendship is worth the pain.
 
 ### Step 5: Love sacrificially
 
@@ -69,7 +69,7 @@ Dr. Stanley shares that he once tried to build friendships by opening his heart 
 - ✅ Love sacrificially, putting the other person's needs above your own
 - ✅ Be open, honest, and transparent about your heart and struggles
 - ✅ Let biblical principles govern every aspect of the relationship
-- ✅ Invest time and effort consistently, knowing true friendships take years to build
+- ✅ Invest time and effort consistently, knowing true friendships build over time
 - ✅ Prioritize your friendship with Jesus Christ as the foundation for all other relationships
 - ❌ Do not base friendships on what others can do for you rather than how you can serve them
 - ❌ Do not avoid vulnerability out of fear; isolation only deepens loneliness
@@ -91,4 +91,4 @@ Dr. Stanley shares that he once tried to build friendships by opening his heart 
 - **Problem:** Avoiding vulnerability out of fear of rejection, hurt, or further pain.
   **Solution:** Recognize that transparency and risk are necessary for genuine connection, and that the reward of true friendship outweighs the pain.
 - **Problem:** Expecting friendships to develop quickly without investing time and effort.
-  **Solution:** Commit to the slow, intentional process of building trust, openness, and shared life over time.
+  **Solution:** Commit to the slow, intentional process of building trust, openness, and shared life.

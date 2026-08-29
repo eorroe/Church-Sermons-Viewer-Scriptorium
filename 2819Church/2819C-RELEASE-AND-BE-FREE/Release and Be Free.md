@@ -16,7 +16,7 @@ This sermon, delivered by Philip Anthony Mitchell at 2819 Church, unpacks the pa
 
 ### Step 1: Recognize the Debt God Already Cancelled
 
-Identify the ways you have been offended and acknowledge the weight of what you may be holding onto. Then, contrast that debt against the infinitely greater debt God cancelled in your life through Christ. Understand that your forgiveness of others is a direct overflow of the forgiveness you have already received. Ask the Holy Spirit to reveal any root of unforgiveness you have accepted as normal or justified.
+Identify the ways you have been offended and acknowledge the weight of what you may be holding onto. Then, contrast that debt against the greater debt God cancelled in your life through Christ. Understand that your forgiveness of others is a direct overflow of the forgiveness you have already received. Ask the Holy Spirit to reveal any root of unforgiveness you have accepted as normal or justified.
 
 ### Step 2: Choose to Forgive in Faith
 
@@ -30,7 +30,7 @@ After forgiving, guard your heart against re-entering that offense. Walk daily i
 
 ### Example 1: Holding a Grudge After Betrayal
 
-A believer feels deeply hurt by a close friend's betrayal. For months, the offense replayed in their mind, creating bitterness and stealing their joy. Applying this sermon, they sat with God and recognized how much He had already forgiven them. With tears, they verbally forgave their friend — not excusing the offense, but releasing the right to punish. Within days, the heavy burden lifted and they experienced the freedom of walking in Christ's victory rather than remaining in a spiritual basement of unforgiveness.
+A believer feels deeply hurt by a close friend's betrayal. For months, the offense replayed in their mind, creating bitterness and stealing their joy. Applying this sermon, they sat with God and recognized how much He had already forgiven them. With tears, they verbally forgave their friend — not excusing the offense, but releasing the right to punish. Within days, the heavy burden lifted and they experienced the freedom of walking in Christ's victory rather than remaining in a state of unforgiveness.
 
 ## Best Practices
 
@@ -47,9 +47,9 @@ A believer feels deeply hurt by a close friend's betrayal. For months, the offen
 ## Keep In Mind
 
 - Forgiveness is an act of your will empowered by the Holy Spirit, not a feeling that will arrive on its own
-- The enemy has been dethroned — there is no equal power between God and the devil; the enemy's role is now limited to making noise for a season
+- The enemy has been dethroned — there is no equal power between God and the devil; the enemy's role is now limited to making noise
 - There is no dualism in the Christian life; we do not fight for a victory, we fight from a place of victory already secured by Christ
-- Shedding tears and processing grief is not a sign of weakness — it is part of coming out of the basement of pain into the praise of freedom
+- Shedding tears and processing grief is not a sign of weakness — it is part of coming out of pain into the praise of freedom
 - Forgiveness does not mean you must maintain a relationship with the person who hurt you; it means you release them from the debt they owe you
 
 ## Security & Safety Notes

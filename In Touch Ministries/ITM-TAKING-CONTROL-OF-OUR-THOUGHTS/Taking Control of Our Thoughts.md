@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches that the mind is the control tower of your life: a metaphor meaning the mind is the central command center from which every decision, action, relationship, and destiny flows. Whatever you think determines how you live, how you relate to God and others, and what you accomplish. Dr. Charles Stanley explains that as a believer, you have the power through the Holy Spirit to control your thoughts by setting your mind on Christ and heavenly things, putting sinful desires to death, and filling your mind with the Word of God. Unseen thoughts produce visible consequences, so taking control of your thinking is essential for experiencing God's best for your life.
+This sermon teaches that the mind is the control center of your life, the place where every decision, action, relationship, and destiny originates. Whatever you think determines how you live, how you relate to God and others, and what you accomplish. Dr. Charles Stanley explains that as a believer, you have the power through the Holy Spirit to control your thoughts by setting your mind on Christ and heavenly things, putting sinful desires to death, and filling your mind with the Word of God. Taking control of your thinking is essential for experiencing God's best for your life.
 
 ## When to Follow This Sermon
 
@@ -17,7 +17,7 @@ This sermon teaches that the mind is the control tower of your life: a metaphor 
 
 ### Step 1: Understand That Your Mind Is the Control Tower of Your Life
 
-Recognize that everything in your life starts in your mind. Your decisions, actions, relationships, and destiny all flow from what you think. Whatever you are today is the result of what you have been thinking about over time. Accept that you cannot control everyone else or every circumstance, but you can control how you respond by choosing what to think. The "control tower" metaphor means your mind is the central command center that directs the course of your life, just as an airport control tower directs every plane on the ground and in the air.
+Recognize that everything in your life starts in your mind. Your decisions, actions, relationships, and destiny all flow from what you think. Whatever you are today is the result of what you have been thinking about over time. Accept that you cannot control everyone else or every circumstance, but you can control how you respond by choosing what to think. Your mind is the control center of your life.
 
 ### Step 2: Accept That You Have the Power to Control Your Thoughts Through the Holy Spirit
 
@@ -25,7 +25,7 @@ As a believer, the Holy Spirit lives within you to help you think rightly. You d
 
 ### Step 3: Seek the Things Above Habitually and Continually
 
-Follow Colossians 3:1-2: "If you have been raised up with Christ, keep seeking the things above, where Christ is seated at the right hand of God. Set your mind on the things above, not on the things that are on earth." "The things above" refers to Christ, His kingdom, His will, and matters of eternal significance. Make it a lifestyle to continually seek spiritual things by learning what Jesus taught in the four Gospels and how Jesus lived during His earthly ministry. Do not only read the Bible once in a week; feast on the Word of God daily so that it becomes part of your thinking.
+Follow Colossians 3:1-2: "If you have been raised up with Christ, keep seeking the things above, where Christ is seated at the right hand of God. Set your mind on the things above, not on the things that are on earth." "The things above" refers to Christ, His kingdom, His will, and matters of eternal significance. Keep seeking spiritual things continually and habitually by learning what Jesus taught in the four Gospels and how Jesus lived during His earthly ministry. Do not only read the Bible once in a week; feast on the Word of God daily so that it becomes part of your thinking.
 
 ### Step 4: Set Your Mind on Things Above
 
@@ -33,7 +33,7 @@ Deliberately choose what you focus on. Think about what God thinks about you: th
 
 ### Step 5: Put Sinful Thoughts and Desires to Death
 
-Follow Colossians 3:5-8: "Consider the members of your earthly body as dead to immorality, impurity, passion, evil desire, and greed." When an ungodly thought comes to your mind, you do not have to accept it or act on it. You can choose to put that thought to death immediately. You can say, "That thought does not fit who I am in Christ." Your feet and hands will travel where your mind has already gone, so guard your thoughts at the mind's control tower.
+Follow Colossians 3:5-8: "Consider the members of your earthly body as dead to immorality, impurity, passion, evil desire, and greed." When an ungodly thought comes to your mind, you do not have to accept it or act on it. You can choose to put that thought to death immediately. You can say, "That thought does not fit who I am in Christ." Your feet and hands will travel where your mind has already gone, so guard your thoughts at the control center of your mind.
 
 ### Step 6: Ask Yourself Specific Questions Before Accepting a Thought
 
@@ -51,13 +51,13 @@ Answering these questions gives you the power to reject thoughts that do not ali
 
 ### Step 7: Let the Word of Christ Richly Dwell in You
 
-Follow Colossians 3:16: "Let the word of Christ richly dwell in you." Do not only read the Bible occasionally. Fill your mind abundantly and extravagantly with Scripture so that when you face any situation, you know what the right response is according to God's Word. When the truth of God's Word overflows in you, you will have the strength and power of God to overcome temptation and think rightly.
+Follow Colossians 3:16: "Let the word of Christ richly dwell in you." Do not only read the Bible occasionally. Fill your mind superabundantly and extravagantly with Scripture so that when you face any situation, you know what the right response is according to God's Word. When the truth of God's Word overflows in you, you will have the strength and power of God to overcome temptation and think rightly.
 
 ## Examples
 
 ### Example 1: Overcoming Temptation on the Job
 
-You find yourself at a job working with someone you do not like, and you are having bitter thoughts about that coworker. Instead of accepting and expressing those bitter thoughts, you choose to change your thinking. You remind yourself that God created that coworker, God loves that coworker, and you can choose to think about that coworker in a way that honors God. By controlling your thought at the mind's control tower, you prevent your actions and attitude from spiraling into ungodly behavior toward that coworker.
+You find yourself at a job working with someone you do not like, and you are having bitter thoughts about that coworker. Instead of accepting and expressing those bitter thoughts, you choose to change your thinking. You remind yourself that God created that coworker, God loves that coworker, and you can choose to think about that coworker in a way that honors God. By controlling your thought at the control center of your mind, you prevent your actions and attitude from spiraling into ungodly behavior toward that coworker.
 
 ### Example 2: Resisting Media That Pollutes the Mind
 
@@ -73,21 +73,21 @@ You have been carrying memories of past abuse, mistreatment, or failure that kee
 - ✅ Ask yourself the seven thought-evaluation questions from Step 6 before accepting or acting on any thought
 - ✅ Set your mind on Christ and heavenly things before you face temptation, not after temptation has already taken hold
 - ✅ Remember that your thoughts as a believer are not neutral; they will either build you up in Christ or tear you down
-- ✅ Share your thought struggles with a trusted mature believer who can help you evaluate those struggles biblically
+- ✅ Share your thoughts with a trusted mature believer who can help you evaluate those thoughts biblically
 - ✅ Treat your body as dead to sinful desires just as you are dead to your old way of life outside of Christ
 - ✅ Think about other people the way God thinks about them, not the way the world or your feelings tell you to think
 
 ## Keep In Mind
 
 - This sermon does not replace personal Bible study, discipleship, or accountability relationships in your local church.
-- If you are dealing with deep trauma, mental health issues, or persistent destructive thoughts, seek help from a qualified Christian counselor or pastor alongside your faith practice.
-- Stop and ask for clarification from God through prayer and Scripture if you are unsure whether a thought is acceptable to God.
+- If you are dealing with deep trauma, mental health issues, or persistent destructive thoughts, seek help from a Christian counselor or pastor alongside your faith practice.
+- Stop and ask God to show you His will through prayer and Scripture if you are unsure whether a thought is acceptable to God.
 
 ## Security & Safety Notes
 
-- Be careful what you allow into your mind through television, movies, music, social media, and friendships. What you see and hear programs your thinking, and you will reap what you sow in your thought life.
+- Be careful what you allow into your mind through television, movies, music, social media, and friendships. What you see and hear shapes how you think, and you will reap what you sow in your thought life.
 - If a thought makes you feel guilty or uneasy, do not ignore that conviction. The Holy Spirit is alerting you that the thought is not from God.
-- Do not share every thought you have with everyone, but do share persistent thought struggles with a mature believer who can help you stay accountable in your walk with Christ.
+- Do not share every thought you have with everyone, but do share persistent thoughts with a mature believer who can help you stay accountable in your walk with Christ.
 - Guard your thought life daily, because Satan works in the mind and will bring back past hurts and lies to deceive you if you are not filled with the Word of God.
 
 ## Common Pitfalls
@@ -96,7 +96,7 @@ You have been carrying memories of past abuse, mistreatment, or failure that kee
   **Solution:** Remember that you have the Holy Spirit living within you as a believer. You can choose to lay down wrong thoughts, and God will help you renew your mind through God's Word.
 
 - **Problem:** Only reading the Bible occasionally and wondering why you still struggle with temptation and wrong thinking
-  **Solution:** Let the Word of Christ dwell in you richly and extravagantly. Make it a lifestyle to read, study, and meditate on Scripture daily so that Scripture becomes your primary source of thinking.
+  **Solution:** Let the Word of Christ dwell in you richly and extravagantly. Keep seeking, reading, studying, and meditating on Scripture continually so that Scripture becomes your primary source of thinking.
 
 - **Problem:** Accepting thoughts without evaluating those thoughts and then suffering the consequences of those thoughts
   **Solution:** Ask yourself the seven evaluation questions from Step 6 before you accept or act on a thought. Thoughts are not neutral; they will either build you up or tear you down.

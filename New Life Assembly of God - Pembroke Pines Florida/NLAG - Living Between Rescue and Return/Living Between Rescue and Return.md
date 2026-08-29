@@ -51,7 +51,7 @@ Pastor Maria shares a personal story of being prompted by God to minister to a y
 
 ### Example 4: Pastor's Testimony of Healing - God Is Still Jehovah Rafa
 
-During the service, Pastor Maria shares that she personally experienced God's healing power after being diagnosed with an aggressive, rare stage three cancer nearly ten years ago. The doctors gave her little hope, but God healed her, and she stands before the congregation today as a living testimony. This personal testimony reinforces the sermon's message that the same God who promises to rescue believers at the rapture is also a healer, and it encourages the congregation to stand in faith for miracles, including the healing prayer offered for a member recently diagnosed with metastatic cancer.
+During the service, Pastor Maria shares that she personally experienced God's healing power after being diagnosed with an aggressive, rare stage three cancer nearly ten years ago. The doctors gave her little hope, but God healed her, and she stands before the congregation today as a living testimony. This personal testimony reinforces the sermon's message that the same God who promises to rescue believers at the rapture is also a healer, and it encourages the congregation to stand in faith for miracles, including the healing prayer offered for a member recently diagnosed with cancer.
 
 ## Best Practices
 

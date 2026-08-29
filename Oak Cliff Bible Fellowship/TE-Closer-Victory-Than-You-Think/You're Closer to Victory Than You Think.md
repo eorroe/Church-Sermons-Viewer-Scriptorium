@@ -34,7 +34,7 @@ Take your sanctified practical action and direct it toward your specific challen
 
 ### Step 6: Strike the Ground (Follow Through Completely)
 
-After receiving the promise, continue to act on it fully. Elisha told the king to strike the ground with the remaining arrows. The king only struck three times instead of completing the full action, limiting his victory because of partial commitment. You must follow God's instructions completely to receive complete victory.
+After receiving the promise, continue to act on it fully. Elisha told the king to strike the ground with the remaining arrows. The king only struck three times instead of striking the ground five or six times as instructed, limiting his victory because of partial commitment. You must follow God's instructions completely to receive complete victory.
 
 ### Step 7: Trust God to Fulfill the Promise
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon declares that nothing in this hour is more vital than holding to the words and teachings of Christ and being aligned with the will of God. Drawing from Matthew 24:36-51, Philip Anthony Mitchell urgently calls believers to wake from spiritual slumber, apathy, and indifference, and to live watchfully and faithfully in expectation of Christ's return. The message warns that only what is connected to the will of God will stand, and that the day and hour of Christ's return is known to no one — not angels, and not even the Son — making it imperative to be found faithful when He comes. It is a call to full surrender, bold repentance, and diligent stewardship of every area of life.
+This sermon declares that holding to the words and teachings of Christ and being aligned with the will of God is vital. Drawing from Matthew 24:36-51, Philip Anthony Mitchell urgently calls believers to wake from spiritual slumber, apathy, and indifference, and to live watchfully and faithfully in expectation of Christ's return. The message warns that only what is connected to the will of God will stand, and that the day and hour of Christ's return is known to no one — not angels, and not even the Son — making it imperative to be found faithful when He comes. It is a call to full surrender, bold repentance, and diligent stewardship of every area of life.
 
 ## When to Follow This Sermon
 
@@ -33,7 +33,7 @@ Evaluate every activity, pursuit, and ambition in your life against the standard
 
 ### Step 4: Live Every Day With Expectation of Christ's Coming
 
-Adopt a posture of watchful readiness each day. Do not assume Christ will not return soon — the rapture of the church can happen next week, next month, or next year, and nothing remains to be fulfilled before it takes place (1 Thessalonians 4). Live as though Christ could return at any moment, and let that expectation shape your decisions, conversations, and conduct.
+Adopt a posture of watchful readiness each day. Do not assume Christ will not return soon — the rapture of the church can happen at any moment, and nothing remains to be fulfilled before it takes place (1 Thessalonians 4). Live as though Christ could return at any moment, and let that expectation shape your decisions, conversations, and conduct.
 
 ### Step 5: Be Ready Now — Do Not Delay
 
@@ -81,7 +81,7 @@ Jesus closes with a sharp contrast between two servants. The faithful and wise s
 ## Keep In Mind
 
 - No one knows the day or the hour of Christ's return — not the angels, and not the Son in His earthly ministry — only the Father (Matthew 24:36)
-- The rapture of the church can happen next week, next month, or next year — nothing remains to be fulfilled before it takes place
+- The rapture of the church can happen at any moment — nothing remains to be fulfilled before it takes place
 - This life is only a test of stewardship; everything you have is temporarily entrusted to you, not owned by you
 - Eternity is far greater than anything this world can offer — your reward is to be with Christ, not earthly success
 - Christ understands every temptation, trial, and struggle you face because He lived as a full human being — come to Him boldly in times of need

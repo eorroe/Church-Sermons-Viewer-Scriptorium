@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches that Jesus Christ equally partakes of two natures—divine and human—unmixed and resident in one person, making him both the Son of God and the Son of Man. Through the virgin birth, the Holy Spirit provided both the divine substance and divine protection so that Jesus could bear all the attributes of God and all the attributes of humanity apart from sin. This dual nature enables Jesus to fulfill a ministerial responsibility on behalf of God and on behalf of humanity, connecting heaven to earth and rendering the devil powerless over those who trust in him.
+This sermon teaches that Jesus Christ equally partakes of two natures—divine and human—unmixed and resident in one person, making him both the Son of God and the Son of Man. Through the virgin birth, the Holy Spirit provided both the divine substance and divine protection so that Jesus could bear all the attributes of God and all the attributes of humanity apart from sin. This dual nature enables Jesus to fulfill a ministerial responsibility on behalf of God and on behalf of humanity, connecting heaven to earth and leaving the devil with no legitimate claim on those who trust in him—he can only affect believers through trickery, making them believe they are not free when they actually are.
 
 ## When to Follow This Sermon
 
@@ -42,11 +42,11 @@ Understand that Jesus not only possesses both natures but carries out a responsi
 
 ### Step 7: Believe Jesus' Word and Expect Greater Things
 
-When Jesus reveals something about himself or your situation through his word, believe what he says. Because you believe his word, you will see greater things—heaven opening and angels ascending and descending on the Son of Man, connecting divine resources to your earthly needs.
+When Jesus reveals something about himself or your situation through his word, believe what he says. Because you believe his word, you will see greater things—heaven opening and angels ascending and descending on the Son of Man, drawing heaven's provision into your earthly situation.
 
 ### Step 8: Go Get the Water
 
-When Jesus gives you instruction or direction, act on it. Do not question the process or wait for the miracle to appear before you obey. Like the servants who filled the water jars, you must take the step of obedience even when the outcome is not yet visible.
+When Jesus gives you instruction or direction, act on it. Do not question the process or wait for the miracle to appear before you obey. Like the servants who filled the water jars at the wedding at Cana, you must take the step of obedience even when the outcome is not yet visible.
 
 ### Step 9: Walk in the Fullness of the Kingdom
 
@@ -60,7 +60,7 @@ Call God "Abba Father" rather than merely a distant deity. The closer you walk w
 
 ### Example 1: The Wedding at Cana
 
-When Jesus' mother asked him to intervene at the wedding where the wine ran out, Jesus instructed the servants to fill six stone water jars with water. They obeyed and drew out the water, which had turned to wine. This demonstrates Step 8: the servants went and got the water (obedience before the miracle), and as a result, they experienced the Son of Man opening heaven and delivering something they could not explain. The best wine came last, showing that when you get right with Jesus, your best times can still be ahead even after you have run out.
+When Jesus' mother asked him to intervene at the wedding where the wine ran out, Jesus instructed the servants to fill six stone water jars with water. They obeyed and drew out the water, which had turned to wine. This demonstrates Step 8: the servants went and got the water (obedience before the miracle), and as a result, they experienced the Son of Man opening heaven and delivering something they could not explain. The best wine came last, showing that when you get right with Jesus, your future can still hold great joy and blessing even after you have run out.
 
 ### Example 2: Philip and Nathanael
 
@@ -113,5 +113,5 @@ Paul called Timothy his "son in the ministry," though Timothy was not Paul's bio
 - **Problem:** Waiting for heaven's blessing without obeying Jesus' instructions
   **Solution:** Take practical steps of obedience like filling the water jars—act on Jesus' word even when you do not yet see the result
 
-- **Problem:** Limiting your understanding of salvation to merely going to heaven
-  **Solution:** Recognize that you are saved for kingdom purpose—to live out God's kingdom on earth, exercising authority and dominion over the devil's works in your life
+  - **Problem:** Limiting your understanding of salvation to merely going to heaven
+   **Solution:** Recognize that you are saved for kingdom purpose—to live out God's kingdom on earth, exercising authority and dominion over the enemy's tactics in your life

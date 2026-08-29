@@ -75,12 +75,12 @@ A believer watches news of moral collapse — redefinitions of marriage, abortio
 
 ## Keep In Mind
 
-- Sin is the source of all humanity's troubles — not governments, not inequities, not other people. These are byproducts of sin.
+- Sin is a source of much of humanity's pain and brokenness — not governments, not inequities, not other people. These are byproducts of sin.
 - We live in a Genesis 3 world. Seeing life through the lens of Genesis 3 changes how you interpret pain, conflict, and brokenness.
-- The "thief" in John 10:10 is primarily bad teaching and lies sourced by sin — not only the devil. Proper hermeneutics matters.
-- Self-righteousness is born from blind spots where you cause damage but cannot see it. Humility and God's searchlight are essential.
+- Many interpret the "thief" in John 10:10 as primarily bad teaching and lies sourced by sin — not only the devil. Proper hermeneutics matters.
+- Self-righteousness often arises from blind spots where you cause damage but cannot see it. Humility and God's searchlight are essential.
 - Even tears, trauma, and mental illness in this room have sin as part of their origin story.
-- If you do not start hating sin, it will rob you of relationships, peace, open doors, opportunities, and sleep.
+- If you do not start hating sin, it will rob you of peace and damage your relationships.
 
 ## Security & Safety Notes
 

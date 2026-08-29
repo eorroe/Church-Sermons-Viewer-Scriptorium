@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon explores Matthew 27:11-14, focusing on the trial of Jesus before Pilate—the most sensational trial in human history. Jesus remained silent before his accusers, fulfilling the prophecy of Isaiah 53:7, demonstrating godly submission to the Father's will even unto death. The message teaches believers to be filled with God's word so it can guide them in moments of trouble, to discern when to speak and when to remain silent, to reject the lies of the enemy, and to subject their will completely to God's will.
+This sermon explores Matthew 27:11-14, focusing on the trial of Jesus before Pilate. Jesus remained silent before his accusers, fulfilling the prophecy of Isaiah 53:7, demonstrating godly submission to the Father's will even unto death. The message teaches believers to be filled with God's word so it can guide them in moments of trouble, to discern when to speak and when to remain silent, to reject the lies of the enemy, and to subject their will completely to God's will.
 
 ## When to Follow This Sermon
 

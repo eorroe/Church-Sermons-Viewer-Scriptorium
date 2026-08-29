@@ -68,9 +68,6 @@ A husband was trapped in drug addiction and repeatedly promised his wife he woul
 
 ## Keep In Mind
 
-- This sermon does not replace environment-specific validation, testing, or expert review.
-- Stop and ask for clarification if required inputs, permissions, or safety boundaries are missing.
-
 ## Security & Safety Notes
 
 - This sermon is for spiritual and educational purposes within a faith community context.

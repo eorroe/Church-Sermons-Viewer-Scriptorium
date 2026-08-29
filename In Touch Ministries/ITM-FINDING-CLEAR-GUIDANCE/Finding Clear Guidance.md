@@ -41,11 +41,11 @@ The final confirmation of God's direction is His peace. Colossians 3:15 says, "L
 
 ### Example 1: Choosing a Career Path
 
-A believer is torn between two job offers—one that pays well but requires compromising values, and another that aligns with their faith but offers less financial security. After clearing their heart of any sinful ambition or fear of lack, they pray persistently over several weeks. As they meditate on Scripture, a verse about God's provision stands out. Eventually, a deep, unshakable peace settles on the second offer, confirming it as God's direction even though the first option seems more attractive.
+A believer is torn between two job offers—one that pays well but requires compromising values, and another that aligns with their faith but offers less financial security. After clearing their heart of any sinful ambition or fear of lack, they continue to pray persistently. As they meditate on Scripture, a verse about God's provision stands out. A deep, unshakable peace settles on the second offer, confirming it as God's direction even though the first option seems more attractive.
 
 ### Example 2: Making a Major Relocation Decision
 
-A family feels pressure from relatives to move closer to them, but the couple is uncertain whether it is God's timing. They confess any selfish motives, submit their desires to the Lord, and refuse to be rushed by family expectations or internal fears of missing out. They continue praying without ceasing, resting in God's promise that He will guide them. Over time, the anxiety fades and is replaced by a confident peace about staying put for another season—until a clear, God-ordained opportunity arises.
+A family feels pressure from relatives to move closer to them, but the couple is uncertain whether it is God's timing. They confess any selfish motives, submit their desires to the Lord, and refuse to be rushed by family expectations or internal fears of missing out. They continue praying without ceasing, resting in God's promise that He will guide them. The anxiety fades and is replaced by a confident peace about staying put—until an opportunity arises.
 
 ## Best Practices
 

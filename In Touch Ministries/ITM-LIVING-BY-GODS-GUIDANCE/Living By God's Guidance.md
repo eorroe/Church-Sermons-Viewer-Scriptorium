@@ -49,7 +49,7 @@ True guidance begins with surrender. Commit to leaving all consequences in God's
 
 ### Example 1: Israel in the Wilderness
 
-The children of Israel were delivered from Egyptian bondage and should have reached the Promised Land in a few weeks. Instead, they wandered in the wilderness for 40 years because of their unbelief, fear, and disobedience. They had a visible guide—a cloud by day and a fire by night—yet they took their eyes off God, looked at the obstacles in front of them, and allowed their fear to overtake them. They backslid, missed the Promised Land, and died in the wilderness. Their story illustrates what happens when God's people choose to live by their feelings, fears, and own reasoning instead of by God's clear guidance and direction.
+The children of Israel were delivered from Egyptian bondage and should have reached the Promised Land quickly. Instead, they wandered in the wilderness for 40 years because of their unbelief, fear, and disobedience. They had a visible guide—a cloud by day and a fire by night—yet they took their eyes off God, looked at the obstacles in front of them, and allowed their fear to overtake them. They backslid, missed the Promised Land, and died in the wilderness. Their story illustrates what happens when God's people choose to live by their feelings, fears, and own reasoning instead of by God's clear guidance and direction.
 
 ### Example 2: Joshua 1 – Strength and Courage to Follow God
 
@@ -65,7 +65,7 @@ Peter and the apostles faced persecution and threats from the religious authorit
 
 ### Example 5: Isaiah 64:4 and Waiting on God's Timing
 
-Isaiah 64:4 reveals a heart of God that many miss: "A God who acts in behalf of the one who waits for Him." Dr. Stanley emphasizes that waiting on God is not passive inactivity—it is active dependence on Him through prayer and the Word. The Israelites' 40 years in the wilderness were not caused by God's absence but by their own impatience and disobedience. When we rush ahead without waiting for God's timing, we often step out of His will. When we wait on Him, He acts on our behalf in ways we cannot imagine.
+Isaiah 64:4 reveals a heart of God that is easy to miss: "A God who acts in behalf of the one who waits for Him." Dr. Stanley emphasizes that waiting on God is not passive inactivity—it is active dependence on Him through prayer and the Word. The Israelites' 40 years in the wilderness were not caused by God's absence but by their own impatience and disobedience. When we rush ahead without waiting for God's timing, we often step out of His will. When we wait on Him, He acts on our behalf in ways we cannot imagine.
 
 ### Example 6: Dr. Stanley's Personal Testimony of the Holy Spirit's Guidance
 

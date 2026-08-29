@@ -86,7 +86,7 @@ Jesus tells the story of a rich man who feasted sumptuously every day while Laza
 - God has given you the power through the Holy Spirit to live a life free from unrepentant sin — you can do this
 - "Those who endure to the end shall be saved" — a prayer of profession without a life of repentance is worthless
 - A person can claim to be a Christian while living in unrepentant sin — we are called to check for fruit, not just labels
-- Many churches sing and preach about holiness while failing to live it — this must change
+- The western church sings and preaches about holiness while failing to live it — this must change
 
 ## Security & Safety Notes
 

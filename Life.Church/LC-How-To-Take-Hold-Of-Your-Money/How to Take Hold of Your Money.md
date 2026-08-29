@@ -24,13 +24,13 @@ Quit borrowing money for anything for any reason. The borrower is slave to the l
 
 ### Step 3: Foster High Quality Relationships
 
-You become who you hang around with. Evil company corrupts good habits (1 Corinthians 15:33). Choose your closest circle carefully because social network research consistently shows that over a decade, your income tends to fall within 10 to 15 percent of the average income of your ten closest friends. Hang out with generous people to become generous. Hang out with people who read the Bible to grow in your faith. Surround yourself with people who reflect the character and habits you want to build.
+You become who you hang around with. Evil company corrupts good habits (1 Corinthians 15:33). Choose your closest circle carefully because social network research consistently shows that over 10 years, your income tends to fall within 10 to 15 percent of the average income of your ten closest friends. Hang out with generous people to become generous. Hang out with people who read the Bible to grow in your faith. Surround yourself with people who reflect the character and habits you want to build.
 
 ### Step 4: Save and Invest
 
 Build an emergency fund of three to six months of expenses first. The house of the wise stores up choice food and oil (Proverbs 21:20), while the foolish devour all they have. Spend everything you make and you are living like a fool, biblically speaking. Once your emergency fund is in place, invest for the future. Save consistently so that you are prepared for unexpected events and positioned to build lasting wealth.
 
-### Step 5: Be Outrageously Generous
+### Step 5: Be Generous
 
 Give cheerfully and generously once your own household needs are met — bills paid, food on the table, and no looming debt payments. Generosity is a heart posture, not a bank balance threshold. God loves a cheerful giver (2 Corinthians 9:7). Look for practical opportunities to bless others unexpectedly. Generosity changes your heart and the lives of people around you. When you are not broke and have your own life taken care of, you can reach out and help others in tangible ways.
 

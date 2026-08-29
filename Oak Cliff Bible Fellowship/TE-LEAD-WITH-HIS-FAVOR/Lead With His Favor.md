@@ -21,7 +21,7 @@ Examine whether you fear God seriously or take Him casually. Fearing God means p
 
 ### Step 2: Secure Your Marriage Covenant
 
-Husbands, lead your home by providing spiritual stability—defined as consistent prayer, Scripture engagement, and moral integrity—and creating an environment where your wife can flourish, meaning a home where she is respected, supported in her God-given roles, and free to exercise her gifts. Wives are essential collaborators in kingdom purpose, not reduced to domestic substitutes who are limited to chores rather than being essential collaborators. Practice the two-word marriage formula: husbands love sacrificially, wives respect honorably. Resolve marital conflict quickly because disunity shuts down prayer. As Scripture teaches in 1 Timothy 3:5, "if anyone does not know how to manage his own household, how will he care for the church of God?"
+Husbands, lead your home by providing spiritual stability—defined as consistent prayer, Scripture engagement, and moral integrity—and creating an environment where your wife can flourish, meaning a home where she is respected, supported in her God-given roles, and free to exercise her gifts. Wives are essential participants in kingdom purpose, not reduced to domestic substitutes. Practice the two-word marriage formula: husbands love sacrificially, wives respect honorably. Resolve marital conflict quickly because disunity shuts down prayer. As Scripture teaches in 1 Timothy 3:5, "if anyone does not know how to manage his own household, how will he care for the church of God?"
 
 ### Step 3: Establish Family Devotions At The Table
 

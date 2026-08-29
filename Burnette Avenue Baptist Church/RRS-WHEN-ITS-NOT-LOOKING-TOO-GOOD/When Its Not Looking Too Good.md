@@ -50,7 +50,7 @@ For twelve years this woman suffered from a condition that doctors could not fix
 
 ### Example 2: Jairus and His Daughter
 
-Jairus was a ruler of the synagogue, an intelligent and financially stable man with prestige and power, yet none of that could save his dying daughter. He humbled himself, fell at Jesus' feet, and begged for help. In the middle of his request, a messenger arrived with the devastating news that his daughter had already died and he should stop troubling Jesus. That messenger represented the voice that tells you to give up when things get worse. But Jesus responded with "Fear not. Only believe. She shall be made whole." Jairus' situation teaches that position, education, and resources cannot fix everything, and that God's timing often includes delays where your faith is tested. The result was that his daughter was raised from the dead, proving that no situation is too late for God.
+Jairus was a ruler of the synagogue, an intelligent and financially stable man with prestige and power, yet none of that could save his dying daughter. He humbled himself, fell at Jesus' feet, and begged for help. In the middle of his request, a messenger arrived with the devastating news that his daughter had already died and he should stop troubling Jesus. That messenger represented the voice that tells you to give up when things get worse. But Jesus responded with "Fear not. Only believe. She shall be made whole." Jairus' situation teaches that position, education, and resources cannot fix everything, and that God's timing includes delays where your faith is tested. The result was that his daughter was raised from the dead, proving that no situation is too late for God.
 
 ## Best Practices
 
@@ -90,7 +90,7 @@ Jairus was a ruler of the synagogue, an intelligent and financially stable man w
 - **Problem:** Comparing your pain to others and concluding yours is not bad enough to need God
   **Solution:** God cares about every dimension of your suffering, from a broken nail to a broken marriage. Come to Him with everything. Do not minimize your pain or disqualify yourself from prayer.
 - **Problem:** Letting a negative messenger or naysayer make you stop praying
-  **Solution:** The moment someone tells you to "stop bothering Jesus" is exactly when you should cling to Jesus harder. Messengers often speak from a limited, human perspective. Their report is not God's final word.
+  **Solution:** The moment someone tells you to "stop bothering Jesus" is exactly when you should cling to Jesus harder. Messengers speak from a limited, human perspective. Their report is not God's final word.
 - **Problem:** Forgetting what God did in the past and panicking in the present
   **Solution:** Keep a journal of past deliverances. Sit with older saints and listen to their stories. When fear rises, recall how God came through previously. Spiritual amnesia causes unnecessary panic.
 - **Problem:** Harboring jealousy when others receive their blessing first

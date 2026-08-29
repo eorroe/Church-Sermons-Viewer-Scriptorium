@@ -88,7 +88,7 @@ Paul's argument about contentment works like an undergraduate science class with
 ## Common Pitfalls
 
 - **Problem:** Misreading Philippians 4:13 as a promise that you can do anything you set your mind to (omnipotence). The verse is not about omnipotence; it is about competence. Christ gives you the ability to handle whatever situation you are in, not the ability to do anything you imagine.
-  **Solution:** Restate the verse correctly: "I can do all things [that God calls me to do] through Christ who strengthens me." If Christ is not in you, you cannot do anything at all.
+  **Solution:** Restate the verse correctly: "I can do all things through Christ who strengthens me." If Christ is not in you, you cannot do anything at all.
 
 - **Problem:** Believing that more money, sex, prestige, or power will finally satisfy you. Biblical examples prove otherwise: Judas hanged himself despite his money, David sinned despite his power, King Saul spared the Amalekites despite his prestige, and Nebuchadnezzar was exiled despite his authority.
   **Solution:** Confess that none of these resources can fully satisfy you, and turn your heart back to the Source who alone can meet your deepest needs.

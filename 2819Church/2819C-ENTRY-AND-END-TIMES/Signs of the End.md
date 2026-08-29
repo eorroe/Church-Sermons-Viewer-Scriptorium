@@ -15,15 +15,15 @@ This sermon explores the signs of the end times as taught by Jesus in Matthew 24
 
 ### Step 1: Recognize That God's Prophetic Word Is Reliable
 
-God has established God's prophetic plan as revealed in scripture that moves toward its intended conclusion. Unbelief, theological debate, and ignorance cannot alter what God has declared. The written Word of God contains many prophecies that come to pass exactly as spoken, providing a trustworthy basis for understanding where we are in history.
+God has established God's prophetic plan as revealed in scripture that moves toward its intended conclusion. Unbelief, theological debate, and ignorance cannot alter what God has declared. The written Word of God contains prophecies that come to pass exactly as spoken, providing a trustworthy basis for understanding where we are in history.
 
 ### Step 2: Trust That Jesus' Prophetic Words Are Faithful and True
 
-Jesus foretold the destruction of the temple, and within the first century Roman forces destroyed Jerusalem and its temple complex. His words of life, warning, and promise can all be trusted. The Bible records many prophecies that have seen notable fulfillments in history.
+Jesus foretold the destruction of the temple, and within the first century Roman forces destroyed Jerusalem and its temple complex. His words of life, warning, and promise can all be trusted. The Bible records prophecies that have seen notable fulfillments in history.
 
 ### Step 3: Understand the Present Age and Its Significance
 
-Many Christian interpreters understand that between Christ's first coming and His return there is a distinct era in which the church now lives, though the exact nature and duration of this era is interpreted differently across traditions. This understanding, while not explicitly detailed in the Old Testament, is recognized in New Testament teaching as the period in which believers now serve. The signs Jesus describes in Matthew 24:4-14 point toward events associated with the period leading up to His return.
+Christian interpreters understand that between Christ's first coming and His return there is a distinct era in which the church now lives, though the exact nature and duration of this era is interpreted differently across traditions. This understanding, while not explicitly detailed in the Old Testament, is recognized in New Testament teaching as the period in which believers now serve. The signs Jesus describes in Matthew 24:4-14 point toward events associated with the period leading up to His return.
 
 ### Step 4: Identify the First Sign — Global Deception
 
@@ -35,15 +35,15 @@ Following deception comes global conflict. There will be wars and rumors of wars
 
 ### Step 6: Identify the Third Sign — Global Suffering
 
-Nation will rise against nation, and there will be famines and earthquakes across multiple locations. Jesus described these events using the analogy of birth pains, indicating that they would intensify as the end draws near.
+Nation will rise against nation, and there will be famines and earthquakes in various places. Jesus described these events using the analogy of birth pains, indicating that they would intensify as the end draws near.
 
 ### Step 7: Identify the Fourth Sign — Global Persecution of Believers
 
-Believers will face tribulation, be delivered over to suffering, and be hated by many because of Christ's name. Many will fall away, betray one another, and hate one another. This period of intense opposition calls the church to remain faithful and hold fast to Christ.
+Believers will face tribulation, be delivered over to suffering, and be hated because of Christ's name. Many will fall away, betray one another, and hate one another. This period of intense opposition calls the church to remain faithful and hold fast to Christ.
 
 ### Step 8: Identify the Fifth Sign — Global Chaos
 
-Wickedness and evil will increase across many regions, and because of this, the love of many will grow cold. The world will be marked by widespread wickedness, breakdown of moral order, and persecution of believers. Believers must remain faithful and not grow weary in doing good.
+Wickedness and evil will increase across regions, and because of this, the love of many will grow cold. The world will be marked by widespread wickedness, breakdown of moral order, and persecution of believers. Believers must remain faithful and not grow weary in doing good.
 
 ### Step 9: Identify the Sixth Sign — Global Gospel Proclamation
 
@@ -57,11 +57,9 @@ The return of Christ can happen at any time. According to this interpretive fram
 
 ### Example 1: The Destruction of the Temple
 
-Jesus foretold that not one stone of the temple would be left upon another. Within the first century, Roman forces besieged Jerusalem, killed many people, and dismantled the temple complex. This fulfilled prophecy confirms that Jesus' words can be trusted.
+Jesus foretold that not one stone of the temple would be left upon another. Within the first century, Roman forces besieged Jerusalem, killed people, and dismantled the temple complex. This fulfilled prophecy confirms that Jesus' words can be trusted.
 
 ### Example 2: A Personal Prophecy Fulfilled
-
-[Note: This journal entry is summarized from the pastor's personal record from June 2009.]
 
 In June 2009, the pastor recorded a prophetic journal entry regarding his life. The entry noted a time of testing and refining, a major decision regarding church planting, a movement of young people following him, youth pastoring before pastoring, and a ministry that would be culturally significant. The major decision was to move to Atlanta, which he did against his will. Within six months of arriving, he became a youth pastor in South Atlanta. Within one year of that role, the Lord called him to start a church. And within two years of that call, Victory Church was born in October 2012. Today, 2819 Church exists with a community of young people actively involved in its ministry, confirming that prophetic declarations from the Lord come to pass.
 
@@ -87,7 +85,7 @@ In June 2009, the pastor recorded a prophetic journal entry regarding his life. 
 - The return of Christ can happen at any moment — it is the next promised event in God's redemptive plan
 - No one will have an excuse at the judgment; every person will be held accountable for what they have heard
 - The Olivet Discourse is the longest response Jesus ever gave to a question
-- Daniel 9:27 is understood by many interpreters as speaking of a future covenant and time of tribulation, though this is one interpretive framework among several
+- Daniel 9:27 is understood as speaking of a future covenant and time of tribulation, though this is one interpretive framework among several
 
 ## Security & Safety Notes
 

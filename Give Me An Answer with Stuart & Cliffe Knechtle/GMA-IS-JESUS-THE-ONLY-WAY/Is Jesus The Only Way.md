@@ -41,7 +41,7 @@ Point to John the Baptist as an example of a great believer who struggled with d
 
 ### Step 7: Point to the Resurrection of Jesus as the Strongest Evidence
 
-Emphasize that the resurrection of Jesus is the strongest evidence for Christianity. Jesus rose from the dead three days after His crucifixion and revealed Himself to hundreds of people so that nobody would ever have a realistic reason to doubt. The resurrection confirms that Jesus is who He claimed to be and that His sacrifice was accepted.
+Emphasize that the resurrection of Jesus is the strongest evidence for Christianity. Jesus rose from the dead three days after His crucifixion and revealed Himself to over 500 people so that nobody would ever have a realistic reason to doubt. The resurrection confirms that Jesus is who He claimed to be and that His sacrifice was accepted.
 
 ### Step 8: Emphasize That God Promises Eternal Life to All Who Trust in Him
 
@@ -55,7 +55,7 @@ A person raised outside the church asks if there is evidence for God beyond the 
 
 ### Example 2: John the Baptist Doubted While in Prison
 
-John the Baptist, the forerunner of Christ, had a tremendous ministry and pointed people to Jesus. But when he was thrown into prison and Jesus did not immediately rescue him, John sent his disciples to ask if Jesus was truly the Christ. This example shows that doubt is normal even for the greatest believers and that Jesus responds to doubt with evidence of His power and love.
+John the Baptist, the forerunner of Christ, had a ministry that drew crowds who flocked to hear him speak and pointed people to Jesus. But when he was thrown into prison and Jesus did not immediately rescue him, John sent his disciples to ask if Jesus was truly the Christ. This example shows that doubt is normal even for the greatest believers and that Jesus responds to doubt with evidence of His power and love.
 
 ## Best Practices
 

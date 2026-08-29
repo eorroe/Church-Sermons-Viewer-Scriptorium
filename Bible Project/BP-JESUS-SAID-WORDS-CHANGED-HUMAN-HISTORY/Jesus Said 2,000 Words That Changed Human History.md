@@ -22,7 +22,7 @@ The sermon teaches that humans foolishly rebel and start building their own king
 
 ### Step 3: See Where God's Kingdom Begins
 
-Jesus went to the hill country of Israel where normal people were figuring out their lives as best they could. Most people were barely hanging on, with many poor and sick people who had lost their land to Roman occupiers and struggled to pay heavy taxes. They were powerless and hopeless. Jesus went to these people, healing the sick and announcing that God's Kingdom was arriving. Jesus went up to a tall hill and said the arrival of God's Kingdom was starting there and then with them.
+Jesus went to the hill country of Israel where normal people were figuring out their lives as best they could. Most people were barely hanging on, with poor and sick people who had lost their land to Roman occupiers and struggled to pay heavy taxes. They were powerless and hopeless. Jesus went to these people, healing the sick and announcing that God's Kingdom was arriving. Jesus went up to a tall hill and said the arrival of God's Kingdom was starting there and then with them.
 
 ### Step 4: Embrace the Central Blessing
 
@@ -36,11 +36,11 @@ The Sermon on the Mount is not a random collection of Jesus' teachings. It has b
 
 ### Example 1: Jesus Teaching About God's Kingdom
 
-Jesus went to the hill country of Israel where normal people were figuring out their lives as best they could. Most people were barely hanging on, with many poor and sick people who had lost their land to Roman occupiers and struggled to pay heavy taxes. They were powerless and hopeless. Jesus went to these people, healing the sick and announcing that God's Kingdom was arriving. People gathered from all over to hear his teachings.
+Jesus went to the hill country of Israel where normal people were figuring out their lives as best they could. Most people were barely hanging on, with poor and sick people who had lost their land to Roman occupiers and struggled to pay heavy taxes. They were powerless and hopeless. Jesus went to these people, healing the sick and announcing that God's Kingdom was arriving. People gathered from all over to hear his teachings.
 
 ### Example 2: The Lord's Prayer as the Center
 
-The Sermon on the Mount has an intentional design. It begins with Jesus pronouncing several blessings on his listeners. Right at the center of the center is the famous prayer that Jesus taught his followers: "Our Father in Heaven, may your name be treated as holy. May your Kingdom come, may your will be done on Earth as it is in Heaven." This prayer sits at the heart of Jesus' three-part structure, showing that the sermon has been carefully designed.
+The Sermon on the Mount has an intentional design. It begins with Jesus pronouncing blessings on his listeners. Right at the center of the center is the famous prayer that Jesus taught his followers: "Our Father in Heaven, may your name be treated as holy. May your Kingdom come, may your will be done on Earth as it is in Heaven." This prayer sits at the heart of Jesus' three-part structure, showing that the sermon has been carefully designed.
 
 ## Best Practices
 

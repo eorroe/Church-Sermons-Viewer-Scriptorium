@@ -26,7 +26,7 @@ Colossians 4:7-9 shows Paul sending Tychicus and Onesimus to encourage the churc
 
 ### Step 4: Honor with Your Words Because They Deepen Your Relationships
 
-Colossians 4:10-18 demonstrates Paul mentioning at least 10 people by name, honoring them specifically and intentionally. Honor people by being specific, personal, and intentional with your words. Use people's names and recognize their identity in Christ. Let people be seen by you through your words, countering the modern tendency to lose the art of personal recognition in a world of mass communication. Ask yourself at the end of the week, "Who have I honored with my words this week?"
+Colossians 4:10-18 demonstrates Paul mentioning people by name, honoring them specifically and intentionally. Honor people by being specific, personal, and intentional with your words. Use people's names and recognize their identity in Christ. Let people be seen by you through your words, countering the modern tendency to lose the art of personal recognition in a world of mass communication. Ask yourself at the end of the week, "Who have I honored with my words this week?"
 
 ## Examples
 

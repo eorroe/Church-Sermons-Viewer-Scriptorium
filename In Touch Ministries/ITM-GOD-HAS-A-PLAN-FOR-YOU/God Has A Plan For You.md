@@ -31,7 +31,7 @@ Confess any areas where you have resisted or rebelled against God's will. Repent
 
 ### Step 5: Trust God Through Hardship and Pressure
 
-Understand that God may allow pressure in your life to bring you back into His will, just as He sent a whale to bring Jonah to repentance. This pressure is not to harm you but to show you the consequences of disobedience and to cause you to yield to His perfect plan. Endure hardship with confidence, knowing that when you have done the will of God, you will receive what was promised.
+Understand that God may allow pressure in your life to bring you back into His will, just as He sent a whale to bring Jonah to repentance. This pressure is not to harm you but to show you the consequences of disobedience and to cause you to yield to His perfect plan. Endure hardship with confidence, knowing that when you have done the will of God, you will receive the reward God has promised.
 
 ### Step 6: Walk in God's Will Daily
 
@@ -41,7 +41,7 @@ Make every decision with the awareness that God is interested in every single fa
 
 ### Example 1: The Nation of Israel
 
-God planned to raise up a nation of people through Abraham through whom He would send the Messiah and bless the entire world. He planned the coming of the Lord Jesus Christ and His death at the cross before He ever created the world. This demonstrates that God is a planner, not a reactor, and that He has an intentional will for His creation.
+God planned to raise up a nation of people through Abraham through whom He would send the Messiah and bless the entire world. He planned the coming of the Lord Jesus Christ and His death at the cross before He ever created the world. This demonstrates that God plans everything in advance rather than merely reacting to events, and that He has an intentional will for His creation.
 
 ### Example 2: Jonah's Resistance
 
@@ -60,7 +60,7 @@ A pastor in the transcript described men who were called by God at age 17 but re
 - ✅ Make daily decisions trusting in the Lord and acknowledging Him in all your ways
 - ❌ Don't assume you're too old or your past disqualifies you from God's plan
 - ❌ Don't resist God's will without expecting consequences
-- ❌ Don't look at others living outside God's will and assume they are truly happy or at peace
+- ❌ Don't look at others living outside God's will and assume they have peace, contentment, joy, assurance, or security in life
 
 ## Keep In Mind
 

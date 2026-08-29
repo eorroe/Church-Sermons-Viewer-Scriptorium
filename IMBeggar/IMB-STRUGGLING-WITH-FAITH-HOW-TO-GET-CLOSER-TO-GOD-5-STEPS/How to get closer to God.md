@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon addresses the universal struggle of doubting faith and feeling spiritually disconnected from God. It teaches that faith is a concrete choice to trust a person—not a feeling, ideology, or body of evidence—and that grace is required to make that leap. Through five actionable daily practices, it guides listeners to open themselves to God's grace, deepen their trust, and move from uncertainty to a firm, lived faith.
+This sermon addresses the struggle of doubting faith and feeling spiritually disconnected from God. It teaches that faith is a concrete choice to trust a person—not a feeling, ideology, or body of evidence—and that grace is required to make that leap. Through five actionable daily practices, it guides listeners to open themselves to God's grace, deepen their trust, and move from uncertainty to a firm, lived faith.
 
 ## When to Follow This Sermon
 
@@ -30,7 +30,7 @@ At the end of each day, review your thoughts and actions. Ask where you were mor
 
 ### Step 5: Clean Up Sin Through Confession
 
-Sin obstructs grace just as clogged arteries block blood flow. To go deeper in faith, keep going to His mercy. Confess all your sins at His feet humbly, no matter what they are or how many times you have fallen. God cannot resist a humble and contrite heart. Like the prodigal son returning home, honest confession leads to instant restoration and the recovery of all that was lost.
+Sin obstructs grace just as clogged arteries block blood flow. To go deeper in faith, keep going to His mercy. Confess all your sins at His feet humbly, no matter what they are. God cannot resist a humble and contrite heart. Like the prodigal son returning home, honest confession leads to instant restoration and the recovery of all that was lost.
 
 ## Examples
 

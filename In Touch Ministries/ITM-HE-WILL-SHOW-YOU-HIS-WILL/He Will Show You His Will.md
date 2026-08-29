@@ -15,7 +15,7 @@ This sermon teaches that God has a specific will and purpose for every person's 
 
 ### Step 1: Read and Study the Word of God Regularly
 
-Make reading and studying the Bible a consistent habit in your daily life. The Word of God is described as a lamp to your feet and a light to your path (Psalm 119:105). As you regularly read, study, and memorize Scripture, the Holy Spirit uses the Word to shape your thinking and develop your ability to recognize God's principles in everyday situations. When discerning God's will becomes a regular practice through consistent time in the Word and prayer, the Holy Spirit guides your decisions in both major and minor situations because your mind has been renewed by the Holy Spirit through regular engagement with God's Word. This renewed mind recognizes His leading as consistent with Scripture and produces a steady inner calm - a peaceful confidence that persists even when external circumstances are uncertain - rather than confusion or anxiety. Test this calm against the seven verification questions in this sermon to confirm it is the Spirit's witness and not merely your own wishful thinking.
+Make reading and studying the Bible a daily habit in your life. The Word of God is described as a lamp to your feet and a light to your path (Psalm 119:105). As you regularly read, study, and memorize Scripture, the Holy Spirit uses the Word to shape your thinking and develop your ability to recognize God's principles in everyday situations. When discerning God's will becomes a regular practice through daily time in the Word and prayer, the Holy Spirit guides your decisions in both major and minor situations because your mind has been renewed by the Holy Spirit through daily engagement with God's Word. This renewed mind recognizes His leading as consistent with Scripture and produces a steady inner calm—a peaceful confidence that persists even when external circumstances are uncertain—rather than confusion or anxiety. Test this calm against the seven verification questions in this sermon to confirm it is the Spirit's witness and not merely your own wishful thinking.
 
 ### Step 2: Humble Yourself in Prayer Before Seeking Direction
 
@@ -23,7 +23,7 @@ Approach God with humility and a surrendered heart when seeking direction. Praye
 
 ### Step 3: Focus on Your Relationship with God Rather Than Just Seeking Information
 
-God is not an information center waiting to dispense answers on demand. He is your Father who desires an intimate, growing relationship with you. Instead of only bringing your specific decision to God, focus on deepening your relationship with Him. Ask Him to show you how to love Him, how to express your devotion, and how to walk in His ways. As your relationship with God grows richer and deeper through obedience and fellowship, His will for your life becomes clearer, like a path becoming visible as you walk it with Him rather than trying to see the entire road from a distance.
+God is not a system that dispenses answers on demand; He is your Father who desires an intimate, growing relationship with you. Instead of only bringing your specific decision to God, focus on deepening your relationship with Him. Ask Him to show you how to love Him, how to express your devotion, and how to walk in His ways. As your relationship with God grows richer and deeper through obedience and fellowship, His will for your life becomes clearer.
 
 ### Step 4: Observe Open and Closed Doors in Your Circumstances
 
@@ -31,7 +31,7 @@ God reveals His will through observable circumstances, including the opening and
 
 ### Step 5: Seek Godly Counsel from Mature Believers
 
-Allow God to use other believers in your life to confirm or clarify His direction for you through their counsel, wisdom, and occasionally through specific words they speak that align with what God is already showing you in His Word and through prayer. In Dr. Stanley's experience, this is a frequent way God confirms His will. Godly counsel frequently comes through ordinary conversations where the other person does not know the specific issue you are seeking guidance for, yet God uses their words to speak directly to your situation. In Dr. Stanley's experience, this is a common way God confirms His will, though it is not the only way God speaks. Verify any such word against Scripture and the inner witness of the Holy Spirit. God will sovereignly use a trusted believer - one who demonstrates Christlike character, knows God's Word, and walks in fellowship with Him - to say exactly what you need to hear at the moment you need to hear it, confirming His direction in your life. Such a word will always align with Scripture and the Spirit's witness, and you can verify it by asking the seven questions in this sermon. A trusted believer is someone you know to be prayerful, humble, and grounded in the Bible. Listen carefully to wisdom from mature believers - those who demonstrate Christlike character, know the Word of God deeply, and walk in close fellowship with Him - because God regularly speaks through their lives and words when you are seeking His will. Test their counsel against Scripture.
+Allow God to use other believers in your life to confirm or clarify His direction for you through their counsel, wisdom, and occasionally through specific words they speak that align with what God is already showing you in His Word and through prayer. In Dr. Stanley's experience, this is a frequent way God confirms His will through ordinary conversations. Godly counsel frequently comes through ordinary conversations where the other person does not know the specific issue you are seeking guidance for, yet God uses their words to speak directly to your situation. In Dr. Stanley's experience, this is a common way God confirms His will, though it is not the only way God speaks. Verify any such word against Scripture and the inner witness of the Holy Spirit. God will sovereignly use a trusted believer - one who demonstrates Christlike character, knows God's Word, and walks in fellowship with Him - to say exactly what you need to hear at the moment you need to hear it, confirming His direction in your life. Such a word will always align with Scripture and the Spirit's witness, and you can verify it by asking the seven questions in this sermon. A trusted believer is someone you know to be prayerful, humble, and grounded in the Bible. Listen carefully to wisdom from mature believers - those who demonstrate Christlike character, know the Word of God deeply, and walk in close fellowship with Him - because God regularly speaks through their lives and words when you are seeking His will. Test their counsel against Scripture.
 
 ### Step 6: Apply Seven Verification Questions to Confirm God's Will
 
@@ -60,14 +60,14 @@ Dr. Charles Stanley shares that at age 12, after trusting Jesus Christ as his Sa
 
 ## Best Practices
 
-- ✅ Make reading and meditating on the Bible a consistent daily habit so the Holy Spirit can use Scripture to shape your thinking and help you recognize God's principles. Meditate on passages that speak to your current situation and ask the Holy Spirit to illuminate their meaning for your life.
+- ✅ Make reading and meditating on the Bible a daily habit so the Holy Spirit can use Scripture to shape your thinking and help you recognize God's principles. Meditate on passages that speak to your current situation and ask the Holy Spirit to illuminate their meaning for your life.
 - ✅ Spend time in both speaking to God and listening to Him during prayer, including quiet meditation on His Word so He can speak to your heart. This means setting aside undistracted time to wait on the Lord rather than treating prayer as a monologue.
 - ✅ Focus on deepening your relationship with God rather than only seeking specific answers
 - ✅ Watch for open and closed doors as God's guidance in your circumstances
 - ✅ Seek counsel from mature believers who know and walk in God's Word
 - ✅ Apply all seven verification questions before making major decisions
 - ✅ Trust God to redirect you if you make a wrong decision with a surrendered heart
-- ❌ Do not treat God as an information center or answer dispensing machine
+- ❌ Do not treat God as a system that dispenses answers on demand
 - ❌ Do not rely on emotional excitement, anxiety, or fleeting feelings alone as confirmation of God's will, because these states can be misleading, especially when they conflict with Scripture. Wait for the settled witness of the Holy Spirit that produces peace consistent with God's Word.
 - ❌ Do not neglect reading doctrine and understanding who God is
 - ❌ Do not make major decisions without comparing them against Scripture

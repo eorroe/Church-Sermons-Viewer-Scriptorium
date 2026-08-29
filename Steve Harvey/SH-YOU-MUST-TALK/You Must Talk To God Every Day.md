@@ -27,7 +27,7 @@ Your gift is the thing you do best with the least amount of effort. Write it dow
 
 ### Step 4: Use Your Gift
 
-Do not waste your God-given gift by settling for work that does not align with it. Your gift back to God is the use of the gift. If you are unhappy in your job, it is likely because you are not operating in your gift. Pursuing your gift leads to a life you will not believe.
+Do not waste your God-given gift by settling for work that does not align with it. Your gift back to God is the use of the gift. If you are unhappy in your job, it is likely because you are not operating in your gift. Pursuing your gift leads to a fulfilling life.
 
 ### Step 5: Chase Your Dreams
 

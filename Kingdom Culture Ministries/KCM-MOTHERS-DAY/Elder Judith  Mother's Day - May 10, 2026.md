@@ -14,7 +14,7 @@ This sermon is a Mother's Day message delivered by Elder Judith at Kingdom Cultu
 
 ### Step 1: Recognize and honor mothers authentically
 
-Reflect on the original intent of Mother's Day — intimate, personal recognition of mothers — rather than letting the day become purely commercialized. Acknowledge that every mother carries multiple roles: nanny, cook, doctor, counselor, teacher, drill sergeant, and more. Celebrate the mother figures in your life by honoring them with presence and gratitude, not just gifts.
+Reflect on the original intent of Mother's Day — intimate, personal recognition of mothers — rather than letting the day become purely commercialized. Acknowledge that every mother carries multiple roles: nanny, cook, doctor, counselor, teacher, drill sergeant, social worker, chauffeur, health inspector, judge, and jury. Celebrate the mother figures in your life by honoring them with presence and gratitude, not just gifts.
 
 ### Step 2: Be strong and courageous in motherhood
 
@@ -34,7 +34,7 @@ Follow the example of Joshua: "As for me and my house, we will serve the Lord." 
 
 ### Step 6: Watch your mouth
 
-Practice the central theme of this series — watch your mouth. Do not speak idle words. Do not tell someone "I know how you feel" unless you have truly walked through their experience. Every idle word will be accounted for, and the words you speak into your children's lives will stay with them long after they are grown.
+Practice the central theme of the Watch Your Mouth series — watch your mouth. Do not speak idle words. Do not tell someone "I know how you feel" unless you have truly walked through their experience. Every idle word will be accounted for, and the words you speak into your children's lives will stay with them long after they are grown.
 
 ### Step 7: Trust God through the pain
 
@@ -52,7 +52,7 @@ Jochebed, the mother of Moses, faced an impossible situation when Pharaoh ordere
 
 ### Example 3: The "Ruth child" versus the "Samson child"
 
-Some children, like Ruth, follow their mother's faith without question: "Where you go, I will go." Others, like Samson, are prayed for and promised by God but still make choices that break their mother's heart. Samson wanted a Philistine bride against his parents' wishes. God's plan was still at work even in Samson's rebellion. This teaches mothers that their children's missteps do not disqualify God's purpose — and that intercession continues even when things go off course.
+Some children, like Ruth, follow their mother's faith without question: "Where you go, I will go." Others, like Samson, are prayed for and promised by God but still make choices that break their mother's heart. Samson wanted a Philistine bride against his parents' wishes. God's plan was still at work even in Samson's rebellion. This teaches mothers that their children's missteps do not disqualify God's purpose — and that intercession continues even when choices go off course.
 
 ## Best Practices
 

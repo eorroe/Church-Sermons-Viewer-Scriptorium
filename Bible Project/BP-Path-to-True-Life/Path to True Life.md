@@ -14,7 +14,7 @@ This sermon explores Jesus' teaching on the path to true life from the closing s
 
 ### Step 1: Enter through the narrow gate that leads to life
 
-Jesus presents a clear choice: wide is the gate and broad is the road that leads to ruin, and many enter through it. How narrow is the gate and how constricted is the road that leads to life, and those who find it are few. Choose the constricted road that leads to true freedom rather than the easy, popular path that leads to destruction. Accept that the path to life may feel confining at times and will likely involve difficult trials, but remember that it is the way to genuine freedom.
+Jesus presents a clear choice: wide is the gate and broad is the road that leads to ruin, and people enter through it. How narrow is the gate and how constricted is the road that leads to life, and those who find it are few. Choose the constricted road that leads to true freedom rather than the easy, popular path that leads to destruction. Accept that the path to life may feel confining at times and will likely involve difficult trials, but remember that it is the way to genuine freedom.
 
 ### Step 2: Recognize false prophets by their fruit
 
@@ -32,7 +32,7 @@ Let your light shine so others can see. Create communities where God's wisdom an
 
 ### Example 1: The Narrow Gate and Broad Road
 
-Jesus teaches that wide is the gate and broad is the road that leads to ruin, and many enter through it. How narrow is the gate and how constricted is the road that leads to life, and those who find it are few. This illustrates the choice between the easy, popular path that leads to destruction and the difficult, less-traveled path that leads to true life.
+Jesus teaches that wide is the gate and broad is the road that leads to ruin, and people enter through it. How narrow is the gate and how constricted is the road that leads to life, and those who find it are few. This illustrates the choice between the easy, popular path that leads to destruction and the difficult, less-traveled path that leads to true life.
 
 ### Example 2: The Wise and Foolish Builders
 

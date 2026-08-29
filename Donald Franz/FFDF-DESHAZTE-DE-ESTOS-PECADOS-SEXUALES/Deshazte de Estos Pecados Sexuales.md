@@ -67,8 +67,8 @@ El rey David, descrito como un hombre conforme al corazón de Dios, cometió adu
 
 ## Ten en cuenta
 
-- La mayoría de las personas experimentan tentación sexual, así que no estás solo —pero eres responsable de tus decisiones.
-- Nadie planea fracasar en su matrimonio o su vida sexual, sin embargo muchos lo hacen porque nunca planearon el éxito.
+- Las personas experimentan tentación sexual, así que no estás solo —pero eres responsable de tus decisiones.
+- Nadie planea fracasar en su matrimonio o su vida sexual; quienes no planearon el éxito, fracasan.
 - Una mala decisión sexual puede causar dolor por el resto de tu vida.
 - El pecado sexual nunca es privado; afecta a tus hijos, tus padres, tu cónyuge y a toda la comunidad.
 - La iniquidad —el sistema de raíces del pecado— puede pasar a las generaciones futuras si no se arrepiente y renuncia.

@@ -10,18 +10,18 @@ This sermon teaches that the dreams and visions God places in your imagination a
 - When small-minded people have shot down your ideas
 - When you're stuck in a comfort zone and afraid to change
 - When you need encouragement that success is possible despite setbacks
-- When you want to build generational wealth and leave a legacy
+- When you want to build generational wealth and leave a legacy for your children's children's children
 - When you're struggling with faith or doubt about your future
 
 ## Steps
 
 ### Step 1: Protect Your Imagination
 
-Recognize that God places your dreams in your mind. When something comes into your imagination, it is not just your imagination - it is a preview of a coming attraction that God has for you. Don't tell your dreams to everybody, because if you want to kill a big dream, tell it to a small-minded person. They couldn't see it because God didn't show it to them. He showed it to you.
+Recognize that God places your dreams in your mind. When a dream comes into your imagination, it is not just your imagination - it is a preview of a coming attraction that God has for you. Don't tell your dreams to everybody, because if you want to kill a big dream, tell it to a small-minded person. They couldn't see it because God didn't show it to them. He showed it to you.
 
 ### Step 2: Stop Worrying About the "How"
 
-The specific path to success is not your responsibility to map out. God is in the blessing business. When you have these things in your imagination, wake up and take action. The Bible says ask, believe, receive. You do not need to figure out every detail between asking and receiving. You have to be willing to work, but God does not require you to solve the entire puzzle before you begin.
+The specific path to success is not your responsibility to map out. God is in the blessing business. When you have these dreams in your imagination, wake up and take action. The Bible says ask, believe, receive. You do not need to figure out every detail between asking and receiving. You have to be willing to work, but God does not require you to solve the entire puzzle before you begin.
 
 ### Step 3: Take Incremental Action
 
@@ -79,10 +79,10 @@ Michael Jordan took 946 career game-winning shot attempts. He made only 134 of t
 ## Keep In Mind
 
 - Imagination is a preview of God's coming attractions
-- Faith is the belief in things that you cannot see
+- Faith is the belief in what you hope for, the assurance of what you cannot see
 - Your track record for surviving bad days is 100%
 - God is in the business of making your dreams come true
-- Good people do things for other people
+- Good people do good deeds for other people
 - Everything you want in life is on the other side of fear
 - Old men plant trees under which they will never sit
 - A society becomes great when old men plant trees under which they know they will never sit in the shade
@@ -117,4 +117,4 @@ Michael Jordan took 946 career game-winning shot attempts. He made only 134 of t
   **Solution:** You can't build generational wealth and not hit it yourself. Take care of yourself first, then build for future generations.
 
 - **Problem:** Staying in a situation that is making you unhappy because you feel like you wasted time.
-  **Solution:** You didn't waste those years - you learned something. If you stay, you will just have more of the same. It is time to go.
+  **Solution:** You didn't waste those years - you learned lessons. If you stay, you will just have more of the same. It is time to go.

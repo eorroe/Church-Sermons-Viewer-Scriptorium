@@ -40,7 +40,7 @@ Tony Evans uses the illustration of a flower shop and a perfume shop to show how
 
 ### Example 2: The Prodigal Son and the Older Brother
 
-In Luke 15, the prodigal son returns home after wasting his life, and the father throws a celebration. The older brother, who had remained faithful, becomes angry and refuses to join the party. The story ends with the older brother standing before his father, still unresolved, showing that each listener must choose whether to embrace love or remain resentful. Many older Christians today act the same way: they do not want to hang out with people who have been forgiven, redeemed, or whose lives have been broken and beaten. The sermon challenges listeners to choose love like the father did.
+In Luke 15, the prodigal son returns home after wasting his life, and the father throws a celebration. The older brother, who had remained faithful, becomes angry and refuses to join the party. The story ends with the older brother standing before his father, still unresolved, showing that each listener must choose whether to embrace love or remain resentful. Some Christians today act the same way: they do not want to hang out with people who have been forgiven, redeemed, or whose lives have been broken and beaten. The sermon challenges listeners to choose love like the father did.
 
 ## Best Practices
 

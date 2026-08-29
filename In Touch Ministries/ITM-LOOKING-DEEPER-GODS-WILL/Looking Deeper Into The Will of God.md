@@ -42,11 +42,11 @@ The prodigal son illustrates God's circumstantial will. When the son messed up, 
 
 ### Example 2: Those Who Resisted God's Call Early
 
-The sermon describes people who were called by God at age 17 but refused to obey and rebelled against Him. By the time they were in their 40s and 50s, they finally yielded to God and went to Bible institute. God did not reject them or put them on the shelf. Instead, He forgave them, put the pieces of their lives back together through His grace, and used them to accomplish His purpose.
+The sermon describes people who were called by God at age 17 but refused to obey and rebelled against Him. By the time they were in their 40s and 50s, they finally yielded to God and went to Bible institute. God did not reject them or abandon them. Instead, He forgave them, put the pieces of their lives back together through His grace, and used them to accomplish His purpose.
 
 ### Example 3: Those Who Never Asked About God's Plan
 
-Many people live their whole lives without ever asking what God's plan is for them. They pursue their own desires, make their own plans, and never seek God's will. This example warns of the danger of living a self-directed life without ever discovering the specific purpose God intended for you.
+People live their whole lives without ever asking what God's plan is for them. They pursue their own desires, make their own plans, and never seek God's will. This example warns of the danger of living a self-directed life without ever discovering the specific purpose God intended for you.
 
 ## Best Practices
 
@@ -55,7 +55,7 @@ Many people live their whole lives without ever asking what God's plan is for th
 - ✅ Ask God before making decisions about time, money, relationships, and purchases
 - ✅ Read and believe the Word of God to know His will
 - ✅ Surrender your life to God today, no matter your age or past mistakes
-- ✅ Parents should teach children about God's will early in life
+- ✅ Parents should teach children about God's will from a young age rather than focusing only on material things
 - ❌ Don't live your whole life without ever asking what God's plan is for you
 - ❌ Don't believe the devil's lie that it is "too late" to surrender
 - ❌ Don't ignore God's moral will while claiming to follow His personal will

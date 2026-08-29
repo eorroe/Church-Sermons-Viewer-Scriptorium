@@ -22,7 +22,7 @@ Godly wisdom is the capacity to see things from God's perspective and respond to
 
 ### Step 3: Consult God's Word as the source of all wisdom
 
-Turn to Scripture as the ultimate source of wisdom. God's Word contains the principles and guidance needed for every decision. A person who neglects the Bible is choosing to live a foolish life and will suffer consequences they never imagined.
+Turn to Scripture as the ultimate source of wisdom. God's Word contains the principles and guidance needed for every decision. A person who neglects the Bible is choosing to live a foolish life and will suffer consequences beyond what they can imagine.
 
 ### Step 4: Recognize human wisdom is earthly, natural, and demonic
 
@@ -40,11 +40,11 @@ God does not reveal the entire future at once. Instead, He guides you step by st
 
 ### Example 1: Unwise Decisions
 
-A city with a strong economy goes bankrupt due to years of unwise decisions. A family buys a home they cannot afford, driven by desire rather than wisdom. A person marries only for sexual fulfillment without considering deeper compatibility. Someone racks up credit card debt beyond their means to pay. In each case, the decision was made without seeking God's will — and the consequences were devastating.
+A city with a strong economy goes bankrupt due to years of unwise decisions. A family buys a home they cannot afford, driven by desire rather than wisdom. A person marries only for sexual fulfillment without considering deeper compatibility. Someone racks up credit card debt beyond their means to pay. In each case, the decision was made without seeking God's will — and the consequences were severe.
 
 ### Example 2: Wise Living Through Trusting God's Guidance
 
-A believer facing an uncertain future chooses to seek God's direction rather than follow their own understanding. Step by step, God provides guidance for each decision — even when the full path isn't visible. This person walks through difficult valleys with confidence, knowing that God's wisdom is pure, peaceable, gentle, and unwavering. They demonstrate that obeying God is always the wisest path, regardless of what the world may say.
+A believer facing an uncertain future chooses to seek God's direction rather than follow their own understanding. God provides guidance for each decision one step at a time—even when you cannot see the full path ahead. This person walks through difficult valleys with confidence, knowing that God's wisdom is pure, peaceable, gentle, and unwavering. They demonstrate that obeying God is always the wisest path, regardless of what the world may say.
 
 ## Best Practices
 
@@ -61,7 +61,7 @@ A believer facing an uncertain future chooses to seek God's direction rather tha
 ## Keep In Mind
 
 - This sermon is for spiritual guidance and personal reflection — it is not a substitute for professional financial, legal, or medical advice.
-- Always consult qualified experts when making decisions with significant real-world consequences (e.g., financial commitments, legal matters, health choices).
+- Always consult professionals with appropriate expertise when making decisions with real-world consequences (e.g., financial commitments, legal matters, health choices).
 - Do not use this sermon as the sole basis for decisions that affect the safety or well-being of yourself or others.
 
 ## Common Pitfalls

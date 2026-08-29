@@ -84,7 +84,7 @@ An individual struggling with anxiety, depression, or suicidal thoughts can appl
 - Your support of a child's education may be the difference between their success and struggle
 - What you do for children in secret, without seeking public recognition, will be rewarded by God
 - Outside of the church walls, the world may not care about them, but God does
-- There may be a future millionaire or billionaire sitting among the youth in the congregation
+- The youth in the congregation have God-given potential for significant impact.
 - When you consecrate someone, you are confirming what God has already done in heaven
 
 ## Security & Safety Notes

@@ -29,7 +29,7 @@ To experience overcoming in your daily life, activate these three override butto
 
 ### Step 4: Focus on Jesus Instead of Your Pain
 
-Fix your eyes on Jesus, the author and finisher of your faith (Hebrews 12:2-3). Like Kerri Strug in the 1996 Olympics, who focused on her coach's voice instead of her excruciating ankle pain to complete her final vault and win the gold medal, you must focus on Jesus rather than your circumstances. When you shift your focus from your pain to Jesus, He propels you forward and gives you the ability to do what you could not do on your own. This produces the peace that passes understanding even in the midst of chaos.
+Fix your eyes on Jesus, the author and finisher of your faith (Hebrews 12:2-3). Like Kerri Strug in the 1996 Olympics, who focused on her coach's voice instead of her excruciating ankle pain to complete her final vault and win the gold medal, you must focus on Jesus rather than your circumstances. When you shift your focus from your pain to Jesus, He propels you forward and gives you the ability to accomplish what you could not accomplish on your own strength, just as Kerri Strug completed her vault when she focused on her coach's voice rather than her ankle pain. This produces the peace that passes understanding even in the midst of chaos.
 
 ## Examples
 
@@ -46,7 +46,7 @@ At the Passover, the blood of the lamb caused the death angel to pass over Israe
 - ✅ Declare daily that you are an overcomer by position in Christ
 - ✅ Pursue intimacy with God and love for other believers simultaneously
 - ✅ Use the blood of the Lamb, your testimony, and full commitment as override buttons against the enemy
-- ✅ Focus on Jesus and His voice rather than your pain and circumstances
+- ✅ Focus on Jesus and His voice rather than your pain and your situation
 - ✅ Remember that God's commandments are not burdensome when rooted in love
 
 ## Keep In Mind
@@ -74,5 +74,5 @@ At the Passover, the blood of the lamb caused the death angel to pass over Israe
 - **Problem:** Being a casual, cultural, or secret agent Christian
   **Solution:** Be fully committed and publicly identify with Jesus Christ; your testimony must be visible and verbal, not hidden or only cultural
   
-- **Problem:** Focusing on pain and circumstances instead of Jesus
-  **Solution:** Like Kerri Strug focusing on her coach, fix your eyes on Jesus and listen to His voice rather than being dominated by your circumstances
+  - **Problem:** Focusing on your pain and your situation instead of Jesus
+   **Solution:** Like Kerri Strug focusing on her coach, fix your eyes on Jesus and listen to His voice rather than being dominated by your circumstances

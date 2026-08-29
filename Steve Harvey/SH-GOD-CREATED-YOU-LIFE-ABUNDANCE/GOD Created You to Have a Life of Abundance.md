@@ -18,11 +18,11 @@ Your gift is what you do best with the least amount of effort. Steve Harvey real
 
 ### Step 2: Pursue Your Gift, Not Just a Passion
 
-Passion can fade, but your gift is permanent. Steve tried many jobs—about 11 different jobs—before realizing comedy was the only profession that fit him. Do not settle for work that requires you to be someone you are not. If your current job interferes with your gift, you must be willing to leave it and step out in faith.
+Passion can fade, but your gift is permanent. Steve tried 11 different jobs—before realizing comedy was the only profession that fit him. Do not settle for work that requires you to be someone you are not. If your current job interferes with your gift, you must be willing to leave it and step out in faith.
 
 ### Step 3: Commit to the Process and Hustle
 
-Success takes a long time. It is a process, not an overnight phenomenon. Steve Harvey highlights examples like Colonel Sanders, who achieved success late in life, and ordinary people like a landscaper named Cutter and a barber whose simple gifts became extraordinary livelihoods. Set clear goals, put in the work, and understand that dreams are free but the grind is sold separately.
+Success takes a long time. It is a process, not an overnight phenomenon. Steve Harvey highlights examples like Colonel Sanders, who achieved success late in life, and ordinary people like a landscaper named Cutter and a barber whose simple gifts became their livelihoods. Set clear goals, put in the work, and understand that dreams are free but the grind is sold separately.
 
 ### Step 4: Protect Your Mindset
 
@@ -32,11 +32,11 @@ Do not compare yourself to others' highlight reels on Instagram or social media.
 
 ### Example 1: Steve Harvey's Career Journey
 
-Steve Harvey held approximately 11 different jobs before finding his true calling in comedy. He was fired from many of them because he was not a great employee in roles that did not match his gift. Once he stepped into comedy—the one thing he could do naturally and effortlessly—his life changed. He emphasizes that comedy is not something you can learn in school; it is a gift.
+Steve Harvey held 11 different jobs before finding his true calling in comedy. He was fired from 10 of them because he was not a great employee in roles that did not match his gift. Once he stepped into comedy—the one thing he could do naturally and effortlessly—his life changed. He emphasizes that comedy is not something you can learn in school; it is a gift.
 
 ### Example 2: Colonel Sanders and the Ordinary-to-Extraordinary Gifts
 
-Steve Harvey points to Colonel Sanders as proof that it is never too late to pursue your God-given gift. Sanders achieved massive success later in life. Harvey also mentions everyday examples: a landscaper named Cutter and a barber whose simple, God-given talents became thriving livelihoods. These examples show that ordinary gifts, when pursued faithfully, can produce extraordinary abundance.
+Steve Harvey points to Colonel Sanders as proof that it is never too late to pursue your God-given gift. Sanders achieved success later in life. Harvey also mentions everyday examples: a landscaper named Cutter and a barber whose simple, God-given talents became their livelihoods. These examples show that ordinary gifts, when pursued faithfully, can produce abundance.
 
 ## Best Practices
 

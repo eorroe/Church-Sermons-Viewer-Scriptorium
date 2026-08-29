@@ -38,7 +38,7 @@ If you have allowed yourself to be manipulated or controlled by others, commit t
 
 If you are already trapped in commitments or relationships that came from people-pleasing, take these actions:
 1. Pray and ask God what to do and how to get out of the situation.
-2. Sit down with the person and confess that you have been insecure and have done things you did not feel right about because you wanted to maintain the relationship.
+2. Sit down with the person and confess that you have been insecure and have taken actions you did not feel right about because you wanted to maintain the relationship.
 3. Tell the truth about your limits and the changes you need to make.
 4. Expect that they may not like it, but remain firm. Truth is the only way to adjust anything and break free from manipulation and control.
 
@@ -60,7 +60,7 @@ Before you make plans, pray about everything and acknowledge God in all your way
 
 ### Step 10: Believe First and Then Receive
 
-Choose to believe in your heart before you see the result. Keep speaking God's promises and His Word over your situation while you wait for the breakthrough, rather than confessing your circumstances or doubts. Do not wait until you can see something to believe it, because in God's economy you must believe first and then you will see. Stand where you are, keep your head bowed, and trust God until the breakthrough comes suddenly.
+Choose to believe in your heart before you see the result. Keep speaking God's promises and His Word over your situation while you wait for the breakthrough, rather than confessing your circumstances or doubts. Do not wait until you can see the result to believe it, because in God's economy you must believe first and then you will see. Stand where you are, keep your head bowed, and trust God until the breakthrough comes suddenly.
 
 ### Step 11: Receive Jesus Christ as Your Savior
 
@@ -75,7 +75,7 @@ A single woman who has never married deeply desires a husband. She brings her de
 
 ### Example 2: Breaking Free from a Controlling Friendship
 
-A person agrees to help a close friend move apartments even though they already have a full schedule and feel it is not wise. They say yes out of fear of losing the friendship or making the friend mad. Afterward, they feel overwhelmed and realize they have been manipulated. They pray and ask God what to do, then sit down with the friend and confess: "I have been insecure and have done many things you wanted me to do that I did not feel right about. God is dealing with me about this, and I have to make some changes." The friend may be disappointed, but if the friendship is healthy, it will respect the boundary. If not, the person is free to walk in God's will without guilt.
+A person agrees to help a close friend move apartments even though they already have a full schedule and feel it is not wise. They say yes out of fear of losing the friendship or making the friend mad. Afterward, they feel overwhelmed and realize they have been manipulated. They pray and ask God what to do, then sit down with the friend and confess: "I have been insecure and have taken many actions you wanted me to do that I did not feel right about. God is dealing with me about this, and I have to make some changes." The friend may be disappointed, but if the friendship is healthy, it will respect the boundary. If not, the person is free to walk in God's will without guilt.
 
 ## Best Practices
 
@@ -113,7 +113,7 @@ A person agrees to help a close friend move apartments even though they already 
 
 - Do not share deeply personal struggles or sins with people who are not spiritually mature or trustworthy; seek wise, godly counsel instead.
 - If you are in an abusive or controlling relationship, prioritize your physical and emotional safety and seek help from authorities, pastors, or counselors before confronting the person alone.
-- Guard your heart against people who consistently manipulate, guilt, or control you into doing things that violate your conscience or God's will.
+- Guard your heart against people who consistently manipulate, guilt, or control you into taking actions that violate your conscience or God's will.
 - Do not use grace or forgiveness as an excuse to remain in harmful situations; boundaries are biblical and necessary for healthy relationships.
 - Protect your peace by limiting exposure to toxic conversations, social media comparisons, or environments that stir up anger and resentment.
 - When forgiving someone who has seriously harmed you, it is okay to also establish distance or protection while still releasing them to God's justice.
@@ -136,5 +136,5 @@ A person agrees to help a close friend move apartments even though they already 
 - **Problem:** You give to others grudgingly or reluctantly, expecting specific repayment, and you become bitter when people do not meet your expectations.
   **Solution:** Give freely, cheerfully, and without keeping score. Remember that mercy and kindness are for people who do not deserve it, and God will deal with others according to His own justice.
 
-- **Problem:** You have already said yes to too many things and feel trapped in obligations that came from people-pleasing, and you do not know how to get out.
+- **Problem:** You have already said yes to too many commitments and feel trapped in obligations that came from people-pleasing, and you do not know how to get out.
   **Solution:** Pray and ask God for wisdom and courage, then sit down with those involved and honestly confess your mistake. Tell the truth about your limits and the changes you need to make, even if it is uncomfortable.

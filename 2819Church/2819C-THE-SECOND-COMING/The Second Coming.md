@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon is a prophetic call to live with urgency and holiness in light of Christ's imminent Second Coming, based on Matthew 24:29-31. It exposes the danger of a complacent, entertainment-driven Christianity disconnected from the reality of Christ's return, and challenges every listener to realign their affections, priorities, and daily actions around the truth that this day is coming—and may even occur within our lifetime.
+This sermon is a prophetic call to live with urgency and holiness in light of Christ's imminent Second Coming, based on Matthew 24:29-31. It exposes the danger of a complacent, entertainment-driven Christianity disconnected from the reality of Christ's return, and challenges every listener to realign their affections, priorities, and daily actions around the truth that this day is coming.
 
 ## When to Follow This Sermon
 
@@ -15,7 +15,7 @@ This sermon is a prophetic call to live with urgency and holiness in light of Ch
 
 ### Step 1: Understand the Prophetic Timeline
 
-Know the order of end-times events as revealed in Scripture. Christ will return immediately after the seven-year Tribulation period (Matthew 24:29). Before that, the Church will be raptured out of the world (1 Thessalonians 4:17). Then the Antichrist will be revealed, sign a seven-year peace treaty with Israel, break it at the 3½-year mark, desecrate the rebuilt temple, and unleash wrath upon the earth. The Tribulation will involve global catastrophes, billions of deaths, and unparalleled suffering. Christ's Second Coming comes immediately after this period ends—not before, and not during it.
+Know the order of end-times events as revealed in Scripture. Christ will return immediately after the seven-year Tribulation period (Matthew 24:29). Before that, the Church will be raptured out of the world (1 Thessalonians 4:17). Then the Antichrist will be revealed, sign a seven-year peace treaty with Israel, break it at the 3½-year mark, desecrate the rebuilt temple, and unleash wrath upon the earth. The Tribulation will involve global catastrophes, widespread death, and unparalleled suffering. Christ's Second Coming comes immediately after this period ends—not before, and not during it.
 
 ### Step 2: Recognize the Signs of Christ's Return
 
@@ -31,7 +31,7 @@ Christ's return will also be the moment of gathering. He will send out His angel
 
 ### Step 5: Reject the Doctrine of Universal Inclusion
 
-Reject the false teaching that everyone will ultimately be saved. Christ is not coming for everyone—He is coming only for His elect, the redeemed, those saved by faith and grace alone (Matthew 24:31). Billions who thought they were Christians while living disconnected from Christ will face eternal damnation. There are no second chances on the day Christ cracks the sky. The doctrine of universal inclusion is a lie and a heresy. Prepare accordingly.
+Reject the false teaching that everyone will ultimately be saved. Christ is not coming for everyone—He is coming only for His elect, the redeemed, those saved by faith and grace alone (Matthew 24:31). Those who thought they were Christians while living disconnected from Christ will face eternal judgment. There are no second chances on the day Christ cracks the sky. The doctrine of universal inclusion is a lie and a heresy. Prepare accordingly.
 
 ### Step 6: Live With Consciousness of the Day
 
@@ -64,7 +64,7 @@ Believers who are raptured before the Tribulation will be absent from the body a
 
 ## Keep In Mind
 
-- The exact day and hour of Christ's return is not known (Matthew 24:36), but the sequence of events is revealed, and the signs indicate we are very close
+- The exact day and hour of Christ's return is not known (Matthew 24:36), but the sequence of events is revealed, and the signs align with Jesus' teaching
 - Christ's return will be visible, audible, and glorious—not a secret rapture but a cosmic event witnessed by every person on earth
 - There will be no second chance after Christ appears; the fate of every person will be sealed
 - The rapture removes the Church before the Tribulation—believers will not endure the seven years of wrath
@@ -90,7 +90,7 @@ Believers who are raptured before the Tribulation will be absent from the body a
   **Solution:** Live like Christ lived—with intentional, missionary purpose every single day, knowing your time is limited
 
 - **Problem:** Believing the lie that everyone will ultimately be saved, so there is no urgency for the lost
-  **Solution:** Hold fast to the truth that Christ is coming only for His elect. Billions who reject Him will face eternal judgment—preach, pray, and reach the lost while there is still time
+  **Solution:** Hold fast to the truth that Christ is coming only for His elect. Those who reject Him will face eternal judgment—preach, pray, and reach the lost while there is still time
 
 - **Problem:** Wasting time on ancillary pursuits, arguments, or entertainment instead of advancing the gospel
   **Solution:** Audit your life. If the activities you spend time on do not flow into the Great Commission, they are a waste of time in light of eternity

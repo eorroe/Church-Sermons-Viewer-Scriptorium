@@ -8,7 +8,7 @@ This sermon teaches how to seek and follow God's will in every area of your dail
 
 - When you need guidance for daily decisions
 - When working through uncertainty about relationships, career, or life direction
-- When the user asks about discerning God's plan for their life
+- When seeking to discern God's plan for your life
 
 ## Steps
 
@@ -18,7 +18,7 @@ Understand that God has a specific plan for you, including your relationships, c
 
 ### Step 2: Stop Making Decisions Independently of God
 
-Identify areas where you have been living without consulting God. Many people make choices based solely on their own understanding, ignoring His guidance. Confess this independence and commit to involving Him in every decision, no matter how small.
+Identify areas where you have been living without consulting God. People make choices based solely on their own understanding, ignoring His guidance. Confess this independence and commit to involving Him in every decision, no matter how small.
 
 ### Step 3: Ask God for Direction Daily
 
@@ -55,7 +55,7 @@ If you have been running from God through unhealthy substitutes like addiction o
 ## Keep In Mind
 
 - This sermon does not replace personal Bible study, prayer, or wise counsel from mature believers.
-- Stop and ask for clarification if you are unsure about specific decisions or how to hear God's voice in your life.
+- Stop and ask God to show you His will if you are unsure about specific decisions or how to hear His voice in your life.
 
 ## Security & Safety Notes
 

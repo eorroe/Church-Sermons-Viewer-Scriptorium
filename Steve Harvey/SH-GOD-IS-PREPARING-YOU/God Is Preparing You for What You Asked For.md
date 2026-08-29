@@ -33,7 +33,7 @@ Look back at the hardest moments of your life and identify what they taught you.
 
 ### Step 5: Keep Going Even When You Feel Like Quitting
 
-You can miss seven out of ten times and still make millions — what matters is the hits, not the misses. A baseball player who succeeds three out of ten times at bat is still highly successful and well-paid. Do not let your failures define you. Every miss is data that teaches you how to adjust, improve, and eventually succeed. Persistence in the face of failure is the hallmark of someone being prepared for greatness.
+You can miss seven out of ten times and still make millions — what matters is the hits, not the misses. A baseball player who succeeds three out of ten times at bat is still highly successful and well-paid.
 
 ## Examples
 

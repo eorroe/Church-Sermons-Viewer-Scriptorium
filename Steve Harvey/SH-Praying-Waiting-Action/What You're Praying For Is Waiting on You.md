@@ -39,7 +39,7 @@ Do not just pray and wait. If God has shown you a vision and also shown you the 
 
 ### Step 7: Move Through Fear
 
-Fear is the barrier between where you are and everything you want. Steve Harvey states plainly: everything you ever wanted and the best things in life are on the other side of fear. If you are scared, move anyway. Taking the jump—even when it looks crazy to everyone else—is how your vision becomes reality.
+Fear is the barrier between where you are and everything you want. Steve Harvey states plainly: everything you ever wanted is on the other side of fear. If you are scared, move anyway. Taking the jump—even when it looks crazy to everyone else—is how your vision becomes reality.
 
 ### Step 8: Keep Believing Even When No One Else Sees It
 
@@ -106,4 +106,4 @@ After quitting his job to pursue comedy, Steve Harvey became homeless. During th
   **Solution:** Setbacks are part of the process. Steve Harvey was homeless for three years before his breakthrough. Stay faithful, return to God's word, and keep moving.
 
 - **Problem:** You judge your own faith harshly and feel like a failure when you stumble.
-  **Solution:** Steve Harvey says he is "about a 70" and just hoping that is a low A. Perfection is not the standard. Ask God for forgiveness, get back on the line, and keep walking.
+  **Solution:** Steve Harvey says he is "70" and just hoping that is a low A. Perfection is not the standard. Ask God for forgiveness, get back on the line, and keep walking.

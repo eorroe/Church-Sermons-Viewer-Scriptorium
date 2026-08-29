@@ -77,4 +77,4 @@ At one time, Joyce Meyer prayed that God would make an elderly man in the doctor
 - **Problem:** You attend church but bear little fruit
   **Solution:** Shift from receiving teaching without serving to putting your faith into practical service; ask God daily who you can help
 - **Problem:** You want public praise for your good deeds
-  **Solution:** Do things in secret when you can do so safely, and examine your underlying intentions to make sure your reason for acting is love, not public praise
+   **Solution:** Do acts of kindness in secret when you can do so safely, and examine your underlying intentions to make sure your reason for acting is love, not public praise

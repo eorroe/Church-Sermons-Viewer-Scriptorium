@@ -52,7 +52,7 @@ The more of yourself you give to the Holy Spirit, the more of Him you will exper
 
 ### Step 8: Trust That You Are Not Alone
 
-You do not face life alone. God the Father, God the Son, and God the Holy Spirit are with you in every circumstance. You are fully equipped by the presence of the Holy Spirit to face anything, everything, and all things. It does not mean life will get easy, but it means whatever you face, you never face it alone. You and the whole Trinity face them together, and you cannot lose.
+You do not face life alone. God the Father, God the Son, and God the Holy Spirit are with you in every circumstance. You are fully equipped by the presence of the Holy Spirit to face every circumstance of life. It does not mean life will get easy, but it means whatever you face, you never face it alone. You and the whole Trinity face them together, and you cannot lose.
 
 ## Examples
 
@@ -70,7 +70,6 @@ You are tempted to harbor sin or fall into a pattern of negative thinking. The H
 
 ## Best Practices
 
-- ✅ Do this
 - ✅ Recognize and speak of the Holy Spirit as a Person, not an impersonal force or "it"
 - ✅ Acknowledge the Holy Spirit's constant presence within you throughout the day
 - ✅ Confess your sins daily and agree with God that they do not belong in your life
@@ -78,7 +77,6 @@ You are tempted to harbor sin or fall into a pattern of negative thinking. The H
 - ✅ Trust that the Holy Spirit is your source of power, wisdom, and strength
 - ✅ Respond to situations out of your spirit, not your fluctuating emotions
 - ✅ Remember that you are sealed by the Holy Spirit and He will never leave you
-- ❌ Don't do this
 - ❌ Do not refer to the Holy Spirit as "it" or treat Him as an impersonal force
 - ❌ Do not try to live the Christian life in your own strength, saying "I'll just do the best I can"
 - ❌ Do not ignore the convicting work of the Holy Spirit in your life

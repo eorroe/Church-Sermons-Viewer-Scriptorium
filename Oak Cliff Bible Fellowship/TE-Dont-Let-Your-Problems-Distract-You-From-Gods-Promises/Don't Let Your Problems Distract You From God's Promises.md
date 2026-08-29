@@ -13,7 +13,7 @@ This sermon teaches that believers can remain in the will of God and still encou
 ## When to Follow This Sermon
 
 - When you are walking in God's will but suddenly face a devastating, unexpected crisis
-- When your problem feels life-threatening and you don't know if you will make it
+- When you are terrified, anxious, or emotionally overwhelmed by circumstances you cannot control—whether a medical diagnosis, financial collapse, or relationship breakdown
 - When you are terrified, anxious, or emotionally overwhelmed by circumstances you cannot control
 - When you have begun to question God's care, presence, or faithfulness because of what you are going through
 - When you feel like God has set you up for defeat or abandoned you in your time of need

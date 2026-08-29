@@ -44,7 +44,7 @@ Lauren (formerly known as Lolli) was an exotic dancer for five years after being
 
 ### Example 2: The Pilot Story
 
-Tammy Joe Schultz, one of the first female fighter pilots in the US Navy, safely landed a Boeing 737 after the engine exploded mid-flight. Debris flew through a window, killing a passenger and creating a hole in the side of the airplane. The plane went into a nose dive and was limping sideways through the air. In the midst of the crisis, she got on the intercom and announced they would land safely in Philadelphia. The passengers later said that hearing they had a destination changed everything for them. Having a destination gave them hope. This illustrates the Christian's hope - while living on earth, your eternal home is in heaven, and that should give you confidence and purpose.
+Tammy Joe Schultz, a female fighter pilot in the US Navy, safely landed a Boeing 737 after the engine exploded mid-flight. Debris flew through a window, killing a passenger and creating a hole in the side of the airplane. The plane went into a nose dive and was limping sideways through the air. In the midst of the crisis, she got on the intercom and announced they would land safely in Philadelphia. The passengers later said that hearing they had a destination changed everything for them. Having a destination gave them hope. This illustrates the Christian's hope - while living on earth, your eternal home is in heaven, and that should give you confidence and purpose.
 
 ### Example 3: The Dirty Clothes Shower Analogy
 

@@ -36,7 +36,7 @@ Your track record for surviving hardships is 100 percent. Every disappointment, 
 
 ### Step 6: Change Your Words to Shift Your Perspective
 
-Replace "I have to" with "I get to." Saying "I get to go to work" or "I get to eat right" removes obligation and replaces it with gratitude. This one-word shift changes your entire perspective on life and opens the door for more blessings.
+Replace "I have to" with "I get to." Saying "I get to go to work" or "I get to eat right" removes obligation and replaces it with gratitude. This one-word shift changes your perspective on life and opens the door for additional blessings.
 
 ### Step 7: Practice Gratitude Every Single Day
 

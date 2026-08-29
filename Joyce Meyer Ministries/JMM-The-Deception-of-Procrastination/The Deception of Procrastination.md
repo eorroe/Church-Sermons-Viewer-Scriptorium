@@ -50,7 +50,7 @@ A farmer's donkey fell into a well. The farmer decided it wasn't worth saving an
 
 - God's appointed time for action is His specific will for that moment, not your preferred convenience
 - Good intentions without action are not obedience
-- The longer you put something off, the harder it gets
+- The longer you put off a decision, the harder it gets
 - Faith must be exercised now, not tomorrow
 - Every act of obedience is a seed that will produce a harvest
 - God will find someone else to do His work if you refuse the opportunity

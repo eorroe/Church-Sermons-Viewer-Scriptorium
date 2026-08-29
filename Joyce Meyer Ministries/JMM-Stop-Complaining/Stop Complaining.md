@@ -30,7 +30,7 @@ The more you look at what you don't have, the more you miss what you do have. Ma
 
 ### Step 5: Simplify and Declutter
 
-Abundance creates confusion and stress. Prune your possessions by giving away things you no longer use. A simpler life reduces opportunities to complain and helps you stay sane and grateful.
+Abundance creates confusion and stress. Prune your possessions by giving away possessions you no longer use. A simpler life reduces opportunities to complain and helps you stay sane and grateful.
 
 ### Step 6: Make It a Game Against the Devil
 
@@ -52,7 +52,7 @@ Joyce Meyer lost her pants at a luxury spa and had to walk through the lobby in 
 
 ### Example 3: 34 Things in 8 Weeks
 
-Over an 8-week period, Joyce documented 34 frustrating events in her life — a back injury, a water-damaged table, lost luggage, nursing home calls about her mother, a broken window, a stained couch, lost glasses, no water for 24 hours, a stomach virus, and more. Despite the volume of inconveniences, she used them to illustrate that bad things happen to everyone, but complaining only makes them worse.
+Over an 8-week period, Joyce documented 34 frustrating events in her life — a back injury, a water-damaged table, lost luggage, nursing home calls about her mother, a broken window, a stained couch, lost glasses, no water for 24 hours, and a stomach virus. Despite the volume of inconveniences, she used them to illustrate that bad things happen to everyone, but complaining only makes them worse.
 
 ## Best Practices
 
@@ -60,7 +60,7 @@ Over an 8-week period, Joyce documented 34 frustrating events in her life — a 
 - ✅ Do give thanks in all circumstances — especially the difficult ones
 - ✅ Do catch yourself in the act of complaining and immediately repent
 - ✅ Do focus on what you have, not what you lack
-- ✅ Do simplify your life by giving away things you no longer need or use
+- ✅ Do simplify your life by giving away possessions you no longer need or use
 - ✅ Do stand out in complaining environments by speaking words of gratitude
 - ❌ Don't complain about having too much or too many choices
 - ❌ Don't pray about a problem and then turn around and complain about it

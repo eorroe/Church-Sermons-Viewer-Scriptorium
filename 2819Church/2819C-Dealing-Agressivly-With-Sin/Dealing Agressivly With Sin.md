@@ -45,9 +45,6 @@ If you have grown comfortable with minor sinful habits, recognize that the Holy 
 
 ## Keep In Mind
 
-- This sermon does not replace environment-specific validation, testing, or expert review.
-- Stop and ask for clarification if required inputs, permissions, or safety boundaries are missing.
-
 ## Security & Safety Notes
 
 - This content is for spiritual guidance and personal reflection.

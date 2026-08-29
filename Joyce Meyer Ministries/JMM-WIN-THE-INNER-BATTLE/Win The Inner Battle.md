@@ -18,7 +18,7 @@ Pay attention to the words you speak about yourself and your circumstances. Reco
 
 ### Step 2: Speak God's Word Over Your Life
 
-Replace negative thoughts and words with the truth of God's Word. Confess scriptures out loud such as "I am the righteousness of God in Christ," "I am a new creature in Christ," and "I can do all things through Christ who strengthens me." The more you speak God's Word, the more powerful your faith becomes, and angels hearken to the Word of God to help you.
+Replace negative thoughts and words with the truth of God's Word. Confess scriptures out loud such as "I am the righteousness of God in Christ," "I am a new creature in Christ," and "I can do everything through Christ who strengthens me." The more you speak God's Word, the more powerful your faith becomes, and angels hearken to the Word of God to help you.
 
 ### Step 3: Get Into Agreement With God
 
@@ -40,7 +40,7 @@ In Mark 5, a woman who had been bleeding for 12 years touched the hem of Jesus' 
 
 ### Example 3: Overcoming Fear and Doubt
 
-Joyce Meyer explains that doubt is like baby fear - it is the beginning of tormenting fear if left unchecked. When doubt comes, recognize that the enemy is trying to steal something from you. Fan the flame of your faith by speaking God's Word and praising Him ahead of time for the answer. Surround yourself with people of faith who will encourage you, and remove negative influences from your circle.
+Joyce Meyer explains that doubt is like baby fear - it is the beginning of tormenting fear if left unchecked. When doubt comes, recognize that the enemy is trying to steal your faith. Fan the flame of your faith by speaking God's Word and praising Him ahead of time for the answer. Surround yourself with people of faith who will encourage you, and remove negative influences from your circle.
 
 ## Best Practices
 
@@ -54,8 +54,8 @@ Joyce Meyer explains that doubt is like baby fear - it is the beginning of torme
 
 - Proverbs 23:7 says, "As a man thinks in his heart, so is he" - your thoughts shape your reality.
 - Philemon 1:16 says your faith becomes effective by acknowledging every good thing in you in Christ Jesus.
-- You have the mind of Christ (1 Corinthians 2:16), and you can do all things through Christ who strengthens you.
-- Faith is the title deed to the things you hope for but have not seen yet.
+- You have the mind of Christ (1 Corinthians 2:16), and you can do everything through Christ who strengthens you.
+- Faith is the title deed to what you hope for but have not seen yet.
 - The devil is against you, but you do not need to agree with him - get into agreement with God instead.
 - You are not a surprise to God; He knew everything about you before you were born and loves you unconditionally.
 

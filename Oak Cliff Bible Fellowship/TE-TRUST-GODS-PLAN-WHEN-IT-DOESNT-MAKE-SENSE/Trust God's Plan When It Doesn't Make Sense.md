@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon explains why God allows believers to face dilemmas that seem to contradict His promises and character. Using Exodus 13-14, Dr. Tony Evans shows how God led Israel into a trap at the Red Sea to reveal His power and transform them from slaves into overcomers. You will learn that a dilemma is not evidence of God's absence but a classroom where He teaches you to trust Him when nothing makes sense. The core message is that God will turn your impossible situation into a testimony so long as you stop complaining against His appointed leaders, submit to spiritually mature counsel, and move forward in faith when He gives clear direction.
+This sermon explains why God allows believers to face dilemmas that seem to contradict His promises and character. Using Exodus 13-14, Dr. Tony Evans shows how God led Israel into a trap at the Red Sea to reveal His power and transform them from slaves into overcomers. You will learn that a dilemma is not evidence of God's absence but a classroom where He teaches you to trust Him when nothing makes sense. The core message is that God will turn your no-exit situation into a testimony so long as you stop complaining against His appointed leaders, submit to spiritually mature counsel, and move forward in faith when He gives clear direction.
 
 ## When to Follow This Sermon
 
@@ -36,7 +36,7 @@ Israel had just escaped Egypt and found themselves trapped between the Red Sea a
 
 ### Example 2: Modern Career Dilemma
 
-A believer is fired from a job despite praying for provision and acting with integrity. Every job application leads to rejection, and financial pressure mounts. The circumstance looks like a trap with no way out. Instead of complaining or returning to old unhealthy patterns, the believer submits to spiritual counsel, stands still in prayer, and waits for God's direction. When God opens the right door, the new position is not just a job but a divine promotion that could only have come through the impossible valley.
+A believer is fired from a job despite praying for provision and acting with integrity. Every job application leads to rejection, and financial pressure mounts. The circumstance looks like a trap with no way out. Instead of complaining or returning to old unhealthy patterns, the believer submits to spiritual counsel, stands still in prayer, and waits for God's direction. When God opens the right door, the new position is not just a job but a divine appointment that could only have come through the impossible valley.
 
 ## Best Practices
 

@@ -38,7 +38,7 @@ Don't wait for the right time to make your move—the ducks will never line up i
 
 ### Example 1: From Homelessness to Comedy Success
 
-Steve grew up on a block where you had to be something to make it out, and many people from his block are no longer alive. He was told he would never be nothing, flunked out of school, went through three marriages, lost everything he owned twice, and lived homeless in a car for three years. Despite all of this, he kept faith and kept going. He eventually got a call to do Showtime at the Apollo, became the permanent host of Amateur Night in 1991, and turned his life around. Today he owns luxury cars because he refuses to ever be homeless again—he jokes that if he ever goes bad again, he's living in his Rolls-Royce.
+Steve grew up on a block where you had to be something to make it out, and people from his block are no longer alive. He was told he would never be nothing, flunked out of school, went through three marriages, lost everything he owned twice, and lived homeless in a car for three years. Despite all of this, he kept faith and kept going. He eventually got a call to do Showtime at the Apollo, became the permanent host of Amateur Night in 1991, and turned his life around. Today he owns luxury cars because he refuses to ever be homeless again—he jokes that if he ever goes bad again, he's living in his Rolls-Royce.
 
 ### Example 2: The Amateur Night Decision That Changed Everything
 

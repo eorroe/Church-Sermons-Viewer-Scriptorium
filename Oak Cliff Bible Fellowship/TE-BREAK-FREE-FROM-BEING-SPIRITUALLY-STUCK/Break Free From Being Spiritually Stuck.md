@@ -62,7 +62,7 @@ Do not love the world or the things in the world. The world is the system headed
 - Understand that the world is temporary and passing away; God's will lasts forever
 - Do not let time become more important than eternity
 - Keep a heavenly perspective so you can get along better on earth
-- Do not put all your marbles in the world's basket—you will end up out on a limb
+- Do not put all your investment in the world's system—you will miss God's purposes for your life.
 - Live in the world, but do not let the world control you or govern your decisions
 - When bad times come, the world cannot help you—only the Lord can
 

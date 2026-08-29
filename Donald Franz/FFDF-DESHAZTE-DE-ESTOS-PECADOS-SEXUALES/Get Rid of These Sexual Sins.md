@@ -48,11 +48,11 @@ Stay spiritually alert through prayer. Ask God to protect you, and ask your wife
 
 ### Example 1: Joseph and Potiphar's Wife
 
-Joseph had a great dream and purpose from God, but Potiphar's wife used seduction to try to destroy that calling. She did not love Joseph; she was an instrument of the enemy. Joseph's response was to flee rather than reason with temptation. His decision preserved his destiny, while those who yield to similar pressure often lose everything.
+Joseph had a great dream and purpose from God, but Potiphar's wife used seduction to try to destroy that calling. She did not love Joseph; she was an instrument of the enemy. Joseph's response was to flee rather than reason with temptation. His decision preserved his destiny, while those who yield to similar pressure lose everything.
 
 ### Example 2: David and Bathsheba
 
-King David, described as a man after God's own heart, committed adultery and then tried to cover it up with lies and murder. The consequences were generational: multiple sons died, his family was shattered, and the sword never departed from his house. This shows that even the most anointed people can fall, and remaining in unrepentant sin—not the sin itself—defines the outcome.
+King David, described as a man after God's own heart, committed adultery and then tried to cover it up with lies and murder. The consequences were generational: four sons died, his family was shattered, and the sword never departed from his house. This shows that even the most anointed people can fall, and remaining in unrepentant sin—not the sin itself—defines the outcome.
 
 ## Best Practices
 
@@ -68,7 +68,7 @@ King David, described as a man after God's own heart, committed adultery and the
 ## Keep In Mind
 
 - Most people experience sexual temptation, so you are not alone—but you are responsible for your choices.
-- No one plans to fail in their marriage or sex life, yet many do because they never planned for success.
+- No one plans to fail in their marriage or sex life, yet those who do so failed to plan for success.
 - A bad sexual decision can cause pain for the rest of your life.
 - Sexual sin is never private; it affects your children, parents, spouse, and entire community.
 - Iniquity—the root system of sin—can pass to future generations if it is not repented of and renounced.
@@ -78,7 +78,7 @@ King David, described as a man after God's own heart, committed adultery and the
 
 - Never keep sexual sin hidden in darkness. Confession breaks its power and prevents generational iniquity.
 - Do not entrust yourself to people who are unfaithful in their marriages; their betrayal pattern will likely extend to other areas.
-- Beware of pride that says, "That will never happen to me." Pride is often the doorway into temptation.
+- Beware of pride that says, "That will never happen to me." Pride is the doorway into temptation.
 - If you have been abused, trafficked, or forced into sexual sin, seek pastoral counseling and professional therapy from a licensed Christian counselor immediately—freedom requires both spiritual and practical support.
 
 ## Common Pitfalls

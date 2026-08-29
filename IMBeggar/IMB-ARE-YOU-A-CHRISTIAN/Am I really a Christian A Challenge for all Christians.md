@@ -22,7 +22,7 @@ Refuse to let anger dominate your response to every little annoyance or injury. 
 
 ### Step 3: Give Aid to the Poor
 
-See and respond to the needs of others around you. Like the rich man and Lazarus, do not let self-absorption blind you to the neighbor right next to you who needs help. Aid extends beyond material poverty to include emotional, spiritual, and relational poverty as well.
+See and respond to the needs of others around you. Like the rich man and Lazarus, do not let self-absorption blind you to the neighbor right next to you who needs help. Aid extends beyond material poverty to include emotional, spiritual, and relational poverty.
 
 ### Step 4: Suffer With the Afflicted
 

@@ -33,11 +33,11 @@ Titus arrived, and with him came the proof that God had been at work the entire 
 
 ### Example 1: Paul in Troas
 
-Paul left an open door in Troas because he had no peace and could not find Titus. He traveled to Macedonia and waited, harassed on every side, with conflicts both outside and fears within. Months passed before Titus arrived with good news—news of the Corinthians' sorrow, longing, and concern for Paul. What Paul worried about for months, God had already resolved.
+Paul left an open door in Troas because he had no peace and could not find Titus. He traveled to Macedonia and waited, harassed on every side, with conflicts both outside and fears within. A period passed before Titus arrived with good news—news of the Corinthians' sorrow, longing, and concern for Paul. What Paul worried about for months, God had already resolved.
 
 ### Example 2: Steven Furtick's Breakdown Before a Significant Ministry Moment
 
-Furtick describes breaking down crying before stepping into a major ministry assignment. He had no logical reason to be sad, but he believes the devil was at the door because what was on the other side was so important. The enemy had come to steal, kill, and destroy, but God's plan moved forward. The spiritual attack was an indicator of the significance of the calling.
+Furtick describes breaking down crying before stepping into a ministry assignment. He had no logical reason to be sad, but he believes the devil was at the door because what was on the other side was so important. The enemy had come to steal, kill, and destroy, but God's plan moved forward. The spiritual attack was an indicator of the significance of the calling.
 
 ## Best Practices
 

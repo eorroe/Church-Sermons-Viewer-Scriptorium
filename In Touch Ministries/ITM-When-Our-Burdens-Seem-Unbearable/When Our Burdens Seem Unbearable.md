@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches believers how to find relief from overwhelming life burdens by coming to Christ, laying down their burdens through humble prayer, and shifting their focus from their problems to Jesus as the ultimate Burden-Bearer. It emphasizes that God is sovereign, omnipotent, and faithful to sustain those who trust Him, and it encourages Christians to exchange their heavy yokes for Christ's easy yoke through discipleship and trust in God's perfect timing.
+This sermon teaches believers how to find relief from overwhelming life burdens by coming to Christ, laying down their burdens through humble prayer, and shifting their focus from their problems to Jesus as the ultimate Burden-Bearer. It emphasizes that God is sovereign, omnipotent, and faithful to sustain those who trust Him, and it encourages Christians to exchange the heavy yoke of legalism, self-effort, or worldly pressure for Christ's easy yoke through discipleship and trust in God's timing.
 
 ## When to Follow This Sermon
 
@@ -44,7 +44,7 @@ A person feels heavy and weary from impossible deadlines, sick children, and fin
 
 ### Example 2: Long-Term Grief and Disillusionment
 
-A believer has carried the grief of losing a loved one for years and feels stuck. They realize they have been focusing on the pain instead of on Christ. They follow the steps: they come to Jesus, lay the grief at His feet, and choose to focus on Him. They begin to learn from Him through Scripture and discover that He promises to sustain them. Over time, they find rest for their soul even though the loss remains.
+A believer has carried the grief of losing a loved one for years and feels stuck. They realize they have been focusing on the pain instead of on Christ. They follow the steps: they come to Jesus, lay the grief at His feet, and choose to focus on Him. They begin to learn from Him through Scripture and discover that He promises to sustain them. Eventually, they find rest for their soul even though the loss remains.
 
 ## Best Practices
 

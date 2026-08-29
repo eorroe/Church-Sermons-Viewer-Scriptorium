@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches about the danger of suffering a faith failure, using the graphic example of the Israelites in Numbers 13-14 who refused to enter the Promised Land due to fear, unbelief, and rebellion against God. Dr. Charles Stanley explains that trusting God is the foundational step in every situation, and that rebellion against God's will brings devastating, inevitable consequences. The sermon exists to warn believers about the cost of disobedience and to show how to overcome faith failures through trust, obedience, and remembering God's past faithfulness.
+This sermon teaches about the danger of suffering a faith failure, using the graphic example of the Israelites in Numbers 13-14 who refused to enter the Promised Land due to fear, unbelief, and rebellion against God. Dr. Charles Stanley explains that trusting God is the foundational step in every situation, and that rebellion against God's will brings severe, unavoidable consequences. The sermon exists to warn believers about the cost of disobedience and to show how to overcome faith failures through trust, obedience, and remembering God's past faithfulness.
 
 ## When to Follow This Sermon
 
@@ -73,10 +73,10 @@ Dr. Stanley asks the listener to examine their own life: How many times have you
 
 ## Keep In Mind
 
-- This sermon does not replace environment-specific validation, testing, or expert review.
-- Stop and ask for clarification if required inputs, permissions, or safety boundaries are missing.
-- Rebellion against God is not just sin—it is a strike against the person of God, the power of God, the work of God, the will of God, and the ways of God. The more God wants to bless you, the worse the penalty when you choose to rebel against Him.
-- When you backslide on God, you are going back to the wilderness. There is no way to be happy living in rebellion toward God.
+- This sermon provides spiritual guidance on faith and obedience to God. It does not replace personal Bible study, prayer, or counsel from mature believers.
+- Stop and ask God for guidance through prayer and Scripture if you are unsure whether a thought or decision aligns with His will.
+- Rebellion against God opposes the person of God, the power of God, the work of God, the will of God, and the ways of God. The more God wants to bless you, the more severe the consequences when you choose to rebel against Him.
+- When you backslide on God, you are going back to the wilderness. There is no way to experience peace, contentment, or joy living in rebellion toward God.
 
 ## Security & Safety Notes
 

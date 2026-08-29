@@ -46,7 +46,7 @@ When God told Abraham that Sarah would be pregnant, Sarah laughed. She laughed p
 
 ### Example 2: Paul's Reaction to the Snake
 
-When a snake beat Paul, he treated it like a mosquito bite. Immediately the venom expired. His consistent reaction of faith caused the enemy's attack to fail.
+When a snake bit Paul, he treated it as insignificant. The people waited to see if he would swell up or die, but he was unharmed. His consistent reaction of faith meant the snake's bite had no effect on him.
 
 ## Best Practices
 

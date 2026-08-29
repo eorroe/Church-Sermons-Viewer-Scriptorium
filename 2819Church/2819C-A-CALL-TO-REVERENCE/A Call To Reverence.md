@@ -20,7 +20,7 @@ Recognize that the altar is holy and approach it with reverent awe. Take a step 
 
 ### Step 2: Consecrate Yourself Through Fasting and Prayer
 
-Set apart a season — seven to eight days as described in this sermon — to fast and pray. Replace every meal with the Word of God. Choose either a total fast (water and Scripture only) or a partial fast (fruits, vegetables, and water). Use the time you would spend eating, watching TV, or scrolling to pray, read Scripture, and seek God's will above your own.
+Set apart a season — seven or eight days as described in this sermon — to fast and pray. Replace every meal with the Word of God. Choose either a total fast (water and Scripture only) or a partial fast (fruits, vegetables, and water). Use the time you would spend eating, watching TV, or scrolling to pray, read Scripture, and seek God's will above your own.
 
 ### Step 3: Kill the Flesh and Put Sin to Death
 

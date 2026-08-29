@@ -16,15 +16,15 @@ This sermon teaches the foundational principles of living by faith as described 
 
 ### Step 1: Begin Each Day by Surrendering to God
 
-When you wake up, consciously affirm your relationship with God and acknowledge that He is in control of the day ahead. Recognize that you will face decisions, people, and tasks, and that your Father desires to walk with you through every one of them. Do not compartmentalize your faith for only certain areas of life. Instead, enter the day with the mindset that Jesus Christ will dominate your thinking, decisions, and actions from the moment you begin.
+When you wake up, consciously affirm your relationship with God and acknowledge that He is in control of the day ahead. Recognize that you will face decisions, people, and tasks, and that your Father desires to walk with you through every one of them. Do not limit your faith to only some areas of life. Instead, enter the day with the mindset that Jesus Christ will dominate your thinking, decisions, and actions from the moment you begin.
 
 ### Step 2: Trust God for Every Single Need and Decision
 
-Throughout the day, rely on God for everything rather than turning first to your own understanding. Before acting, ask for His guidance and direction. Trust Him to meet every need you face, whether practical, relational, or spiritual. When you face criticism, praise, difficult conversations, or uncertainty about what to do, pause and ask, "Father, what would You have me to do?" Replace worry about the future with trust in His sovereignty, knowing that your eternal security is already settled through Christ.
+Throughout the day, rely on God for everything rather than turning first to your own understanding. Before acting, ask for His guidance and direction. Trust Him to meet every need you face. When you face criticism, praise, difficult conversations, or uncertainty about what to do, pause and ask, "Father, what would You have me to do?" Replace worry about the future with trust in His sovereignty, knowing that your eternal security is already settled through Christ.
 
 ### Step 3: Build Your Faith Through God's Word and Answered Prayers
 
-Strengthen your faith by immersing yourself in scripture to understand the nature and promises of God. As you read, absorb who God is and what He has promised, because knowledge of His character is the foundation of trust. Also, make specific requests to God and watch how He answers. When He answers, thank Him. When He does not answer in the way you expected, trust that He has something better in mind, because His love for you means He will not give you what is not good for you. Each answered prayer and each trusted trial builds another layer of strength on your foundation of faith.
+Strengthen your faith by immersing yourself in scripture to understand the nature and promises of God. As you read, absorb who God is and what He has promised, because knowledge of His character is the foundation of trust. Also, make specific requests to God and watch how He answers. When He answers, thank Him. When He does not answer in the way you expected, trust that He is working for your good, because His love for you means He will not give you what is not good for you. Each answered prayer and each trusted trial builds another layer of strength on your foundation of faith.
 
 ### Step 4: Respond to Failure by Getting Back Up
 
@@ -34,7 +34,7 @@ When you falter, fall, or give in to doubt, do not dwell in self-pity or discour
 
 ### Example 1: Trusting God in a Financial Decision
 
-You are considering a major financial choice and feel pressured to rely on your own calculations and reasoning. Instead of leaning solely on your understanding, bring the decision before God in prayer, ask for His direction according to Proverbs 3:5-6, and trust Him to supply your needs according to Philippians 4:19. Act on what He leads you to do, even if the path seems unclear or risky by worldly standards.
+You are considering a major financial choice and feel pressured to rely on your own calculations and reasoning. Instead of leaning solely on your understanding, bring the decision before God in prayer, ask for His direction according to Proverbs 3:5-6, and trust Him to supply your needs according to Philippians 4:19. Act on what He leads you to do, even if the path is difficult or unclear by worldly standards.
 
 ### Example 2: Responding to a Relationship Conflict
 
@@ -52,8 +52,8 @@ You receive harsh criticism or face a painful conflict in a close relationship. 
 ## Keep In Mind
 
 - This sermon does not replace personal study of the Bible, consistent prayer, or accountability within a local church community.
-- Stop and ask for clarification from a pastor or mature believer if a specific instruction or promise is unclear in your current circumstances.
-- Faith grows through experience over time, so be patient with yourself as you learn to trust God more deeply.
+- Stop and ask God to show you His will through a pastor or mature believer if a specific instruction or promise is unclear in your current circumstances.
+- Faith grows through experience, so be patient with yourself as you learn to trust God more deeply.
 - Trusting God does not mean ignoring wisdom, counsel, or responsible planning. Seek godly counsel and use the discernment God has given you.
 - Do not use faith as an excuse for recklessness or neglect of practical responsibilities. Biblical faith and practical action work together.
 - If you are struggling with severe anxiety, depression, or distress, reach out to a pastor, counselor, or trusted Christian leader who can walk alongside you.

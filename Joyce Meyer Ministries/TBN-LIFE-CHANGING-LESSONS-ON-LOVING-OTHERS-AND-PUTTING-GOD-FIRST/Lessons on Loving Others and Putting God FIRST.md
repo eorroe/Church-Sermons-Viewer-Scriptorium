@@ -33,11 +33,11 @@ Look for people who are alone, hurting, or downtrodden. Pay attention to people 
 
 ### Step 5: Forgive Those Who Have Hurt You
 
-Forgiveness is for your freedom, not their benefit. Even if the person does not deserve your forgiveness, you deserve peace. When you forgive somebody, you set yourself free. Do good to your enemies to break the power of the devil. Overcome evil with good. If your enemy is hungry, give them something to eat. If they are thirsty, give them something to drink. Love is not a feeling; it is how you treat people.
+Forgiveness is for your freedom, not their benefit. Even if the person does not deserve your forgiveness, you deserve peace. When you forgive somebody, you set yourself free. Do good to your enemies to break the power of the devil. Overcome evil with good. If your enemy is hungry, give them food to eat. If they are thirsty, give them something to drink. Love is not a feeling; it is how you treat people.
 
 ### Step 6: Be a Radical, Generous Giver
 
-Make helping the poor a priority in your life. A church cannot rightfully call itself a church if it is not helping the poor. Jesus said that if you have done it unto the least of these His brethren, you have done it unto Him. Give generously without keeping score or expecting anything in return. Find a single mom who has never had enough money to take her kids out to lunch and give her 50 dollars. Come to church to give something, not just to get something.
+Make helping the poor a priority in your life. A church cannot rightfully call itself a church if it is not helping the poor. Jesus said that if you have done it unto the least of these His brethren, you have done it unto Him. Give generously without keeping score or expecting anything in return. Find a single mom who has never had enough money to take her kids out to lunch and give her 50 dollars. Come to church to give to others, not just to get something in return.
 
 ### Step 7: Watch for the Fruits of Pride
 
@@ -64,12 +64,12 @@ Joyce Meyer shares that God called her to bring her parents to St. Louis, buy th
 - ✅ Look for people who are lonely or downtrodden and pay attention to them
 - ✅ Admit when you are wrong and apologize freely
 - ✅ Remember that how you treat people is how you treat Jesus
-- ✅ Do not interrupt people when they are sharing something with you
+- ✅ Do not interrupt people when they are sharing their thoughts with you
 
 ## Keep In Mind
 
 - God loves you and wants to promote you, but you cannot maintain promotion if you get full of yourself
-- God chose the weak and foolish things of the world to confound the wise so that no mortal man can glory in His sight
+- God chose the weak and foolish people of the world to confound the wise so that no mortal man can glory in His sight
 - You are exactly what God wants you to be, and nothing about you is a mistake
 - If you exalt yourself, you will be humbled; if you humble yourself, you will be exalted
 - The higher you go in success, the more danger you are in of pride
@@ -89,10 +89,10 @@ Joyce Meyer shares that God called her to bring her parents to St. Louis, buy th
 ## Common Pitfalls
 
 - **Problem:** Thinking you are too important to do small tasks
-  **Solution:** Intentionally do things you do not want to do to practice humility and remember you are not too important to serve
+   **Solution:** Intentionally do tasks you do not want to do to practice humility and remember you are not too important to serve
 - **Problem:** Being jealous of others' gifts or success
   **Solution:** Remember that God gave them their gift for you to enjoy, not to be jealous of, and focus on developing your own gift
-- **Problem:** Expecting something in return when you give
+- **Problem:** Expecting repayment when you give
   **Solution:** Give freely without keeping score or looking for recognition, because real love is undeniable
 - **Problem:** Thinking spirituality means avoiding certain people or situations
   **Solution:** Real spirituality is found in serving people who can do nothing for you, not in avoiding them

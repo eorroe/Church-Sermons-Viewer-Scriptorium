@@ -28,7 +28,7 @@ Refuse to let anxiety, worry, or bitterness take root. Speak peace over your cir
 
 ### Step 4: Refuse to Fight Closed Doors
 
-Do not waste energy trying to force open a door that God has closed. Closed doors are divine redirections — they are setups for something greater. Instead of pushing against the barrier, pause, pray, and ask God what new path He is opening for you.
+Do not waste energy trying to force open a door that God has closed. Closed doors are divine redirections — they are setups for a greater blessing. Instead of pushing against the barrier, pause, pray, and ask God what new path He is opening for you.
 
 ### Step 5: Expect Abundance on the Other Side
 
@@ -46,7 +46,7 @@ Tony Dungy, former NFL coach, was fired from the Tampa Bay Buccaneers and faced 
 
 ### Example 3: Joel Osteen's Personal Testimony
 
-Joel Osteen shared that he never planned to go into ministry. His father's sudden death thrust him into the pulpit at Lakewood Church — a role he did not seek or anticipate. What looked like an unexpected, painful detour became the platform for the largest church in America and a global ministry that reaches millions. The detour was not a mistake; it was a divine assignment in disguise.
+Joel Osteen shared that he never planned to go into ministry. His father's sudden death thrust him into the pulpit at Lakewood Church — a role he did not seek or anticipate. What looked like an unexpected, painful detour became the platform for the largest church and a global ministry that reaches millions. The detour was not a mistake; it was a divine assignment in disguise.
 
 ## Best Practices
 

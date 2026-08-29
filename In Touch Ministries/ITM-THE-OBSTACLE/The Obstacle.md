@@ -44,7 +44,7 @@ In Isaiah 14:13-14, the passage describing Lucifer's fall is filled with the phr
 - ✅ Humble yourself voluntarily under the mighty hand of God
 - ✅ Cast all your anxieties on God, knowing He cares for you
 - ✅ Remember that God gives grace to the humble
-- ✅ Recognize that the more gifted and successful you are, the more you must watch out for pride
+- ✅ Recognize that the more God has gifted you or blessed you with success, the more you must watch out for pride
 - ❌ Don't assume that reading the Bible, praying, or confessing alone will make you humble
 - ❌ Don't rely solely on your own assessment of your humility
 - ❌ Don't respond defensively or with retaliation when someone confronts you about pride

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches that financial success and spiritual generosity flow from intentional thinking and biblical principles, not luck or inheritance. Dave Ramsey explains that you become what you think about, and by adopting a mindset of purpose—budgeting, saving, giving, and working diligently—you can break cycles of debt, build wealth, and become outrageously generous. The message combines practical money steps with scriptural truths to help listeners steward what God has entrusted to them.
+This sermon teaches that financial success and spiritual generosity flow from intentional thinking and biblical principles, not luck or inheritance. Dave Ramsey explains that you become what you think about, and by adopting a mindset of purpose—budgeting, saving, giving, and working diligently—you can break cycles of debt, build wealth, and become generous. The message combines practical money steps with scriptural truths to help listeners steward what God has entrusted to them.
 
 ## When to Follow This Sermon
 
@@ -41,7 +41,7 @@ Save up a rainy-day fund so unexpected events do not derail your progress. This 
 
 Once you are debt-free and have savings, grow your wealth through consistent investing and disciplined habits. Over time, this allows you to leave an inheritance to your children's children.
 
-### Step 8: Be Outrageously Generous
+### Step 8: Be Generous
 
 Use your resources to bless others. God loves a cheerful giver, and generosity is both the end goal and the best proof of a transformed life.
 

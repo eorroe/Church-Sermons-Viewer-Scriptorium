@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches that love is not merely a feeling but a choice and action—specifically the Greek concept of *agape*, or divine love. Joyce Meyer explains that the people who need love most often act in ways that make them difficult to love because they are hurting, and it is the believer's responsibility to show them God's love regardless of personal comfort. The message challenges listeners to move beyond emotional preference and commit to loving others the way God loves them—unconditionally, intentionally, and through practical acts of kindness.
+This sermon teaches that love is not merely a feeling but a choice and action—specifically the Greek concept of *agape* (divine love), or unconditional love. Joyce Meyer explains that the people who need love most often act in ways that make them difficult to love because they are hurting, and it is the believer's responsibility to show them God's love regardless of personal comfort. The message challenges listeners to move beyond emotional preference and commit to loving others the way God loves them—unconditionally, intentionally, and through practical acts of kindness.
 
 ## When to Follow This Sermon
 
@@ -45,7 +45,7 @@ Meyer asks listeners to imagine a neighbor who has been difficult to deal with, 
 ## Best Practices
 
 - ✅ Remember that love is a choice, not a feeling—you can decide to love even when you do not feel loving
-- ✅ Look for something good in every person, no matter how much bad they have done
+- ✅ Look for good qualities in every person, no matter how much bad they have done
 - ✅ Do something practical for someone who has mistreated you to break the power of bitterness
 - ✅ Prepare spiritually each morning by praying and intentionally choosing to walk in love
 - ✅ Forgive others quickly and keep a clean heart so nothing blocks your relationship with God
@@ -60,7 +60,7 @@ Meyer asks listeners to imagine a neighbor who has been difficult to deal with, 
 - Love is the most important thing in the world—greater than faith or hope
 - The kind of love God requires is *agape* love: a deliberate, willful choice to do what is right regardless of how you feel
 - When you mistreat someone, you are damaging your own life more than you are damaging theirs—forgive others to set yourself free
-- God will convict you and keep bringing something to your mind until you obey it—when a thought won't go away, it is usually God speaking
+- God will convict you and keep bringing a conviction to your mind until you obey it—when a thought won't go away, it is usually God speaking
 - You cannot give away what you do not have—the love of God has been poured into your heart through the Holy Spirit, so you have divine love to give
 
 ## Security & Safety Notes
@@ -81,4 +81,4 @@ Meyer asks listeners to imagine a neighbor who has been difficult to deal with, 
   **Solution:** You can love someone from a distance and still maintain healthy boundaries. God is not asking you to be abused—He is asking you to keep a clean heart and treat people rightly regardless of their behavior.
 
 - **Problem:** Thinking you don't have anything good to offer because of your own past or current struggles.
-  **Solution:** God has put something good in you, and He will give you the ability to love others through the Holy Spirit. Your past pain can actually qualify you to love hurting people with greater compassion.
+   **Solution:** God has placed good in you, and He will give you the ability to love others through the Holy Spirit. Your past pain can actually qualify you to love hurting people with greater compassion.

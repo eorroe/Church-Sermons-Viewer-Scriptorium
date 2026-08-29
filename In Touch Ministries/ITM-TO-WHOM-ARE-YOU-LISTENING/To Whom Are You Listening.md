@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this sermon, Dr. Charles Stanley challenges listeners to examine who they are truly listening to in their daily lives. Drawing from Hebrews 1:1-2 and John 14:26, he explains that God desires to speak to every believer through His Word and the Holy Spirit, yet many people miss His voice because their ears are tuned to the world instead. The sermon outlines why people fail to listen to God, how to identify His voice, the protection and direction that come from listening, and the eternal consequences of refusing to hear Him. It concludes with a clear call to accept Jesus Christ as Savior for those who have never done so.
+In this sermon, Dr. Charles Stanley challenges listeners to examine who they are truly listening to in their daily lives. Drawing from Hebrews 1:1-2 and John 14:26, he explains that God desires to speak to every believer through His Word and the Holy Spirit, yet people miss His voice because their ears are tuned to the world instead. The sermon outlines why people fail to listen to God, how to identify His voice, the protection and direction that come from listening, and the eternal consequences of refusing to hear Him. It concludes with a clear call to accept Jesus Christ as Savior for those who have never done so.
 
 ## When to Follow This Sermon
 
@@ -18,13 +18,13 @@ In this sermon, Dr. Charles Stanley challenges listeners to examine who they are
 
 ### Step 1: Acknowledge That God Wants to Speak to You
 
-Recognize that God, the Sovereign Creator of the universe, desires to communicate with you personally. From the moment you trust Christ as your Savior, the Holy Spirit indwells you and is available to guide, direct, and speak to your heart morning, noon, and night (Hebrews 1:1-2; John 14:26). Ask yourself: How much time do you spend in any given day being quiet and listening to God?
+Recognize that God, the Sovereign Creator of the universe, desires to communicate with you personally. From the moment you trust Christ as your Savior, the Holy Spirit indwells you and is available to guide, direct, and speak to your heart morning, noon, and night (Hebrews 1:1-2; John 14:26). Ask yourself how much time you spend each day being quiet and listening to God.
 
 ### Step 2: Understand Why People Do Not Listen to God
 
 Identify the barriers that prevent people from hearing God's voice:
 - **No relationship with Him**: Unsaved people cannot hear God because they have no relationship with Him through Christ.
-- **Unexpectation**: Many people do not expect God to speak to them and assume He remains silent.
+- **Unexpectation**: People do not expect God to speak to them and assume He remains silent.
 - **Worldly noise**: The messages, music, and activities of the world drown out God's voice.
 - **Ignoring the Word of God**: When you neglect reading and meditating on Scripture, the world grows larger in your thinking while God's voice fades.
 - **Harboring sin**: Unconfessed sin deafens the ears of a child of God and blocks His voice.
@@ -65,7 +65,7 @@ A Christian realizes they have been struggling with a persistent sin that has be
 
 ## Best Practices
 
-- ✅ Start each day with quiet time before God before turning on the radio, television, or social media.
+- ✅ Start each day with time in prayer and listening to God before turning on the radio, television, or social media.
 - ✅ Read the Bible daily to keep your mind filled with God's truth so you can recognize His voice.
 - ✅ Ask God to speak to you and then wait patiently in silence for His direction.
 - ✅ Compare every inner leading or impression against the clear teaching of Scripture.
@@ -105,7 +105,7 @@ A Christian realizes they have been struggling with a persistent sin that has be
   - **Solution:** Confess known sin immediately and turn away from it. Unconfessed sin creates a barrier between you and God and dulls your spiritual sensitivity.
 
 - **Pitfall: Being too busy or too distracted to listen.**
-  - **Solution:** Purposefully set aside quiet time each day. Turn off the noise of the world so you can hear the voice of God speaking to your heart.
+  - **Solution:** Purposefully set aside time each day to be still before God. Turn off the noise of the world so you can hear the voice of God speaking to your heart.
 
 - **Pitfall: Putting off the decision to follow Christ.**
   - **Solution:** If you have never trusted Jesus as your Savior, do not delay. The consequences of rejecting Christ are eternal. Confess with your mouth that Jesus is Lord, believe in your heart that God raised Him from the dead, and accept His payment for your sins today.

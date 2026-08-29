@@ -22,7 +22,7 @@ Make it your goal each day to please God in word and deed. Start your day declar
 
 ### Step 3: Pursue God's Pleasure as a Practice
 
-Pleasing God should become a daily practice and orientation. Ask yourself throughout the day whether your choices will make God happy, and let this pursuit shape your thinking and actions.
+Pleasing God should become a daily practice and orientation. Ask yourself throughout the day whether your choices will make God smile, and let this pursuit shape your thinking and actions.
 
 ### Step 4: Recognize the Weight of God's Name
 

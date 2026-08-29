@@ -35,7 +35,7 @@ When you feel discouraged or focused on what is not happening, shift your focus 
 
 ### Step 6: Identify Your Gift and Pursue Your Dream
 
-Identify your God-given gift and go do what you are gifted at. You do not need a degree to be successful. Many of the world's most successful people built extraordinary lives by operating in their God-given gift rather than following a traditional academic path. Your gift is what God uniquely equipped you with. Regular people make regular income, but exceptional people make exceptional income because they operate in their unique, God-given assignment. People pay for expertise, excellence, and uniqueness.
+Identify your God-given gift and go do what you are gifted at. You do not need a degree to be successful. Some of the world's most successful people built lives by operating in their God-given gift rather than following a traditional academic path. Your gift is what God uniquely equipped you with. Regular people make regular income, but people who operate in their unique, God-given assignment make income that reflects their expertise, excellence, and uniqueness.
 
 ### Step 7: Keep Doing the Work Over and Over
 

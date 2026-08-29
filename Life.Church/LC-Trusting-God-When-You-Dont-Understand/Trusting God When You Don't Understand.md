@@ -45,7 +45,7 @@ Hannah could not conceive, and her rival Peninnah taunted her year after year. I
 
 ### Example 2: The Pastor's Personal Testimony
 
-The speaker shared a moment just before church when he was overcome with worry and sobbing. Nothing had changed in his situation, but he and his wife chose to worship the Lord once more. Their faith was not in changing circumstances, but in the unchanging character of God.
+The speaker shared a moment several weeks back just before church when he was overcome with worry and sobbing. Nothing had changed in his situation, but he and his wife chose to worship the Lord once more. Their faith was not in changing circumstances, but in the unchanging character of God.
 
 ## Best Practices
 

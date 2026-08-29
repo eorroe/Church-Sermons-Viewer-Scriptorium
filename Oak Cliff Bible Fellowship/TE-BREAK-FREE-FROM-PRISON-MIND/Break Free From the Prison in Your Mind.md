@@ -41,7 +41,7 @@ A believer who only says a quick prayer in the morning and thinks that is enough
 
 ### Example 3: The Football Player Who Reaches High While Staying Grounded
 
-In Super Bowl 43, Santonio Holmes caught the winning touchdown by reaching high to catch the ball while keeping his feet firmly planted on the ground. Without both actions, it would have been an incomplete pass. Likewise, the Christian must reach high to heaven in perspective while keeping their feet firmly planted on earth in daily life. You are not meant to be so heavenly minded you are no earthly good, nor so earthly minded you are no heavenly good.
+A football player catches the winning touchdown by reaching high to catch the ball while keeping his feet firmly planted on the ground. Without both actions, it would have been an incomplete pass. Likewise, the Christian must reach high to heaven in perspective while keeping their feet firmly planted on earth in daily life. You are not meant to be so heavenly minded you are no earthly good, nor so earthly minded you are no heavenly good.
 
 ## Best Practices
 

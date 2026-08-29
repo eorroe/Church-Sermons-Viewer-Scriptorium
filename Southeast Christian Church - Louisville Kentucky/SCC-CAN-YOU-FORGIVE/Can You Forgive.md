@@ -61,7 +61,7 @@ Key scriptures to meditate on:
 
 ### Step 7: Overcome Barriers to Forgiveness
 
-**Common objection:** "They don't deserve it" — a sentiment many bring to forgiveness. **Biblical response:** Mercy means the most when it is deserved the least. Joseph's brothers did not deserve forgiveness.
+**Common objection:** "They don't deserve it" — a sentiment brought to forgiveness. **Biblical response:** Mercy means the most when it is deserved the least. Joseph's brothers did not deserve forgiveness.
 **Common objection:** "It's too painful" — holding onto hurt feels justified. **Biblical response:** Bitterness is often compared to drinking poison while waiting for the other person to die — a reminder that unresolved hurt typically harms the holder more than the source. This metaphor does not diminish the reality of the pain; it points toward the cost of carrying it long-term.
 **Common objection:** "I can't forget it" — the memory feels inescapable. **Biblical response:** Forgiveness is not forgetting; it is releasing the right to retaliate. God remembers your sins no more (Hebrews 8:12).
 **Common objection:** "I'm not strong enough" — the task feels impossible alone. **Biblical response:** Identify what is within your power to change (for example, your response) and what is not (for example, the other person's actions), and surrender the latter to God (Dr. Henry Cloud). The Holy Spirit empowers forgiveness.
@@ -70,7 +70,7 @@ Key scriptures to meditate on:
 
 This skill operates from a Christian worldview that reads the Joseph story as typologically pointing forward to Jesus Christ:
 - Decades earlier, Judah's brothers sold Joseph into slavery, according to the narrative
-- Approximately 1,700 years later, Judah's descendant Jesus gave himself on the cross to save sinners
+- Generations later, Judah's descendant Jesus gave himself on the cross to save sinners
 - The innocent became the substitute for the guilty so that the guilty could go free
 
 ## Examples

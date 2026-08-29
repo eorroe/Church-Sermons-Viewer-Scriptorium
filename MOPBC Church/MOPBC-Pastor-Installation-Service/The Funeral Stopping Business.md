@@ -30,11 +30,11 @@ Once you have seen and stopped, you must speak life into those who are dead and 
 
 ### Example 1: Pastor Duke and the Liquor Store Owner
 
-Several years ago, Pastor Kenneth Duke was passing out flyers in a neighborhood when the Lord told him to stop at a liquor store. The owner, Mr. Johnny, explained that he used to go to church but his church's covenant did not allow selling or consuming liquor. Pastor Duke told him that in the Primitive Baptist church, they could sell it and drink it, which made Mr. Johnny laugh and pick up his pen to write it down. Mr. Johnny eventually came to church, got saved, and attended Wednesday night Bible class. This demonstrates how stopping to speak life to someone in an unexpected place can lead to eternal transformation.
+Pastor Kenneth Duke was passing out flyers in a neighborhood when the Lord told him to stop at a liquor store. The owner, Mr. Johnny, explained that he used to go to church but his church's covenant did not allow selling or consuming liquor. Pastor Duke told him that in the Primitive Baptist church, they could sell it and drink it, which made Mr. Johnny laugh and pick up his pen to write it down. Mr. Johnny eventually came to church, got saved, and attended Wednesday night Bible class. This demonstrates how stopping to speak life to someone in an unexpected place can lead to eternal transformation.
 
 ### Example 2: Mount Olive Church Buying Property in the Neighborhood
 
-The former pastor of Mount Olive Primitive Baptist Church did not just come to the community—he saw what was going on and had a vision. He saw drug houses and blight in the neighborhood, so he bought those houses and even property on 15th Street to prepare for God's future work. The church now owns most of the block and neighborhood. This demonstrates how seeing the need and stopping to invest in the community can create long-term transformation and stop death before it starts.
+The former pastor of Mount Olive Primitive Baptist Church did not just come to the community—he saw what was going on and had a vision. He saw drug houses and blight in the neighborhood, so he bought those houses and even property on 15th Street to prepare for God's future work. The church now owns property on the block and in the neighborhood. This demonstrates how seeing the need and stopping to invest in the community can create long-term transformation and stop death before it starts.
 
 ### Example 3: The Widow of Nain
 
@@ -67,7 +67,7 @@ In Luke 7:11-17, Jesus saw a widow weeping as she followed her only dead son bei
 ## Security & Safety Notes
 
 - Do not put cameras on church property to catch people doing wrong—instead, build relationships with the community so they know the pastor cares about them
-- Be cautious about who you share sensitive ministry challenges with, but remain transparent with those who have earned trust
+- Be cautious about who you share sensitive ministry challenges with, but remain transparent with those you trust
 - Protect your pastor and his family's privacy—they live in a glass house and are under constant scrutiny
 - When dealing with dangerous situations or people, seek wisdom from God and godly counsel before acting alone
 

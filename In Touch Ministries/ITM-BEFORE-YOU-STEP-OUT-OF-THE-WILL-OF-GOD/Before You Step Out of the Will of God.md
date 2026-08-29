@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon, delivered by Dr. Charles Stanley, explains that God has a specific will, plan, and purpose for every individual's life, and that the Holy Spirit indwells believers to make that plan clear and provide the power to walk in it. Through multiple biblical examples — Adam and Eve, the Israelites, Samson, David, Jonah, and Peter — the sermon demonstrates that stepping outside of God's will always carries inescapable consequences, regardless of who you are or what your circumstances may be. It closes with a clear call to confess sin, trust Jesus Christ as Savior, and choose daily to live surrendered to God's perfect will.
+This sermon, delivered by Dr. Charles Stanley, explains that God has a specific will, plan, and purpose for every individual's life, and that the Holy Spirit indwells believers to make that plan clear and provide the power to walk in it. Through biblical examples — Adam and Eve, the Israelites, Samson, David, Jonah, and Peter — the sermon demonstrates that stepping outside of God's will always carries inescapable consequences, regardless of who you are or what your circumstances may be. It closes with a clear call to confess sin, trust Jesus Christ as Savior, and choose daily to live surrendered to God's perfect will.
 
 ## When to Follow This Sermon
 

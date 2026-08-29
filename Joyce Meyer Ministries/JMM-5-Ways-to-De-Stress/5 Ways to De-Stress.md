@@ -8,7 +8,7 @@ This sermon teaches practical, biblical strategies for managing stress by addres
 
 - When you feel overwhelmed by busyness, responsibility, or too many demands on your time
 - When guilt, condemnation, or self-condemnation are weighing you down
-- When you are stressed about things you cannot control or change
+- When you are stressed about your past, your future, your children, how people treat you, or circumstances beyond your reach that you cannot control or change
 - When you feel like you are carrying your burdens alone instead of trusting God
 - When you want practical, daily habits to reduce stress and experience more peace
 - When you are stuck in comparison, overcommitment, or choice overload
@@ -17,11 +17,11 @@ This sermon teaches practical, biblical strategies for managing stress by addres
 
 ### Step 1: Come unto Jesus and Receive His Peace
 
-Acknowledge that you are laboring and heavy laden, and come to Jesus for rest. Accept that the Prince of Peace lives inside you if you are a Christian, and that peace is defined as a quiet heart no matter what your circumstances look like on the surface. Realize that peace is something you can learn, just as Joyce Meyer learned to be more peaceful even with increasing responsibility. If she can learn to be peaceful, you can learn to be peaceful too.
+Acknowledge that you are laboring and heavy laden, and come to Jesus for rest. Accept that the Prince of Peace lives inside you if you are a Christian, and that peace is defined as a quiet heart no matter what your circumstances look like on the surface. Realize that peace is a skill you can learn, just as Joyce Meyer learned to be more peaceful even with increasing responsibility. If she can learn to be peaceful, you can learn to be peaceful too.
 
 ### Step 2: Take Jesus' Yoke Upon You and Learn of Him
 
-Take Jesus' yoke upon you by staying connected to Him, remaining close in every situation, and watching how He would handle your circumstances. Learn to do things the way Jesus would do them rather than just asking Him to change your circumstances. Instead of only praying for God to remove your stressors, pray "God, teach me your ways" and ask Him to show you how to handle situations the way He would. Study how Jesus lived so you can follow His example.
+Take Jesus' yoke upon you by staying connected to Him, remaining close in every situation, and watching how He would handle your circumstances. Learn to handle situations the way Jesus would handle them rather than just asking Him to change your circumstances. Instead of only praying for God to remove your stressors, pray "God, teach me your ways" and ask Him to show you how to handle situations the way He would. Study how Jesus lived so you can follow His example.
 
 ### Step 3: Receive God's Forgiveness and Let Go of Condemnation
 
@@ -49,7 +49,7 @@ Decide to forgive people immediately and completely, even for serious offenses. 
 
 ### Step 9: Stay in Your Comfort Zone and Respect Your Limits
 
-Recognize your own strengths and limits by honestly assessing where you consistently perform well and where you struggle, and do not compare yourself with other people who have different gifts and callings. Stop trying to do things you are lousy at just because everyone else is doing them. It is not spiritual to overextend yourself into areas where you have no strength or calling. When you force yourself into situations outside your comfort zone, you will be stressed, miserable, and feel bad about yourself for not being good at it. You are designed for a specific purpose, and staying in the zone God has for you is where you will thrive.
+Recognize your own strengths and limits by honestly assessing where you consistently perform well and where you struggle, and do not compare yourself with other people who have different gifts and callings. Stop trying to do activities you are lousy at just because everyone else is doing them. It is not spiritual to overextend yourself into areas where you have no strength or calling. When you force yourself into situations outside your comfort zone, you will be stressed, miserable, and feel bad about yourself for not being good at it. You are designed for a specific purpose, and staying in the zone God has for you is where you will thrive.
 
 ### Step 10: Eliminate Unfruitful Commitments
 
@@ -75,11 +75,11 @@ Joyce Meyer arrived in the morning to find that her new automatic coffee pot had
 
 ### Example 2: The Tuna Casserole and Comfort Zones
 
-Joyce Meyer decided to try cooking and bought expensive spices and cookbooks, only to make a tuna casserole that turned out like glue. She laughed at herself, returned the spices, and went back to her comfort zone of teaching and ministry where she thrives. She emphasizes that staying in your comfort zone does not mean you never do anything difficult; it means you recognize your limits and respect them rather than stressing yourself out by trying to be good at something you were not designed to do.
+Joyce Meyer decided to try cooking and bought expensive spices and cookbooks, only to make a tuna casserole that turned out like glue. She laughed at herself, returned the spices, and went back to her comfort zone of teaching and ministry where she thrives. She emphasizes that staying in your comfort zone does not mean you never do anything difficult; it means you recognize your limits and respect them rather than stressing yourself out by trying to be good at activities you were not designed to do.
 
 ### Example 3: Mary and Martha
 
-Joyce Meyer references the story of Mary and Martha. Martha was stressed and overwhelmed with work while Mary sat at Jesus' feet, choosing what was better. Many people are so addicted to work and busyness that they miss the really important things in life, such as relationships with their children, their spouse, and God. You cannot build a relationship with your kids overnight because you are their parent—relationships require time and presence.
+Joyce Meyer references the story of Mary and Martha. Martha was stressed and overwhelmed with work while Mary sat at Jesus' feet, choosing what was better. Many people are so addicted to work and busyness that they miss the really important areas of life, such as relationships with their children, their spouse, and God. You cannot build a relationship with your kids overnight because you are their parent—relationships require time and presence.
 
 ### Example 4: Jesus in Gethsemane and on the Cross
 
@@ -110,7 +110,7 @@ Joyce Meyer shares that she walks four miles every day and works out at home wit
 
 - Stress comes from what is inside you, not from your external circumstances
 - God does not want to change everything around you; He wants to change you
-- "Follow me" means watch how Jesus lives and learn to do things His way, not just ask Him to fix things for you
+- "Follow me" means watch how Jesus lives and learn to handle situations His way, not just ask Him to fix situations for you
 - The fruit of the Spirit does not pop out of you when you are rushing
 - There will always be more work to do, so you might as well learn not to work all the time
 - You will never be happy in your later years if you do not invest time in relationships now
@@ -142,11 +142,11 @@ Joyce Meyer shares that she walks four miles every day and works out at home wit
 - **Problem:** Overcommitting and staying too busy to have relationships
   **Solution:** Eliminate everything from your schedule that is not bearing good fruit. Cut out unproductive committees, gossip, meaningless television, and complaining conversations. Invest that time in people who matter.
 
-- **Problem:** Comparing yourself to others and trying to do things you are not good at
+- **Problem:** Comparing yourself to others and trying to do activities you are not good at
   **Solution:** Stay in your comfort zone, respect your limits, and refuse to compare yourself with others. You were designed for a specific purpose, and trying to be like someone else will only create stress and dissatisfaction.
 
 - **Problem:** Being easily offended and holding grudges
-  **Solution:** Forgive quickly, even before the other person asks for it. Remember Jesus on the cross, and realize that holding offense is a choice that will keep you stressed and miserable. Being touchy is something you can stop doing by deciding to let things go.
+   **Solution:** Forgive quickly, even before the other person asks for it. Remember Jesus on the cross, and realize that holding offense is a choice that will keep you stressed and miserable. Being touchy is a behavior you can stop by deciding to let offenses go.
 
 - **Problem:** Skipping exercise, rest, and relaxation because you are too busy
   **Solution:** Make exercise and relaxation non-negotiable priorities. Schedule mini breaks, take 10-minute vacations, and move your body daily. Your body and mind cannot sustain stress without proper care.

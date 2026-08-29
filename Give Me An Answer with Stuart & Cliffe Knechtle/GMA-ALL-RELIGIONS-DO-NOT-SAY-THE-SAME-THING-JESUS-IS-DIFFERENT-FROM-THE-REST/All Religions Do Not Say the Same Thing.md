@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches that all religions do not say the same thing and in fact contradict each other on core doctrines. It argues that because religions like Christianity, Islam, Hinduism, Buddhism, and the Baha'i Faith contradict one another, either all are wrong or one is right. The sermon then makes the case that Jesus Christ is uniquely trustworthy and different from all other religious leaders because of the historical evidence for his resurrection, and that trusting Jesus is the only basis for believing in heaven and eternal life.
+This sermon teaches that all religions do not say the same thing and in fact contradict each other on doctrines such as the nature of God, Jesus, salvation, and the afterlife. It argues that because religions like Christianity, Islam, Hinduism, Buddhism, and the Baha'i Faith contradict one another, either all are wrong or one is right. The sermon then makes the case that Jesus Christ is uniquely trustworthy and different from all other religious leaders because of the historical evidence for his resurrection, and that trusting Jesus is the only basis for believing in heaven and eternal life.
 
 ## When to Follow This Sermon
 
@@ -19,7 +19,7 @@ This sermon teaches that all religions do not say the same thing and in fact con
 
 ### Step 1: Recognize That All Religions Contradict Each Other
 
-Acknowledge that major world religions contradict one another on core doctrines. Muhammad contradicts Jesus, the avatars of Hinduism contradict Siddhartha Gautama the Buddha, and they all contradict the Baha'i Faith. It is intellectually dishonest to claim that all religions say the same thing. Either all are wrong or one of them is right.
+Acknowledge that major world religions contradict one another on doctrines such as the nature of God, Jesus, salvation, and the afterlife. Muhammad contradicts Jesus, the avatars of Hinduism contradict Siddhartha Gautama the Buddha, and they all contradict the Baha'i Faith. It is intellectually dishonest to claim that all religions say the same thing. Either all are wrong or one of them is right.
 
 ### Step 2: Understand That Heaven Requires Trust
 

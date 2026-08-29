@@ -14,7 +14,7 @@ This sermon teaches that the two main reasons people miss God's divine design fo
 
 ### Step 1: Recognize the insult to your creator
 
-Understand that not liking yourself is an insult to God. He created each one of us uniquely and intentionally, taking time to knit us together in our mother's womb. The Amplified Bible says God created us "carefully and intricately." God knows exactly what He is doing, and He does things on purpose. Disliking the person God created you to be shows a lack of respect for His creative work.
+Understand that not liking yourself is an insult to God. He created each one of us uniquely and intentionally, taking time to knit us together in our mother's womb. The Amplified Bible says God created us "carefully and intricately." God knows exactly what He is doing, and He does everything on purpose. Disliking the person God created you to be shows a lack of respect for His creative work.
 
 ### Step 2: Stop trying to be like somebody else
 
@@ -26,7 +26,7 @@ Learn the difference between who you are and what you do. You may not like every
 
 ### Step 4: Stop people-pleasing out of fear
 
-Identify when you are doing things to keep people from getting mad at you or to avoid rejection. This fear of man leads to inauthentic behavior where you complain while doing things you don't want to do. When you people-please, your works are not pure, and while you may be saved, you will lose rewards in heaven.
+Identify when you are taking actions to keep people from getting mad at you or to avoid rejection. This fear of man leads to inauthentic behavior where you complain while doing what you don't want to do. When you people-please, your works are not pure, and while you may be saved, you will lose rewards in heaven.
 
 ### Step 5: Pray instead of manipulate
 
@@ -44,7 +44,7 @@ God gives you forgiveness so you can give forgiveness to others. He gives you me
 
 ### Example 1: Church attendance and job security
 
-Joyce Meyer shares that when she first had an opportunity in public ministry, she worked at a church where the man in charge reminded her of her father - strong and intimidating. Because she so wanted to minister and didn't want to lose her job, she did many things she shouldn't have, such as being at church too much when she should have been home with her family. This demonstrates how fear of losing position causes people to compromise their priorities and authenticity.
+Joyce Meyer shares that when she first had an opportunity in public ministry, she worked at a church where the man in charge reminded her of her father - strong and intimidating. Because she so wanted to minister and didn't want to lose her job, she took many actions she shouldn't have, such as being at church too much when she should have been home with her family. This demonstrates how fear of losing position causes people to compromise their priorities and authenticity.
 
 
 ### Example 2: Manipulating for church status
@@ -85,7 +85,7 @@ While Joyce and her husband Dave were still in the Lutheran church, there was a 
 
 ## Common Pitfalls
 
-- **Problem:** Doing things for the wrong motives to keep people from getting mad or to avoid rejection
+- **Problem:** Taking actions for the wrong motives to keep people from getting mad or to avoid rejection
   **Solution:** Pause and pray before acting. Ask God if this is what He wants you to do, rather than automatically saying yes to people.
 - **Problem:** Trying to be like somebody else and missing your unique God-given design
   **Solution:** Focus on your own gifts and calling. God created you intentionally, and comparing yourself to others steals your purpose.

@@ -31,7 +31,7 @@ Continue in God's Word daily. Do not treat church as a weekly visit — abide in
 
 ### Step 5: Understand Your New Identity in Christ
 
-From Romans 6, learn that you are no longer your old self. You have been buried with Christ in baptism and raised into a new life. Sin is lying to you when it tells you that you are your addiction. You are a blood-bought, completely converted son or daughter of the Living God who has a problem with [addiction]. Consider your old person dead.
+From Romans 6, learn that you are no longer your old self. You have been buried with Christ in baptism and raised into a new life. Sin is lying to you when it tells you that you are your addiction. You are a blood-bought, completely converted son or daughter of the Living God who has a problem with the sin they are battling. Consider your old person dead.
 
 ### Step 6: Press Into the Power of the Holy Spirit
 

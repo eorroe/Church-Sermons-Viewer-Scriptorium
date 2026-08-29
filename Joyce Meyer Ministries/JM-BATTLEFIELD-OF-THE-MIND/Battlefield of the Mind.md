@@ -18,7 +18,7 @@ When Satan puts a wrong or condemning thought in your mind, do not keep it. Imme
 
 ### Step 2: Keep a Book of Remembrance
 
-Record the specific things God has done for you in a dedicated journal or notebook. Write down answered prayers, unexpected blessings, and specific moments when God showed up for you. When you are having a difficult day, read through this book to remind yourself of God's faithfulness instead of focusing only on what you lack.
+Record the specific ways God has shown up for you in a dedicated journal or notebook. Write down answered prayers, unexpected blessings, and specific moments when God showed up for you. When you are having a difficult day, read through this book to remind yourself of God's faithfulness instead of focusing only on what you lack.
 
 ### Step 3: Choose to Be Thankful and Grateful
 
@@ -34,7 +34,7 @@ When doubt attacks your mind, take a moment to pause and examine what you truly 
 
 ### Step 6: Dare to Believe God for Big Things
 
-Because of your faith in Jesus, you can approach God with boldness, courage, and confidence. Do not let your mistakes or past failures keep you from asking God for significant things. Feed your faith by reading and speaking the promises of God, and do not be satisfied with weak faith when God wants you to trust Him for more.
+Because of your faith in Jesus, you can approach God with boldness, courage, and confidence. Do not let your mistakes or past failures keep you from asking God for significant needs. Feed your faith by reading and speaking the promises of God, and do not be satisfied with weak faith when God wants you to trust Him for more.
 
 ### Step 7: Trust God Even When You Do Not Understand
 
@@ -88,7 +88,7 @@ After a woman lied about Joyce and got her fired from her ministry position, God
 ## Common Pitfalls
 
 - **Problem:** Getting stuck in a wilderness season for years because of wrong mindsets like grumbling and complaining.
-  **Solution:** Recognize that complaining and fault-finding are wrong mindsets that keep you from the good plans God has for you. Choose the right mindset by purposely focusing on what you have, keeping a book of remembrance, and doing all things without grumbling.
+  **Solution:** Recognize that complaining and fault-finding are wrong mindsets that keep you from the good plans God has for you. Choose the right mindset by purposely focusing on what you have, keeping a book of remembrance, and in everything you do without grumbling.
 
 - **Problem:** Living by feelings and surface-level thoughts instead of going deeper, which leads to giving up when circumstances seem impossible.
   **Solution:** When doubt attacks, pause and ask yourself what you truly believe in your heart. Remember your past experiences with God, feed your faith with His specific promises, and choose to believe God's Word above your current circumstances. Do not bow down to how you feel.

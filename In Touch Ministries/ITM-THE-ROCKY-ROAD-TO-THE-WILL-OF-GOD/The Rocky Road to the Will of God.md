@@ -8,7 +8,7 @@ One of the most important subjects in the Bible is the will of God. Unbelievers 
 
 - When you need to understand why following God's will feels difficult
 - When working through obstacles that keep you from obeying God
-- When the user asks about discerning God's will for their life
+- When you are seeking to discern God's will for your life
 
 ## Steps
 

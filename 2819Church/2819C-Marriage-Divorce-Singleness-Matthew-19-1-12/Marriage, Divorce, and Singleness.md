@@ -56,7 +56,7 @@ Regardless of your marital status — married, divorced, or single — all of us
  
 ### Example 1: The Man from New York
 
-In the summer of 2024, by God's grace, 2819 Church baptized approximately one thousand brothers and sisters. Near the end of that baptism service, the preacher met a brother from New York who told him he had been on the verge of committing suicide until he found the ministry through social media. Through the proclamation of God's Word, this man was transferred from the domain of darkness into the kingdom of Christ. This testimony serves as a living reminder that the Word of God saves lives, that the church is called to reach the broken, and that no one is beyond the reach of God's grace — just as no one is beyond the reach of a Christ who will never issue a certificate of divorce against His own.
+In the summer of 2024, by God's grace, 2819 Church baptized a thousand brothers and sisters. Near the end of that baptism service, the preacher met a brother from New York who told him he had been on the verge of committing suicide until he found the ministry through social media. Through the proclamation of God's Word, this man was transferred from the domain of darkness into the kingdom of Christ. This testimony serves as a living reminder that the Word of God saves lives, that the church is called to reach the broken, and that no one is beyond the reach of God's grace — just as no one is beyond the reach of a Christ who will never issue a certificate of divorce against His own.
 
 ### Example 2: The Preacher's Own Marriage and the Dream
 

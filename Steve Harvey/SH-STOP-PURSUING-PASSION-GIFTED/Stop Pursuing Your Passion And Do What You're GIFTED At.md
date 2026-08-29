@@ -26,7 +26,7 @@ Stop focusing on your talent. Stop running away from your gift. Your gift will m
 
 ### Step 4: Trust that your gift will provide
 
-Your gift has made room for others and will make room for you. If you do your gift better than anyone else, you should be doing it. People make millions doing simple things like frying chicken or cutting hair because they found their gift. Go do that. Do your gift. Don't worry about which one of them talents.
+Your gift has made room for others and will make room for you. If you do your gift better than anyone else, you should be doing it. People make money doing simple things like frying chicken or cutting hair because they found their gift. Go do that. Do your gift. Don't worry about which one of them talents.
 
 ### Step 5: Have faith through difficult times
 
@@ -48,7 +48,7 @@ A friend who only cut grass as a young man. He charged $2 for the front and $2 f
 
 ### Example 2: Marie Callender - The Pie Baker
 
-A single mother who worked at a diner that was going out of business. She asked the owner to let her bake a pie to help make money. They sold every slice of the first pie. Demand grew so much she eventually installed a commercial oven in her house. The diner stopped selling hamburgers and only sold her pies. She eventually opened over 120 restaurants. She started with just one pie.
+A single mother who worked at a diner that was going out of business. She asked the owner to let her bake a pie to help make money. They sold every slice of the first pie. Demand grew so much she eventually installed a commercial oven in her house. The diner stopped selling hamburgers and only sold her pies. She eventually opened more than 120 restaurants. She started with just one pie.
 
 ### Example 3: Steve Harvey's Barber
 

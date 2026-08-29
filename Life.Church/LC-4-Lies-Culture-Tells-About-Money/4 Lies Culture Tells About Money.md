@@ -16,7 +16,7 @@ This sermon examines four cultural lies about money and contrasts them with bibl
 
 ### Step 1: Identify the First Lie - "You'll be happy when you buy things"
 
-Culture teaches that happiness comes from acquiring new possessions. This lie leads to financial bondage, comparison, and a never-ending cycle of desire. Scripture repeatedly warns against this (rich young ruler, man who built bigger barns in Luke 12).
+Culture teaches that happiness comes from acquiring new possessions. This lie leads to financial bondage, comparison, and a cycle of desire. Scripture repeatedly warns against this (rich young ruler, man who built bigger barns in Luke 12).
 
 Detailed instructions:
 - List the specific lies culture has told you about money and happiness
@@ -39,7 +39,7 @@ Detailed instructions:
 
 ### Step 3: Identify the Second Lie - "You don't need anyone else"
 
-Culture applauds self-sufficiency, but Scripture calls us to community. Married couples especially need to unite financially rather than keeping separate accounts. Singles need accountability and someone to talk to about money.
+Culture applauds self-sufficiency, but Scripture calls us to community. Married couples need to unite financially rather than keeping separate accounts. Singles need accountability and someone to talk to about money.
 
 Detailed instructions:
 - If married: combine checking accounts, create a budget together, and embrace your financial differences
