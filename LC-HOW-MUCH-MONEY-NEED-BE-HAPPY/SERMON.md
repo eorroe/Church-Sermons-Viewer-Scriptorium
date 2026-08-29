@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon by Pastor Chris from Life.Church explores the question of how much wealth is enough to find happiness and fulfillment. Drawing on biblical teachings from Luke 12, Matthew 6, Psalm 24, Malachi 3, and Proverbs 20, it challenges the lie that more possessions equal more happiness. The message calls listeners to recognize they are already wealthy compared to the 3.5 billion people living below the World Bank's $2.15/day international poverty line (2022 data), adopt a steward mindset instead of an owner mindset, practice tithing, and invest their time, talent, and money in eternal kingdom purposes rather than temporary earthly things.
+This sermon by Pastor Chris from Life.Church explores the question of how much wealth is enough to find happiness and fulfillment. Drawing on biblical teachings from Luke 12, Matthew 6, Psalm 24, Malachi 3, and Proverbs 20, it challenges the lie that more possessions equal more happiness. The message calls listeners to recognize they are already wealthy compared to the three billion people on planet earth living on two dollars a day, adopt a steward mindset instead of an owner mindset, practice tithing, and invest their time, talent, and money in eternal kingdom purposes rather than temporary earthly things.
 
 ## When to Follow This Sermon
 
@@ -16,7 +16,7 @@ This sermon by Pastor Chris from Life.Church explores the question of how much w
 
 ### Step 1: Recognize You Are Already Rich
 
-Compare your daily problems to those living on less than $2.15/day — the World Bank's 2022 international poverty line, affecting 3.5 billion people worldwide. A refrigerator full of food you do not feel like eating, a streaming service that buffers for a few seconds, or an Amazon package taking three days instead of two are all problems that would not exist for someone surviving on that income. God has already blessed you far beyond what most of the world experiences. Acknowledge this honestly instead of minimizing it. Refuse to make excuses for the ways God has blessed you, just as you would never apologize for a blessed marriage or healthy children. This acknowledgment is the starting point for true stewardship.
+Compare your daily problems to those living on two dollars a day — the three billion people on planet earth living on that income. A refrigerator full of food you do not feel like eating, a streaming service that buffers, or an Amazon package taking three days instead of two are all problems that would not exist for someone surviving on that income. God has already blessed you far beyond what most of the world experiences. Acknowledge this honestly instead of minimizing it. Refuse to make excuses for the ways God has blessed you, just as you would never apologize for a blessed marriage or healthy children. This acknowledgment is the starting point for true stewardship.
 
 ### Step 2: Shift Your Mindset From Owner to Steward
 
@@ -24,7 +24,7 @@ Psalm 24:1 declares, "The earth is the Lord's, and everything in it." Everything
 
 ### Step 3: Return the First Tenth — Practice the Tithe
 
-Bring the first 10% of your income back to God (Malachi 3:10). The word "bring" is intentional — you do not give what is yours; you return what already belongs to God. The tithe is not about the amount; it is about the order. God must be first in your finances, just as He is meant to be first in your day and your week. When you return the tithe before anything else, you declare God's ownership over the rest. This act of obedience is where many people hit a "brick wall" in their faith, but it is also where breakthrough begins.
+Bring the first 10% of your income back to God (Malachi 3:10). The word "bring" is intentional — you do not give what is yours; you return what already belongs to God. The tithe is not about the amount; it is about the order. God must be first in your finances, just as He is meant to be first in your day and your week. When you return the tithe before anything else, you declare God's ownership over the rest. This act of obedience is where you hit a "brick wall" in your faith, but it is also where breakthrough begins.
 
 ### Step 4: Invest in Heaven More Than You Spend on Earth
 
@@ -85,7 +85,7 @@ On a family trip abroad, Pastor Chris's sons exchanged all their American dollar
 ## Common Pitfalls
 
 - **Problem:** Comparing your wealth only to those who have more, which keeps you in a cycle of dissatisfaction
-  **Solution:** Compare your blessings to the 3.5 billion people living below the World Bank's $2.15/day international poverty line (2022 data). Practice gratitude for what you already have before desiring more.
+  **Solution:** Compare your blessings to the three billion people on planet earth living on two dollars a day. Practice gratitude for what you already have before desiring more.
 - **Problem:** Treating the tithe as a "give" rather than a "bring" — seeing it as losing something rather than returning what belongs to God
   **Solution:** Reframe the tithe as worship and stewardship. You are not losing income; you are acknowledging rightful ownership and building your life in God's divine order.
 - **Problem:** Spending everything on earth-based comforts and entertainment, leaving nothing invested in eternal causes
