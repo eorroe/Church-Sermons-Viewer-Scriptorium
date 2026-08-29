@@ -40,7 +40,7 @@ Any spiritual gift exercised in alignment with the agenda of heaven is an act of
 
 ### Step 7: Take the Next Step of Faith
 
-Do not wait until you feel ready. If you have never tithed, return the tithe. If you have never fully surrendered your life to Jesus, that comes first — you cannot steward well what you do not yet belong to. Call out to Jesus, ask Him to forgive your sin, and surrender your whole life to Him. Then take the concrete step of returning the first 10% of your income to God through your local church. Faith is demonstrated in the moment you act even when your bills are staring back at you. God invites you into the greatest adventure of all time — being written into His story.
+Do not wait until you feel ready. If you have never tithed, return the tithe. If you have never fully surrendered your life to Jesus, that comes first — you cannot be a faithful steward until you first belong to God. Call out to Jesus, ask Him to forgive your sin, and surrender your whole life to Him. Then take the concrete step of returning the first 10% of your income to God through your local church. Faith is demonstrated in the moment you act even when your bills are staring back at you. God invites you into the greatest adventure of all time — being written into His story.
 
 ## Examples
 
