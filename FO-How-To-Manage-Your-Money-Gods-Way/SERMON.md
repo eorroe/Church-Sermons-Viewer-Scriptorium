@@ -2,7 +2,7 @@
 
 ## Overview
 
-Dave Ramsey teaches that managing money God's way requires a biblical foundation built on the more than 2,500 scriptures on money found in the Bible, combined with practical, actionable financial steps he teaches through his Financial Peace University program. He shares his personal journey from bankruptcy at age 28 and spiritual surrender to building a five-step financial framework that emphasizes budgeting, debt elimination using the debt snowball method, wise relationships, saving, and generous giving. The sermon calls listeners to stop being controlled by money and instead manage it as faithful stewards so they can experience financial peace and become able to bless others.
+Dave Ramsey teaches that managing money God's way requires a biblical foundation built on the more than 2,500 scriptures on money found in the Bible, combined with practical, actionable financial steps he teaches through his Financial Peace University program. He shares his personal journey from bankruptcy at age 28 and spiritual surrender to building a five-step financial framework that emphasizes budgeting, debt elimination using the debt snowball method, wise relationships, saving, and generous giving. The sermon calls listeners to stop being controlled by money and instead manage it as stewards so they can experience financial peace and become able to bless others.
 
 ## When to Follow This Sermon
 
@@ -21,17 +21,17 @@ Create a written monthly budget that lists every expected income source and assi
 
 Stop borrowing money. The borrower is slave to the lender, so eliminate consumer debt including credit cards, car notes, and personal loans. Use the debt snowball method, which targets your smallest balances first, to attack your debts systematically. When you have no payments, every dollar of income becomes available for saving, giving, and building wealth. Do not take on new debt for purchases such as vehicles, furniture, or vacations; save up and pay cash instead.
 
-### Step 3: Foster High-Quality Relationships
+### Step 3: Foster Intentional Relationships
 
 Intentionally choose the people you spend the most time with, because you become who you hang around with. Read the same books, have the same conversations, and align your mindset with people of character who encourage financial integrity, generosity, and spiritual growth. Surround yourself with people who model wise financial choices and life decisions. Avoid relationships that regularly lead you toward decisions such as reckless spending or going into debt.
 
 ### Step 4: Save and Invest Money
 
-Build a fully-funded emergency fund of 3 to 6 months of expenses before investing so unexpected events such as job loss or a market downturn do not push you back into debt. Saving for emergencies is a required financial step before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in diversified, long-term growth vehicles such as low-cost growth stock mutual funds inside tax-advantaged accounts. Live below your means, delay pleasure, and let compound growth work in your favor over a period of 30 years or more.
+Build an emergency fund of 3 to 6 months of expenses before investing so unexpected events such as job loss or a market downturn do not push you back into debt. Saving for emergencies is a required financial step before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in growth stock mutual funds inside tax-advantaged accounts. Live below your means, delay pleasure, and let compound growth work in your favor over a period of at least 30 years.
 
 ### Step 5: Build Wealth to Be Generous
 
-Use the income freed up by budgeting, debt freedom, and saving to bless others generously. Wealth is a tool that makes a person's existing character more visible. Look for specific, practical ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity is a practical demonstration of God's love for both the giver and the receiver.
+Use the income freed up by budgeting, debt freedom, and saving to bless others generously. Wealth is a tool that makes you more of what you already are. Look for specific, practical ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity is a practical demonstration of God's love for both the giver and the receiver.
 
 ## Examples
 
@@ -41,7 +41,7 @@ Dave Ramsey describes standing in a grocery store checkout line behind a stresse
 
 ### Example 2: The Three Little Pigs and Emergency Preparedness
 
-Dave uses the story of the three little pigs to illustrate the necessity of a 3- to 6-month emergency fund. The first two pigs lived impulsively and were unprepared when trouble came; the third pig delayed pleasure, planned ahead, and built a house that could withstand the storm. He applies this to modern crises such as pandemics, recessions, and job loss, urging listeners to be the third pig by building a fully-funded emergency fund of 3 to 6 months of expenses before hardship strikes so they are not destroyed by unexpected events.
+Dave uses the story of the three little pigs to illustrate the necessity of a 3- to 6-month emergency fund. The first two pigs lived impulsively and were unprepared when trouble came; the third pig delayed pleasure, planned ahead, and built a house that could withstand the storm. He applies this to modern crises such as pandemics, recessions, and job loss, urging listeners to be the third pig by building an emergency fund of 3 to 6 months of expenses before hardship strikes so they are not destroyed by unexpected events.
 
 ## Best Practices
 
@@ -49,15 +49,15 @@ Dave uses the story of the three little pigs to illustrate the necessity of a 3-
 - ✅ Pay off consumer debt including credit cards, car notes, and personal loans systematically and stop using credit cards for new purchases
 - ✅ Choose your closest relationships intentionally based on character traits such as financial integrity and generosity
 - ✅ Build a 3- to 6-month emergency fund before investing in the market
-- ✅ Invest monthly in diversified, long-term growth vehicles
+- ✅ Invest monthly in growth stock mutual funds
 - ✅ Look for practical, tangible ways to bless people in need around you
 - ✅ Spend less than you earn and avoid increasing your spending as your income rises
-- ✅ Be generous; Dave Ramsey teaches that generosity is contagious
+- ✅ Be generous
 
 ## Keep In Mind
 
-- Dave Ramsey teaches that money makes a person's existing character traits more visible: if you are angry, money gives you more power to act on that anger; if you are generous, money gives you more capacity to be generous.
-- Being broke is a short-term situation; being poor is a long-term condition that you can move beyond through learning and action
+- Dave Ramsey teaches that money makes you more of what you are: if you are angry, money gives you more power to act on that anger; if you are generous, money gives you more capacity to be generous.
+- Being broke is a situation; being poor is a condition that you can move beyond through learning and action
 - God says no to prayers for more money when you are mishandling what you already have, as illustrated in the parable of the talents in Matthew 25:14–30
 - It is difficult to be generous when you are broke, disorganized, or fighting with your spouse over money
 - Practical help such as feeding a baby, putting tires on a single mom's car, or helping someone get a degree is how Dave Ramsey says generosity shows up in everyday life
@@ -86,7 +86,7 @@ Dave uses the story of the three little pigs to illustrate the necessity of a 3-
   **Solution:** Prioritize building a 3- to 6-month emergency fund before investing or making non-essential purchases such as vacations; be the third pig, not the first two.
 
 - **Problem:** You think wealth is evil and that rich people tend to be greedy.
-  **Solution:** Understand that money only magnifies what is already in your heart; Dave Ramsey says the wealthy people he has met through his work—tens of thousands of them—are typically generous, servant-hearted, kind, gentle, and giving people, and you can build wealth to be a better steward and giver.
+  **Solution:** Understand that money only magnifies what is already in your heart; Dave Ramsey says the wealthy people he has met through his work are typically generous, servant-hearted, kind, gentle, and giving people, and you can build wealth to be a better steward and giver.
 
 - **Problem:** You look down on people who are struggling instead of seeing an opportunity to help.
   **Solution:** Practice humility and awareness; replace judgment with generosity so you can respond practically when God places a need in front of you.
