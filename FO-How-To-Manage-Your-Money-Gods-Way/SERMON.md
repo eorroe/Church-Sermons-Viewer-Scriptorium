@@ -2,7 +2,7 @@
 
 ## Overview
 
-Dave Ramsey teaches that managing money God's way requires a biblical foundation combined with practical, actionable financial steps. He shares his personal journey from bankruptcy and spiritual surrender to building a biblically-based financial framework that emphasizes budgeting, debt elimination, wise relationships, saving, and generous giving. The sermon calls listeners to stop being controlled by money and instead manage it as faithful stewards so they can experience financial peace and become positioned to bless others.
+Dave Ramsey teaches that managing money God's way requires a biblical foundation combined with practical, actionable financial steps. He shares his personal journey from bankruptcy and spiritual surrender to building a biblically-based financial framework that emphasizes budgeting, debt elimination, wise relationships, saving, and generous giving. The sermon calls listeners to stop being controlled by money and instead manage it as faithful stewards so they can experience financial peace and become able to bless others.
 
 ## When to Follow This Sermon
 
@@ -27,17 +27,17 @@ Intentionally choose the people you spend the most time with because you become 
 
 ### Step 4: Save and Invest Money
 
-Build an emergency fund before investing so unexpected events do not push you back into debt. Save three to six months of expenses and treat it as a top financial priority before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in diversified, long-term growth vehicles such as low-cost growth stock mutual funds inside tax-advantaged accounts. Live below your means, delay pleasure, and let compound growth work in your favor over decades.
+Build an emergency fund before investing so unexpected events do not push you back into debt. Save for emergencies and treat it as a top financial priority before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in diversified, long-term growth vehicles such as low-cost growth stock mutual funds inside tax-advantaged accounts. Live below your means, delay pleasure, and let compound growth work in your favor over decades.
 
 ### Step 5: Build Wealth to Be Generous
 
-Use the surplus income created by budgeting, debt freedom, and saving to bless others generously. Wealth is not evil; it is a tool that amplifies who you already are. Look for direct, tangible ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity breaks the cycle of fear and self-centeredness and creates a tangible experience of God's love for both the giver and the receiver.
+Use the remaining income created by budgeting, debt freedom, and saving to bless others generously. Wealth is not evil; it is a tool that amplifies who you already are. Look for direct, tangible ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity breaks the cycle of fear and self-centeredness and creates a practical demonstration of God's love for both the giver and the receiver.
 
 ## Examples
 
 ### Example 1: The Grocery Store "Superman"
 
-Dave Ramsey describes standing in a grocery store checkout line behind a stressed single mother whose card was repeatedly declined. Before he could intervene, a construction worker in muddy clothes stepped forward, handed the cashier $300, and quietly paid for her groceries. The cashier and the mother both cried, and Dave realized this was the highest and best use of money on the planet. It demonstrates that generosity does not require wealth—it requires positioning yourself so you can respond when needs arise.
+Dave Ramsey describes standing in a grocery store checkout line behind a stressed single mother whose card was repeatedly declined. Before he could intervene, a construction worker in muddy clothes stepped forward, handed the cashier $300, and quietly paid for her groceries. The cashier and the mother both cried, and Dave realized this was one of the most meaningful uses of money. It demonstrates that generosity does not require wealth—it requires preparing yourself so you can respond when needs arise.
 
 ### Example 2: The Three Little Pigs and Emergency Preparedness
 
@@ -57,9 +57,9 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
 ## Keep In Mind
 
 - Money magnifies who you already are; if you are angry, money makes you angrier, but if you are generous, money makes you more generous
-- Being broke is a temporary state; being poor is a persistent condition that you can move beyond through learning and action
+- Being broke is a short-term situation; being poor is a long-term condition that you can move beyond through learning and action
 - God says no to prayers for more money when you are mishandling what you already have
-- It is hard to be generous when you are broke, disorganized, or fighting with your spouse over money
+- It is difficult to be generous when you are broke, disorganized, or fighting with your spouse over money
 - Practical help such as feeding a baby, putting tires on a single mom's car, or helping someone get a degree is tangible evidence of God's love
 
 ## Security & Safety Notes
@@ -79,14 +79,14 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
 - **Problem:** You believe credit cards and loans are normal parts of adult life.
   **Solution:** Recognize that the borrower is slave to the lender; pay cash for everything, and if you cannot afford it, do not buy it.
 
-- **Problem:** You are surrounded by people who spend recklessly and mock financial discipline.
+- **Problem:** You are surrounded by people who spend recklessly and ridicule financial discipline.
   **Solution:** Intentionally choose mentors and friends who live with character; you become like the people you hang around with.
 
 - **Problem:** You spend everything you make and have no savings for emergencies.
   **Solution:** Prioritize building an emergency fund before investing or making large discretionary purchases; be the third pig, not the first two.
 
-- **Problem:** You think wealth is evil and that rich people are automatically greedy.
+- **Problem:** You think wealth is evil and that rich people tend to be greedy.
   **Solution:** Understand that money only magnifies what is already in your heart; most wealthy people are generous, servant-hearted, kind, gentle, giving people, and you can build wealth to be a better steward and giver.
 
-- **Problem:** You judge people in need instead of seeing an opportunity to help.
+- **Problem:** You look down on people who are struggling instead of seeing an opportunity to help.
   **Solution:** Practice humility and awareness; replace judgment with generosity so you can respond practically when God places a need in front of you.
