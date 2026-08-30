@@ -17,7 +17,7 @@ This sermon teaches how to demonstrate textual corruption in the Islamic traditi
 
 ### Step 1: Establish the First Compilation by Abu Bakr
 
-Cite Sahih Bukhari 4986. Explain that Abu Bakr compiled the first written Quran only after the Battle of Yamama, when many Quran memorizers (hafiz) were killed. Umar urged Abu Bakr to compile the Quran because he feared more casualties would cause large parts of the Quran to be lost. Abu Bakr resisted at first, asking, "How can you do something Allah's Apostle did not do?" — labeling it bidda (heresy, innovation). This reveals that Muhammad never compiled the Quran into a single manuscript during his lifetime.
+Cite Sahih Bukhari 4986. Explain that Abu Bakr compiled the first written Quran only after the Battle of Yamama, when Quran memorizers (hafiz) were killed during that battle. Umar urged Abu Bakr to compile the Quran because he feared casualties would cause substantial portions of the Quranic text to be lost. Abu Bakr resisted at first, asking, "How can you do something Allah's Apostle did not do?" — labeling it bidda (heresy, innovation). This reveals that Muhammad never compiled the Quran into a single manuscript during his lifetime.
 
 ### Step 2: Expose the Difficulty of Collection
 
@@ -53,7 +53,7 @@ When a Muslim claims recitation differences were merely dialectal, show that His
 
 ### Step 10: Challenge Quran-Only Muslims with Multiple Existing Qurans
 
-Present multiple physical Qurans (e.g., Hafs, Warsh, Qalun, Durra) and ask a Quran-only Muslim which one is the preserved word of Allah. If they claim their version is correct, ask why other authentic versions exist with different readings. This forces them to confront physical textual differences they cannot explain without hadith.
+Present the Hafs, Warsh, Qalun, and Durra Qurans physically and ask a Quran-only Muslim which one is the preserved word of Allah. If they claim their version is correct, ask why other authentic versions exist with different readings. This forces them to confront physical textual differences they cannot explain without hadith.
 
 ## Examples
 
@@ -92,7 +92,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
 - The argument relies entirely on hadiths that Muslims themselves accept as authentic (Sahih Bukhari, Sahih Muslim). If a Muslim rejects these hadiths, the entire argument collapses.
 - Abrogation (naskh) is the standard Muslim response. Always be ready to demonstrate that abrogation requires Muhammad's presence and confirmation.
 - The Quran-only Muslim presents a special challenge: they reject hadith entirely. Force them to choose between multiple physical Qurans.
-- Some Muslims argue that memorization was perfect but written compilation was secondary. The hadiths explicitly show that memorization failed — entire chapters were forgotten.
+- Some contemporary Muslim apologists argue that memorization was perfect but written compilation was secondary. Sahih Bukhari 4986 and Sahih Muslim 1452 explicitly show that memorization failed — entire chapters were forgotten.
 - The tribal dialect argument fails when both disputants were from the same tribe (Quraysh).
 - Uthman's standardization was a political act as much as a religious one. His committee was composed of his own family and loyalists.
 - The "witness of two" argument used by some Muslims for Abu Khuzayma al-Ansari relies on a different hadith (Bukhari 4987) about a horse purchase — conflating two separate events.
