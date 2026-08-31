@@ -57,7 +57,7 @@ Write down 3–5 specific financial dreams from your past (career, lifestyle, or
 
 #### Keep In Mind
 
-- Your financial situation can change rapidly — a health diagnosis, job loss, or economic shift can alter your finances quickly
+- Your financial situation can change in an instant — a health diagnosis, job loss, or economic shift can alter your finances in an instant
 - The purpose of honest assessment is awareness, not shame
 - If you can imagine your ideal life, you can build toward your ideal life
 - Comfort does not equal fulfillment — choose growth
@@ -87,7 +87,7 @@ Write down 3–5 specific financial dreams from your past (career, lifestyle, or
 
 ##### Example 1: Quarterly Financial Health Check
 
-Gather bank statements, credit reports, bills, and your net worth calculation. Score yourself on the four criteria. If you score below three, you are in the False Positive Alert zone per the book's framework and must take immediate corrective action.
+Gather bank statements, credit reports, bills, and your net worth calculation. Score yourself on the four criteria. If you score below three, you are in the False Positive Alert zone per the book's framework and must take corrective action.
 
 ##### Example 2: Age-Based Net Worth Comparison
 
@@ -99,7 +99,7 @@ Gather your current financial information and answer four questions honestly: sa
 
 #### Step 2: Apply the 1X / 3X / 5X / 10X Net Worth Formula
 
-Determine your gross annual income and age bracket. Calculate your target net worth: Age 20–29 = 1X, Age 30–39 = 3X, Age 40–49 = 5X, and at least age 50 = 10X. Recalculate annually.
+Determine your gross annual income and age bracket. Calculate your target net worth: Age 20–29 = 1X, Age 30–39 = 3X, Age 40–49 = 5X, and age 50 and above = 10X. Recalculate annually.
 
 #### Step 3: Break Out of False Positive Mindset
 
@@ -228,7 +228,7 @@ Reframe money as a tool, not a master. Learn the basics of a balance sheet — a
 - ✅ Catch Blamer statements and immediately reframe them
 - ✅ Buy term life insurance specifically — per the book, it is cost-effective
 - ✅ Be honest with yourself about what each person in your circle contributes to or detracts from your financial progress (per the book's criteria)
-- ✅ Pick competitors who stretch you, not those 100 levels above where you feel defeated
+- ✅ Pick competitors who stretch you, not those above where you feel defeated
 - ✅ Make commitments specific and time-bound
 - ❌ Don't hide details hoping the situation will resolve itself
 - ❌ Don't blame the government, billionaires, your employer, or your upbringing
@@ -506,7 +506,7 @@ Calculate total monthly bills. Set up auto-withdrawal for every fixed bill. Ensu
 
 #### Step 11: Never Use Your Reserve Account for Non-Cash-Flow-Generating Activities
 
-Define the Reserve Account's sole purpose: funding cash-flow-generating investments. Before any withdrawal, conduct extensive research and analysis. Only withdraw for opportunities that meet strict criteria (property at 60 cents on the dollar, undervalued stocks, special business inventory).
+Define the Reserve Account's purpose: funding investments. Before any withdrawal, conduct extensive research and analysis. Only withdraw for opportunities that meet strict criteria (property at 60 cents on the dollar, undervalued stocks, special business inventory).
 
 #### Step 12: Maintain and Track Milestones Aggressively
 
@@ -1022,7 +1022,7 @@ Schedule a quarterly review. Pull your current personal financial statement. Reb
 
 #### Step 4: Adopt the Game Facer Mindset
 
-Complete the Blamer-Dreamer-Game Facer self-assessment: write down your last 10 thoughts about money. Categorize each as Blamer (external blame: 'The system is rigged'), Dreamer (wishful thinking without action: 'Someday I'll be rich'), or Game Facer (ownership + action: 'I will increase my income by $1,000/month in 90 days by making 10 additional prospecting calls'). Per the book's Blamer-Dreamer-Game Facer self-assessment, if more than 5 are Blamer or Dreamer, you have a mindset problem requiring immediate correction.
+Complete the Blamer-Dreamer-Game Facer self-assessment: write down your last 10 thoughts about money. Categorize each as Blamer (external blame: 'The system is rigged'), Dreamer (wishful thinking without action: 'Someday I'll be rich'), or Game Facer (ownership + action: 'I will increase my income by $1,000/month in 90 days by making 10 additional prospecting calls'). Per the book's Blamer-Dreamer-Game Facer self-assessment, if most are Blamer or Dreamer, you have a mindset problem requiring correction.
 
 #### Step 5: Follow the 11-Step Road Map Consistently
 
@@ -1042,7 +1042,7 @@ Review your 5 core goals every Sunday evening. If you have drifted, write down t
 
 #### Best Practices
 
-- Per the book, think much bigger than you have in the past
+- Per the book, think bigger than you have in the past
 - ✅ Use a specific financial metric for annual reflection — such as net worth, savings rate, or passive income — that connects to your Lifestyle by Design goals
 - ✅ Schedule quarterly reviews on the same day each quarter (e.g., the first Saturday of January, April, July, October). Set a 2-hour reminder 1 week in advance. Use this 60-minute agenda: (1) review net worth change since last quarter, (2) reassess False Positive Test score, (3) update goals for the next quarter, (4) identify 1–2 course corrections. If you miss a quarter, reschedule within 48 hours — do not skip it.
 - ✅ Accept full responsibility for your financial decisions
@@ -1099,7 +1099,7 @@ Review your 5 core goals every Sunday evening. If you have drifted, write down t
 
 |Term|Definition|Index Pages|
 |----|----------|-----------|
-|1X / 3X / 5X / 10X Net Worth Formula|Age-based net worth targets: 1X income for ages 20–29, 3X for 30–39, 5X for 40–49, and 10X for at least age 50|Chapter 1, Chapter 5, Conclusion|
+|1X / 3X / 5X / 10X Net Worth Formula|Age-based net worth targets: 1X income for ages 20–29, 3X for 30–39, 5X for 40–49, and 10X for age 50 and above|Chapter 1, Chapter 5, Conclusion|
 |Accumulation Mode|The wealth-building phase where you aggressively save and invest every dollar above survival expenses, maintaining a "broke mindset" until reaching financial independence|Chapter 5, Chapter 6, Conclusion|
 |Accumulation Mode Mantra|The phrase "I'm in Accumulation Mode" used to decline social spending invitations while creating social accountability|Chapter 5|
 |Achievements Folder|A dedicated digital or physical collection of awards, testimonials, performance data, and accomplishments used as evidence in raise negotiations|Chapter 8|
@@ -1144,7 +1144,7 @@ Review your 5 core goals every Sunday evening. If you have drifted, write down t
 |Quarterly Net Worth Review|A quarterly ritual of rebuilding your personal financial statement to track net worth trends and catch financial drift early|Chapter 12 (Conclusion)|
 |Raise Folder|A collection of documented achievements, awards, testimonials, and results used as evidence when negotiating a raise|Chapter 8|
 |Research-and-Analysis Protocol|A non-negotiable pre-decision habit of consulting three independent sources, documenting findings, and testing risk perception before any major financial action|Chapter 4|
-|Reserve Account|A bank account at a separate institution designated solely for wealth accumulation and investment, with no easy access instruments|Chapter 5|
+|Reserve Account|A bank account at a separate institution designated for wealth accumulation and investment, with no easy access instruments|Chapter 5|
 |Rich Zone|The wealth zone where your invested net worth generates enough passive income to cover your Lifestyle by Design without needing to work|Chapter 5|
 |Risk Tolerance|Your ability and willingness to withstand financial loss — clarified through research rather than emotion|Chapter 4|
 |Self-Esteem (Financial)|The internal belief in your worthiness of financial success, built through documented accomplishments and empowered self-talk|Chapter 2|
