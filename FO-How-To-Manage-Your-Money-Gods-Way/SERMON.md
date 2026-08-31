@@ -27,7 +27,7 @@ Intentionally choose the people you spend the most time with, because you become
 
 ### Step 4: Save and Invest Money
 
-Build an emergency fund before investing so unexpected events such as job loss or a market downturn do not push you back into debt. Saving for emergencies is a required financial step before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in growth stock mutual funds inside a Roth IRA. Live below your means, delay pleasure, and let compound growth work in your favor over approximately 30 years.
+Build an emergency fund before investing so unexpected events such as job loss or a market downturn do not push you back into debt. Saving for emergencies is a required financial step before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in growth stock mutual funds inside a Roth IRA. Live below your means, delay pleasure, and let compound growth work in your favor over 30 years.
 
 ### Step 5: Build Wealth to Be Generous
 
@@ -59,7 +59,7 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
 - Dave Ramsey teaches that money makes you more of what you are: if you are angry and you get money, it affects the people around you; if you are grace-filled and compassionate and you get money, it expands your ability to be grace-filled and compassionate; if you are generous and you get money, you become what he calls a philanthropist and can change entire ministries and communities.
 - Being broke is a situation; being poor is a condition that poor people stay in unless they learn and act differently
 - If you are faithful in the little things, then God will give you more to manage; if you mishandle money, God will answer your prayer for more by saying no, as illustrated in the parable of the talents where the man who mishandled money had it taken from him and given to those who managed better.
-- It is difficult to be generous when you are broke, disorganized, or fighting with your spouse over money
+- When you are broke, disorganized, or fighting with your spouse over money, it is hard to be generous
 - Practical help such as feeding a baby, putting tires on a single mom's car, or helping someone get a degree is how Dave Ramsey says generosity shows up in everyday life
 
 ## Security & Safety Notes
