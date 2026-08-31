@@ -316,7 +316,7 @@ Synthesize Core Values, Visualization, Doorman, and Goal Setting into a written 
 - ✅ Write the roadmap in specific, concrete detail
 - ❌ Don't let other people's expectations dictate your core values
 - ❌ Don't judge your vision as realistic or unrealistic during the exercise
-- ❌ Don't agree to activities out of guilt, obligation, or FOMO
+- ❌ Don't agree to activities out of guilt, obligation, or Fear of Missing Out (FOMO)
 - ❌ Don't set small, "safe" goals that don't require real effort
 - ❌ Don't confuse busywork with action
 - ❌ Don't write a vague wish list — every area should be specific enough to create goals from
