@@ -37,7 +37,7 @@ Cite the hadith where Uthman ordered a committee to rewrite the Quran in perfect
 
 ### Step 6: Demonstrate Internal Recitation Conflicts
 
-Cite the narration about Abu Musa al-Ash'ari and the 300 reciters of Basra. Abu Musa admitted he forgot an entire surah comparable in length to Surah At-Tawbah (approximately 129 verses). He only remembered one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third, and nothing would fill the stomach of the son of Adam but dust." Search the Quran — that verse and surah do not exist in any Quran today. Abu Musa alone forgot two entire chapters after Muhammad's death.
+Cite the narration about Abu Musa al-Ash'ari and the 300 reciters of Basra. Abu Musa admitted he forgot an entire surah comparable in length to Surah At-Tawbah (about 129 verses). He only remembered one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third, and nothing would fill the stomach of the son of Adam but dust." Search the Quran — that verse and surah do not exist in any Quran today. Abu Musa alone forgot two entire chapters after Muhammad's death.
 
 ### Step 7: Show the Recitation Dispute Between Companions
 
@@ -51,7 +51,7 @@ Cite Aisha's narration that a verse stating "10 clear sucklings make marriage un
 
 When a Muslim claims recitation differences were merely dialectal, show that Hisham and Umar spoke the same dialect (Quraysh) yet Umar grabbed Hisham by the collar and dragged him to Muhammad for reciting differently. When a Muslim invokes abrogation, demonstrate that abrogation must be confirmed by Muhammad — he must be present to declare a verse abrogated. After his death, no one has authority to remove verses.
 
-### Step 10: Challenge Quran-Only Muslims with Multiple Existing Qurans
+### Step 10: Challenge Quran-Only Muslims with Hafs, Warsh, Qalun, and Durra Recitational Traditions
 
 Present the Hafs, Warsh, Qalun, and Durra recitational traditions of the Quran physically and ask a Quran-only Muslim which one is the preserved word of Allah. If they claim their version is correct, ask why other authentic versions exist with different readings. This forces them to confront physical textual differences they cannot explain without hadith.
 
