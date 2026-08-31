@@ -741,7 +741,7 @@ Use evenings and weekends for preparation, learning, and skill-building. Make pr
 - Choosing not to specialize leads to weaker results in your chosen field
 - Amateurs struggle; specialized skills increase earning potential
 - Your employer pays you for the value you bring, not for your lack of skills
-- Multiple skills can create additional opportunities and unexpected pathways
+- Skills can create additional opportunities and unexpected pathways
 - The busiest, wealthiest people you know also invest time in skill development
 
 #### Security & Safety Notes
