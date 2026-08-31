@@ -23,7 +23,7 @@ Stop borrowing money. The borrower is slave to the lender, so eliminate consumer
 
 ### Step 3: Foster Intentional Relationships
 
-Intentionally choose the people you spend the most time with, because you become who you hang around with. Read the same books, have the same conversations, and align your mindset with people of character who encourage financial discipline, generosity, and spiritual growth. Surround yourself with people who model wise financial choices and life decisions. Avoid relationships that regularly lead you toward decisions such as reckless spending or going into debt.
+Intentionally choose the people you spend the most time with, because you become who you hang around with. Read the same books, have the same conversations, and align your mindset with people of character who encourage financial discipline, generosity, and spiritual growth. Surround yourself with people who model wise financial choices and life decisions. Avoid relationships that lead you toward decisions such as reckless spending or going into debt.
 
 ### Step 4: Save and Invest Money
 
