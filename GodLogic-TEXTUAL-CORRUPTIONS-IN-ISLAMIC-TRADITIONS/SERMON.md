@@ -37,7 +37,7 @@ Cite the hadith where Uthman ordered a committee to rewrite the Quran in perfect
 
 ### Step 6: Demonstrate Internal Recitation Conflicts
 
-Cite the narration about Abu Musa al-Ash'ari and the 300 reciters of Basra. Abu Musa admitted he forgot an entire surah comparable in length to Surah At-Tawbah (approximately 129 verses). He only remembered one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third, and nothing would fill the stomach of the son of Adam but dust." Search the Quran — that verse and surah do not exist in any Quran today. Entire chapters were forgotten after Muhammad's death.
+Cite the narration about Abu Musa al-Ash'ari and the 300 reciters of Basra. Abu Musa admitted he forgot an entire surah comparable in length to Surah At-Tawbah (approximately 129 verses). He only remembered one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third, and nothing would fill the stomach of the son of Adam but dust." Search the Quran — that verse and surah do not exist in any Quran today. Abu Musa alone forgot at least two entire chapters after Muhammad's death.
 
 ### Step 7: Show the Recitation Dispute Between Companions
 
@@ -63,7 +63,7 @@ Aisha reported: "It was revealed in the Holy Quran that 10 clear sucklings make 
 
 ### Example 2: Abu Musa's Forgotten Surah
 
-Abu Musa al-Ash'ari told 300 Basran reciters: "We used to recite a surah which resembled in length and severity to Surah At-Tawbah (129 verses). I have however forgotten it." He could only recall one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third and nothing would fill the stomach of the son of Adam but dust." This verse does not exist in the current Quran. Entire chapters were lost after Muhammad's death.
+Abu Musa al-Ash'ari told 300 Basran reciters: "We used to recite a surah which resembled in length and severity to Surah At-Tawbah (129 verses). I have however forgotten it." He could only recall one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third and nothing would fill the stomach of the son of Adam but dust." This verse does not exist in the current Quran. Abu Musa alone lost at least two entire chapters after Muhammad's death.
 
 ### Example 3: Abdullah ibn Masud's Rejected Recitation
 
@@ -92,7 +92,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
 - The argument relies entirely on hadiths that Muslims themselves accept as authentic (Sahih Bukhari, Sahih Muslim). If a Muslim rejects these hadiths, the entire argument collapses.
 - Abrogation (naskh) is the standard Muslim response. Always be ready to demonstrate that abrogation requires Muhammad's presence and confirmation.
 - The Quran-only Muslim presents a special challenge: they reject hadith entirely. Force them to choose between multiple physical Qurans.
-- Some contemporary Muslim apologists argue that memorization was perfect but written compilation was secondary. Sahih Bukhari 4986 and Sahih Muslim 1452 explicitly show that memorization failed — entire chapters were forgotten.
+- Some contemporary Muslim apologists argue that memorization was perfect but written compilation was secondary. Sahih Bukhari 4986 and Sahih Muslim 1452 explicitly show that memorization was not perfectly reliable — Abu Musa forgot at least two entire chapters.
 - The tribal dialect argument fails when both disputants were from the same tribe (Quraysh).
 - Uthman's standardization was a political act as much as a religious one. His committee was composed of his own family and loyalists.
 - The "witness of two" argument used by some Muslims for Abu Khuzayma al-Ansari relies on a different hadith (Bukhari 4987) about a horse purchase — conflating two separate events.
@@ -117,7 +117,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
 - **Problem:** Muslim claims Abu Khuzayma al-Ansari had "witness equal to two."
   **Solution:** Show that the hadith about the "witness of two" refers to a completely different event (the horse purchase in Bukhari 4987). The compiler of the Quran and the horse purchaser are two different people with the same name. Do not let them conflate the two narrations.
 
-- **Problem:** Muslim says the Quran is "97% preserved" or admits minor corruption but claims it is still divine.
+- **Problem:** Muslim says the Quran is "97% preserved."
   **Solution:** Challenge the theological implications: if any verse is corrupted, the claim of perfect preservation fails. Ask why they trust a religion whose scripture they admit is not fully intact, and how they determine which verses are authentic.
 
 - **Problem:** Muslim dismisses hadiths entirely and says "only the Quran is true."
