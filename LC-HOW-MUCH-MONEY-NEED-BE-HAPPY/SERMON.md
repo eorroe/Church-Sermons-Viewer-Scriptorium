@@ -16,6 +16,8 @@ This sermon by Pastor Chris from Life.Church explores the question of how much w
 - **Spiritual gift of giving**: The ability to give generously, exercised as an act of ministry rather than philanthropy
 - **Divine order**: God's intended priority of putting Him first in every area of life, including finances
 - **Contentment**: Accepting your lot and finding satisfaction in your work and toil as a gift from God (Ecclesiastes 5)
+- **Kingdom ministry**: Any spiritual gift exercised in alignment with the agenda of heaven, distinct from philanthropy
+- **Legacy Team**: A group at Life.Church focused on planned giving and estate planning to fund future ministry
 
 ## When to Follow This Sermon
 
@@ -37,7 +39,7 @@ Psalm 24:1 declares, "The earth is the Lord's, and everything in it." Everything
 
 ### Step 3: Return the First Tenth — Practice the Tithe
 
-Bring the first 10% of your income back to God (Malachi 3:10). The word "bring" is intentional — you do not give what is yours; you return what already belongs to God. The tithe is not about the amount; it is about the order. God must be first in your finances, just as He is meant to be first in your day and your week. When you return the tithe before anything else, you declare God's ownership over the rest. Malachi 3:10 records God saying, "Test Me in this, if I will not open up the floodgates of heaven and pour out so much blessing you will not have room enough to store it." This act of obedience is the point where you may be stuck in your faith until you learn to trust God in this area, but it is also the point where God changes your mind about what belongs to Him.
+Bring the first 10% of your income back to God (Malachi 3:10). The word "bring" is intentional — you do not give what is yours; you return what already belongs to God. Pastor Chris argues that the order of what you give probably even matters more than the amount — the tithe is about returning the first portion to God, not the percentage. God must be first in your finances, just as He is meant to be first in your day and your week. When you return the tithe before anything else, you declare God's ownership over the rest. Malachi 3:10 records God saying, "Test Me in this, if I will not open up the floodgates of heaven and pour out so much blessing you will not have room enough to store it." This act of obedience is the point where you may be stuck in your faith until you learn to trust God in this area, but it is also the point where God changes your mind about what belongs to Him.
 
 ### Step 4: Invest in Heaven More Than You Spend on Earth
 
@@ -59,7 +61,7 @@ Do not wait until you feel ready. If you have never tithed, return the tithe. If
 
 ### Example 1: Pastor Chris and Cindy's Journey With the Tithe
 
-Pastor Chris and his wife Cindy began tithing 26 years ago when they were called into ministry. He was reluctant, skeptical, and even felt like it was a "church scam" designed to extract money from people. He gave out of disobedience, not excitement. But over time, the act of returning the first 10% shifted his mindset entirely. What began as a reluctant act of obedience became a family culture of God's ownership. Today, every financial decision is filtered through the lens of stewardship, and their family has experienced the fruit of living in divine order.
+Pastor Chris and his wife Cindy began tithing 26 years ago when they were called into ministry. He was reluctant, skeptical, and even felt like it was a "church scam" designed to extract money from people. He gave out of disobedience, not excitement. But over time, the act of returning the first 10% shifted his mindset entirely. What began as a reluctant act of obedience became a family culture of God's ownership. Today, every financial decision is filtered through the lens of stewardship, and their family culture has shifted to viewing everything as God's and available for Him.
 
 ### Example 2: Carrie and Bear's Legacy of Generosity
 
@@ -67,7 +69,7 @@ Carrie and Bear, members of the Legacy Team at Life.Church's South Oklahoma City
 
 ### Example 3: The Travel Lesson: Currency That Is Worthless at Home
 
-Five years ago, on a family trip abroad, Pastor Chris's sons exchanged all their American dollars for foreign pesos. They had a wonderful week, but when they returned home, the pesos were worthless. This illustrated a spiritual reality: the things you spend your life obsessing over and collecting may have temporary value in this world but carry no weight in eternity. The question is not whether you can enjoy what God has given you, but whether what you accumulate will matter when you stand before Him.
+Several years ago, on a family trip abroad, Pastor Chris's sons exchanged all their American dollars for foreign pesos. They had a wonderful week, but when they returned home, the pesos were worthless. This illustrated a spiritual reality: the things you spend your life obsessing over and collecting may have temporary value in this world but carry no weight in eternity. The question is not whether you can enjoy what God has given you, but whether what you accumulate will matter when you stand before Him.
 
 ### Example 4: The Birthday Presents and the $10 Limit
 
@@ -94,10 +96,10 @@ When Pastor Chris's three sons were young, the family attended birthday parties 
 
 ## Security & Safety Notes
 
-- Giving should always go through your local church or established, trusted ministry channels — never send money in response to unsolicited outreach, urgent emotional appeals, or unverified individuals.
-- Before making large estate or legacy decisions, consult a qualified attorney and financial advisor who understands both legal and spiritual stewardship.
+- Giving should always go through your local church — never give in response to pressure, guilt, or manipulation.
+- Before making estate or legacy decisions, consult an attorney and a financial advisor.
 - Be cautious of any teaching that pressures giving through fear, guilt, or manipulation. Generosity should flow from a willing heart, not coercion.
-- Protect your personal and financial information when engaging with any ministry or charitable organization online.
+- Protect your information when giving online.
 
 ## Common Pitfalls
 
