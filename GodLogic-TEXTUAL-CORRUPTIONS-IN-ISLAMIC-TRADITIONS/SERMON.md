@@ -1,4 +1,4 @@
-# GodLogic - Textual Corruptions in the Islamic Traditions (NAPC 2026, London)
+# GodLogic - Textual Corruptions in the Islamic Traditions (London)
 
 ## Overview
 
@@ -37,11 +37,11 @@ Cite the hadith where Uthman ordered a committee to rewrite the Quran in perfect
 
 ### Step 6: Demonstrate Internal Recitation Conflicts
 
-Cite the narration about Abu Musa al-Ash'ari and the 300 reciters of Basra. Abu Musa admitted he forgot an entire surah comparable in length to Surah At-Tawbah (approximately 129 verses). He only remembered one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third, and nothing would fill the stomach of the son of Adam but dust." Search the Quran — that verse and surah do not exist in any Quran today. Abu Musa alone forgot at least two entire chapters after Muhammad's death.
+Cite the narration about Abu Musa al-Ash'ari and the 300 reciters of Basra. Abu Musa admitted he forgot an entire surah comparable in length to Surah At-Tawbah (approximately 129 verses). He only remembered one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third, and nothing would fill the stomach of the son of Adam but dust." Search the Quran — that verse and surah do not exist in any Quran today. Abu Musa alone forgot two entire chapters after Muhammad's death.
 
 ### Step 7: Show the Recitation Dispute Between Companions
 
-Cite the conflict involving Abdullah ibn Masud. Muhammad explicitly told Muslims to learn the Quran from four people, naming Abdullah ibn Masud first. Yet when Uthman standardized the Quran, ibn Masud and his followers were excluded from the committee. Abu Darda testified that he heard Muhammad recite a verse as "by the male and the female," while the standardized Quran reads "by him who created the male and the female." Abu Darda swore by Allah he would not follow the standardized recitation. The companion Muhammad designated as the primary Quran teacher rejected the official Quran.
+Cite the conflict involving Abdullah ibn Masud. Muhammad explicitly told Muslims to learn the Quran from four people, naming Abdullah ibn Masud first. Yet when Uthman standardized the Quran, ibn Masud and his followers were excluded from the committee. Abu Darda testified that he heard Muhammad recite a verse as "by the male and the female," while the standardized Quran reads "by him who created the male and the female." Abu Darda swore by Allah he would not follow the standardized recitation. The companion Muhammad designated first among four people to learn the Quran from rejected the official Quran.
 
 ### Step 8: Use the Aisha Narration on Missing Verses (Sahih Muslim 1452)
 
@@ -63,11 +63,11 @@ Aisha reported: "It was revealed in the Holy Quran that 10 clear sucklings make 
 
 ### Example 2: Abu Musa's Forgotten Surah
 
-Abu Musa al-Ash'ari told 300 Basran reciters: "We used to recite a surah which resembled in length and severity to Surah At-Tawbah (129 verses). I have however forgotten it." He could only recall one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third and nothing would fill the stomach of the son of Adam but dust." This verse does not exist in the current Quran. Abu Musa alone lost at least two entire chapters after Muhammad's death.
+Abu Musa al-Ash'ari told 300 Basran reciters: "We used to recite a surah which resembled in length and severity to Surah At-Tawbah (129 verses). I have however forgotten it." He could only recall one verse: "If there were two valleys full of riches for the son of Adam, he would long for a third and nothing would fill the stomach of the son of Adam but dust." This verse does not exist in the current Quran. Abu Musa alone lost two entire chapters after Muhammad's death.
 
 ### Example 3: Abdullah ibn Masud's Rejected Recitation
 
-Muhammad said: "Take the Quran from four." The first named was Abdullah ibn Masud. When Uthman standardized the Quran, ibn Masud was excluded from the committee. Abu Darda recited Surah Al-Fath 92:3 as "by the male and the female" — how Muhammad taught him. The standardized Quran reads "by him who created the male and the female." Abu Darda swore by Allah he would not follow the new recitation. The person Muhammad designated as the primary teacher of the Quran rejected the official Quran text.
+Muhammad said: "Take the Quran from four." The first named was Abdullah ibn Masud. When Uthman standardized the Quran, ibn Masud was excluded from the committee. Abu Darda recited Surah Al-Fath 92:3 as "by the male and the female" — how Muhammad taught him. The standardized Quran reads "by him who created the male and the female." Abu Darda swore by Allah he would not follow the new recitation. The person Muhammad designated first among four people to learn the Quran from rejected the official Quran text.
 
 ### Example 4: Uthman's Burning of the Qurans
 
@@ -92,7 +92,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
 - The argument relies entirely on hadiths that Muslims themselves accept as authentic (Sahih Bukhari, Sahih Muslim). If a Muslim rejects these hadiths, the entire argument collapses.
 - Abrogation (naskh) is the standard Muslim response. Always be ready to demonstrate that abrogation requires Muhammad's presence and confirmation.
 - The Quran-only Muslim presents a special challenge: they reject hadith entirely. Force them to choose between multiple physical Qurans.
-- Sahih Bukhari 4986 and Sahih Muslim 1452 explicitly show that memorization was not perfectly reliable — Abu Musa forgot at least two entire chapters.
+- Sahih Bukhari 4986 and Sahih Muslim 1452 explicitly show that memorization was not perfectly reliable — Abu Musa forgot two entire chapters.
 - The tribal dialect argument fails when both disputants were from the same tribe (Quraysh).
 - Uthman's standardization was a political act as much as a religious one. His committee was composed of his own family and supporters.
 - The "witness of two" argument used by some Muslims for Abu Khuzayma al-Ansari relies on a different hadith (Bukhari 4987) about a horse purchase — conflating two separate events.
