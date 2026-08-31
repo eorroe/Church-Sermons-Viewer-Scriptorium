@@ -2,14 +2,14 @@
 
 ## Overview
 
-Dave Ramsey teaches that managing money God's way requires a biblical foundation built on the more than 2,500 scriptures on money found in the Bible, combined with practical, actionable financial steps he teaches through his Financial Peace University program. He shares his personal journey from bankruptcy at age 28 and a surrender all moment to building five things he teaches about money that emphasize budgeting, debt elimination using the debt snowball method, wise relationships, saving, and generous giving. The sermon calls listeners to stop being controlled by money and instead manage it as stewards so they can experience financial peace and become able to bless others.
+Dave Ramsey teaches that managing money God's way requires a biblical foundation built on the more than 2,500 scriptures on money found in the Bible, combined with practical, actionable financial steps he teaches through his Financial Peace University program. He shares his personal journey from bankruptcy at age 28 and a surrender all moment to teaching five things about money: budgeting, debt elimination using the debt snowball method, intentional relationships, saving, and generous giving. The sermon calls listeners to stop being controlled by money and instead manage it as stewards so they can experience financial peace and become able to bless others.
 
 ## When to Follow This Sermon
 
 - When you feel controlled by debt, bills, or financial pressure
 - When you want to align your financial habits with biblical principles
-- When you are ready to stop managing money reactively and start following a written budget plan
-- When you want to build the capacity to be generous and help others
+- When you are ready to stop managing money reactively and start following a written monthly budget
+- When you want to build wealth to be generous and help others
 
 ## Steps
 
@@ -27,7 +27,7 @@ Intentionally choose the people you spend the most time with, because you become
 
 ### Step 4: Save and Invest Money
 
-Build an emergency fund before investing so unexpected events such as job loss or a market downturn do not push you back into debt. Saving for emergencies is a required financial step before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in growth stock mutual funds inside a Roth IRA. Live below your means, delay pleasure, and let compound growth work in your favor over 30 years.
+Build an emergency fund before investing so unexpected events such as job loss or a market downturn do not push you back into debt. Saving for emergencies is a required financial step before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in growth stock mutual funds inside a Roth IRA. Live below your means, delay pleasure, and let compound growth work in your favor for 30 years.
 
 ### Step 5: Build Wealth to Be Generous
 
@@ -37,17 +37,17 @@ Use the income freed up by budgeting, debt freedom, and saving to bless others g
 
 ### Example 1: The Grocery Store "Superman"
 
-Dave Ramsey describes standing in a grocery store checkout line behind a stressed single mother whose card was repeatedly declined. Before he could intervene, a construction worker in muddy clothes stepped forward, handed the cashier $300, and quietly paid for her groceries. The cashier and the mother both cried. Dave said this was the highest and best use of money he had ever seen. It demonstrates that generosity does not require wealth—it requires being in a financial position to respond when needs arise around you.
+Dave Ramsey describes standing in a grocery store checkout line behind a stressed single mother whose card was repeatedly declined. Before he could intervene, a construction worker in muddy clothes stepped forward, handed the cashier $300, and quietly paid for her groceries. The cashier and the mother both cried. Dave said this was the highest and best use of money on the planet. It demonstrates that generosity does not require wealth—it requires being in a financial position to respond when needs arise around you.
 
 ### Example 2: The Three Little Pigs and Emergency Preparedness
 
-Dave uses the story of the three little pigs to illustrate the necessity of an emergency fund. The first two pigs lived impulsively and were unprepared when trouble came; the third pig delayed pleasure, planned ahead, and built a house that could withstand the storm. He applies this to modern crises such as pandemics, recessions, and job loss, urging listeners to be the third pig by building an emergency fund before hardship strikes so they are not destroyed by unexpected events.
+Dave uses the story of the three little pigs to illustrate the necessity of an emergency fund. The first two pigs did not prepare when trouble came; the third pig delayed pleasure, planned ahead, and built a house that could withstand the storm. He applies this to modern crises such as pandemics, recessions, and job loss, urging listeners to be the third pig by building an emergency fund before hardship strikes so they are not destroyed by unexpected events.
 
 ## Best Practices
 
 - ✅ Write your budget before the month starts and assign every dollar a job
 - ✅ Pay off consumer debt including credit cards, car notes, and personal loans systematically and stop using credit cards for new purchases
-- ✅ Choose your closest relationships intentionally based on character traits such as financial discipline and generosity
+- ✅ Choose your closest relationships intentionally based on character
 - ✅ Build an emergency fund before investing in the market
 - ✅ Invest monthly in growth stock mutual funds
 - ✅ Look for practical, tangible ways to bless people in need around you
@@ -57,9 +57,9 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
 ## Keep In Mind
 
 - Dave Ramsey teaches that money makes you more of what you are: if you are angry and you get money, it affects the people around you; if you are grace-filled and compassionate and you get money, it expands your ability to be grace-filled and compassionate; if you are generous and you get money, you become what he calls a philanthropist and can change entire ministries and communities.
-- Being broke is a situation; being poor is a condition that poor people stay in unless they learn and act differently
+- Being broke is a situation; being poor is a condition
 - If you are faithful in the little things, then God will give you more to manage; if you mishandle money, God will answer your prayer for more by saying no, as illustrated in the parable of the talents where the man who mishandled money had it taken from him and given to those who managed better.
-- When you are broke, disorganized, or fighting with your spouse over money, it is hard to be generous
+- When you are broke, disorganized, or fighting with your spouse over money, it is hard to see needs around you
 - Practical help such as feeding a baby, putting tires on a single mom's car, or helping someone get a degree is how Dave Ramsey says generosity shows up in everyday life
 
 ## Security & Safety Notes
@@ -88,5 +88,5 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
 - **Problem:** You think wealth is evil and that rich people tend to be greedy.
   **Solution:** Understand that money only magnifies what is already in your heart; Dave Ramsey says the wealthy people he has met through his work are most generous, kind, gentle, and giving people, and you can build wealth to be a better steward and giver.
 
-- **Problem:** You look down on people who are struggling instead of seeing an opportunity to help.
+- **Problem:** You look down on people who are struggling financially instead of seeing an opportunity to help.
   **Solution:** Practice humility and awareness; replace judgment with generosity so you can respond practically when you see a need.
