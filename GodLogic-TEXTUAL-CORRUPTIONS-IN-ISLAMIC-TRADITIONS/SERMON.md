@@ -101,8 +101,8 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
 
 - Do not use this material to harass, threaten, or demean individual Muslims.
 - This content is intended for academic, theological, and interfaith discussion contexts only.
-- Presenting these arguments in a hostile or mocking manner can constitute religious harassment in many jurisdictions.
-- Some countries have speech laws that restrict criticism of Islam. Be aware of local laws before engaging publicly.
+- Presenting these arguments in a hostile or mocking manner can constitute religious harassment under applicable law.
+- Speech laws can restrict criticism of Islam. Be aware of local laws before engaging publicly.
 - This material should be used in debate, teaching, or personal study — not for incitement.
 - Always verify hadith references independently. Narrations can be misattributed, misnumbered, or taken out of context.
 
@@ -118,7 +118,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
   **Solution:** Show that the hadith about the "witness of two" refers to a completely different event (the horse purchase in Bukhari 4987). The compiler of the Quran and the horse purchaser are two different people with the same name. Do not let them conflate the two narrations.
 
 - **Problem:** Muslim says the Quran is "97% preserved."
-  **Solution:** Challenge the theological implications: if any verse is corrupted, the claim of perfect preservation fails. Ask why they trust a religion whose scripture they admit is not fully intact, and how they determine which verses are authentic.
+  **Solution:** Challenge the theological implications: if any verse is corrupted, the claim of perfect preservation fails. Ask why they trust a religion whose scripture they admit is only 97% preserved, and how they determine which verses are authentic.
 
 - **Problem:** Muslim dismisses hadiths entirely and says "only the Quran is true."
   **Solution:** Present two or more physical Qurans and ask which one is the true preserved word. If they cannot answer, show that even without hadith, physical textual variants exist in the Quran itself (Hafs, Warsh, etc.). A book that claims perfect preservation cannot have multiple variant readings.
