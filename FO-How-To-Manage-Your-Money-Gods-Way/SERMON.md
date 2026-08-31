@@ -31,13 +31,13 @@ Build an emergency fund before investing so unexpected events such as job loss o
 
 ### Step 5: Build Wealth to Be Generous
 
-Use the income freed up by budgeting, debt freedom, and saving to bless others generously. Wealth is a tool that makes you more of what you already are. Look for specific, practical ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity is a practical demonstration of God's love for both the giver and the receiver.
+Use the income freed up by budgeting, debt freedom, and saving to bless others generously. Money amplifies your existing character traits: if you are generous, it increases your capacity to give and become a philanthropist; if you are grace-filled and compassionate, it expands your ability to show grace and compassion; if you are angry, it affects those around you. Look for specific, practical ways to meet needs around you, such as helping a single mother pay for car repairs or funding someone's education. Generosity is a practical demonstration of God's love for both the giver and the receiver.
 
 ## Examples
 
 ### Example 1: The Grocery Store "Superman"
 
-Dave Ramsey describes standing in a grocery store checkout line behind a stressed single mother whose card was repeatedly declined. Before he could intervene, a construction worker in muddy clothes stepped forward, handed the cashier $300, and quietly paid for her groceries. The cashier and the mother both cried. Dave said this was the highest and best use of money on the planet. It demonstrates that generosity does not require wealth—it requires being in a financial position to respond when needs arise around you.
+Dave Ramsey describes standing in a grocery store checkout line behind a stressed single mother whose card was repeatedly declined. Before he could intervene, a construction worker in muddy clothes stepped forward, handed the cashier $300, and quietly paid for her groceries. The cashier and the mother both cried. Dave said paying $300 for a stranger's groceries when she could not afford them is the most meaningful use of money: being in a financial position to respond when needs arise around you. It demonstrates that generosity does not require wealth—it requires being in a financial position to respond when needs arise around you.
 
 ### Example 2: The Three Little Pigs and Emergency Preparedness
 
@@ -83,7 +83,7 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
   **Solution:** Intentionally choose mentors and friends who live with character; you become like the people you hang around with.
 
 - **Problem:** You spend everything you make and have no savings for emergencies.
-  **Solution:** Prioritize building an emergency fund before investing or making non-essential purchases such as vacations; be the third pig, not the first two.
+  **Solution:** Prioritize building an emergency fund before investing or making non-essential purchases such as vacations; be prepared for unexpected events by building an emergency fund before hardship strikes so you are not destroyed by them, unlike the first two pigs who had no plan.
 
 - **Problem:** You think wealth is evil and that rich people tend to be greedy.
   **Solution:** Understand that money only magnifies what is already in your heart; Dave Ramsey says the wealthy people he has met through his work are generous, kind, gentle, and giving people, and you can build wealth to be a better steward and giver.
