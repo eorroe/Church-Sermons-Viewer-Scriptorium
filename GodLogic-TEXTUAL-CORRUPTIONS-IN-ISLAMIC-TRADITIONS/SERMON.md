@@ -2,14 +2,14 @@
 
 ## Overview
 
-This sermon teaches how to demonstrate textual corruption in the Islamic traditions by using authentic Islamic sources — primarily Sahih Bukhari and Sahih Muslim hadiths — against themselves. It shows that the Quran has not been perfectly preserved letter-for-letter, word-for-word, as is commonly claimed by Muslims today. By examining the historical process of Quran compilation, the burning of variant manuscripts, missing verses, forgotten chapters, and conflicts among the companions of Muhammad, the sermon provides concrete, source-based arguments that reveal corruption in early Islamic textual transmission.
+This sermon teaches how to demonstrate textual corruption in the Islamic traditions by using authentic Islamic sources — primarily Sahih Bukhari and Sahih Muslim hadiths — against themselves. It shows that the Quran has not been perfectly preserved letter-for-letter, word-for-word, as is commonly claimed by Muslims today. By examining the historical process of Quran compilation, the burning of variant manuscripts, the missing last verse of Surah At-Tawbah found with only one companion, Abu Musa's forgotten surah, Aisha's narration of the abrogated 10-sucklings verse, and conflicts among the companions of Muhammad, the sermon provides arguments drawn from Sahih Bukhari and Sahih Muslim that challenge the claim of perfect Quranic preservation.
 
 ## When to Follow This Sermon
 
 - When preparing to discuss textual preservation of the Quran with Muslims or in interfaith settings
 - When a Muslim claims the Quran is perfectly preserved in its original form
 - When asked to demonstrate corruption in Islamic scripture using Islamic sources alone
-- When a Muslim invokes abrogation (naskh) to explain away missing or changed verses
+- When a Muslim invokes abrogation (naskh) to explain away the abrogation of the 10-sucklings verse, the missing last verse of Surah At-Tawbah, or Abu Musa's forgotten surah
 - When encountering a Quran-only Muslim who rejects hadith but accepts the Quran as uncorrupted
 - When a Muslim concedes partial textual corruption but argues for keeping their current Quran
 
@@ -17,7 +17,7 @@ This sermon teaches how to demonstrate textual corruption in the Islamic traditi
 
 ### Step 1: Establish the First Compilation by Abu Bakr
 
-Cite Sahih Bukhari 4986. Explain that Abu Bakr compiled the first written Quran only after the Battle of Yamama, when Quran memorizers (hafiz) were killed during that battle. Umar urged Abu Bakr to compile the Quran because he feared casualties would cause a large part of the Quranic text to be lost. Abu Bakr resisted at first, asking, "How can you do something Allah's Apostle did not do?" — labeling it bidda (heresy, innovation). This reveals that Muhammad never compiled the Quran into a single manuscript during his lifetime.
+Cite Sahih Bukhari 4986. Explain that Abu Bakr compiled the first written Quran only after the Battle of Yamama, when Quran memorizers (hafiz) were killed during that battle. Umar urged Abu Bakr to compile the Quran because he feared casualties would cause a large part of the Quranic text to be lost. Abu Bakr resisted at first, asking, "How can you do something Allah's Apostle did not do?" — labeling it bidda, which the sermon defines as unauthorized religious practice invented independently of prophetic instruction. This reveals that Muhammad never compiled the Quran into a single manuscript during his lifetime.
 
 ### Step 2: Expose the Difficulty of Collection
 
@@ -45,15 +45,15 @@ Cite the conflict involving Abdullah ibn Masud. Muhammad explicitly told Muslims
 
 ### Step 8: Use the Aisha Narration on Missing Verses (Sahih Muslim 1452)
 
-Cite Aisha's narration that a verse stating "10 clear sucklings make marriage unlawful" was once in the Quran, then abrogated and replaced with "5 clear sucklings." Aisha confirms the verse was still present when Muhammad died. Challenge the abrogation defense: abrogation requires prophetic authority. With Muhammad dead, no mere man can delete verses of Allah. The "5 sucklings" verse does not exist in the Quran today. Where did it go?
+Cite Aisha's narration that a verse stating "10 clear sucklings make marriage unlawful" was once in the Quran, then abrogated and replaced with "5 clear sucklings." Aisha confirms the verse was still present when Muhammad died. Ask: who had prophetic authority to delete those verses after Muhammad died? The "5 sucklings" verse does not exist in the Quran today. Where did it go?
 
 ### Step 9: Refute the Dialect and Abrogation Defenses
 
-When a Muslim claims recitation differences were merely dialectal, show that Hisham and Umar spoke the same dialect (Quraysh) yet Umar physically attacked Hisham for reciting differently. When a Muslim invokes abrogation, demonstrate that abrogation must be confirmed by Muhammad — he must be present to declare a verse abrogated. After his death, no one has authority to remove verses.
+When a Muslim claims recitation differences were merely dialectal, show that Hisham and Umar spoke the same dialect (Quraysh) yet Umar grabbed Hisham by the collar and dragged him to Muhammad for reciting differently. When a Muslim invokes abrogation, demonstrate that abrogation must be confirmed by Muhammad — he must be present to declare a verse abrogated. After his death, no one has authority to remove verses.
 
 ### Step 10: Challenge Quran-Only Muslims with Multiple Existing Qurans
 
-Present the Hafs, Warsh, Qalun, and Durra Qurans physically and ask a Quran-only Muslim which one is the preserved word of Allah. If they claim their version is correct, ask why other authentic versions exist with different readings. This forces them to confront physical textual differences they cannot explain without hadith.
+Present the Hafs, Warsh, Qalun, and Durra recitational traditions of the Quran physically and ask a Quran-only Muslim which one is the preserved word of Allah. If they claim their version is correct, ask why other authentic versions exist with different readings. This forces them to confront physical textual differences they cannot explain without hadith.
 
 ## Examples
 
@@ -80,7 +80,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
 - ✅ Let the companion's own words expose the contradictions (e.g., Abu Musa saying he forgot an entire surah)
 - ✅ Ask direct, simple questions (e.g., "Did Muhammad ever see the compiled Quran manuscript?")
 - ✅ Draw explicit parallels to the Bible only when the Muslim invokes double standards
-- ✅ Show multiple existing Qurans physically or cite their variant readings (Hafs vs. Warsh)
+- ✅ Show multiple existing Quran recitational traditions physically or cite their variant readings (Hafs vs. Warsh)
 - ✅ Keep the tone analytical and focused on the sources, not inflammatory
 - ❌ Do not misquote or fabricate hadith references
 - ❌ Do not rely solely on Western Orientalist critiques — use only Islamic sources
@@ -94,7 +94,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
 - The Quran-only Muslim presents a special challenge: they reject hadith entirely. Force them to choose between multiple physical Qurans.
 - Sahih Bukhari 4986 and Sahih Muslim 1452 explicitly show that memorization was not perfectly reliable — Abu Musa forgot two entire chapters.
 - The tribal dialect argument fails when both disputants were from the same tribe (Quraysh).
-- Uthman's standardization was a political act as much as a religious one. His committee was composed of his own family and supporters.
+- The hadith notes that Uthman's committee included Zayd ibn Thabit, Abdullah ibn Zubair, Sa'id ibn al-As, and Abdur-Rahman ibn Harith ibn Hisham. Abdullah ibn Masud and the other three people Muhammad told Muslims to learn the Quran from were excluded from this committee.
 - The "witness of two" argument used by some Muslims for Abu Khuzayma al-Ansari relies on a different hadith (Bukhari 4987) about a horse purchase — conflating two separate events.
 
 ## Security & Safety Notes
@@ -112,7 +112,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
   **Solution:** Show that abrogation requires Muhammad's presence and confirmation. Aisha confirms the verses were present when Muhammad died. No prophet after Muhammad existed to abrogate them. Cite the example where Muhammad told two men who forgot a verse that it had been abrogated — Muhammad had to be the one to confirm it.
 
 - **Problem:** Muslim claims recitation differences were only dialectal.
-  **Solution:** Show that Hisham and Umar were both Quraysh (same tribe, same dialect), yet Umar attacked Hisham physically for his recitation. Show that Uthman ordered writing in the Quraysh dialect, proving the differences were not incidental.
+  **Solution:** Show that Hisham and Umar were both Quraysh (same tribe, same dialect), yet Umar grabbed Hisham by the collar and dragged him to Muhammad for his recitation. Show that Uthman ordered writing in the Quraysh dialect, proving the differences were not incidental.
 
 - **Problem:** Muslim claims Abu Khuzayma al-Ansari had "witness equal to two."
   **Solution:** Show that the hadith about the "witness of two" refers to a completely different event (the horse purchase in Bukhari 4987). The compiler of the Quran and the horse purchaser are two different people with the same name. Do not let them conflate the two narrations.
