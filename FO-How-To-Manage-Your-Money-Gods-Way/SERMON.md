@@ -57,8 +57,8 @@ Dave uses the story of the three little pigs to illustrate the necessity of a 3-
 ## Keep In Mind
 
 - Dave Ramsey teaches that money makes you more of what you are: if you are angry, money gives you more power to act on that anger; if you are generous, money gives you more capacity to be generous.
-- Being broke is a situation; being poor is a condition that you can move beyond through learning and action
-- God says no to prayers for more money when you are mishandling what you already have, as illustrated in the parable of the talents in Matthew 25:14–30
+- Being broke is a situation; being poor is a condition that many people stay in unless they learn and act differently
+- God says no to prayers for more money when you are mishandling what you already have, as illustrated in the parable of the talents
 - It is difficult to be generous when you are broke, disorganized, or fighting with your spouse over money
 - Practical help such as feeding a baby, putting tires on a single mom's car, or helping someone get a degree is how Dave Ramsey says generosity shows up in everyday life
 
@@ -67,7 +67,7 @@ Dave uses the story of the three little pigs to illustrate the necessity of a 3-
 - Do not share your bank account numbers, credit card numbers, or passwords with anyone
 - Use strong, unique passwords for all financial accounts and enable multi-factor authentication
 - Be cautious of get-rich-quick schemes and anyone who pressures you to invest quickly without full disclosure
-- Keep your emergency fund in a legitimate, Federal Deposit Insurance Corporation (FDIC)-insured bank account separate from your daily checking
+- Keep your emergency fund in a legitimate bank account separate from your daily checking
 - Never carry large amounts of cash or flaunt your wealth publicly, which can make you a target for theft or fraud
 - Review your bank and credit card statements monthly for unauthorized transactions
 
@@ -86,7 +86,7 @@ Dave uses the story of the three little pigs to illustrate the necessity of a 3-
   **Solution:** Prioritize building a 3- to 6-month emergency fund before investing or making non-essential purchases such as vacations; be the third pig, not the first two.
 
 - **Problem:** You think wealth is evil and that rich people tend to be greedy.
-  **Solution:** Understand that money only magnifies what is already in your heart; Dave Ramsey says the wealthy people he has met through his work are typically generous, servant-hearted, kind, gentle, and giving people, and you can build wealth to be a better steward and giver.
+  **Solution:** Understand that money only magnifies what is already in your heart; Dave Ramsey says the wealthy people he has met through his work are typically generous, kind, gentle, and giving people, and you can build wealth to be a better steward and giver.
 
 - **Problem:** You look down on people who are struggling instead of seeing an opportunity to help.
   **Solution:** Practice humility and awareness; replace judgment with generosity so you can respond practically when God places a need in front of you.
