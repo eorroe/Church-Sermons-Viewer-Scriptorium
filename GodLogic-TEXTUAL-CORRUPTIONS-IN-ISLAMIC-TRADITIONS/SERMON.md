@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches how to demonstrate textual corruption in the Islamic traditions by using authentic Islamic sources — primarily Sahih Bukhari and Sahih Muslim hadiths — against themselves. It shows that the Quran has not been perfectly preserved letter-for-letter, word-for-word, as is commonly claimed by Muslims today. By examining the historical process of Quran compilation, the burning of variant manuscripts, the missing last verse of Surah At-Tawbah found with only one companion, Abu Musa's forgotten surah, Aisha's narration of the abrogated 10-sucklings verse, and conflicts among the companions of Muhammad, the sermon provides arguments drawn from Sahih Bukhari and Sahih Muslim that challenge the claim of perfect Quranic preservation.
+This sermon teaches how to demonstrate textual corruption in the Islamic traditions by using authentic Islamic sources — Sahih Bukhari and Sahih Muslim hadiths — against themselves. It shows that the Quran has not been perfectly preserved letter-for-letter, word-for-word, as is commonly claimed by Muslims today. By examining the historical process of Quran compilation, the burning of variant manuscripts, the missing last verse of Surah At-Tawbah found with only one companion, Abu Musa's forgotten surah, Aisha's narration of the abrogated 10-sucklings verse, and conflicts among the companions of Muhammad, the sermon provides arguments drawn from Sahih Bukhari and Sahih Muslim that challenge the claim of perfect Quranic preservation.
 
 ## When to Follow This Sermon
 
@@ -80,7 +80,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
 - ✅ Let the companion's own words expose the contradictions (e.g., Abu Musa saying he forgot an entire surah)
 - ✅ Ask direct, simple questions (e.g., "Did Muhammad ever see the compiled Quran manuscript?")
 - ✅ Draw explicit parallels to the Bible only when the Muslim invokes double standards
-- ✅ Show multiple existing Quran recitational traditions physically or cite their variant readings (Hafs vs. Warsh)
+- ✅ Show existing Quran recitational traditions physically or cite their variant readings (Hafs vs. Warsh)
 - ✅ Keep the tone analytical and focused on the sources, not inflammatory
 - ❌ Do not misquote or fabricate hadith references
 - ❌ Do not rely solely on Western Orientalist critiques — use only Islamic sources
@@ -91,7 +91,7 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
 
 - The argument relies entirely on hadiths that Muslims themselves accept as authentic (Sahih Bukhari, Sahih Muslim). If a Muslim rejects these hadiths, the entire argument collapses.
 - Abrogation (naskh) is the standard Muslim response. Always be ready to demonstrate that abrogation requires Muhammad's presence and confirmation.
-- The Quran-only Muslim presents a special challenge: they reject hadith entirely. Force them to choose between multiple physical Qurans.
+- The Quran-only Muslim presents a special challenge: they reject hadith entirely. Force them to choose between at least two physical Qurans.
 - Sahih Bukhari 4986 and Sahih Muslim 1452 explicitly show that memorization was not perfectly reliable — Abu Musa forgot two entire chapters.
 - The tribal dialect argument fails when both disputants were from the same tribe (Quraysh).
 - The hadith notes that Uthman's committee included Zayd ibn Thabit, Abdullah ibn Zubair, Sa'id ibn al-As, and Abdur-Rahman ibn Harith ibn Hisham. Abdullah ibn Masud and the other three people Muhammad told Muslims to learn the Quran from were excluded from this committee.
@@ -121,4 +121,4 @@ Uthman ordered: "Whether fragmentary copies or whole copies of the Quran, burn t
   **Solution:** Challenge the theological implications: if any verse is corrupted, the claim of perfect preservation fails. Ask why they trust a religion whose scripture they admit is only 97% preserved, and how they determine which verses are authentic.
 
 - **Problem:** Muslim dismisses hadiths entirely and says "only the Quran is true."
-  **Solution:** Present two or more physical Qurans and ask which one is the true preserved word. If they cannot answer, show that even without hadith, physical textual variants exist in the Quran itself (Hafs, Warsh, etc.). A book that claims perfect preservation cannot have multiple variant readings.
+  **Solution:** Present at least two physical Qurans and ask which one is the true preserved word. If they cannot answer, show that even without hadith, physical textual variants exist in the Quran itself (Hafs, Warsh, Qalun, and Durra). A book that claims perfect preservation cannot have four variant readings.
