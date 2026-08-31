@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon by Pastor Chris from Life.Church explores the question of how much wealth is enough to be "rich toward God" (Luke 12:21) rather than trapped in the pursuit of "just a little bit more." Being "rich toward God" means having your heart oriented toward Him, investing in eternal things rather than accumulating earthly treasures. Drawing on biblical teachings from Luke 12, Matthew 6, Psalm 24, Malachi 3, and Proverbs 20, it challenges the lie that more possessions bring what you actually need, which is found instead in being "rich toward God" (Luke 12:21). The message calls listeners to recognize they are already wealthy compared to the three billion people on planet earth living on two dollars a day, adopt a stewardship mindset instead of an owner mindset, practice tithing, and invest their time, talent, and money in eternal causes rather than temporary earthly things.
+This sermon by Pastor Chris from Life.Church addresses the question of how much money is enough, using Luke 12:21 to teach that being "rich toward God" means having your heart oriented toward Him and investing in eternal things rather than accumulating earthly treasures. Drawing on biblical teachings from Luke 12, Matthew 6, Psalm 24, Malachi 3, and Proverbs 20, it challenges the lie that more possessions bring fulfillment, pointing instead to the example of Pastor Chris's own income progression — from $2.75/hour as a dishwasher, to $20,000/year as a youth pastor, to $30,000/year launching a church in Memphis — to show that the bar of wealth keeps moving and more possessions do not produce what you actually need, which is found instead in being "rich toward God" (Luke 12:21). The message calls listeners to recognize they are already wealthy compared to the three billion people on planet earth living on two dollars a day, adopt a stewardship mindset instead of an owner mindset, practice tithing, and invest their time, talent, and money in eternal causes rather than temporary earthly things.
 
 ## Glossary
 
@@ -15,7 +15,7 @@ This sermon by Pastor Chris from Life.Church explores the question of how much w
 - **Eternal investment**: Spending time, talent, influence, or money on things that produce lasting spiritual fruit rather than temporary benefit
 - **Spiritual gift of giving**: The ability to give generously, exercised as an act of ministry rather than philanthropy
 - **Divine order**: God's intended priority of putting Him first in every area of life, including finances
-- **Contentment**: Accepting your lot and finding satisfaction in your work and toil as a gift from God (Ecclesiastes 5)
+- **Contentment**: Accepting your work and toil and finding satisfaction in them as a gift from God (Ecclesiastes 5)
 - **Kingdom ministry**: Any spiritual gift exercised in alignment with the agenda of heaven, distinct from philanthropy
 - **Legacy Team**: A group at Life.Church focused on planned giving and estate planning to fund future ministry
 
@@ -23,9 +23,9 @@ This sermon by Pastor Chris from Life.Church explores the question of how much w
 
 - When you feel trapped in the endless pursuit of "just a little bit more" income or possessions
 - When you struggle to trust God with your finances or feel resistant to giving
-- When you want to shift from a consumer mindset to a consistent practice of generosity
+- When you want to shift from a consumer mindset to a regular practice of generosity
 - When you're discerning your next step of faith in the area of money and stewardship
-- When you need biblical perspective on wealth, contentment, and what it truly means to be "rich toward God"
+- When you need the biblical teaching on wealth, contentment, and what it truly means to be "rich toward God"
 
 ## Steps
 
@@ -61,7 +61,7 @@ Do not wait until you feel ready. If you have never tithed, return the tithe. If
 
 ### Example 1: Pastor Chris and Cindy's Journey With the Tithe
 
-Pastor Chris and his wife Cindy began tithing 26 years ago when they were called into ministry. He was reluctant, skeptical, and even felt like it was a "church scam" designed to extract money from people. He gave out of disobedience, not excitement. But over time, the act of returning the first 10% shifted his mindset entirely. What began as a reluctant act of obedience became a family culture of God's ownership. Today, every financial decision is filtered through the lens of stewardship, and their family culture has shifted to viewing everything as God's and available for Him.
+Pastor Chris and his wife Cindy began tithing 25-plus years ago when they were called into ministry. He was reluctant, skeptical, and even felt like it was a "church scam" designed to extract money from people. He gave out of disobedience, not excitement. But over time, the act of returning the first 10% shifted his mindset entirely. What began as a reluctant act of obedience became a family culture of God's ownership. Today, every financial decision is filtered through the lens of stewardship, and their family culture has shifted to viewing everything as God's and available for Him.
 
 ### Example 2: Carrie and Bear's Legacy of Generosity
 
@@ -69,7 +69,7 @@ Carrie and Bear, members of the Legacy Team at Life.Church's South Oklahoma City
 
 ### Example 3: The Travel Lesson: Currency That Is Worthless at Home
 
-Several years ago, on a family trip abroad, Pastor Chris's sons exchanged all their American dollars for foreign pesos. They had a wonderful week, but when they returned home, the pesos were worthless. This illustrated a spiritual reality: the things you spend your life obsessing over and collecting may have temporary value in this world but carry no weight in eternity. The question is not whether you can enjoy what God has given you, but whether what you accumulate will matter when you stand before Him.
+Approximately five years ago, on a family trip abroad, Pastor Chris's sons exchanged all their American dollars for foreign pesos. They had a wonderful week, but when they returned home, the pesos were worthless. This illustrated a spiritual reality: the things you spend your life obsessing over and collecting may have temporary value in this world but carry no weight in eternity. The question is not whether you can enjoy what God has given you, but whether what you accumulate will matter when you stand before Him.
 
 ### Example 4: The Birthday Presents and the $10 Limit
 
@@ -87,12 +87,12 @@ When Pastor Chris's three sons were young, the family attended birthday parties 
 
 ## Keep In Mind
 
-- Wealth is a moving target. The moment you reach a financial goal, the bar will move again. Contentment comes when you accept your lot and find satisfaction in your work and toil — a gift from God (Ecclesiastes 5) — not in accumulating more.
-- God is not mad that you are rich — He is concerned when what you possess becomes what you trust instead of the God who put it in your hands (Luke 12:21).
-- Possessions create a spiritual risk when they become what you trust rather than the God who gave them.
-- You were created to be a conduit, not a collector. Blessing is meant to come to you and then flow through you to others.
-- Generosity given today can fund campuses where people will be invited, hands will go up, and people will come to faith long after you are gone — as Carrie and Bear's estate gift will do.
-- What God invites you to is an adventure, not a demand. He does not need your money — He invites you to have a part in His story.
+- Contentment comes when you accept your work and toil and find satisfaction in them as a gift from God (Ecclesiastes 5) — not in accumulating more.
+- God does not condemn having wealth — He blessed the farmer with an abundant harvest (Luke 12:16-21). The problem arises when possessions replace God as the object of your trust: when money is what you turn to for security, identity, or solution rather than God Himself, as with the rich young ruler who chose his wealth over following Jesus (Matthew 19:16-22).
+- Possessions create spiritual danger when you trust them more than God — when your financial security, identity, or hope is anchored in what you own rather than in the One who gave it, because the more you have, the more you tend to trust what is in your hands rather than the God who put it there.
+- You were designed to channel God's resources outward rather than hoard them. Blessing is meant to come to you and then flow through you to others — as Pastor Chris illustrated when his sons spent their own money on small birthday gifts (a deck of Uno cards, a yo-yo) rather than expensive items, learning that generosity is easier when you are giving from what belongs to God rather than someone else's resources.
+- Carrie and Bear directed 100% of their estate — every asset they owned — to Life.Church so that future campuses could be launched and people would come to faith long after their deaths. That gift will continue to fund ministry and write them into God's story through the lives changed by those campuses.
+- What God invites you to is an adventure, not a demand. He does not need your money — He gives you the opportunity to take your part in His story. The question is whether you will let Him write you in.
 
 ## Security & Safety Notes
 
