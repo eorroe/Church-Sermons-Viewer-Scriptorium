@@ -1,17 +1,20 @@
-# How Much Money Do You Need to Be Happy?
+# How Much Money Do You Need to Be Rich Toward God?
 
 ## Overview
 
-This sermon by Pastor Chris from Life.Church explores the question of how much wealth is enough to find happiness — being "rich toward God" (Luke 12:21) rather than trapped in the pursuit of "just a little bit more." Being "rich toward God" means having your heart oriented toward Him, investing in eternal things rather than accumulating earthly treasures. Drawing on biblical teachings from Luke 12, Matthew 6, Psalm 24, Malachi 3, and Proverbs 20, it challenges the lie that more possessions equal more happiness. The message calls listeners to recognize they are already wealthy compared to the three billion people on planet earth living on two dollars a day, adopt a stewardship mindset instead of an owner mindset, practice tithing, and invest their time, talent, and money in eternal causes rather than temporary earthly things.
+This sermon by Pastor Chris from Life.Church explores the question of how much wealth is enough to be "rich toward God" (Luke 12:21) rather than trapped in the pursuit of "just a little bit more." Being "rich toward God" means having your heart oriented toward Him, investing in eternal things rather than accumulating earthly treasures. Drawing on biblical teachings from Luke 12, Matthew 6, Psalm 24, Malachi 3, and Proverbs 20, it challenges the lie that more possessions bring true fulfillment, which is found instead in being "rich toward God" (Luke 12:21). The message calls listeners to recognize they are already wealthy compared to the three billion people on planet earth living on two dollars a day, adopt a stewardship mindset instead of an owner mindset, practice tithing, and invest their time, talent, and money in eternal causes rather than temporary earthly things.
 
 ## Glossary
 
 - **Rich toward God**: Having your heart oriented toward God, storing up eternal investments rather than earthly treasures (Luke 12:21)
 - **Stewardship mindset**: Believing everything you have belongs to God and you manage it on His behalf (Psalm 24:1)
+- **Owner mindset**: Believing that what you have is yours to own and control, rather than recognizing that everything belongs to God and you manage it on His behalf
+- **Consumer mindset**: A pattern of spending resources on temporary, earthly comforts and entertainment rather than investing them in eternal causes
 - **Tithe**: The first 10% of your income, returned to God as an act of worship (Malachi 3:10)
 - **Eternal investment**: Spending time, talent, influence, or money on things that produce lasting spiritual fruit rather than temporary benefit
 - **Spiritual gift of giving**: The ability to give generously, exercised as an act of ministry rather than philanthropy
 - **Divine order**: God's intended priority of putting Him first in every area of life, including finances
+- **Contentment**: Accepting your lot and finding satisfaction in your work and toil as a gift from God (Ecclesiastes 5)
 
 ## When to Follow This Sermon
 
