@@ -425,7 +425,7 @@ Before any action with material financial impact, create a research checklist. C
 - Personal relationships should not drive business or investment decisions — per the book, separate passion from financial data when evaluating platform viability
 - Per the book, evaluate business opportunities using financial data, not personal relationships
 - Per the book, risk perception changes with knowledge — more research reduces unknown risk
-- Per the book, half-measures often fail
+- Per the book, half-measures fail
 - Per the book, being an exceptional employee can still make you wealthy
 - Per statistics cited in the book, 50% of businesses fail in Year 1 and 90% fail by Year 5
 
