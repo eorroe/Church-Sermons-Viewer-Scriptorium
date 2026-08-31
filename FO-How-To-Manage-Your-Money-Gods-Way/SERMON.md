@@ -27,7 +27,7 @@ Intentionally choose the people you spend the most time with, because you become
 
 ### Step 4: Save and Invest Money
 
-Build an emergency fund before investing so unexpected events such as job loss or a market downturn do not push you back into debt. Saving for emergencies is a required financial step before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in growth stock mutual funds inside a Roth IRA. Live below your means, delay pleasure, and let compound growth work in your favor for 30 years.
+Build an emergency fund before investing so unexpected events such as job loss or a market downturn do not push you back into debt. Saving for emergencies is a required financial step before any investing, not an afterthought. Once your emergency fund is in place, invest monthly in growth stock mutual funds inside a Roth Individual Retirement Account (IRA). Live below your means, delay pleasure, and let compound growth work in your favor for 30 years.
 
 ### Step 5: Build Wealth to Be Generous
 
@@ -86,7 +86,7 @@ Dave uses the story of the three little pigs to illustrate the necessity of an e
   **Solution:** Prioritize building an emergency fund before investing or making non-essential purchases such as vacations; be the third pig, not the first two.
 
 - **Problem:** You think wealth is evil and that rich people tend to be greedy.
-  **Solution:** Understand that money only magnifies what is already in your heart; Dave Ramsey says the wealthy people he has met through his work are most generous, kind, gentle, and giving people, and you can build wealth to be a better steward and giver.
+  **Solution:** Understand that money only magnifies what is already in your heart; Dave Ramsey says the wealthy people he has met through his work are generous, kind, gentle, and giving people, and you can build wealth to be a better steward and giver.
 
 - **Problem:** You look down on people who are struggling financially instead of seeing an opportunity to help.
   **Solution:** Practice humility and awareness; replace judgment with generosity so you can respond practically when you see a need.
