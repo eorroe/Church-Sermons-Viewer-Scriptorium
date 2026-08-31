@@ -2,11 +2,11 @@
 
 ## Overview
 
-"You Need More Money" is a guide to transforming your financial reality by confronting self-deception, fixing your money mindset, and building disciplined systems for wealth accumulation. It teaches that the barrier is primarily execution, honesty, and the willingness to take action — strategy also matters. The book exists to strip away illusions of financial security, replace fear-based thinking with a "Game Facer" mindset, and provide a step-by-step framework for earning, protecting, and multiplying money at every stage of life.
+"You Need More Money" is a guide to transforming your financial reality by confronting self-deception, fixing your money mindset, and building disciplined systems for wealth accumulation. The book states that the barrier is primarily execution, honesty, and the willingness to take action — strategy also matters. The book aims to strip away illusions of financial security, replace fear-based thinking with a "Game Facer" mindset, and provide a step-by-step framework for earning, protecting, and multiplying money.
 
 ## When to Follow Book Teachings
 
-- When you are living in a state of False Positive — your life looks financially fine on the surface, but your net worth is below the 1X/3X/5X/10X age-based target
+- When you are living in a state of False Positive — your life looks financially fine on the surface, but your net worth is below the age-based 1X (ages 20–29), 3X (ages 30–39), 5X (ages 40–49), or 10X (age 50 and above) target
 - When you are stuck in Blamer or Dreamer mindset — making excuses for your situation, waiting for a target date, or letting fear shrink your goals instead of taking ownership and acting
 - When you want to build a real Personal ATM through skill development, career leverage, intentional lifestyle design, or entrepreneurship and need a concrete, sequential framework to execute
 
@@ -18,11 +18,11 @@
 
 ##### Example 1: Personal Financial Audit
 
-Sit down with your actual bank statements, bills, and net worth calculation. Write down your income, expenses, savings, and debt in plain numbers. If the total shows you have less than six months of expenses saved and your net worth is below the age-based 1X/3X/5X/10X formula, you are in False Positive Alert territory.
+Sit down with your actual bank statements, bills, and net worth calculation. Write down your income, expenses, savings, and debt in plain numbers. If the total shows you have less than six months of expenses saved and your net worth is below the age-based 1X/3X/5X/10X formula, you are in the False Positive Alert zone per the book's framework.
 
 ##### Example 2: Admitting It Out Loud
 
-State clearly in writing: "I am not okay financially." Naming the truth removes the truth's power to paralyze you and becomes the starting point for every subsequent action in the book.
+State clearly in writing: "I am not okay financially." Per the book, naming the truth reduces the mental paralysis that an undisclosed financial situation creates and becomes the starting point for every subsequent action in the book.
 
 #### Step 1: Stop Denying or Minimizing Your Financial Situation
 
@@ -30,7 +30,7 @@ Look honestly at your income, expenses, savings, and debt. Print your last 30 da
 
 #### Step 2: Assess Your Financial Reality Using the False Positive Test
 
-Answer four questions: Do you have six months of expenses in cash savings? Is your credit rating at least 700? Are you paying all bills from current cash flow? Does your net worth meet the age-based 1X/3X/5X/10X formula? If you pass fewer than three, you are in False Positive territory.
+Answer four questions: Do you have six months of expenses in cash savings? Is your credit rating at least 700? Are you paying all bills from current cash flow? Does your net worth meet the age-based 1X/3X/5X/10X formula? If you pass fewer than three, you are in the False Positive zone per the book's framework.
 
 #### Step 3: Break the Illusion of Financial Security
 
@@ -38,7 +38,7 @@ Identify where you are projecting security — social media, conversations, life
 
 #### Step 4: Have Honest Conversations About Money With Your Inner Circle
 
-Choose one trusted person who meets all three criteria: (1) they have demonstrated financial responsibility (they have savings, low debt, or a clear financial plan), (2) they genuinely care about your well-being, and (3) they can keep confidential information private. Schedule uninterrupted time in a private setting, share your exact income, expenses, savings, and debt figures, and agree on 2–3 shared financial goals with deadlines.
+Choose one trusted person who meets all three criteria: (1) they have demonstrated financial responsibility, per the book's criteria (they have savings or a clear financial plan), (2) they genuinely care about your well-being, and (3) they can keep confidential information private. Schedule uninterrupted time in a private setting, share your exact income, expenses, savings, and debt figures, and agree on 2–3 shared financial goals with deadlines.
 
 #### Step 5: Stop Playing It Safe and Lowering Your Goals
 
@@ -46,9 +46,9 @@ Write down 3–5 specific financial dreams from your past (career, lifestyle, or
 
 #### Best Practices
 
-- ✅ Face your financial reality head-on, even if it is uncomfortable
+- ✅ Face your financial reality head-on, even when the numbers are unfavorable
 - ✅ Use numbers, not feelings, to assess your situation
-- ✅ Dream bigger than you think is possible — set goals 50% larger than your target and write them down
+- ✅ Per the book, dream bigger than your current target — set goals 50% larger than your target and write them down
 - ✅ View money as a requirement for doing good and living fully
 - ❌ Don't pretend you are fine when the numbers say otherwise
 - ❌ Don't compare yourself to others as a measure of success
@@ -65,7 +65,7 @@ Write down 3–5 specific financial dreams from your past (career, lifestyle, or
 #### Security & Safety Notes
 
 - Only liquid cash in an accessible savings account counts toward the six-month reserve; do not count retirement accounts or home equity
-- Build adequate insurance (health, life, disability) as a protective layer before pursuing aggressive investments
+- Build insurance (health, life, disability) with a minimum of $500,000 in term coverage as a protective layer before pursuing aggressive investments
 - Do not use credit cards as a safety net — they are debt, not savings
 
 #### Common Pitfalls
@@ -76,8 +76,8 @@ Write down 3–5 specific financial dreams from your past (career, lifestyle, or
   **Solution:** Recognize that financial stress does not justify inaction.
 - **Problem:** Waiting for a crisis to force honesty
   **Solution:** Confront the truth before a crisis makes it unavoidable.
-- **Problem:** Belief that money and life satisfaction are mutually exclusive
-  **Solution:** Money reduces life stressors; it does not guarantee well-being.
+- **Problem:** Per the book, the belief that money and life satisfaction are mutually exclusive
+  **Solution:** Per the book, money reduces life stressors; it does not guarantee well-being.
 
 ---
 
@@ -87,7 +87,7 @@ Write down 3–5 specific financial dreams from your past (career, lifestyle, or
 
 ##### Example 1: Quarterly Financial Health Check
 
-Gather bank statements, credit reports, bills, and your net worth calculation. Score yourself on the four criteria. If you score below three, you are in False Positive Alert territory and must take immediate corrective action.
+Gather bank statements, credit reports, bills, and your net worth calculation. Score yourself on the four criteria. If you score below three, you are in the False Positive Alert zone per the book's framework and must take immediate corrective action.
 
 ##### Example 2: Age-Based Net Worth Comparison
 
@@ -95,7 +95,7 @@ If you are 35 with a $60,000 income, your target net worth is 3X = $180,000. If 
 
 #### Step 1: Take the False Positive Test
 
-Gather your current financial information and answer four questions honestly: savings (six months in cash), credit (at least 700), bills (paid from cash flow), and net worth (meets age-based formula).
+Gather your current financial information and answer four questions honestly: savings (six months in cash), credit (at least 700), bills (paid from cash flow), and net worth (meets the 1X/3X/5X/10X age-based formula: 1X for ages 20–29, 3X for ages 30–39, 5X for ages 40–49, 10X for age 50 and above).
 
 #### Step 2: Apply the 1X / 3X / 5X / 10X Net Worth Formula
 
@@ -111,7 +111,7 @@ Use the U.S. Census Bureau's American Community Survey (or your country's equiva
 
 #### Step 5: Build a Real Cash Safety Net (Six-Month Reserve)
 
-Calculate essential monthly expenses and multiply by six. Open a separate high-yield savings account. Set up automatic monthly transfers. Define strict rules for what qualifies as an emergency.
+Calculate essential monthly expenses and multiply by six. Open a separate high-yield savings account. Set up automatic monthly transfers. Define what qualifies as an emergency.
 
 #### Step 6: Focus on What You Can Control — Your Money
 
@@ -147,13 +147,13 @@ Write down three specific, financially devastating crisis scenarios that could a
 #### Security & Safety Notes
 
 - Emergency funds must be in liquid, accessible accounts with no penalty risk
-- Maintain adequate insurance (health, life, disability) to protect against catastrophic events
+- Maintain insurance (health, life, disability) with a minimum of $500,000 in term coverage to protect against catastrophic events
 - Only cash in an accessible savings account counts toward the six-month reserve
 
 #### Common Pitfalls
 
 - **Problem:** Confusing income with savings — earning $150,000 but spending it all
-  **Solution:** Track net worth, not just income.
+  **Solution:** Per the book, track net worth rather than only income.
 - **Problem:** Treating available credit as a safety net
   **Solution:** Credit cards are debt, not savings. Only liquid cash counts.
 - **Problem:** Believing you are ahead because you own a house with equity
@@ -193,7 +193,7 @@ Write down every financial dream. For each, write one concrete action you can ta
 
 #### Step 4: Build and Protect Your Self-Esteem
 
-Identify self-defeating questions you regularly ask yourself. Rewrite each as an empowering question. Document your wins daily. Surround yourself with people who reflect high self-esteem back to you.
+Identify self-defeating questions you regularly ask yourself. Rewrite each as an empowering question. Document your accomplishments daily. Surround yourself with people who reflect high self-esteem back to you.
 
 #### Step 5: Shift From Blamer Mind-Set to Game Facer Mind-Set
 
@@ -209,7 +209,7 @@ Categorize everyone in your regular social circle as a Blamer, Dreamer, or Game 
 
 #### Step 8: Compete Upward, Never Downward
 
-Identify one person or company in your target industry who earns 2–5X your current income and holds the exact position or business model you want. Research their public career path, revenue sources, and key decisions. Set a daily or weekly challenge to beat them at one small, measurable element (e.g., make 10 more prospecting calls, write 2 more LinkedIn posts). If you find yourself "winning" against people who are struggling financially, recognize that you are competing downward — and change your benchmark immediately.
+Identify one person or company in your target industry who earns 2–5X your current income and holds the exact position or business model you want. Research their public career path, revenue sources, and key decisions. Set a daily or weekly challenge to beat them at one small, measurable element (e.g., make 10 more prospecting calls, write 2 more LinkedIn posts). If you find yourself "winning" against people who are struggling financially, recognize that you are competing against underperformers (the book calls this "competing downward") — and change your benchmark immediately.
 
 #### Step 9: Draw a Line in the Sand — Make an Unbreakable Commitment
 
@@ -226,8 +226,8 @@ Reframe money as a tool, not a master. Learn the basics of a balance sheet — a
 - ✅ Set deadlines for every dream and goal
 - ✅ Ask forward-looking questions like "What is the best use of my time?"
 - ✅ Catch Blamer statements and immediately reframe them
-- ✅ Buy term life insurance specifically — it is cost-effective
-- ✅ Be honest with yourself about what each person in your circle contributes or drains
+- ✅ Buy term life insurance specifically — per the book, it is cost-effective
+- ✅ Be honest with yourself about what each person in your circle contributes to or detracts from your financial progress (per the book's criteria)
 - ✅ Pick competitors who stretch you, not those 100 levels above where you feel defeated
 - ✅ Make commitments specific and time-bound
 - ❌ Don't hide details hoping the situation will resolve itself
@@ -241,28 +241,28 @@ Reframe money as a tool, not a master. Learn the basics of a balance sheet — a
 
 #### Keep In Mind
 
-- Disappointment fades; lies destroy trust permanently
-- You are not broken; your previous strategy needs adjustment
+- Per the book, disappointment fades; lies destroy trust permanently
+- You are not broken; per the book, your previous strategy needs adjustment
 - Mind-set change requires repetition — practice reframes at least 3 times daily (upon waking, midday, and before bed). Speak each out loud and carry a written card.
 - One phone call for life insurance is the first step toward protection
-- Your financial future depends on choosing your circle deliberately
-- Assets greater than liabilities is the core financial formula. Other factors — such as income stability, risk management, and spending discipline — also contribute to financial success.
+- Per the book, your financial future depends on choosing your circle deliberately
+- Assets greater than liabilities is the core financial formula.
 
 #### Security & Safety Notes
 
 - Term life insurance is pure protection, not an investment vehicle — buy it for protection, invest separately for growth
-- Maintain adequate insurance before pursuing aggressive wealth-building strategies
+- Maintain insurance (health, life, disability) with a minimum of $500,000 in term coverage before pursuing aggressive wealth-building strategies
 
 #### Common Pitfalls
 
 - **Problem:** Fear of disappointing loved ones with honest financial disclosure
-  **Solution:** Accept that they may feel hurt initially, but honesty is the only path to real repair.
+  **Solution:** Accept that they may feel hurt initially, but per the book, honesty is the path to real repair.
 - **Problem:** Feeling powerless after past failures
   **Solution:** Reframe each failure as data. You control the next action.
 - **Problem:** Paralysis by analysis — researching endlessly without acting
   **Solution:** Set a 24-hour rule. Take one small action within 24 hours of learning something new.
 - **Problem:** Imposter syndrome — feeling you don't deserve success
-  **Solution:** Keep a "wins log." When self-doubt hits, read through your documented accomplishments.
+  **Solution:** Keep an accomplishments log. When self-doubt hits, read through your documented accomplishments.
 - **Problem:** Relapsing into Blamer patterns during stress
   **Solution:** Create a physical reminder with your Game Facer commitment. Use stress as a trigger to double down on accountability.
 - **Problem:** Procrastination on life insurance
@@ -276,11 +276,11 @@ Reframe money as a tool, not a master. Learn the basics of a balance sheet — a
 
 ##### Example 1: The Lifestyle Cost Calculation
 
-Write down your ideal day, week, and year without budget constraints. Calculate what that lifestyle costs in annual income and net worth. If you want to work six months a year, travel internationally, and provide private education for your children, the income requirement may be higher than your current job provides — which tells you exactly what you are working toward.
+Write down your ideal day, week, and year without budget constraints. Calculate what that lifestyle costs in annual income and net worth. If you want to work six months a year, travel internationally, and provide private education for your children, use this calculation to determine the exact income requirement.
 
 ##### Example 2: The Doorman Filter
 
-Before accepting a meeting request, ask: "Does this activity align with my Core Values?" If it does not, decline it politely but firmly. This simple filter protects your most valuable resource — time aligned with what matters most.
+Before accepting a meeting request, ask: "Does this activity align with my Core Values?" If it does not, decline it politely but firmly. Per the book, this filter protects your most valuable resource — time aligned with what matters most.
 
 #### Step 1: Identify Your Core Values
 
@@ -317,37 +317,37 @@ Synthesize Core Values, Visualization, Doorman, and Goal Setting into a written 
 - ❌ Don't let other people's expectations dictate your core values
 - ❌ Don't judge your vision as realistic or unrealistic during the exercise
 - ❌ Don't agree to activities out of guilt, obligation, or Fear of Missing Out (FOMO)
-- ❌ Don't set small, "safe" goals that don't require real effort
+- ❌ Don't set small, "safe" goals that don't require concrete action
 - ❌ Don't confuse busywork with action
 - ❌ Don't write a vague wish list — every area should be specific enough to create goals from
 
 #### Keep In Mind
 
 - Vision comes first, then plan — not the other way around
-- Every yes to an activity that conflicts with your Core Values is a no to an activity that aligns with your Core Values
+- Per the book, every yes to an activity that conflicts with your Core Values is a no to an activity that aligns with your Core Values
 - Use the 10X Calendar method by Grant Cardone: each morning, write down your 10X goals in a physical notebook and review them before bed.
-- Stretch activities can still align with growth values
+- Challenging activities can still align with your Core Values
 - Visualizing your desired outcome is the first step; building toward it requires specific actions and measurable milestones
 
 #### Security & Safety Notes
 
-- Calculate the real numbers. Make the plan concrete before committing resources
+- Calculate your actual numbers with specific figures. Make the plan concrete before committing resources (per the book's guidance)
 - Protect high-value routines (family dinners, exercise, deep work) as non-negotiable
 
 #### Common Pitfalls
 
 - **Problem:** Values feel generic or borrowed from others
-  **Solution:** Answer the reflection questions using your actual financial numbers — score your answers against the False Positive Test criteria.
+  **Solution:** Answer the reflection questions using your actual financial numbers — apply the four False Positive Test criteria (six months cash savings, credit rating 700 or above, bills paid from current cash flow, net worth meets the 1X/3X/5X/10X formula) to your situation.
 - **Problem:** Starting with what you can afford rather than what you want
-  **Solution:** Separate vision from budget. Vision comes first.
+  **Solution:** Per the book, separate vision from budget. Vision comes first.
 - **Problem:** Visualization feels like empty daydreaming
   **Solution:** Anchor visions with written details and cost calculations.
 - **Problem:** Feeling guilty for declining requests
-  **Solution:** Remind yourself that every yes to an activity that conflicts with your Core Values is a no to an activity that aligns with your Core Values.
+  **Solution:** Per the book, every yes to an activity that conflicts with your Core Values is a no to an activity that aligns with your Core Values.
 - **Problem:** Getting stuck in planning without executing
   **Solution:** Set a timer: 10 minutes to plan, then immediately act.
 - **Problem:** Roadmap feels unrealistic or intimidating
-  **Solution:** Write it anyway — realism is not the point; direction is.
+  **Solution:** Per the book, write it anyway — realism is not the point; direction is.
 
 ---
 
@@ -373,19 +373,19 @@ Gather three months of bank and credit card statements. Fill in every expense ca
 
 #### Step 3: Evaluate Whether You Are in the Right Platform (Industry)
 
-Ask: Are there people in my platform achieving what I want? Evaluate on three criteria: proof of success, growth trajectory, and your ability to win. Study proven enduring industries (banking, insurance, real estate, healthcare) and emerging opportunities (cybersecurity, artificial intelligence [AI]).
+Ask: Are there people in my platform achieving what I want? Evaluate on three criteria: proof of success (people reaching your target income or net worth in this industry), growth trajectory (is the industry growing), and your ability to compete at that level. Study proven enduring industries (banking, insurance, real estate, healthcare) and emerging opportunities (cybersecurity, artificial intelligence [AI]).
 
-#### Step 4: Conduct Deep Research to Discover Your True Risk Tolerance
+#### Step 4: Conduct Deep Research to Discover Your Risk Tolerance
 
 Before any investment or career move, spend at least 20 hours researching: read 3 independent sources (an industry report, an expert interview, and a case study), interview 2 people who have done what you are considering, and document findings in a written risk assessment with upside, downside, probabilities, and severe financial loss scenario analysis. Ask: "If you are wrong, what is the worst financial loss you could incur, and can you survive it?"
 
 #### Step 5: Apply the "Step Back to Take Two Steps Forward" Principle
 
-Acknowledge your income trap by calculating your annual raise percentage over the past 3 years. If it is below 5% and you are not in Accumulation Mode, your current platform has capped your earning potential. Calculate the immediate cost of a strategic move (6 months of living expenses). Build a reserve account first. Make the move only when research shows the long-term benefit exceeds the immediate cost and you have enough reserves to survive the transition.
+Acknowledge your income trap by calculating your annual raise percentage over the past 3 years. If it is below 5% and you are not in Accumulation Mode, per the book, your current platform has capped your earning potential. Calculate the immediate cost of a strategic move (6 months of living expenses). Build a reserve account first. Make the move only when research shows the long-term benefit exceeds the immediate cost and you have enough reserves to survive the transition.
 
 #### Step 6: Use the 10-Question Employee-or-Employer Framework
 
-Answer all 10 questions honestly in writing. If you answer "no" to at least 3, you are not ready to be your own boss yet. Consider being the #2–#10 employee at a great company over being the CEO of a failing small business.
+Answer all 10 questions honestly in writing. If you answer "no" to at least 3, per the book's 10-Question Employee-or-Employer Framework, you are not ready to be your own boss yet. Consider being the #2–#10 employee at a great company over being the CEO of a failing small business.
 
 #### Step 7: Do the Full Entrepreneurship Math Before Quitting Your Job
 
@@ -393,22 +393,22 @@ Calculate your current total compensation. Determine business revenue requiremen
 
 #### Step 8: Build a Network of Successful People in Your Target Platform
 
-Find 3–5 people already achieving what you want. Study their path. Reach out with specific, thoughtful questions. Learn from their mistakes. Absorb their mindset and habits.
+Find 3–5 people already achieving what you want. Study their path. Reach out with specific, thoughtful questions. Learn from their mistakes. Per the book, study their mindset and habits.
 
 #### Step 9: Master the Research-and-Analysis Protocol Before Every Major Decision
 
-Before any action with material financial impact, create a research checklist. Consult at least three independent sources: a subject-matter expert, written research, and people who have done what you are considering. Document your analysis. If still uncertain after exhaustive research, pass.
+Before any action with material financial impact, create a research checklist. Consult at least three independent sources: a subject-matter expert, written research, and people who have done what you are considering. Document your analysis. If your documented findings do not support moving forward, pass.
 
 #### Best Practices
 
 - ✅ Answer every question with brutal honesty
 - ✅ Use actual bank data, not estimates from memory
 - ✅ Include all assets and all liabilities in net worth calculations
-- ✅ Look for at least two high earners in a platform, not just one outlier
+- ✅ Look for at least two top earners in a platform, not just one outlier
 - ✅ Talk to at least three sources (CPA, attorney, industry veterans)
 - ✅ Frame the step back as an investment, not a loss
 - ✅ Consider being a top employee at a great company over a failing business owner
-- ✅ Be conservative in revenue projections — assume 30–50% less than expected in Year 1
+- ✅ Be conservative in revenue projections — assume 30–50% less than projected in Year 1
 - ✅ Make research a non-negotiable habit
 - ❌ Don't rationalize or soften your answers to feel better
 - ❌ Don't underestimate discretionary spending
@@ -417,38 +417,38 @@ Before any action with material financial impact, create a research checklist. C
 - ❌ Don't take a step back impulsively without research and a financial buffer
 - ❌ Don't assume that hating your boss justifies starting your own business
 - ❌ Don't assume clients follow you personally — clients buy from companies
-- ❌ Don't confuse "feeling good about an opportunity" with having done the research
+- ❌ Don't confuse "feeling positive about an opportunity" (per the book's guidance) with having completed the research-and-analysis protocol
 
 #### Keep In Mind
 
-- The gap between estimated expenses and actual expenses is where unexpected financial shortfalls occur
-- Personal relationships should not drive business or investment decisions — separate passion from financial data when evaluating platform viability
-- Evaluate business opportunities using financial data, not personal relationships
-- Risk perception changes with knowledge — more research = less unknown risk
-- Half-measures often fail
-- Being an exceptional employee can still make you wealthy
-- 50% of businesses fail in Year 1, and 90% fail by Year 5 (per the book's own cited data)
+- Per the book, the gap between estimated expenses and actual expenses is where unexpected financial shortfalls occur
+- Personal relationships should not drive business or investment decisions — per the book, separate passion from financial data when evaluating platform viability
+- Per the book, evaluate business opportunities using financial data, not personal relationships
+- Per the book, risk perception changes with knowledge — more research reduces unknown risk
+- Per the book, half-measures often fail
+- Per the book, being an exceptional employee can still make you wealthy
+- Per statistics cited in the book, 50% of businesses fail in Year 1 and 90% fail by Year 5
 
 #### Security & Safety Notes
 
 - Always use your most recent annual gross income for net worth calculations
 - Factor healthcare costs separately in your financial planning
-- Build a "buffer" of money to protect yourself in severe financial loss scenarios
+- Build a financial buffer equal to 6 months of living expenses to protect yourself in severe financial loss scenarios
 
 #### Common Pitfalls
 
 - **Problem:** "I already know the answers" without writing them down
-  **Solution:** Writing creates a documented record that supports accountability. Intellectual knowledge is not the same as committed action.
+  **Solution:** Per the book, writing creates a documented record that supports accountability. Intellectual knowledge is not the same as committed action.
 - **Problem:** Believing you are ahead because you own a house with equity
   **Solution:** Subtract the mortgage from the home value.
 - **Problem:** Believing you have "made it" because you hit an outdated milestone
-  **Solution:** Tie milestones to your actual expenses and goals, not cultural myths.
+  **Solution:** Tie milestones to your actual expenses and goals, not to beliefs about money that are not supported by your financial data (per the book's guidance).
 - **Problem:** Quitting a job based on frustration, not data
   **Solution:** Complete all 10 questions before making any irreversible decision.
 - **Problem:** "My current salary is $X, so I need to make $X as a business owner"
   **Solution:** You may need $2X–$3X in revenue to net $X after all business expenses.
 - **Problem:** Research feels tedious and slow
-  **Solution:** Reframe it: research is what separates confident investors from gamblers.
+  **Solution:** Per the book, reframe it: research is what separates confident investors from gamblers.
 
 ---
 
@@ -458,19 +458,19 @@ Before any action with material financial impact, create a research checklist. C
 
 ##### Example 1: The Two-Bank Account System
 
-Open an Operating Account at your primary bank for bills and a Reserve Account at a separate bank. The Reserve Account has no checks, no ATM card, and no easy online transfer linkage. This creates physical and logistical friction that protects your wealth from impulsive spending.
+Open an Operating Account at your primary bank for bills and a Reserve Account at a separate bank. The Reserve Account has no checks, no ATM card, and no easy online transfer linkage. Per the book, this setup creates physical and logistical friction that protects your wealth from impulsive spending.
 
 ##### Example 2: The Accumulation Mode Mantra
 
-Saying "I'm in Accumulation Mode" removes the stigma of saying no to spending, creates social accountability, and reminds you that every dollar spent is a dollar not invested in your future freedom.
+Saying "I'm in Accumulation Mode" per the book removes the stigma of saying no to spending, creates social accountability, and reminds you that every dollar spent is a dollar not invested in your future freedom.
 
 #### Step 1: Understand and Identify Your Current Wealth Zone
 
-Calculate your liquid cash savings. At least $50,000 = Accumulation Mode. No longer needing to work for income = Rich. Record your actual numbers without rounding or estimation.
+Calculate your liquid cash savings. $50,000 in liquid cash savings = Accumulation Mode. No longer needing to work for income = Rich. Record your actual numbers without rounding or estimation.
 
 #### Step 2: Admit You Are Broke (If Applicable)
 
-If you have less than $50,000 in liquid savings after subtracting debt, acknowledge you have restricted financial options until you reach $50,000.
+If you have less than $50,000 in liquid savings after subtracting debt, per the book, acknowledge you have restricted financial options until you reach $50,000.
 
 #### Step 3: Cut All Non-Essential Spending
 
@@ -490,7 +490,7 @@ Set $50,000 as your immediate financial goal. Allocate all excess income toward 
 
 #### Step 7: Focus on Earning More Income
 
-Accept that your core problem is a revenue problem, not an expenses problem. Identify opportunities to increase income. Invest in 1–2 high-income skills per quarter (e.g., sales, copywriting, coding, project management, digital marketing) or industry-recognized certifications (e.g., Certified Public Accountant [CPA], Project Management Professional [PMP], Series 7, AWS Certified Solutions Architect) that have a proven track record of increasing income by at least 20% in your field. Use free resources (YouTube, Coursera, industry blogs) to research which skills are in demand before paying for training.
+Accept that the issue is a revenue problem, not an expenses problem. Identify opportunities to increase income. Invest in 1–2 skills per quarter (e.g., sales, copywriting, coding, project management, digital marketing) or industry-recognized certifications (e.g., Certified Public Accountant [CPA], Project Management Professional [PMP], Series 7, AWS Certified Solutions Architect) that the book identifies as having a track record of increasing income by at least 20% in your field. Use free resources (YouTube, Coursera, industry blogs) to research which skills are in demand before paying for training.
 
 #### Step 8: Maintain a "Broke Mindset" Even After Escaping Broke
 
@@ -510,7 +510,7 @@ Define the Reserve Account's sole purpose: funding cash-flow-generating investme
 
 #### Step 12: Maintain and Track Milestones Aggressively
 
-Set clear Reserve Account milestones: $10,000, $25,000, $50,000, $75,000, $100,000, and beyond. Celebrate each milestone for exactly 5 minutes: acknowledge the win, share it with your accountability partner, then immediately write down the next milestone. Do not make any purchases or lifestyle changes. Return to work immediately after the 5 minutes.
+Set clear Reserve Account milestones: $10,000, $25,000, $50,000, $75,000, $100,000, and beyond. Celebrate each milestone for exactly 5 minutes: acknowledge the accomplishment, share it with your accountability partner, then immediately write down the next milestone. Do not make any purchases or lifestyle changes. Return to work immediately after the 5 minutes.
 
 #### Step 13: Know When You Are Truly Rich (The $5 Million / 10X Rule)
 
@@ -518,11 +518,11 @@ Calculate your target annual income for your Lifestyle by Design. Multiply by 10
 
 #### Step 14: Avoid Lifestyle Inflation and Unnecessary Upgrades
 
-Before any upgrade, calculate the true cost and opportunity cost using your hourly rate (annual income divided by 2,000 working hours). Ask: Will this generate income or save more time than its cost at my hourly rate? Only approve upgrades that pass this test. Keep your life simple.
+Before any upgrade, calculate the full cost and opportunity cost. Ask: Will this generate income or save more time than its cost? Only approve upgrades that pass this test. Keep your life simple.
 
 #### Best Practices
 
-- ✅ Use the $50,000 liquid cash threshold as a clear dividing line
+- ✅ Use the $50,000 liquid cash threshold as the dividing line between Broke and Accumulation Mode
 - ✅ Treat this as a temporary spending reduction to build savings
 - ✅ Destroy all credit cards immediately and without fail
 - ✅ Price items below market value to move them quickly
@@ -533,43 +533,43 @@ Before any upgrade, calculate the true cost and opportunity cost using your hour
 - ✅ Prioritize upgrades that save time or generate money
 - ❌ Don't compare yourself to others who may not be financially successful
 - ❌ Don't allow yourself "just one" discretionary expense
-- ❌ Don't keep a credit card "for emergencies" — build a real cash reserve instead
+- ❌ Don't keep a credit card "for emergencies" — build a dedicated cash reserve instead
 - ❌ Don't hold onto items "just in case"
 - ❌ Don't keep both accounts at the same bank for convenience
 - ❌ Don't manually write checks or make discretionary transfers from Operating Account
-- ❌ Don't use the Reserve Account as an emergency fund or vacation fund
-- ❌ Don't upgrade just because your neighbors, friends, or spouse pressure you
+- ❌ Don't use the Reserve Account as a fund for non-cash-flow-generating activities or lifestyle spending
+- ❌ Don't upgrade just because others pressure you to spend more
 
 #### Keep In Mind
 
-- Time is finite and unpredictable; start today regardless of your age. Complete one 30-minute action right now: calculate your liquid net worth (assets minus liabilities) and write down your False Positive Test score. If you are 20 or 60, the first action is identical — open a separate savings account and set up an automatic transfer.
-- Any non-essential purchase delays reaching $50,000 in liquid savings
-- The convenience of same-bank accounts is a trap
-- Financial progress requires continuous effort; keep pushing to the next level
-- True freedom comes from optionality, not possessions
+- Per the book, time is finite and unpredictable; start today regardless of your age. Complete one 30-minute action right now: calculate your liquid net worth (assets minus liabilities) and write down your False Positive Test score. If you are 20 or 60, the first action is identical — open a separate savings account and set up an automatic transfer.
+- Per the book, any non-essential purchase delays reaching $50,000 in liquid savings
+- Per the book, the convenience of same-bank accounts is a trap
+- Per the book, financial progress requires continuous effort; keep pushing to the next level
+- Per the book, true freedom comes from optionality, not possessions
 
 #### Security & Safety Notes
 
 - Only cash in an accessible savings account counts toward financial safety nets
 - Never tap the Reserve Account for emotional or impulsive reasons
-- Build a small buffer in your Operating Account for predictable surprises
+- Maintain a balance in your Operating Account to cover regular bill payments without dipping into your Reserve Account
 
 #### Common Pitfalls
 
-- **Problem:** Thinking you're "good" because you have a 401(k) or can afford a nice vacation
-  **Solution:** These do not equal financial freedom; only liquid cash and net worth that generates passive income equal to your Lifestyle by Design annual cost do.
+- **Problem:** Thinking you're "good" because you have a 401(k) or can afford discretionary spending
+  **Solution:** Per the book, these do not equal financial freedom; only liquid cash and net worth that generates passive income equal to your Lifestyle by Design annual cost do.
 - **Problem:** Convincing yourself you are "doing better than most"
-  **Solution:** Use the $50,000 objective metric; if you are below it, you are broke.
+  **Solution:** Use the $50,000 metric from the book's Broke Zone definition; if you are below it, you meet the book's definition of Broke.
 - **Problem:** Keeping one card "just in case" or for points/rewards
-  **Solution:** The psychological cost of easy credit far outweighs any benefits.
+  **Solution:** Per the book, the psychological cost of easy credit far outweighs any benefits.
 - **Problem:** Keeping both accounts at the same bank for convenience
-  **Solution:** The convenience is the trap; separate banks create the necessary friction.
+  **Solution:** Per the book, the convenience is the trap; separate banks create the necessary friction.
 - **Problem:** Believing $50,000 is "not enough" and delaying the effort
-  **Solution:** The goal is to exit Broke, not to retire; $50,000 is sufficient for that transition.
+  **Solution:** Per the book, the goal is to exit Broke, not to retire; $50,000 is sufficient for that transition.
 - **Problem:** Earning more but upgrading your lifestyle in lockstep
   **Solution:** Keep your living expenses flat; send every additional dollar to your reserve account.
 - **Problem:** Getting stuck in celebration mode after hitting a milestone
-  **Solution:** Set a timer if needed; acknowledge the win for 5 minutes, then return to work.
+  **Solution:** Set a timer if needed; acknowledge the accomplishment for 5 minutes, then return to work.
 
 ---
 
@@ -583,23 +583,23 @@ Make a list of 10–15 people who have achieved the exact financial outcome you 
 
 ##### Example 2: The Mentor Selection Checklist
 
-Before investing time in a mentor, verify they meet five criteria: they have something you want, they are more successful than you in the specific area, they are trustworthy, they have no chemical addictions, and they are willing to help with little in return. If any criterion is not met, keep looking.
+Before investing time in a mentor, verify they meet five criteria: (1) they have something you want, (2) they are more successful than you in the specific area (if you want marriage advice, find someone who has been successfully married for 50 years), (3) they are trustworthy, (4) they have no chemical addictions, (5) they are willing to help with little in return. If any criterion is not met, keep looking.
 
 #### Step 1: Build a "Game Facers" List and Activate It
 
-Make a list of 10 people who have the exact skills, mindset, or success you want. For each, write down: (1) what they achieved, (2) one specific lesson you can learn from them, (3) whether you can reach out to them directly or through their books/courses/content.
+Make a list of 10–15 people who have the exact skills, mindset, or success you want. For each, write down: (1) what they achieved, (2) one specific lesson you can learn from them, (3) whether you can reach out to them directly or through their books/courses/content.
 
 #### Step 2: Apply the Mentor Selection Checklist
 
-Identify a potential mentor and verify they meet all five criteria. Interview 2–3 candidates for each role. If a candidate fails to respond within 48 hours, gives vague advice, or misses a scheduled check-in, move on. Trust your intuition: if something feels off during the first meeting, do not proceed.
+Identify a potential mentor and verify they meet all five criteria. Interview 2–3 candidates for each role. If a candidate fails to respond within 48 hours, gives vague advice, or misses a scheduled check-in, move on. Per the book, if something feels off during the first meeting, do not proceed.
 
 #### Step 3: Eliminate the "Keeping Up with the Joneses" Mind-Set
 
-Notice when you are comparing your life or success to others. When you see others succeed, wish them well. Ask successful people how they achieved their financial success. Stop wasting time worrying about what others think of you.
+Notice when you are comparing your life or success to others. When you see others succeed, wish them well. Ask successful people what platform or industry path they used to build their income. Stop wasting time worrying about what others think of you.
 
 #### Step 4: Follow the Money — Network Intentionally
 
-Identify 5–10 successful people in your network or target industry who meet these three criteria: (1) they have solved a problem you are currently facing, (2) they are 2–10 years ahead of you, (3) they seem approachable and willing to help. Ask them out to lunch or coffee (on your dime) and tell them explicitly: "I am looking to network with highly successful individuals who can help me make more money."
+Identify 5–10 successful people in your network or target industry who meet these three criteria: (1) they have solved a problem you are currently facing, (2) they are 2–10 years ahead of you, (3) they seem approachable and willing to help. Ask them out to lunch or coffee (on your dime) and tell them explicitly: "I am looking to network with people who have achieved the financial outcome I want and can help me make more money."
 
 #### Step 5: Master Every Aspect of Your Industry Without Overstepping
 
@@ -607,11 +607,11 @@ Choose one adjacent skill or department that directly impacts company revenue (e
 
 #### Step 6: Assemble Your Gritty Team of Advisors
 
-Build a permanent advisory team of five professionals by following this process for each role: (1) Accountant — find a CPA who specializes in small business or high-income individuals (search on Upwork, Thumbtack, or get a referral from a peer), (2) Insurance Agent — find an expert in your industry with at least 10 years experience, (3) Lawyer — find a business or estate attorney (interview 2–3 and ask for a sample case they handled), (4) Finance Partner — find a banker or independent finance company representative who understands your business model, (5) Mentor — find someone in your target industry who is 5–10 years ahead of you. Schedule quarterly check-ins with each.
+Build a permanent advisory team of five professionals by following this process for each role: (1) Accountant — find a CPA who specializes in small business or individuals with high earnings (search on Upwork, Thumbtack, or get a referral from a peer), (2) Insurance Agent — find an expert in your industry with at least 10 years experience, (3) Lawyer — find a business or estate attorney (interview 2–3 and ask for a sample case they handled), (4) Finance Partner — find a banker or independent finance company representative who understands your business model, (5) Mentor — find someone in your target industry who is 5–10 years ahead of you. Schedule quarterly check-ins with each.
 
 #### Step 7: Embrace Honesty and Authenticity to Break Through Insecurities
 
-Write down the 3–5 most common negative thoughts you have about money (e.g., 'I'll never be rich,' 'Money is evil,' 'I'm bad with numbers'). For each, write the corresponding Game Facer reframe. Stop lying to yourself and others about your success. Acknowledge when you lack knowledge. Ask for advice from people who have achieved more than you. Take action on the advice you receive.
+Write down the 3–5 most common negative thoughts you have about money (e.g., 'I'll never be rich,' 'Money is evil,' 'I'm bad with numbers'). For each, write the corresponding Game Facer reframe. Per the book, stop lying to yourself and others about your success. Acknowledge when you lack knowledge. Ask for advice from people who have achieved the financial outcome you want. Take action on the advice you receive.
 
 #### Step 8: Maximize Opportunities by Being Present and Prepared
 
@@ -623,26 +623,26 @@ Apply to 1–2 selective programs per quarter (e.g., mastermind groups, industry
 - ✅ Offer to pay for lunches or meetings yourself
 - ✅ Focus on learning from interactions, not only on immediate financial return
 - ✅ Ask specific, thoughtful questions rather than "can you mentor me?"
-- ✅ Follow proven producers — do not try to be a pioneer without evidence of demand
+- ✅ Follow people with documented, verifiable success — do not try to be a pioneer without evidence of demand
 - ✅ Offer value before asking for favors
 - ✅ Be a sponge, not a critic
 - ✅ Build relationships in advance, not in crisis mode
-- ✅ Authenticity builds trust faster than any sales pitch
+- Per the book, authenticity builds trust faster than any sales pitch
 - ❌ Don't exaggerate your success to impress
 - ❌ Don't ask a successful person to be your mentor in the first interaction
 - ❌ Don't surround yourself only with people at your current level
 - ❌ Don't interfere with coworkers or direct people outside your department
 - ❌ Don't wait until a crisis to find advisors
-- ❌ Don't hire a "nice" but weak lawyer — you need someone tough
+- ❌ Don't hire a "nice" but weak lawyer — per the book, you need someone who can advocate effectively on your behalf
 - ❌ Don't protect your ego at the cost of learning
 
 #### Keep In Mind
 
-- Wealthy individuals may be willing to share knowledge — ask confidently
-- Your network provides access to opportunities and information
-- You adopt the habits and mindsets of the people and ideas you spend the most time with
-- Asking for help is a sign of confidence, not weakness
-- Relationships grow over time — focus on genuine curiosity, not immediate ROI
+- Per the book, people who have achieved the financial outcomes you want may be willing to share knowledge — ask confidently
+- Per the book, your network provides access to opportunities and information
+- Per the book, you adopt the habits and mindsets of the people and ideas you spend the most time with
+- Per the book, asking for help is a sign of confidence, not weakness
+- Per the book, relationships grow over time — focus on learning from the interaction, not on immediate ROI
 
 #### Security & Safety Notes
 
@@ -652,17 +652,17 @@ Apply to 1–2 selective programs per quarter (e.g., mastermind groups, industry
 #### Common Pitfalls
 
 - **Problem:** Fear of rejection from successful people
-  **Solution:** Prepare a specific, thoughtful question before reaching out. Ask confidently.
+  **Solution:** Prepare a specific, thoughtful question before reaching out. Per the book, ask confidently.
 - **Problem:** Appearing phony or fake
   **Solution:** Remove vague language and be precise about where you are.
 - **Problem:** Ignoring red flags because you want guidance
-  **Solution:** Stick to the checklist — do not proceed with mentors who lack credentials, chemical sobriety, or demonstrated results.
+  **Solution:** Stick to the checklist — per the book, do not proceed with mentors who lack credentials, chemical sobriety, or demonstrated results.
 - **Problem:** Treating networking as transactional
-  **Solution:** Focus on learning from the interaction, not on immediate financial return.
+  **Solution:** Per the book, focus on learning from the interaction, not on immediate financial return.
 - **Problem:** Trying to do everything yourself
-  **Solution:** Specialization in your niche produces stronger results than general knowledge across all areas.
+  **Solution:** Per the book, specialization in your niche produces stronger results than general knowledge across all areas.
 - **Problem:** Feeling like an imposter when networking up
-  **Solution:** Document your skills and past wins — use them as evidence to persist through challenges.
+  **Solution:** Document your skills and past accomplishments — use them as evidence to persist through challenges.
 
 ---
 
@@ -680,7 +680,7 @@ Spend 30 minutes this week trying 2–3 activities related to potential niches (
 
 #### Step 1: Adopt a "Deep and Narrow" Mindset
 
-Choose a niche aligned with skills you already have or can develop within 90 days using free or low-cost resources. Commit to specializing in one specific area. Validate demand before committing by checking: (1) are people already paying for this solution? (2) is there competition, but not so much that the market is saturated? (3) can you differentiate yourself clearly?
+Choose a niche aligned with skills you already have or can develop within 90 days using free or low-cost resources. Commit to specializing in one specific area. Validate demand before committing by checking: (1) are people already paying for this solution? (2) is there competition? (3) can you differentiate yourself clearly?
 
 #### Step 2: Find Your Niche by Solving a Problem in Your Industry
 
@@ -692,7 +692,7 @@ Search job postings for your target niche on Indeed, LinkedIn, and industry-spec
 
 #### Step 4: Market Yourself as the Expert
 
-Audit these 5 touchpoints: (1) email signature — must include your name, title/role, and your niche statement, (2) LinkedIn headline and about section — must state your expertise and the result you deliver, (3) business cards — must communicate your niche in 5 words or less, (4) personal website or portfolio — must have a clear headline stating your expertise, (5) social media bios — must communicate your niche and the specific result you deliver.
+Audit these 5 touchpoints: (1) email signature — must include your name, title/role, and a statement of your expertise and the result you deliver, (2) LinkedIn headline and about section — must state your expertise and the result you deliver, (3) business cards — must communicate your niche in 5 words or less, (4) personal website or portfolio — must have a clear headline stating your expertise, (5) social media bios — must communicate your niche and the specific result you deliver.
 
 #### Step 5: Take Full Ownership of Your Own Skill Development
 
@@ -700,7 +700,7 @@ Accept that skill development is YOUR responsibility, not your employer's. Use d
 
 #### Step 6: Focus on Your Superpower (Strengths), Not Weaknesses
 
-Identify your natural strengths using feedback from five trusted people. Direct all learning energy toward amplifying your strengths. Strive to become extraordinary in your superpower, not average in other areas you pursue.
+Identify your natural strengths using feedback from five trusted people. Direct all learning energy toward amplifying your strengths. Strive to become a top 20% performer in your superpower — documented by feedback from five trusted people (per the book's criteria) — rather than average in other areas you pursue.
 
 #### Step 7: Use Feedback to Identify Your Superpower
 
@@ -708,7 +708,7 @@ Ask 5 trusted people these exact questions: (1) In what areas do I outperform th
 
 #### Step 8: Follow the Five-Step Skill-Up Program
 
-Step 1: Learn what you like. Step 2: Identify value you can bring to your organization. Step 3: Eliminate white space on your calendar. Step 4: Recognize that every skill has inherent value. Step 5: Become a person of interest with a compelling bio.
+Step 1: Learn what you like. Step 2: Identify value you can bring to your organization. Step 3: Eliminate unallocated time on your calendar. Step 4: Per the book, recognize that every skill has inherent value. Step 5: Become a person of interest with a compelling bio.
 
 #### Step 9: Maximize Nights and Weekends for Growth
 
@@ -725,7 +725,7 @@ Use evenings and weekends for preparation, learning, and skill-building. Make pr
 - ✅ Ask precise, targeted questions about tasks and problems, not personality
 - ✅ Start with enjoyment — mastery requires sustained interest
 - ✅ Look for gaps in your organization where you can add unique value
-- ✅ Make the most important calls during off-hours to bypass gatekeepers
+- ✅ Make prospecting calls between 7:00–8:30 AM or 12:00–1:00 PM to bypass gatekeepers
 - ❌ Don't try to be everything to everyone
 - ❌ Don't invent a problem that doesn't exist
 - ❌ Don't fake expertise — customers can spot a phony
@@ -738,33 +738,33 @@ Use evenings and weekends for preparation, learning, and skill-building. Make pr
 
 #### Keep In Mind
 
-- Choosing not to specialize leads to weaker results in your chosen field
-- Amateurs struggle; specialized skills increase earning potential
-- Your employer pays you for the value you bring, not for your lack of skills
+- Per the book, choosing not to specialize leads to weaker results in your chosen field
+- Per the book, amateurs struggle; specialized skills increase earning potential
+- Per the book, your employer pays you for the value you bring, not for your lack of skills
 - Skills can create additional opportunities and unexpected pathways
-- The busiest, wealthiest people you know also invest time in skill development
+- The book describes busy, successful people as investing time in skill development — this is described as a habit of people who achieve and maintain high earnings
 
 #### Security & Safety Notes
 
-- Complete all required credentials — they provide your unique advantage
+- Complete all required credentials — they differentiate you from other candidates
 - Put in the work first; documented results build reputation
 
 #### Common Pitfalls
 
 - **Problem:** Fear of limiting yourself by niching down
-  **Solution:** Reframe: niching down creates a clear market position that clients can recognize and pay for.
+  **Solution:** Per the book, niching down creates a clear market position that clients can recognize and pay for.
 - **Problem:** Cutting corners on certifications
-  **Solution:** Complete all required credentials; they provide your unique advantage.
+  **Solution:** Complete all required credentials; they differentiate you from other candidates.
 - **Problem:** Thinking employer should train you
-  **Solution:** Reframe: they pay for production; you invest in your own skill growth.
+  **Solution:** Per the book, they pay for production; you invest in your own skill growth.
 - **Problem:** Trying to fix every weakness
-  **Solution:** Focus learning time on the skill where you score in the top 20% of performers — documented by feedback from five trusted people — rather than spreading effort across all weaknesses.
+  **Solution:** Focus learning time on the skill where you score in the top 20% of performers — documented by feedback from five trusted people (per the book's criteria) — rather than spreading effort across all weaknesses.
 - **Problem:** Only getting generic feedback
   **Solution:** Ask precise, targeted questions about tasks and problems, not personality.
 - **Problem:** Trying to learn something you hate
-  **Solution:** Start with skills you enjoy — sustained effort is easier when you choose work that interests you.
-- **Problem:** Feeling guilty about working off-hours
-  **Solution:** Reframe: the busiest, wealthiest people you know also invest time in skill development.
+  **Solution:** Per the book, sustained effort is easier when you choose work that interests you.
+- **Problem:** Feeling guilty about working during non-standard hours to build skills
+  **Solution:** Per the book, busy, successful people invest time in skill development — this is described as a habit that supports high earnings.
 
 ---
 
@@ -778,7 +778,7 @@ Day 1: Research market value on salary.com and glassdoor.com. Day 2: Build your 
 
 ##### Example 2: The Raise Folder
 
-Maintain a digital or physical folder containing awards, customer testimonials (Google, Yelp, Facebook), screenshots of wins, and quarterly results graphed in Excel. Add new entries immediately — do not wait until review season.
+Maintain a digital or physical folder containing awards, customer testimonials (Google, Yelp, Facebook), screenshots of accomplishments, and quarterly results graphed in Excel. Add new entries immediately — do not wait until review season.
 
 #### Step 1: Become a Proactive Problem Solver
 
@@ -790,7 +790,7 @@ Identify what is expected of you. Ask yourself daily: "What is the biggest probl
 
 #### Step 3: Market and Sell Yourself (Be the CMO of You)
 
-Prepare a "raise folder" containing awards, testimonials, screenshots of wins, and quarterly results. Request a meeting with your boss every 60 days. Present your documented value and ask for a raise each time.
+Prepare a "raise folder" containing awards, testimonials, screenshots of accomplishments, and quarterly results. Request a meeting with your boss every 60 days. Present your documented value and ask for a raise each time.
 
 #### Step 4: Research Your Market Value
 
@@ -798,11 +798,11 @@ Go to salary.com and glassdoor.com. Look up the going rate for your position in 
 
 #### Step 5: Build and Maintain an Achievements Folder
 
-Create a dedicated folder for your wins. Save every award, recognition, and positive review. Screenshot customer testimonials. Graph quarterly results. Add new entries immediately after they happen.
+Create a dedicated folder for your accomplishments. Save every award, recognition, and positive review. Screenshot customer testimonials. Graph quarterly results. Add new entries immediately after they happen.
 
 #### Step 6: Create a Personal Annual Report
 
-Compile your achievements into a formal presentation. Include results summary, biggest successes, quantifiable value, testimonials, and graphs. Practice delivering it confidently. Present it during your raise discussion.
+Compile your achievements into a formal presentation. Include results summary, biggest accomplishments, quantifiable value, testimonials, and graphs. Practice delivering it confidently. Present it during your raise discussion.
 
 #### Step 7: Know Exactly How Much You Want (Set Your Target Number)
 
@@ -846,7 +846,7 @@ Build your social media presence with content that showcases expertise and perso
 - ✅ Bring data, research, and a well-prepared presentation
 - ✅ Take initiative without being asked
 - ✅ Connect your work to revenue generation
-- ✅ Feel good about self-promotion — it is necessary and professional
+- ✅ Present your documented value to your boss — per the book, self-promotion is necessary and professional
 - ✅ Research before asking for a raise — know your worth
 - ✅ Update the achievements folder weekly
 - ✅ Put your best foot forward — include everything that makes your case
@@ -870,9 +870,9 @@ Build your social media presence with content that showcases expertise and perso
 
 - Accepting lack of credit for up to 2 quarters is fine — document your contribution and leverage it in your next raise conversation
 - Keep an achievements folder and share results proactively
-- This is business, not humility
-- The client who walks away over price after you have added value was not the right client
-- Let your audience travel with you when changing jobs — it increases your value
+- Per the book, this is business, not humility
+- Per the book, the client who walks away over price after you have added value is not a client aligned with your pricing
+- Let your audience follow you when changing jobs — present your social media following as a tangible asset during interviews
 
 #### Security & Safety Notes
 
@@ -887,7 +887,7 @@ Build your social media presence with content that showcases expertise and perso
 - **Problem:** No clear solution to present
   **Solution:** Spend time researching before presenting — never walk in unprepared.
 - **Problem:** Feeling guilty or arrogant about promoting yourself
-  **Solution:** Reframe it as informing your boss of the value you already deliver — it is factual, not bragging.
+  **Solution:** Per the book, reframe it as informing your boss of the value you already deliver — it is factual, not bragging.
 - **Problem:** Researching only one source for salary data
   **Solution:** Cross-reference at least 2–3 salary platforms before forming your target number.
 - **Problem:** Folder is disorganized and hard to use in a meeting
@@ -897,7 +897,7 @@ Build your social media presence with content that showcases expertise and perso
 - **Problem:** Staying at a dead-end job out of fear or comfort
   **Solution:** Remind yourself that the value you deliver deserves payment — if they won't pay it, someone else will.
 - **Problem:** Underpricing services out of fear of losing the deal
-  **Solution:** Practice stating your price confidently — the client who walks away over price was not the right client.
+  **Solution:** Practice stating your price confidently — the client who walks away over price is not aligned with your pricing.
 
 ---
 
@@ -911,7 +911,7 @@ If you have fitness skills and people are already asking you for training advice
 
 ##### Example 2: Designing Company Culture Before Launch
 
-Before opening your Personal ATM, define no more than four Core Values for your business. Set a minimum 10% net profit margin. Document policies for payments, conduct, and client expectations. This prevents culture drift and protects profitability from day one.
+Before opening your Personal ATM, define no more than four Core Values for your business. Set a minimum 10% net profit margin. Document policies for payments, conduct, and client expectations. Per the book, this prevents culture drift and protects profitability from day one.
 
 #### Step 1: Turn Your Hobby Into Your Personal ATM
 
@@ -919,11 +919,11 @@ Identify a hobby or passion with validated market demand (you have already confi
 
 #### Step 2: Cultivate Relentless Persistence
 
-Commit to at least 12 months of consistent execution before evaluating results. Write down your 12-month commitment date and the minimum revenue goal you must hit to consider the business viable. Prioritize payroll and obligations every month. Track your persistence in a journal and celebrate small wins (first $100 in revenue, first 5 customers, first profitable month) for 5 minutes, then immediately refocus on the next milestone.
+Commit to at least 12 months of consistent execution before evaluating results. Write down your 12-month commitment date and the minimum revenue goal you must hit to consider the business viable. Prioritize payroll and obligations every month. Track your persistence in a journal and celebrate small accomplishments (first $100 in revenue, first 5 customers, first profitable month) for 5 minutes, then immediately refocus on the next milestone.
 
 #### Step 3: Design Your Company Culture Intentionally
 
-Define your endgame (replace career, go public, sell, or generate supplemental income). Establish no more than four Core Values. Plan the look and feel of your business. Define tolerances and non-negotiables. Set profitability standards — at least 10% net profit after paying yourself.
+Define your endgame (replace career, go public, sell, or generate supplemental income). Establish no more than four Core Values. Per the book, plan the look and feel of your business. Set profitability standards — at least 10% net profit after paying yourself.
 
 #### Step 4: Promote Your Personal ATM Aggressively
 
@@ -947,7 +947,7 @@ Build a one-page business plan with a Year 1 revenue target that is 3X your curr
 - ✅ Document culture and values in writing
 - ✅ Promote every day, not just when you need business
 - ✅ Add value before raising prices — never the reverse
-- ✅ Set a bold revenue target and build your business plan around it
+- ✅ Set a revenue target of at least 3X your current total compensation in Year 1 and build your business plan around it
 - ✅ Reinvest profits rather than spending them on lifestyle inflation
 - ❌ Don't rely solely on your primary job for income once your side hustle generates consistent revenue for 3 consecutive months (minimum $500/month)
 - ❌ Don't undervalue your services out of fear of losing clients
@@ -956,23 +956,23 @@ Build a one-page business plan with a Year 1 revenue target that is 3X your curr
 - ❌ Don't set prices without ensuring profitability
 - ❌ Don't assume a great product sells itself
 - ❌ Don't raise prices without adding value
-- ❌ Don't stay small because it feels comfortable
+- ❌ Don't stay small because it avoids the effort of scaling (per the book)
 - ❌ Don't spend early profits on lifestyle upgrades
 
 #### Keep In Mind
 
-- Businesses that persist through the first 12 months are more likely to survive
-- Company culture influences long-term business outcomes
-- Promotion is required for your Personal ATM to grow
-- Price-sensitive clients who do not see value were not your ideal long-term clients
-- Growing a business requires effort
-- Complacency reduces growth
+- Per the book, businesses that persist through the first 12 months are more likely to survive
+- Per the book, company culture influences long-term business outcomes
+- Per the book, promotion is required for your Personal ATM to grow
+- Per the book, price-sensitive clients who do not see value are not your ideal long-term clients
+- Per the book, growing a business requires effort
+- Per the book, complacency reduces growth
 
 #### Security & Safety Notes
 
-- Keep accounting immaculate — traceability protects you legally and builds marketplace credibility
-- Do not play games with taxes or cash reporting — all transactions are recorded
-- Maintain an emergency cash reserve to weather slow periods
+- Per the book, keep accounting immaculate — traceability protects you legally and builds marketplace credibility
+- Per the book, all financial transactions should be recorded
+- Per the book, maintain an emergency cash reserve to weather slow periods
 - Set a hard limit on how much personal capital you will inject into the business
 
 #### Common Pitfalls
@@ -980,15 +980,15 @@ Build a one-page business plan with a Year 1 revenue target that is 3X your curr
 - **Problem:** Starting without validating demand
   **Solution:** Interview potential customers before building anything.
 - **Problem:** Quitting after a slow first quarter
-  **Solution:** Remind yourself that 90% of businesses fail by year five; survival is the win.
+  **Solution:** Remind yourself that 90% of businesses fail by year five; per the book, survival is the accomplishment.
 - **Problem:** Skipping culture design until after hiring
-  **Solution:** Define your Core Values and tolerances before your first hire or client.
+  **Solution:** Define your Core Values before your first hire or client.
 - **Problem:** Assuming a great product sells itself
-  **Solution:** Promotion is a discipline; build it into your routine.
+  **Solution:** Per the book, promotion is a discipline; build it into your routine.
 - **Problem:** Raising prices without adding value
-  **Solution:** Always tie price increases to a tangible expansion of services.
-- **Problem:** Staying small because it is easy
-  **Solution:** Write down what you lose by staying small; let the achievement motivate scale action.
+  **Solution:** Per the book, always tie price increases to a tangible expansion of services.
+- **Problem:** Staying small because it requires less effort (per the book, it is easy)
+  **Solution:** Per the book, write down what you lose by staying small; let that motivate scale action.
 - **Problem:** Spending early profits on lifestyle upgrades
   **Solution:** Set a rule: no personal lifestyle spending until you hit your scale target.
 - **Problem:** Scaling too fast without demand
@@ -1022,7 +1022,7 @@ Schedule a quarterly review. Pull your current personal financial statement. Reb
 
 #### Step 4: Adopt the Game Facer Mindset
 
-Complete the Blamer-Dreamer-Game Facer self-assessment: write down your last 10 thoughts about money. Categorize each as Blamer (external blame: 'The system is rigged'), Dreamer (wishful thinking without action: 'Someday I'll be rich'), or Game Facer (ownership + action: 'I will increase my income by $1,000/month in 90 days by making 10 additional prospecting calls'). If more than 5 are Blamer or Dreamer, you have a mindset problem requiring immediate correction.
+Complete the Blamer-Dreamer-Game Facer self-assessment: write down your last 10 thoughts about money. Categorize each as Blamer (external blame: 'The system is rigged'), Dreamer (wishful thinking without action: 'Someday I'll be rich'), or Game Facer (ownership + action: 'I will increase my income by $1,000/month in 90 days by making 10 additional prospecting calls'). Per the book's Blamer-Dreamer-Game Facer self-assessment, if more than 5 are Blamer or Dreamer, you have a mindset problem requiring immediate correction.
 
 #### Step 5: Follow the 11-Step Road Map Consistently
 
@@ -1030,7 +1030,7 @@ Execute the full action plan in sequence: Wake up, Design your lifestyle, Find y
 
 #### Step 6: Master Money Through Active Attention
 
-Understand that income growth comes from value delivered to others, not from personal virtue alone. Write down 3 ways you can increase the value you deliver this week (e.g., learn a new software, make 5 more sales calls, automate a manual process). Kindness without demonstrated value delivery is not a reliable path to wealth. Accept this reality and let it drive your daily actions.
+Understand that income growth comes from value delivered to others, not from personal virtue alone. Write down 3 ways you can increase the value you deliver this week (e.g., learn a new software, make 5 more sales calls, automate a manual process). Per the book, kindness without demonstrated value delivery is not a reliable path to wealth. Accept this reality and let it drive your daily actions.
 
 #### Step 7: Start Early — Your Timeline Depends on Your Savings Rate
 
@@ -1042,15 +1042,15 @@ Review your 5 core goals every Sunday evening. If you have drifted, write down t
 
 #### Best Practices
 
-- ✅ Think much bigger than you have in the past
+- Per the book, think much bigger than you have in the past
 - ✅ Use a specific financial metric for annual reflection — such as net worth, savings rate, or passive income — that connects to your Lifestyle by Design goals
 - ✅ Schedule quarterly reviews on the same day each quarter (e.g., the first Saturday of January, April, July, October). Set a 2-hour reminder 1 week in advance. Use this 60-minute agenda: (1) review net worth change since last quarter, (2) reassess False Positive Test score, (3) update goals for the next quarter, (4) identify 1–2 course corrections. If you miss a quarter, reschedule within 48 hours — do not skip it.
 - ✅ Accept full responsibility for your financial decisions
 - ✅ Follow the steps in order — each builds on the previous one
 - ✅ Treat money as a discipline, not a feeling
 - ✅ Start today by completing one 30-minute action: calculate your liquid net worth (assets minus liabilities) and write down your False Positive Test score. Open a separate high-yield savings account if you do not already have one. Set up an automatic transfer of at least $50 from your checking account to your savings account on payday.
-- ✅ Set a 1-year income goal that is 50% higher than your current income. If it does not require extraordinary effort, increase it until it does. Break it down into monthly targets and write them down. A 1-year goal of $X/month is concrete; a goal of 'be rich' is a fantasy.
-- ❌ Don't be scared by the size of the number — fear of failure prevents commitment
+- ✅ Set a 1-year income goal that is 50% higher than your current income. Break it down into monthly targets and write them down. If the monthly targets feel like a routine extension of your current work rather than a stretch, increase the annual goal until the monthly targets require new actions or skills. A 1-year goal of $X/month is concrete; a goal of 'be rich' is a fantasy.
+- ❌ Don't let the size of the number discourage you — fear of failure prevents commitment (per the book's guidance)
 - ❌ Don't rely solely on spreadsheets without an emotional reality check
 - ✅ Block 2 hours on your calendar 1 week before each quarterly review. Set a reminder with the subject: 'Quarterly Review — Non-Negotiable.' If a conflict arises, reschedule within 48 hours, not after the quarter ends. Missing one quarter means you are flying blind for 3 months.
 - ❌ Don't blame your upbringing, the system, or other people for where you are
@@ -1061,23 +1061,23 @@ Review your 5 core goals every Sunday evening. If you have drifted, write down t
 
 #### Keep In Mind
 
-- Not setting specific, written, time-bound goals with measurable outcomes is the real failure. Aspirations without specific targets and deadlines are not goals. A goal is: 'I will have $150,000 in liquid savings by December 31, 2027.'
+- The book states that not setting specific, written, time-bound goals with measurable outcomes is the real failure. Aspirations without specific targets and deadlines are not goals. A goal is: 'I will have $150,000 in liquid savings by December 31, 2027.'
 - If your financial situation has not improved over the past year, reassess your strategy. Numbers alone do not show whether your lifestyle has improved. After each quarterly review, rate your financial confidence on a scale of 1–10. If your net worth is up but your confidence is down, investigate what is blocking your sense of progress.
-- Momentum is easier to maintain than to rebuild
-- Choose 3 small decisions today where you will default to Game Facer behavior: (1) say no to one non-aligned request, (2) complete one high-leverage task before checking email, (3) spend 10 minutes learning a high-income skill instead of watching TV. Mindset is built through consistent small actions.
-- Execution beats information
+- Per the book, momentum is easier to maintain than to rebuild
+- Choose 3 small decisions today where you will default to Game Facer behavior: (1) say no to one non-aligned request, (2) complete one task before checking email, (3) spend 10 minutes learning a skill instead of watching TV. Mindset is built through consistent small actions.
+- Per the book, execution beats information
 - Your target and timeline depend on the annual cost of your Lifestyle by Design — calculate them based on your goals, not based on what peers or media tell you is normal. Use the Lifetime Number formula: annual lifestyle cost × remaining years. If your target seems intimidating, adjust your timeline or increase your income.
 
 #### Security & Safety Notes
 
 - Build emergency savings equal to 6 months of essential expenses in a high-yield savings account before investing. Obtain health, disability, and life insurance (minimum $500,000 term) within 30 days. Do not wait for a crisis to make these protective structures a priority.
 - Assign a purpose to every dollar: save, invest, protect, or deploy
-- Kindness and hard work alone are not enough. Pair kindness and hard work with (1) a written financial plan with specific targets, (2) a system for tracking net worth monthly, and (3) a network of advisors who hold you accountable. Without a written plan and consistent execution, good intentions alone will not build wealth.
+- The book states that kindness and hard work alone are not enough. Pair kindness and hard work with (1) a written financial plan with specific targets, (2) a system for tracking net worth monthly, and (3) a network of advisors who hold you accountable. The book states that without a written plan and consistent execution, good intentions alone will not build wealth.
 
 #### Common Pitfalls
 
 - **Problem:** Avoiding commitment because of fear of failure
-  **Solution:** Accept that not setting goals is the real failure. Commit fully to the number.
+  **Solution:** The book states that not setting goals is the real failure. Commit fully to the number.
 - **Problem:** Believing you are progressing because the math says so, while your lifestyle hasn't improved
   **Solution:** Always pair quantitative data with a qualitative, emotional assessment: after reviewing your net worth, rate your financial confidence on a scale of 1–10. If your net worth is up but your confidence is down, investigate what is blocking your sense of progress. Write down 2–3 actions to address the emotional gap.
 - **Problem:** Forgetting to perform the annual review
@@ -1087,9 +1087,9 @@ Review your 5 core goals every Sunday evening. If you have drifted, write down t
 - **Problem:** Re-reading the book instead of executing the steps
   **Solution:** Set a deadline to complete each step. Taking action is more valuable than gathering more data.
 - **Problem:** Hitting a goal and then reducing effort
-  **Solution:** Celebrate for exactly 5 minutes: acknowledge the win, share it with your accountability partner, then immediately write down the next milestone. Do not make any purchases or lifestyle changes. Return to work immediately after the 5 minutes.
+  **Solution:** Celebrate for exactly 5 minutes: acknowledge the accomplishment, share it with your accountability partner, then immediately write down the next milestone. Do not make any purchases or lifestyle changes. Return to work immediately after the 5 minutes.
 - **Problem:** Believing that being a good person alone protects you from financial hardship
-  **Solution:** Separate your character from your financial competence by tracking them independently in a simple spreadsheet: Character Score (1–10 based on honesty, reliability, kindness, updated monthly) and Financial Competence Score (1–10 based on net worth growth, savings rate, and investment performance, updated quarterly). A high Character Score with a low Financial Competence Score indicates strong personal character paired with financial skill gaps.
+  **Solution:** Separate your character from your financial competence by tracking them independently in a simple spreadsheet: Character Score (1–10 based on honesty, reliability, kindness, updated monthly) and Financial Competence Score (1–10 based on net worth growth, savings rate, and investment performance, updated quarterly). Per the book, a high Character Score with a low Financial Competence Score indicates strong personal character paired with financial skill gaps.
 - **Problem:** Underestimating how quickly a health or career crisis can destroy finances
   **Solution:** Build emergency savings equal to 6 months of essential expenses in a high-yield savings account and obtain health, disability, and life insurance (minimum $500,000 term) within 30 days. Do not wait for a crisis to make these protective structures a priority. Set calendar reminders to review and increase coverage annually.
 
@@ -1102,8 +1102,8 @@ Review your 5 core goals every Sunday evening. If you have drifted, write down t
 |1X / 3X / 5X / 10X Net Worth Formula|Age-based net worth targets: 1X income for ages 20–29, 3X for 30–39, 5X for 40–49, and 10X for at least age 50|Chapter 1, Chapter 5, Conclusion|
 |Accumulation Mode|The wealth-building phase where you aggressively save and invest every dollar above survival expenses, maintaining a "broke mindset" until reaching financial independence|Chapter 5, Chapter 6, Conclusion|
 |Accumulation Mode Mantra|The phrase "I'm in Accumulation Mode" used to decline social spending invitations while creating social accountability|Chapter 5|
-|Achievements Folder|A dedicated digital or physical collection of awards, testimonials, performance data, and wins used as evidence in raise negotiations|Chapter 8|
-|Ammo Folder|A digital or physical folder containing awards, customer testimonials, screenshots of wins, and quarterly results used as evidence in raise negotiations|Chapter 8|
+|Achievements Folder|A dedicated digital or physical collection of awards, testimonials, performance data, and accomplishments used as evidence in raise negotiations|Chapter 8|
+|Ammo Folder|A digital or physical folder containing awards, customer testimonials, screenshots of accomplishments, and quarterly results used as evidence in raise negotiations|Chapter 8|
 |Annual Report (Personal)|A formal presentation compiling your yearly results, quantifiable value, testimonials, and graphs used in raise discussions|Chapter 8|
 |Assets|What you own — cash, investments, real estate, business equity — one side of the balance sheet formula for financial success|Chapter 2, Chapter 5|
 |Blamer|A person who makes excuses for their financial situation, feels no control over their future, and externalizes responsibility|Chapter 2, Chapter 4, Chapter 6, Conclusion|
@@ -1139,7 +1139,7 @@ Review your 5 core goals every Sunday evening. If you have drifted, write down t
 |11-Step Road Map|The full sequential action plan: Wake up, Design your lifestyle, Find your money gap, Evaluate your mindset, Assess your stage, Choose your path, Skill up, Earn up, Leverage up, Execute, Pick your number|Chapter 12 (Conclusion)|
 |Operating Account|A bank account used exclusively for paying monthly bills and necessary living expenses, kept separate from the Reserve Account|Chapter 5|
 |Overdeliver Value|Providing more value than clients expect, creating customer loyalty and justifying premium pricing before raising rates|Chapter 9|
-|Platform (Industry)|The industry or sector in which you work — chosen based on proof of success, growth trajectory, and your ability to win at the top|Chapter 4|
+|Platform (Industry)|The industry or sector in which you work — chosen based on proof of success, growth trajectory, and your ability to compete at the top|Chapter 4|
 |Personal ATM|A business or side hustle intentionally designed to generate consistent cash flow, independent of your primary employer|Chapter 9|
 |Quarterly Net Worth Review|A quarterly ritual of rebuilding your personal financial statement to track net worth trends and catch financial drift early|Chapter 12 (Conclusion)|
 |Raise Folder|A collection of documented achievements, awards, testimonials, and results used as evidence when negotiating a raise|Chapter 8|
@@ -1147,7 +1147,7 @@ Review your 5 core goals every Sunday evening. If you have drifted, write down t
 |Reserve Account|A bank account at a separate institution designated solely for wealth accumulation and investment, with no easy access instruments|Chapter 5|
 |Rich Zone|The wealth zone where your invested net worth generates enough passive income to cover your Lifestyle by Design without needing to work|Chapter 5|
 |Risk Tolerance|Your ability and willingness to withstand financial loss — clarified through research rather than emotion|Chapter 4|
-|Self-Esteem (Financial)|The internal belief in your worthiness of financial success, built through documented wins and empowered self-talk|Chapter 2|
+|Self-Esteem (Financial)|The internal belief in your worthiness of financial success, built through documented accomplishments and empowered self-talk|Chapter 2|
 |Skill Up|The deliberate process of acquiring the specific skills, certifications, and expertise required to command higher income in your chosen niche|Chapter 7|
 |Social Circle Audit|The practice of categorizing every person in your regular circle as a Blamer, Dreamer, or Game Facer and adjusting time allocation accordingly|Chapter 2, Chapter 6|
 |Step Back to Take Two Steps Forward|The principle that a temporary income sacrifice to pivot to a better platform or career can create a massive long-term leap forward|Chapter 4|
