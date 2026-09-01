@@ -31,7 +31,7 @@ Jesus was "tempted in every way, just as we are—yet he did not sin" (Hebrews 4
 
 ### Step 5: Redirect Your Thoughts and Body When Urges Intensify
 
-When a sexual urge grows, actively redirect your thoughts and reduce the intensity of the desire by removing the mental and physical fuel feeding it. Specifically: remove yourself from triggering situations, engage in physical activity, pray, or speak with a trusted person—any action that shifts your focus and reduces the urge to a level where you can think clearly.
+When a sexual urge grows, actively redirect your thoughts and reduce the intensity of the desire by removing the mental and physical fuel feeding it. Specifically: remove yourself from triggering situations, engage in physical activity, pray, or speak with a trusted person—any action that shifts your focus and reduces the intensity of the desire so you can think rationally and make God-honoring choices.
 
 ### Step 6: Ruthlessly Avoid Unnecessary Sexual Stimulation
 
@@ -43,7 +43,7 @@ Follow Jesus' command not to look at anyone lustfully (Matthew 5:28). Follow Job
 
 ### Step 8: Get Up When You Wake Up
 
-For many people, lying in bed while drowsy and mentally unfocused opens the door to sexual arousal and increases desire. When you wake up in the morning, get up immediately. If you struggle with nighttime temptation in bed, apply the same principle: do not linger in bed when arousal begins—rise within seconds, move, and redirect your mind.
+For many people, lying in bed while drowsy and mentally unfocused opens the door to sexual arousal and increases desire. When you wake up in the morning, get up immediately. If you struggle with nighttime temptation in bed, apply the same principle: do not linger in bed when arousal begins—get up, leave the room, and engage in a different activity within moments.
 
 ### Step 9: Work Vigorously
 
@@ -71,7 +71,7 @@ When a sexual urge intensifies, change your environment immediately—ideally wi
 
 ### Step 15: Develop a Hands-On Hobby
 
-Cultivate a hobby that requires active use of your hands and mind—something that occupies your mind and body in constructive, non-sexual ways.
+Cultivate a hobby that requires active use of your hands and mind—something that occupies your mind and body in God-honoring, non-sexual ways such as exercise, service, or creative work.
 
 ### Step 16: Identify and Avoid Triggers
 
@@ -87,7 +87,7 @@ If you do sin, confess it to Christ without delay and receive His forgiveness by
 
 ### Step 19: Pursue Accountability With Other Believers
 
-Cultivate close, honest relationships and accountability with other conscientious Christians. Ask them to pray for you and be available for weekly conversations, quick texts when temptation strikes, or meeting in person—so they can encourage you, hold you accountable, and walk with you through the battle for purity.
+Cultivate close, honest relationships and accountability with other mature Christians who are grounded in Scripture, accountable to church leadership, and have demonstrated the fruit of the Spirit (Galatians 5:22-23). Ask them to pray for you and be available for weekly conversations, quick texts when temptation strikes, or meeting in person—so they can encourage you, hold you accountable, and walk with you through the battle for purity.
 
 ### Step 20: Acknowledge Struggles to a Trusted Leader
 
@@ -103,11 +103,11 @@ When you feel sexual cravings, listen to music with lyrics that align with Phili
 
 ### Step 23: Take It One Day at a Time
 
-Depend on God's grace daily and keep your eyes on Jesus, the author and finisher of our faith (Hebrews 12:2). Live in the moment, trusting Him for strength today.
+Depend on God's grace daily and keep your eyes on Jesus, the author and finisher of our faith (Hebrews 12:2). Trust God for the strength you need right now, taking today's challenges one moment at a time.
 
 ### Step 24: Consider Marriage If Control Is Not Possible
 
-If you consistently find yourself unable to control your sexual urges through prayer, discipline, accountability, and the other means described in this sermon—and you have sought wise counsel from mature believers—it is good and right to marry, specifically when your motive aligns with God's design for marriage as a Christ-centered partnership, marriage will help you flee from ongoing, unrepentant temptation rather than merely escaping discomfort, and you are prepared to love and serve your spouse. Paul writes, "It is better to marry than to burn with passion" (1 Corinthians 7:8-9). Singleness is a good gift, and so is marriage. However, do not rush into marriage merely to have sex—understand God's design for marriage and sex so you build a strong, biblically grounded relationship with your spouse.
+If you consistently find yourself unable to control your sexual urges through prayer, discipline, accountability, and the other means described in this sermon—and you have sought wise counsel from mature believers—it is good and right to marry, specifically when your motive aligns with God's design for marriage as a Christ-centered partnership (a marriage where both spouses prioritize following Christ together, loving each other as Christ loved the church, and building their relationship on biblical principles), marriage will help you flee from ongoing, unrepentant temptation rather than merely escaping discomfort, and you are prepared to love and serve your spouse sacrificially. Paul writes, "It is better to marry than to burn with passion" (1 Corinthians 7:8-9). Singleness is a good gift, and so is marriage. However, do not rush into marriage merely to have sex—understand God's design for marriage and sex so you build a strong, biblically grounded relationship with your spouse.
 
 ## Examples
 
