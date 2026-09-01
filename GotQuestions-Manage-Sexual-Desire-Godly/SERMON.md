@@ -2,14 +2,14 @@
 
 ## Overview
 
-This sermon teaches unmarried believers how to honor God with their sexuality by practically managing sexual desire through spiritual disciplines, self-control, and planned behaviors. It affirms that sexual drive is a God-given gift, not inherently sinful, while calling Christians to channel that desire toward godly purposes and reserve its expression for marriage. The goal is purity, not guilt—empowering believers to live with integrity, accountability, and dependence on Christ's power.
+This sermon teaches unmarried believers how to honor God with their sexuality by practically managing sexual desire through spiritual disciplines, self-control, and behavioral changes. It affirms that sexual drive is a God-given gift, not inherently sinful, while calling Christians to channel that desire toward godly purposes such as serving others, pursuing holiness, and honoring God in your thoughts and actions and reserve its expression for marriage. The goal is to honor God with your body and mind, not to live in guilt.
 
 ## When to Follow This Sermon
 
 - When an unmarried Christian struggles with managing sexual temptation or tension
 - When seeking biblically rooted guidance for sexual purity
 - When learning to redirect sexual energy into ministry, discipleship, and service to others
-- When preparing for marriage or wanting to submit your body and mind to Christ
+- When preparing for marriage or seeking to submit your body and mind to Christ
 
 ## Steps
 
@@ -19,7 +19,7 @@ Gratefully accept your sexual nature and the purposes God has designed for it wi
 
 ### Step 2: Cultivate a Mindset That Honors God
 
-Make honoring God and exercising self-control your aim, even with your imagination. Recognize that much of today's media overemphasizes sexuality and promotes instant gratification. Practice self-discipline through daily prayer and regular Scripture reading, putting on His spiritual armor by practicing the disciplines of Ephesians 6:10-18 (truth, righteousness, peace, faith, salvation, the Word of God, and prayer), and trusting Jesus to fight the battle for you.
+Make honoring God and exercising self-control your aim, even with your imagination. Recognize that today's media overemphasizes sexuality and promotes instant gratification. Practice self-discipline through daily prayer and regular Scripture reading, putting on His spiritual armor by practicing the disciplines of Ephesians 6:10-18 (truth, righteousness, peace, faith, salvation, the Word of God, and prayer), and trusting Jesus to fight the battle for you.
 
 ### Step 3: Yield to the Holy Spirit's Power
 
@@ -27,15 +27,15 @@ Remember that the Holy Spirit dwells within every Christian. Your body is God's 
 
 ### Step 4: Follow Jesus' Example of Self-Discipline
 
-Jesus was "tempted in every way, just as we are—yet he did not sin" (Hebrews 4:15), which means He managed His sexual drives for the glory of God. He directed all His energies toward serving the genuine needs of others through tangible ministry. Serve alongside Him by ministering to people in tangible ways—at church, in your community, and in your relationships—and let Him serve through you by offering you as an instrument of His love, compassion, and truth to a world in need.
+Jesus was "tempted in every way, just as we are—yet he did not sin" (Hebrews 4:15), which means He managed His sexual drives for the glory of God. He directed all His energies toward serving the needs of others through tangible ministry. Serve alongside Him by ministering to people in tangible ways—at church, in your community, and in your relationships—and let Him serve through you by offering you as an instrument of His love, compassion, and truth to a world in need.
 
 ### Step 5: Redirect Your Thoughts and Body When Urges Intensify
 
-When a sexual urge grows, actively redirect your thoughts and reduce the intensity of the desire by removing the mental and physical fuel feeding it. Specifically: remove yourself from triggering situations, engage in physical activity, pray, or speak with a trusted person—any action that shifts your focus and reduces the intensity of the desire so you can think rationally and make God-honoring choices.
+When a sexual urge grows, actively redirect your thoughts and reduce the intensity of the desire by removing the mental and physical fuel feeding it. Specifically: remove yourself from triggering situations, engage in physical activity, pray, or speak with a trusted person—any healthy action that shifts your focus, such as exercise, prayer, or service so you can think rationally and make God-honoring choices.
 
 ### Step 6: Ruthlessly Avoid Unnecessary Sexual Stimulation
 
-Be intentional about what you watch, read, and think. Men should especially avoid visual media that shows nakedness or sexual activity, as visual stimuli frequently trigger desire. Both men and women can be affected by visual stimuli, and both genders should be ruthless about eliminating unnecessary sexual stimulation—defined as anything that intentionally or recklessly arouses sexual desire outside of marriage, including pornography, sexually explicit content, media depicting romantic or sexual intimacy that tends to arouse lust, and lingering thoughts that stir desire once recognized.
+Be intentional about what you watch, read, and think. Men should avoid visual media that depicts nudity or sexual activity, as visual stimuli trigger desire. Both men and women can be affected by visual stimuli, and both genders should be ruthless about eliminating unnecessary sexual stimulation—defined as anything that intentionally or recklessly arouses sexual desire outside of marriage, including pornography, sexually explicit content, media depicting romantic or sexual intimacy that arouses lust, and lingering thoughts that stir desire once recognized.
 
 ### Step 7: Guard Your Eyes and Heart Against Lust
 
@@ -43,7 +43,7 @@ Follow Jesus' command not to look at anyone lustfully (Matthew 5:28). Follow Job
 
 ### Step 8: Get Up When You Wake Up
 
-For many people, lying in bed while drowsy and mentally unfocused opens the door to sexual arousal and increases desire. When you wake up in the morning, get up immediately. If you struggle with nighttime temptation in bed, apply the same principle: do not linger in bed when arousal begins—get up, leave the room, and engage in a different activity within moments.
+For some people, lying in bed while drowsy opens the door to sexual arousal and increases desire. When you wake up in the morning, get up immediately. If you struggle with nighttime temptation in bed, apply the same principle: do not linger in bed when arousal begins—get up, leave the room, and engage in a different activity within moments.
 
 ### Step 9: Work Vigorously
 
@@ -59,7 +59,7 @@ Sublimate sexual energy into service for others in Christ's name by intentionall
 
 ### Step 12: Keep Your Focus on Marriage and Its Godly Purpose
 
-Prepare for the responsibilities of marriage and family, keeping your attention on the benefits of sexual purity. Understand that marriage is not primarily about sex (Ephesians 5:21-33), so do not rush into marriage merely to satisfy sexual desire.
+Prepare for the responsibilities of marriage and family, keeping your attention on the peace, freedom, and joy that come from sexual purity. Understand that marriage is not primarily about sex (Ephesians 5:21-33), so do not rush into marriage merely to satisfy sexual desire.
 
 ### Step 13: Replace Lustful Imagination with Pure Memories
 
@@ -67,7 +67,7 @@ Use your imagination and memory to recall physical sights, sounds, smells, feeli
 
 ### Step 14: Change Your Environment When Urges Intensify
 
-When a sexual urge intensifies, change your environment immediately—ideally within seconds of recognizing the temptation. Safe environments include: taking a walk with a trusted friend, going to a public space such as a coffee shop or church, joining a group activity, or stepping outside for fresh air. Do not remain in the same room or situation where the temptation began.
+When a sexual urge intensifies, change your environment immediately—ideally within seconds of recognizing the temptation. Safe environments include: taking a walk with a Christian friend you trust to hold you accountable, going to a public space such as a coffee shop or church, joining a group activity, or stepping outside for fresh air. Do not remain in the same room or situation where the temptation began.
 
 ### Step 15: Develop a Hands-On Hobby
 
@@ -87,7 +87,7 @@ If you do sin, confess it to Christ without delay and receive His forgiveness by
 
 ### Step 19: Pursue Accountability With Other Believers
 
-Cultivate close, honest relationships and accountability with other mature Christians who are grounded in Scripture, accountable to church leadership, and have demonstrated the fruit of the Spirit (Galatians 5:22-23). Ask them to pray for you and be available for weekly conversations, quick texts when temptation strikes, or meeting in person—so they can encourage you, hold you accountable, and walk with you through the battle for purity.
+Cultivate close, honest relationships and accountability with other Christians who are grounded in Scripture, accountable to church leadership, and have demonstrated the fruit of the Spirit (Galatians 5:22-23). Ask them to pray for you and be available for weekly conversations, quick texts when temptation strikes, or meeting in person—so they can encourage you, hold you accountable, and walk with you through the battle for purity.
 
 ### Step 20: Acknowledge Struggles to a Trusted Leader
 
@@ -113,7 +113,7 @@ If you consistently find yourself unable to control your sexual urges through pr
 
 ### Example 1: A Single Young Man Battling Visual Temptation
 
-A young unmarried man finds his sexual desire intensified by social media and movies. He applies these steps by deleting apps that trigger lust, scheduling morning workouts to avoid lying in bed, listening to worship music when cravings hit, and meeting weekly with an accountability partner. Over time, he experiences greater peace and self-control.
+A young unmarried man finds his sexual desire intensified by social media and movies. He applies these steps by deleting apps that trigger lust, scheduling morning workouts to avoid lying in bed, listening to worship music when cravings hit, and meeting weekly with an accountability partner. He experiences greater peace and self-control.
 
 ### Example 2: A Single Young Woman Managing Emotional Triggers
 
@@ -141,17 +141,17 @@ A believer struggles with recurring sin and feels burdened by shame. After readi
 
 - Sexuality is God's good gift, not inherently sinful or dirty
 - Self-control is a command, not a suggestion (1 Corinthians 9:24-27; 2 Peter 1:6)
-- Wet dreams (nocturnal emissions) are a natural, involuntary relief of sexual pressure and not sinful. However, while they are involuntary and do not constitute sin, they should not be used as an excuse for maintaining repeated, chosen sinful behaviors during waking hours. Take responsibility for the thoughts and behaviors you can control, and seek God's grace for the areas you cannot.
+- Wet dreams are involuntary and not sinful (they occur without conscious control), but they should not be used as an excuse for habitual sin in waking hours (repeated, intentional sinful behavior). Take responsibility for the thoughts and behaviors you can control, and seek God's grace for the areas you cannot.
 - Sexual release through self-gratification reinforces lust rather than providing fulfillment
 - Fulfillment in marriage comes from serving your spouse, not from self-gratification
 - Sexual purity is a lifelong calling for both unmarried and married believers (1 Corinthians 6:18; 1 Thessalonians 4:3-8; Hebrews 13:4)
-- Marriage is a good gift, but it is not primarily about sex—it is about Christ-centered partnership
+- Marriage is a good gift, but it is not primarily about sex (Ephesians 5:21-33)—it is about Christ-centered partnership
 
 ## Security & Safety Notes
 
-- Guard your heart and mind against sexual temptation by monitoring your media consumption (tracking what you watch, read, and browse) and thought patterns (noticing when lustful thoughts arise, what triggers them, and how often they occur), and setting specific boundaries—such as deleting triggering apps, using content filters, and redirecting your mind the moment an impure thought enters
+- Guard your heart and mind against sexual temptation by monitoring your media consumption (tracking what you watch, read, and browse) and thought patterns (noticing when lustful thoughts arise, what triggers them, and how frequently they occur (such as daily or weekly)), and setting specific boundaries—such as deleting triggering apps, using content filters, and redirecting your mind the moment an impure thought enters
 - Use accountability partners to help you stay safe and honest
-- Do not share explicit details of temptation with those who are not spiritually mature or trustworthy—defined as those who are grounded in Scripture, accountable to church leadership, demonstrate the fruit of the Spirit (Galatians 5:22-23), and have a proven record of handling sensitive matters with discretion and biblical wisdom
+- Do not share explicit details of temptation with those who are not trustworthy—defined as those who are grounded in Scripture, accountable to church leadership, demonstrate the fruit of the Spirit (Galatians 5:22-23), and have demonstrated discretion, confidentiality, and sound biblical judgment in counseling others.
 - Establish and maintain specific boundaries in relationships—such as limits on physical contact, private time alone together, and topics of conversation—to protect both yourself and others from lust
 
 ## Common Pitfalls

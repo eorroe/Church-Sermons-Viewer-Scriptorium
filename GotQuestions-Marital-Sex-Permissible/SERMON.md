@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches married couples how to discern what is sexually permissible within marriage by applying biblical principles from passages such as Hebrews 13:4 and 1 Corinthians 7:3–5. It provides a clear framework based on God-honoring motives, exclusivity, mutual consent, and unity, helping couples navigate their intimate life with wisdom and integrity. Following these principles ensures that the marriage bed remains honoring to God and deeply unifying for both spouses.
+This sermon teaches married couples how to discern what is sexually permissible within marriage by applying biblical principles from passages such as Hebrews 13:4 and 1 Corinthians 7:3–5. It provides a clear framework based on God-honoring motives, exclusivity, mutual consent, and unity, helping couples navigate their intimate life according to biblical principles of love, respect, and mutual consent. Following these principles ensures that the marriage bed remains honoring to God and deeply unifying for both spouses.
 
 ## When to Follow This Sermon
 
@@ -19,7 +19,7 @@ Apply 1 Corinthians 6:12–13 and 1 Corinthians 6:20 — sex is meant to glorify
 
 ### Step 2: Keep Sex Exclusive to Your Spouse
 
-Apply 1 Corinthians 7:2 — sex is reserved exclusively for a husband and wife. Any sexual activity outside the marriage covenant, including adultery or any form of infidelity, is not permissible.
+Apply 1 Corinthians 7:2 — sex is reserved exclusively for a husband and wife. Any sexual activity outside the marriage covenant, including adultery or any form of infidelity, is not permissible (Hebrews 13:4).
 
 ### Step 3: Practice Mutual, Loving Consent
 
@@ -27,7 +27,7 @@ Apply 1 Corinthians 7:3–4 — each spouse lovingly yields his or her body to t
 
 ### Step 4: Pursue Regular Sexual Intimacy
 
-Apply 1 Corinthians 7:5 — couples should not deprive one another except by mutual consent and for a temporary time (a specific, limited period such as a spiritual fast) devoted to prayer, then come together again. Consistent physical intimacy protects against temptation and deepens the bond between spouses.
+Apply 1 Corinthians 7:5 — couples should not deprive one another except by mutual consent and for a temporary time—a specific, limited period such as a spiritual fast or season of focused prayer devoted to prayer — typically a few days to a few weeks, not months — then come together again. Consistent physical intimacy protects against temptation and deepens the bond between spouses.
 
 ### Step 5: Evaluate Whether the Act Unifies the Marriage
 
@@ -35,7 +35,7 @@ Apply 1 Corinthians 7:5 — any sexual act within marriage should strengthen the
 
 ### Step 6: Apply All Five Principles Together
 
-If a sexual act satisfies all five principles—God-honoring, exclusive, loving, mutually agreed upon, and unifying—and both spouses are fully agreeable, there is no explicit biblical prohibition. Both spouses must be in full agreement for an act to be permissible.
+If a sexual act satisfies all five principles—God-honoring, exclusive, loving, mutually agreed upon, and unifying—and both spouses freely and willingly agree, the Bible does not explicitly forbid it, though couples should seek wisdom from Scripture and godly counsel. Both spouses must be in full agreement for an act to be permissible.
 
 ### Step 7: Eliminate What Is Never Allowable
 
@@ -45,7 +45,7 @@ Know what Scripture explicitly forbids: "swapping," "swinging," or bringing in t
 
 ### Example 1: Discussing a New Sexual Practice
 
-A couple is considering trying oral sex. They examine whether it honors God, is exclusive to their marriage, is loving and mutually consensual, strengthens their emotional, spiritual, and physical oneness, and is agreed upon by both. If both freely agree and it passes all five principles, the Bible gives no reason to forbid it.
+A couple is considering trying oral sex. They examine whether it honors God, is exclusive to their marriage, is loving and mutually consensual, strengthens their emotional, spiritual, and physical oneness, and is agreed upon by both. If both freely agree and it passes all five principles, the Bible does not explicitly forbid it, though couples should seek wisdom from Scripture and godly counsel.
 
 ### Example 2: A Spouse Feels Uncomfortable With a Request
 
@@ -63,9 +63,9 @@ If one spouse asks the other to try something the other finds uncomfortable or b
 
 ## Keep In Mind
 
-- The Bible provides freedom within the boundaries of the five principles for consensual sexual expression within marriage (Hebrews 13:4; 1 Corinthians 7:4–5)
+- The Bible provides freedom for consensual sexual expression within the boundaries of the five principles (Hebrews 13:4; 1 Corinthians 7:4–5)
 - Mutual consent applies equally to abstaining from sex and to deciding what is done sexually (1 Corinthians 7:5)
-- What is permissible for one couple may not be the same for another; each couple must prayerfully apply the principles to their specific situation, seeking God's wisdom through Scripture and the Holy Spirit
+- Each couple must prayerfully apply these principles to their own marriage, seeking God's wisdom through Scripture
 
 ## Security & Safety Notes
 

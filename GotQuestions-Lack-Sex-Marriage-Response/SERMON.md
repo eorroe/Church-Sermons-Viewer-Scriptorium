@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon provides a biblical framework for responding to a sexless marriage, emphasizing that physical intimacy is part of God's design for marriage (1 Corinthians 7:2-4) and that both spouses have a responsibility to meet each other's needs. It guides Christians through examining personal contributions to the problem, praying for wisdom and grace, maintaining unconditional love and open communication, and seeking pastoral or biblical counseling when needed. The ultimate goal is to trust God to heal the marriage through mutual submission to biblical principles, patience, and forgiveness.
+This sermon provides a biblical framework for responding to a sexless marriage, emphasizing that physical intimacy is part of God's design for marriage (1 Corinthians 7:2-4) and that both spouses have a responsibility to meet each other's needs. It guides Christians through examining personal contributions to the problem, praying for wisdom and grace, maintaining unconditional love and open communication, and seeking pastoral or biblical counseling when needed. The ultimate goal is to trust God to heal the marriage through both spouses submitting to biblical principles of love and respect, patience, and forgiveness.
 
 ## When to Follow This Sermon
 
@@ -23,33 +23,33 @@ If the deprived spouse discovers that he or she has contributed to the cause of 
 
 ### Step 3: Maintain Unconditional Love and Prayer
 
-Continue praying daily for grace to love unconditionally and trust God to work in His time (James 1:2-4). This is a test of faith. All the while, keep the lines of communication open with your partner and never neglect God's commands concerning the marital relationship (Ephesians 5:22-33). Be patient, knowing that healing takes time.
+Continue praying daily for grace to love unconditionally and trust God to work in His time (James 1:2-4). Waiting for change while continuing to love your spouse is a test of faith. All the while, keep the lines of communication open with your partner and never neglect God's commands concerning the marital relationship (Ephesians 5:22-33). Be patient, knowing that healing takes time.
 
 ### Step 4: If Your Wife Is Withholding Intimacy
 
-If the wife is withholding intimacy, the husband should consider whether he is being obedient to God's command to love his wife as Christ loves the church (Ephesians 5:25-33) and whether he is living with her in "an understanding way" (1 Peter 3:7, ESV). This is especially critical if she expresses feelings of inferiority or rejection. Use 1 Corinthians 13 as a checklist to evaluate whether your treatment of your wife matches the Bible's description of love. Godly love will keep you from bitterness and harshness (Colossians 3:19). Practice honest communication and forgiveness, and avoid playing "the blame game."
+If the wife is withholding intimacy, the husband should consider whether he is being obedient to God's command to love his wife as Christ loves the church (Ephesians 5:25-33) and whether he is living with her with gentleness and consideration for her feelings (1 Peter 3:7, ESV). This is particularly important if she expresses feelings of inferiority or rejection. Use 1 Corinthians 13 as a checklist to evaluate whether your treatment of your wife matches the Bible's description of love. Godly love will keep you from bitterness and harshness (Colossians 3:19). Practice honest communication and forgiveness, and avoid playing "the blame game."
 
 ### Step 5: If Your Husband Is Withholding Intimacy
 
-If the husband is withholding intimacy, the wife should examine whether she is fulfilling her responsibility before God to love, respect, and submit to her husband as the Bible instructs (Ephesians 5:22-24). If he feels neglected, inferior, or dominated, he may withdraw. Be mindful of the warning: "See to it that no one falls short of the grace of God and that no bitter root grows up to cause trouble and defile many" (Hebrews 12:15).
+If the husband is withholding intimacy, the wife should examine whether she is fulfilling her responsibility before God to love, respect, and submit to her husband as the Bible instructs (Ephesians 5:22-24). If he feels neglected, inferior, or dominated, he may withdraw from intimacy out of hurt or frustration. Be mindful of the warning: "See to it that no one falls short of the grace of God and that no bitter root grows up to cause trouble and defile many" (Hebrews 12:15).
 
 ### Step 6: Seek Understanding and Counseling
 
-If a spouse is withholding intimacy without a clear, identifiable reason, there may be a deeper, suppressed problem stemming from the past. In this case, counseling could help the problem come to the surface and be dealt with. Both parties should take some time off and sit down with the intent to talk it out without shifting the blame. A pastor or biblical counselor can be a wonderful help during these conversations.
+If a spouse is withholding intimacy without a clear, identifiable reason, there may be a deeper, suppressed problem stemming from the past — such as abuse, trauma, or unresolved hurt — that requires professional counseling. In this case, counseling could help the problem come to the surface and be dealt with. Both parties should take some time off and sit down with the intent to talk it out without shifting the blame. A pastor or biblical counselor can be a wonderful help during these conversations.
 
 ### Step 7: Commit to Spiritual Disciplines and Trust
 
-Healing cannot be forced and may take some time. In the meantime, forgiveness is an immediate command (Matthew 6:14-15). Commit to daily Bible reading and prayer, even if only for 5-10 minutes each day, to obedience to God, and to each other. Patiently trust the Lord to work in both your hearts and heal whatever is causing the lack of sex in the marriage.
+Healing cannot be forced and may take a period of time. In the meantime, forgiveness is an immediate command (Matthew 6:14-15). Commit to daily Bible reading and prayer, even if only for a short time each day, to obedience to God and to each other. Patiently trust the Lord to work in both your hearts and heal whatever is causing the lack of sex in the marriage.
 
 ## Examples
 
 ### Example 1: Husband Reflects on His Treatment
 
-A husband whose wife has been withholding intimacy reviews Ephesians 5:25-33 and 1 Peter 3:7, recognizing that his harshness or lack of understanding may have contributed to her withdrawal. He confesses his shortcomings, begins praying daily for wisdom, and commits to loving her as Christ loves the church. Over time, honest communication and demonstrated change open the door for restored intimacy.
+A husband whose wife has been withholding intimacy reviews Ephesians 5:25-33 and 1 Peter 3:7, recognizing that his harshness or lack of understanding may have contributed to her withdrawal. He confesses his shortcomings, begins praying daily for wisdom, and commits to loving her as Christ loves the church. Honest communication and demonstrated change open the door for restored intimacy.
 
 ### Example 2: Couple Seeks Pastoral Guidance
 
-A couple experiencing a sexless marriage for over a year takes time apart to pray and reflect individually, then meets with their pastor to discuss the issue without blame. Through counseling, they uncover past wounds that had been suppressed and begin working through them together, committing to daily Bible study and mutual forgiveness.
+A couple experiencing a sexless marriage for an extended period takes time apart to pray and reflect individually, then meets with their pastor to discuss the issue without blame. Through counseling, they uncover past wounds that had been suppressed and begin working through them together, committing to daily Bible study and mutual forgiveness.
 
 ## Best Practices
 
@@ -58,14 +58,14 @@ A couple experiencing a sexless marriage for over a year takes time apart to pra
 - ✅ Confess sin to God and your spouse (Proverbs 28:13)
 - ✅ Keep communication lines open with your partner (Ephesians 5:22-33)
 - ✅ Use 1 Corinthians 13 as a checklist for loving behavior
-- ✅ Seek pastoral or biblical counseling when needed
+- ✅ Seek pastoral or biblical counseling when needed (such as when communication has broken down or when there is unresolved hurt).
 - ✅ Commit to daily time in the Word and prayer
 - ✅ Practice immediate forgiveness (Matthew 6:14-15)
 
 ## Keep In Mind
 
-- Sexual intimacy within marriage is part of God's design for marriage, and spouses have a responsibility to meet each other's needs (1 Corinthians 7:2-4)
-- A lack of sex should only come by mutual consent for spiritual pursuits and for short periods of time (1 Corinthians 7:5)
+- Sexual intimacy within marriage is part of God's design for marriage, and spouses have a responsibility to meet each other's needs (1 Corinthians 7:2-4) — this includes emotional, relational, and physical intimacy.
+- A lack of sex should only come by mutual consent for spiritual pursuits and for short periods of time (such as a agreed-upon fast for prayer) — not as a prolonged pattern of withholding intimacy as punishment or control (1 Corinthians 7:5)
 - Healing cannot be forced and may take time
 - This is ultimately a test of faith (James 1:2-4)
 
@@ -81,7 +81,7 @@ A couple experiencing a sexless marriage for over a year takes time apart to pra
   **Solution:** First ask God to reveal anything you may be doing to contribute to the problem (Psalm 139:23) and be willing to listen
 
 - **Problem:** Forcing intimacy or demanding change on your own timeline
-  **Solution:** Healing cannot be forced; trust God to work in His time and commit to patience and prayer (James 1:2-4)
+  **Solution:** Healing cannot be forced; trust God to work in God's timing and commit to patience and prayer (James 1:2-4)
 
 - **Problem:** Allowing bitterness to grow toward your spouse
   **Solution:** Practice godly love and forgiveness daily, remembering that Godly love keeps you from bitterness and harshness (Colossians 3:19)

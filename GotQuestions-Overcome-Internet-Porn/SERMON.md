@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon addresses the struggle of internet pornography addiction from a biblical perspective, rooted in GotQuestions.org's teaching that porn is a sin but also a heart problem requiring both spiritual surrender and practical action. It guides the listener through securing salvation in Christ, daily prayer for strength and protection, committing the mind and eyes to God, and employing concrete tools such as internet filtering software, accountability partners, and Christian resources. The goal is to help believers understand that victory over this addiction is possible through Christ and the power of the Holy Spirit.
+This sermon addresses the struggle of internet pornography addiction from a biblical perspective, rooted in GotQuestions.org's teaching that porn is a sin but also a heart problem requiring both spiritual surrender and practical action. It guides the listener through securing salvation in Christ (John 3:16), daily prayer for strength and protection (Philippians 4:6-7), committing the mind and eyes to God (1 John 2:16), and employing concrete tools such as internet filtering software, accountability partners, and Christian resources. The goal is to help believers understand that victory over this addiction is possible through Christ and the power of the Holy Spirit.
 
 ## When to Follow This Sermon
 
@@ -19,7 +19,7 @@ Place genuine trust in Jesus Christ as your Savior. Without a personal relations
 
 ### Step 2: Commit Your Mind and Eyes to the Lord
 
-Make a deliberate choice to surrender your thought life and visual intake to God. Ask Him to strengthen you to overcome pornography (Philippians 4:13) and to protect you from further exposure (1 Corinthians 10:13). Confess and repent of this sin, receiving God's forgiveness (1 John 1:9), and ask Him to fill your mind with what is true, noble, right, pure, lovely, and admirable (Philippians 4:8).
+Make a deliberate choice to surrender your thought life and visual intake to God. Ask Him to strengthen you to overcome pornography — He promises to provide a way out when you are tempted (1 Corinthians 10:13). Confess and repent of this sin, receiving God's forgiveness (1 John 1:9), and ask Him to fill your mind with what is true, noble, right, pure, lovely, and admirable (Philippians 4:8).
 
 ### Step 3: Engage in Daily Prayer and the Renewing of Your Mind
 
@@ -27,15 +27,15 @@ Seek the Lord daily in prayer, asking Him to renew your mind and block unwanted 
 
 ### Step 4: Install Internet Filtering Software
 
-Use a proven internet filtering program such as Covenant Eyes — a tool that blocks access to pornographic content — to completely block your computer and devices from accessing pornography. This creates a practical barrier between you and temptation.
+Use an internet filtering program such as Covenant Eyes to completely block your computer and devices from accessing pornography. This creates a practical barrier between you and temptation.
 
 ### Step 5: Set Up Accountability Software with a Trusted Partner
 
-Install accountability software such as X3Watch, which tracks your internet browsing and sends reports of any objectionable websites visited to an accountability partner of your choosing—such as a youth pastor, parent, friend, pastor, or spouse. Knowing that someone you respect will receive a detailed report of your online activity will greatly reduce the temptation to view pornography.
+Install accountability software such as X3Watch, which tracks your internet browsing and sends reports of any objectionable websites visited to an accountability partner of your choosing — such as a youth pastor, parent, friend, pastor, or spouse — who is mature in the faith, trustworthy, and committed to helping you grow. Knowing that someone you respect will receive a detailed report of your online activity will greatly reduce the temptation to view pornography.
 
 ### Step 6: Read Christian Books on Overcoming Porn Addiction
 
-Study quality Christian resources that address the heart issues behind pornography. Recommended books include *Sexual Detox: A Guide for Guys Who Are Sick of Porn* by Tim Challies and *5 Steps to Breaking Free from Porn* by Joe Dallas. These resources provide biblical insight and practical steps to complement the work of the Holy Spirit in your life.
+Study Christian resources such as Sexual Detox by Tim Challies (2011, Cruciform Press) and 5 Steps to Breaking Free from Porn by Joe Dallas (2010, Harvest House Publishers) that address the heart issues behind pornography. Recommended books include *Sexual Detox: A Guide for Guys Who Are Sick of Porn* by Tim Challies and *5 Steps to Breaking Free from Porn* by Joe Dallas. These resources provide biblical insight and practical steps to complement the work of the Holy Spirit in your life.
 
 ### Step 7: Engage with Christian Support and Recovery Communities
 
@@ -43,13 +43,13 @@ Consider joining an online Christian support group such as Relay, which offers c
 
 ### Step 8: Persevere Without Despair
 
-Do not treat this addiction as an "unforgivable sin" or an "unconquerable sin." God can and will forgive you (1 John 1:9), and through the power of the Holy Spirit (Ephesians 3:16), He will enable you to overcome. Continue calling on God daily, relying on practical safeguards, and trusting that He who began a good work in you will carry it on (Philippians 1:6). "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us" (Ephesians 3:20).
+Do not treat this addiction as an "unforgivable sin" or an "unconquerable sin." God can and will forgive you if you confess your sin and turn to Him (1 John 1:9), and through the power of the Holy Spirit (Ephesians 3:16), He will enable you to overcome. Continue calling on God daily, relying on practical safeguards, and trusting that He who began a good work in you will carry it on (Philippians 1:6). "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us" (Ephesians 3:20).
 
 ## Examples
 
 ### Example 1: A Man Who Has Recently Come to Christ and Struggles With a Long-Standing Porn Habit
 
-He ensures his salvation is genuine, then immediately installs Covenant Eyes on his devices and appoints his small group leader as his accountability partner in X3Watch. Each morning he prays for strength and reads a Psalm before opening his phone, and over the following months he sees the frequency of his temptations decrease as old thought patterns are replaced by God's truth.
+He ensures his salvation is genuine, then immediately installs Covenant Eyes on his devices and appoints his small group leader as his accountability partner in X3Watch. Each morning he prays for strength and reads a Psalm before opening his phone, and over time (weeks and months) he sees the frequency decrease as he grows in Christ through consistent prayer, Scripture, and accountability.
 
 ### Example 2: A Married Woman Who Discovered Her Husband's Pornography Use and Wants to Help Him
 
@@ -73,7 +73,7 @@ She points him to Romans 12:1-2 and 1 Corinthians 10:13, encourages him to read 
 ## Keep In Mind
 
 - Pornography is offensive to God and is a sin that must be confessed, repented of, and overcome.
-- At its root, pornography is a heart problem driven by unmet longings that only God can truly satisfy.
+- At its root, pornography is a heart problem driven by unmet emotional and spiritual longings that only God can truly satisfy through a relationship with Him.
 - God alone can heal the heart affected by hurt, trauma, or rejection that may be feeding the addiction.
 - Every believer has access to the power of the Holy Spirit (Ephesians 3:16), God's forgiveness (1 John 1:9), and the renewing work of His Word (Romans 12:1-2).
 - God promises to protect you from temptation beyond what you can bear (1 Corinthians 10:13).

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon teaches what the Bible defines as fornication and why it is considered sexual immorality. It explains that fornication—from the Greek term *porneia*—covers any sexual activity outside of marriage. The sermon further instructs believers to flee all sexual sin, recognizing the body as the temple of the Holy Spirit, and warns that those who persist in fornication will not inherit the kingdom of heaven.
+This sermon teaches what the Bible defines as fornication and why it is considered sexual immorality. It explains that fornication—from the Greek term *porneia*—covers any sexual activity outside of marriage. The sermon further instructs believers to flee all sexual sin, recognizing the body as the temple of the Holy Spirit, and warns that those who continue in fornication without repentance will not inherit the kingdom of heaven.
 
 ## When to Follow This Sermon
 
@@ -19,7 +19,7 @@ Fornication is the biblical term for any sexual activity outside the marriage co
 
 ### Step 2: Recognize the Biblical Condemnation of Fornication
 
-Fornication is condemned throughout Scripture. In Romans 1:29, the apostle Paul lists fornication among horrendous sins. Jesus mentions fornication in a list of corrupting sins that come from within a person's heart (Matthew 15:19; Mark 7:21). The sin of fornication violates the seventh commandment (Exodus 20:14), which was intended to safeguard the integrity of the family and the marriage union. Hebrews 13:4 states: "Marriage is to be honored by all and the marriage bed kept undefiled, because God will judge the sexually immoral and adulterers" (CSB). Those who persistently indulge in fornication will not inherit the kingdom of heaven (1 Corinthians 6:9).
+Fornication is condemned throughout Scripture. In Romans 1:29, the apostle Paul lists fornication among serious sins. Jesus mentions fornication in a list of corrupting sins that come from within a person's heart (Matthew 15:19; Mark 7:21). The sin of fornication violates the seventh commandment (Exodus 20:14), which was intended to safeguard the integrity of the family and the marriage union. Hebrews 13:4 states: "Marriage is to be honored by all and the marriage bed kept undefiled, because God will judge the sexually immoral and adulterers" (CSB). Those who persistently indulge in fornication will not inherit the kingdom of heaven (1 Corinthians 6:9).
 
 ### Step 3: Abstain from All Forms of Sexual Immorality
 
@@ -57,7 +57,7 @@ In Ezekiel 16:15–43, God describes Jerusalem as His wife who committed spiritu
 - God designed sex for marriage, and marriage is intended to be a holy, honored institution
 - Sexual sin is uniquely described as sinning against one's own body
 - God will judge the sexually immoral and adulterers
-- Those who persistently practice fornication will not inherit the kingdom of heaven
+- Those who continue in fornication without turning from it and without faith in Christ will not inherit the kingdom of heaven (1 Corinthians 6:9).
 
 ## Security & Safety Notes
 

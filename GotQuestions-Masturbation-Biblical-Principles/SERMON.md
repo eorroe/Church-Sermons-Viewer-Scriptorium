@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sermon examines what the Bible teaches about masturbation through a careful study of Scripture and biblical principles. Because the Bible is silent on masturbation specifically, this teaching applies six explicit biblical principles to evaluate the practice and determine whether it can be a God-honoring activity. It also clarifies misused proof texts and directs believers toward God's design for sexual expression within marriage.
+This sermon examines what the Bible teaches about masturbation through a careful study of Scripture and biblical principles. The Bible does not mention masturbation by name, this teaching applies six explicit biblical principles to evaluate the practice and determine whether it can be a God-honoring activity. It also clarifies misused proof texts and directs believers toward God's design for sexual expression within marriage.
 
 ## When to Follow This Sermon
 
@@ -35,7 +35,7 @@ Masturbation is sex disconnected from relationship, keeping one's body to onesel
 
 ### Step 4: Curtail Associated Sins
 
-Regardless of the morality of the act itself, lustful thoughts, viewing pornography, and seeking inappropriate sexual arousal are decidedly sinful. Curtailing these sins reduces the temptation to masturbate. Many struggle with guilt over the act itself when they should repent of the sins that lead to it.
+Regardless of the morality of the act itself, lustful thoughts, viewing pornography, and seeking inappropriate sexual arousal are decidedly sinful. Curtailing these sins reduces the temptation to masturbate. People struggle with guilt over the act itself when they should repent of the sins that lead to it, such as lustful thoughts and pornography.
 
 ### Step 5: Apply Six Biblical Principles
 
@@ -45,12 +45,12 @@ Use these explicit principles to evaluate whether masturbation can honor God:
 2. **Romans 14:23:** "Everything that does not come from faith is sin." If you have prayed, studied Scripture, sought wise counsel from mature believers, and examined your motives, and you still cannot honestly say the activity honors God, then for you it is a sin.
 3. **1 Corinthians 6:12:** "I will not be mastered by anything." Avoid anything that might enslave you.
 4. **1 Corinthians 9:27:** "I discipline my body and keep it under control." Self-discipline is necessary to receive the prize in the spiritual race.
-5. **Galatians 5:22–23:** "The fruit of the Spirit is... self-control." Masturbation demonstrates a lack of self-control because it is self-directed rather than other-oriented.
+5. **Galatians 5:22–23:** "The fruit of the Spirit is... self-control." Masturbation can demonstrate a lack of self-control because it is self-directed rather than other-oriented, though individual cases vary.
 6. **Galatians 5:16–17:** "Do not gratify the desires of the flesh... You are not to do whatever you want." Christians are called to self-denial, not self-gratification.
 
 ### Step 6: Test the Practice Against These Principles
 
-If masturbation were free from lustful thoughts, immoral fantasies, pornography, and self-gratification, and done with full assurance that it honors God and thanksgiving to Him, it would still depart from God's design for sexual expression. But those qualifiers seem to negate the most common reasons people masturbate.
+If masturbation were free from lustful thoughts, immoral fantasies, pornography, and self-gratification, and done with complete confidence that it honors God and thanksgiving to Him, it would still depart from God's design for sexual expression. But those qualifiers show that masturbation typically involves lust, self-gratification, or other sin.
 
 ### Step 7: Pursue God's Original Design
 
@@ -60,7 +60,7 @@ In the beginning, God intended a husband and wife to be "united" to each other, 
 
 ### Example 1: A Single Person Struggling with Sexual Temptation
 
-A single Christian who, after prayer, discipline, and accountability, still finds themselves unable to remain sexually pure and is vulnerable to ongoing temptation, should pursue marriage as the God-honoring alternative to burning with passion (1 Corinthians 7:9). Rather than turning to masturbation, the believer should walk by the Spirit, practice self-discipline, and seek accountability, knowing that marriage is not sinful and is preferable to struggling against constant temptation.
+A single Christian who, after prayer, discipline, and accountability, still finds themselves unable to remain sexually pure and is vulnerable to ongoing temptation, should pursue marriage as the God-honoring alternative to burning with passion (1 Corinthians 7:8-9). Rather than turning to masturbation, the believer should walk by the Spirit, practice self-discipline, and seek accountability, knowing that marriage is not sinful and is preferable to struggling against constant temptation.
 
 ### Example 2: A Married Couple Experiencing Deprivation
 
@@ -98,4 +98,4 @@ A married couple experiencing times of deprivation should "come together again" 
 - **Problem:** Assuming that because the Bible does not explicitly forbid masturbation, it is therefore morally neutral or acceptable
   **Solution:** Apply the six biblical principles provided—especially 1 Corinthians 10:31, Romans 14:23, and Galatians 5:16–17—to evaluate whether the practice can truly honor God.
 - **Problem:** Focusing solely on stopping the act of masturbation while continuing to entertain lustful thoughts or view pornography
-  **Solution:** Repent of and actively curb the root sins that lead to the behavior, as removing these underlying sins reduces temptation significantly.
+  **Solution:** Repent of and actively curb the root sins that lead to the behavior, as removing these underlying sins reduces temptation.

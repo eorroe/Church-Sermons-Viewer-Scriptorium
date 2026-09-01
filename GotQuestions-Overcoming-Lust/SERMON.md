@@ -2,7 +2,7 @@
 
 ## Overview
 
-Based on GotQuestions.org's biblical teaching, this sermon explains how sinful lust progresses from temptation to sin and death, and provides practical steps Christians can take to resist and conquer lustful desires through Christ. It teaches that while temptation itself is not sin, we must actively reject evil desire, flee temptation immediately, and surrender our hearts to God's glory to overcome lust.
+Based on GotQuestions.org's biblical teaching, this sermon explains how James 1:14-15 teaches that sinful lust progresses from temptation to sin and death, and provides practical steps Christians can take to resist and conquer lustful desires through Christ. It teaches that while temptation itself is not sin, we must actively reject evil desire, flee temptation immediately, and surrender our hearts to God's glory to overcome lust.
 
 ## When to Follow This Sermon
 
@@ -15,7 +15,7 @@ Based on GotQuestions.org's biblical teaching, this sermon explains how sinful l
 
 ### Step 1: Reject Evil Desire Immediately
 
-When evil desire introduces itself, you have a choice. Reject it immediately and refocus on the path God has set before you, following Jesus' example of resisting temptation with Scripture. As the saying goes, "We cannot stop the birds from flying overhead, but we don't have to let them make a nest in our hair."
+When evil desire introduces itself, you have a choice. Reject it immediately and refocus on the path God has set before you, following Jesus' example of resisting temptation with Scripture. As the saying goes, "We cannot stop the birds from flying overhead, but we don't have to let them make a nest in our hair." This means you cannot prevent temptations from coming, but you do not have to dwell on them or let them take root in your heart.
 
 ### Step 2: Flee Temptation Without Hesitation
 
@@ -23,15 +23,15 @@ Second Timothy 2:22 says, "Flee youthful lusts." To "flee" means to run from the
 
 ### Step 3: Do Not Make Provision for the Flesh
 
-Hesitation opens the door to enticement. Romans 13:14 calls hesitation "making provision for the flesh." When we hesitate, we give the flesh the opportunity to choose evil. Do not entertain tempting thoughts, savor fantasies, or imagine sinful scenarios, believing they will delight and fulfill you.
+Hesitation gives the tempting thought a foothold in your mind. Romans 13:14 calls hesitation "making provision for the flesh." When we hesitate, we give the flesh the opportunity to choose evil. Do not entertain tempting thoughts, savor fantasies, or imagine sinful scenarios, believing they will delight and fulfill you.
 
 ### Step 4: Take Every Thought Captive to Christ
 
-Allow the Holy Spirit to keep your thoughts where He wants them to be. Second Corinthians 10:5 says, "Take every thought captive to the obedience of Christ." Intercept lust at the very first thought or desire that tempts you away from God's path before it germinates and grows into something powerful and difficult to uproot.
+Allow the Holy Spirit to keep your thoughts where He wants them to be. Second Corinthians 10:5 says, "Take every thought captive to the obedience of Christ." Intercept lust at the very first tempting thought before it grows into a strong desire that is difficult to resist.
 
 ### Step 5: Surrender to the Lord and Pray Daily
 
-Surrender your heart to the glory of God so your needs are met in a relationship with Him rather than through sinful desire. Pray daily the words of Psalm 19:14: "Let the words of my mouth and the meditation of my heart be acceptable in your sight, O LORD, my rock and my redeemer." When your heart's desire is to please God more than yourself, you can keep lust at bay.
+Surrender your heart to the glory of God so your deepest needs are satisfied in your relationship with Him (Psalm 42:1-2) rather than through sinful desire. Pray daily the words of Psalm 19:14: "Let the words of my mouth and the meditation of my heart be acceptable in your sight, O LORD, my rock and my redeemer." When your heart's desire is to please God more than yourself, you can keep lust from gaining control over you.
 
 ## Examples
 
@@ -53,13 +53,13 @@ Samson was a physically strong man, yet he was no match for his own lust (Judges
 - ❌ Do not entertain or dwell on tempting thoughts or sinful fantasies
 - ❌ Do not hesitate when faced with temptation
 - ❌ Do not believe that sinful desire will delight or fulfill you
-- ❌ Do not think that God has not provided all you need for happiness
+- ❌ Do not think that God has not provided all you need for true fulfillment and joy.
 
 ## Keep In Mind
 
 - Being tempted is not sin; the sin begins when you choose to entertain evil desire
-- Lust begins as a seed or thought that can grow into something powerful if not uprooted
-- The downward progression is: temptation → desire conceives → sin → spiritual death (separation from God and the death of the old sinful nature that leads to eternal judgment if unrepented)
+- Lust begins as a tempting thought that can grow into a strong desire if you do not resist it and remove it from your mind.
+- The downward progression described in James 1:14-15 is: temptation → desire conceives → sin → spiritual death (separation from God).
 - Your heart is God's domain; allowing evil to grow there defiles His temple (1 Corinthians 3:16; 6:19)
 - Jesus made it clear that lust is sin even if you do not physically act on it (Matthew 5:27-28)
 
@@ -79,4 +79,4 @@ Samson was a physically strong man, yet he was no match for his own lust (Judges
 - **Problem:** Believing sinful desire will fulfill a need that God has not met
   **Solution:** Surrender to the Lord and find your needs met in a relationship with Him
 - **Problem:** Thinking you are helpless against temptation
-  **Solution:** Remember that you are not helpless; you can choose to give in or to resist, and the Holy Spirit enables you to overcome
+  **Solution:** Remember that you are not helpless; you can choose to give in or to resist, and the Holy Spirit enables you to overcome (1 Corinthians 10:13)

@@ -15,15 +15,15 @@ This sermon teaches the biblical meaning of lust. It contrasts lust with the Chr
 
 ### Step 1: Define Lust Biblically
 
-Study and understand what the Bible says about lust. The dictionary defines lust as "intense or unrestrained sexual craving" or "an overwhelming desire or craving," but Scripture sharpens this definition. Review Exodus 20:14, 17 and Matthew 5:28. Notice that Jesus teaches even looking at someone with lust is committing adultery in the heart. Job 31:11-12 describes lust as a shameful sin and a devastating fire that destroys everything.
+Study and understand what the Bible says about lust. Merriam-Webster defines lust as intense or unrestrained sexual craving, but Scripture sharpens this definition (Matthew 5:27-28). Review Exodus 20:14, 17 and Matthew 5:28. Notice that Jesus teaches even looking at someone with lust is committing adultery in the heart. Job 31:11-12 describes lust as a shameful sin that consumes everything.
 
 ### Step 2: Recognize the Heart of Lust
 
-Understand that lust focuses on pleasing oneself and leads to unwholesome actions to fulfill desire with no regard for consequences. Lust is fundamentally about possession and greed. Reflect honestly on whether your thoughts, motives, or actions have been driven by self-gratification rather than love for God and others.
+Understand that lust focuses on pleasing oneself and leads to unwholesome actions to fulfill desire with no regard for consequences. Lust is about wanting something that is not yours and seeking to possess it for yourself. Reflect honestly on whether your thoughts, motives, or actions have been driven by self-gratification rather than love for God and others.
 
 ### Step 3: Compare Lust to the Christian Calling
 
-Contrast lust with the call of the Christian faith, which is about selflessness and holy living (see Romans 6:19, 12:1-2; 1 Corinthians 6:19-20; Ephesians 4:24; Colossians 3:12; 1 Thessalonians 4:3-8; 1 Peter 1:15-16). The goal of every believer is to become more like Jesus each day, putting off the old way of life in which sin was in control, and conforming thoughts and actions to the standard of Scripture. Lust is in direct opposition to this ideal.
+Contrast lust with the call of the Christian faith, which is about selflessness and holy living (see Romans 6:19, 12:1-2; 1 Corinthians 6:19-20; Ephesians 4:24; Colossians 3:12; 1 Thessalonians 4:3-8; 1 Peter 1:15-16). The goal of every believer is to become more like Jesus each day (2 Corinthians 3:18), putting off the old way of life in which sin was in control, and conforming thoughts and actions to the standard of Scripture. Lust is in direct opposition to this ideal.
 
 ### Step 4: Ready Yourself Against Lust
 
@@ -37,11 +37,11 @@ If you currently struggle with lust, it is time to confess your sins to God and 
 
 ### Example 1: The Person Who Has Not Yet Yielded to Lust
 
-A believer who guards their thoughts and lives with integrity, keeping their actions and thoughts aligned with God's Word so that no one can rightly accuse them of sin, uses this teaching to reinforce their commitment to purity. They study Matthew 5:28 to understand that heart purity matters to God. They establish boundaries around media consumption, pursue accountability relationships, and walk closely with God through daily Scripture and prayer so they are rooted in God's Word and strong in faith when temptation comes.
+A believer who guards their thoughts and lives with integrity, keeping their actions and thoughts aligned with God's Word so that they live blamelessly before Him (1 Timothy 3:2), uses this teaching to reinforce their commitment to purity. They study Matthew 5:28 to understand that heart purity matters to God. They establish boundaries around media consumption, pursue accountability relationships, and walk closely with God through daily Scripture and prayer so they are rooted in God's Word and strong in their faith when temptation comes.
 
 ### Example 2: The Person Struggling with Lustful Thoughts or Actions
 
-A believer who recognizes that lust has taken root in their life follows Step 5: they confess before God, acknowledge the sin, and ask for God's intervention. They turn to passages like 1 Thessalonians 4:7-8 to remind themselves that God has called them to holiness. They seek accountability with a mature Christian who is grounded in Scripture, accountable to church leadership, and has demonstrated reliability and wisdom, and rely on the Holy Spirit for the power to break free and live differently.
+A believer who recognizes that lust has taken root in their life follows Step 5: they confess before God, acknowledge the sin, and ask for God's intervention. They turn to passages like 1 Thessalonians 4:7-8 to remind themselves that God has called them to holiness. They seek accountability with a Christian who is grounded in Scripture, accountable to church leadership, and has demonstrated trustworthiness and wisdom in applying Scripture to life, and rely on the Holy Spirit for the power to break free and live differently.
 
 ## Best Practices
 
@@ -59,7 +59,7 @@ A believer who recognizes that lust has taken root in their life follows Step 5:
 ## Keep In Mind
 
 - Lust is not merely a physical act; even lustful thoughts are sin in God's eyes (Matthew 5:28)
-- Nobody attains sinlessness on this earth, but pursuing holiness remains the goal for every believer
+- Nobody attains perfect sinlessness on this earth, but we are called to pursue holiness.
 - God has called you to holiness and gives His Holy Spirit to empower you to walk in it
 - A life lived above reproach before temptation strikes is your best preparation for when it does
 - Confession and dependence on God's intervention are the path to freedom from lust's grip
@@ -77,6 +77,6 @@ A believer who recognizes that lust has taken root in their life follows Step 5:
 - **Problem:** Relying on willpower alone to overcome lust
   **Solution:** Lust is a spiritual battle that cannot be won by human effort alone. Submit to God, draw near to Him in prayer and Scripture, and rely on the Holy Spirit for transformation (James 4:7-8).
 - **Problem:** Waiting until lust has full grip before taking action
-  **Solution:** Ready yourself now through a life lived above reproach. Do not wait until temptation is at your door to build the spiritual disciplines that protect you.
+  **Solution:** Ready yourself now through a life lived above reproach. Do not wait until temptation is present to build the spiritual disciplines that protect you.
 - **Problem:** Carrying unconfessed lust silently, thinking no one knows
   **Solution:** Sin in secret still grieves God. Come clean before Him. Confession brings freedom and opens the door to God's intervention in your life.
