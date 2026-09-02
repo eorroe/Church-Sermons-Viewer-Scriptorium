@@ -2,7 +2,7 @@
 
 ## Overview
 
-Sexual desire is not inherently sinful—God created it as a good and holy part of being human. This sermon teaches how to understand and honor sexual desire within marriage between one man and one woman, whether you are single or married. It warns against the dangers of either shameful repression or indulgence outside of God's design, calling believers to embrace sexuality as a gift to be cultivated, enjoyed, and surrendered to God.
+Sexual desire is not inherently sinful—God created it as a good and holy part of being human. This sermon teaches how to understand and honor sexual desire within marriage between one man and one woman, whether you are a single believer or a married believer. It warns against the dangers of either shameful repression—feeling guilt or shame about sexual feelings as if they were inherently sinful—or indulgence outside of God's design, calling believers to embrace sexuality as a gift to be used for God's glory, enjoyed within marriage, and surrendered to God.
 
 ## When to Follow This Sermon
 
@@ -15,23 +15,23 @@ Sexual desire is not inherently sinful—God created it as a good and holy part 
 
 ### Step 1: Understand That Sexual Desire Is God-Created and Good
 
-God created humanity as sexual beings and declared it good (Genesis 1:27–28, 31). Sexual desire is part of how God made us—not a flaw, not a burden, but a reflection of His design. Before sin entered the world, Adam and Eve were naked and unashamed (Genesis 2:25), showing that sexual connection within marriage between one man and one woman is God-honoring and good. In the Song of Solomon, married sexual desire is presented as part of God's good design for husband and wife — the friends of the bridegroom pronounce a blessing over their love (Song of Solomon 5:1).
+God created humanity as sexual beings and declared it good (Genesis 1:27–28, 31). Sexual desire is part of how God made human beings as male and female (Genesis 1:27)—not a flaw, not a burden, but a good part of His design for humanity. Before sin entered the world, Adam and Eve were naked and unashamed (Genesis 2:25), showing that sexual connection within marriage between one man and one woman in marriage brings glory to God and is good. In the Song of Solomon, married sexual desire is presented as part of God's good design for husband and wife — the friends of the bridegroom pronounce a blessing over their love (Song of Solomon 5:1).
 
 ### Step 2: Recognize That Sin Distorts Sexual Desire Outside God's Boundaries
 
-Sin has entered the world and twisted the good desires God created, redirecting them into ways He did not intend. Proverbs 5 contrasts the goodness of desire within marriage—"Let her breasts fill you at all times with delight; be intoxicated always in her love" (Proverbs 5:19)—against the danger of pursuing another: "Why should you be intoxicated, my son, with a forbidden woman?" Misdirected sexual desire becomes sin when it is indulged outside of marriage, such as premarital sex, adultery, or lustful thoughts about someone who is not your spouse (Matthew 5:27-28). The desire itself is not sinful; the choice to act on it outside God's design is sin.
+Sin has entered the world and twisted the good desires God created, redirecting them into ways He did not intend. Proverbs 5 contrasts the goodness of desire within marriage—"Let her breasts fill you at all times with delight; be intoxicated always in her love" (Proverbs 5:19)—against the danger of pursuing another: "Why should you be intoxicated, my son, with a forbidden woman?" Misdirected sexual desire becomes sin when it is indulged outside the marriage covenant between one man and one woman: through premarital sex, adultery, or lustful thoughts about someone who is not your spouse (Matthew 5:27-28). The desire itself is not sinful; the choice to act on it outside God's design is sin.
 
 ### Step 3: Choose God's Design: Marriage or Self-Control
 
-The New Testament makes clear that the way we handle desire determines whether we sin. Paul writes, "If they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion" (1 Corinthians 7:9) — this is a permissive concession, not a universal command for all believers. Sexual desire itself is not sinful. For those who are single, the call is to exercise self-control—to acknowledge your desires without guilt, but to keep their desires under the control of the Holy Spirit and in submission to God's Word. For those who are married, sexual desire for your spouse is not only acceptable but good, and should be cultivated as a spiritual act of love. Paul also explains that marriage reflects the profound mystery of Christ and the church (Ephesians 5:31–32), showing that our physical union points to God's passionate desire for intimate unity with His people (John 17:23).
+The New Testament makes clear that the way we handle desire determines whether we sin. Paul writes, "If they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion" (1 Corinthians 7:9). This is a permission for those who cannot exercise self-control in singleness, not a command that every believer must marry. Sexual desire itself is not sinful. For single believers, the call is to exercise self-control—to acknowledge your God-given desires without guilt, but to keep them under the control of the Holy Spirit through submission to God's Word. For married believers, sexual desire for your spouse is not only acceptable but good, and should be expressed within the marriage covenant as an act of love and unity (Genesis 2:24; 1 Corinthians 7:3-5). Paul also explains that marriage reflects the profound mystery of Christ and the church (Ephesians 5:31–32), showing that our physical union points to God's passionate desire for intimate unity with His people (John 17:23).
 
 ### Step 4: Free Yourself From Shame and Walk in Honesty
 
-Understanding that God created sexual desire as good frees you from shame. If you are single and experience attraction, you can acknowledge those feelings as part of how God made you—while also choosing to honor Him through self-control and healthy boundaries such as avoiding movies, TV shows, music, or social media content that sexualizes people or glorifies casual sex — content that triggers lustful thoughts or leads you away from God's design, setting accountability measures, and limiting alone time with someone you are attracted to. Turn your thoughts and energy toward God. If you are married, prioritize intimacy with your spouse; expressing sexual desire is a way to reflect the closeness God intends for marriage. If you are in a season of singleness or waiting for marriage, use the energy and passion God has given you to cultivate a deeper relationship with Him, love others well, and honor Him with your mind and body (1 Corinthians 6:20).
+Understanding that God created sexual desire as good frees you from shame. If you are single and experience attraction, you can acknowledge those feelings as part of how God made you—while also choosing to honor Him through self-control and specific boundaries: avoiding movies, TV shows, music, and social media content that depicts sexual activity outside the marriage covenant between one man and one woman, as such content triggers lustful thoughts and leads away from God's design; setting accountability measures: specifically choosing a trusted believer who is grounded in Scripture and will check in with you weekly about your thoughts and behavior; and limiting alone time longer than 1 hour with someone you are attracted to. Turn your thoughts and energy toward God. If you are married, prioritize intimacy with your spouse; expressing sexual desire is a way to reflect the closeness God intends for marriage. If you are in a season of singleness or waiting for marriage, use the energy and passion God has given you to cultivate a deeper relationship with Him, love others well, and honor Him with your mind and body (1 Corinthians 6:20).
 
 ### Step 5: Fight Temptation With Spiritual Disciplines and Community
 
-When you find yourself battling lust or temptation, do not face it alone. Invite God into the struggle, asking Him for strength (James 4:7–8). Put practical disciplines in place: avoid tempting situations, memorize Scripture, pray when tempted, and serve others. Proverbs 5 warns that the unfaithful path leads to ruin, but the path of wisdom leads to life. Do not entertain lustful thoughts or repeatedly dwell on temptation—each choice to turn away is an act of worship. Whether married or single, you are called to glorify God in your body and your desires, giving thanks for how He created you.
+When you find yourself battling lust or temptation, do not face it alone. Invite God into the struggle, asking Him for strength (James 4:7–8). Put practical disciplines in place: avoid situations that trigger lust—being alone with someone you are attracted to, viewing media that depicts sexual activity outside marriage, or browsing websites with sexual content—memorize Scripture, pray when tempted, and serve others. Proverbs 5 warns that the unfaithful path leads to ruin, but the path of wisdom leads to life. Do not entertain lustful thoughts or repeatedly dwell on temptation—each choice to turn away is an act of worship. Whether married or single, you are called to glorify God in your body and your desires, giving thanks for how He created you.
 
 ## Examples
 
@@ -41,13 +41,13 @@ A single Christian experiences strong sexual attraction toward a coworker. Inste
 
 ### Example 2: The Married Couple Honoring Intimacy
 
-A married couple recognizes that their sexual relationship is a gift from God. Rather than viewing intimacy as merely physical, they see it as a reflection of Christ's love for the church. They prioritize each other by scheduling regular date nights, communicating openly about needs, and serving each other sacrificially, and protect their marriage from external temptations. Their physical union becomes an act of worship and a testimony to God's design.
+A married couple recognizes that their sexual relationship is a gift from God. Rather than viewing intimacy as merely physical, they see it as a reflection of Christ's love for the church. They prioritize each other by scheduling weekly date nights, speaking truthfully about their needs and feelings, and serving each other sacrificially, and protect their marriage from external temptations. Their physical union becomes an act of worship and a testimony to God's design.
 
 ## Best Practices
 
 - ✅ View sexual desire as a God-given gift, not a shameful burden
 - ✅ Channel your desires toward honoring God—whether through marriage or through a lifestyle of celibacy with intentional self-control and accountability.
-- ✅ Practice self-control by avoiding movies, TV shows, music, or social media content that sexualizes people or glorifies casual sex, and setting specific, healthy boundaries such as content filters on devices, accountability partners, and avoiding private time alone with people you are attracted to.
+- ✅ Practice self-control by avoiding movies, TV shows, music, or social media content that depicts sexual activity outside marriage, and setting specific, healthy boundaries: installing content filters on all devices, choosing an accountability partner who is grounded in Scripture and will check in regularly, and avoiding extended private time alone with someone you are attracted to.
 - ✅ Pursue accountability with trusted believers when facing temptation
 - ✅ Use seasons of waiting to grow deeper in your relationship with God and others
 - ❌ Do not shame yourself for having sexual desires—they are part of how God made you
@@ -57,21 +57,21 @@ A married couple recognizes that their sexual relationship is a gift from God. R
 ## Keep In Mind
 
 - Sexual desire in itself is not sin; acting on it outside God's design is.
-- Both repression and over-indulgence are traps—God calls you to a balanced approach that honors Him in worship and purity.
+- Both repression and over-indulgence outside of marriage are traps—God calls you to a balanced approach that honors God in worship and purity.
 - Your sexuality is ultimately about glorifying God and reflecting His desire for intimate union with His people.
 - Whether single or married, you can honor God with your body and your desires (1 Corinthians 6:20).
 
 ## Security & Safety Notes
 
-- This sermon addresses a deeply personal and sensitive topic. Leaders and individuals should exercise wisdom, compassion, and confidentiality by listening without judgment, keeping struggles private unless permission is given to share, and pointing people to Scripture and professional help if needed.
+- This sermon addresses a personal and sensitive topic involving the body, desire, and intimate behavior. Leaders and individuals should exercise wisdom, compassion, and confidentiality by listening without judgment, keeping struggles private unless permission is given to share, and pointing people to Scripture and professional help if needed.
 - Those struggling with patterns of sexual sin, addiction, or trauma should seek pastoral care, professional Christian counseling, and trusted accountability partners.
-- Do not use this teaching to judge, shame, or condemn others—every person's journey with sexuality is different, and all are called to grace and truth.
+- Do not use this teaching to judge, shame, or condemn others—every person's situation with sexuality differs, and all are called to respond with both grace and biblical truth (Ephesians 4:15).
 
 ## Common Pitfalls
 
 - **Problem:** Feeling that all sexual desire is sinful or shameful, leading to repression and guilt.
   **Solution:** Remember that God created sexual desire as good within His design. Bring your feelings before God honestly, and replace shame with gratitude for how He made you.
 - **Problem:** Indulging sexual desire outside of God's boundaries—through lustful thoughts, pornography, or sexual immorality—and justifying it as "natural."
-  **Solution:** Recognize that sin distorts good desires. When temptation arises, practice spiritual disciplines: pray, flee the situation, remove movies, TV shows, music, or social media content that sexualizes people or glorifies casual sex, and seek accountability.
-- **Problem:** Believing that marriage alone will solve all struggles with sexual temptation.
-  **Solution:** Marriage is God's design for the expression of sexual desire (Genesis 2:24), but it does not remove the need for both husband and wife to pursue purity (1 Thessalonians 4:3), self-control (Galatians 5:22-23), and reliance on the Holy Spirit (Ephesians 5:18). Both single and married believers are called to honor God with their bodies.
+  **Solution:** Recognize that sin distorts good desires. When temptation arises, practice spiritual disciplines: pray, flee the situation, remove movies, TV shows, music, or social media content that depicts sexual activity outside the marriage covenant between one man and one woman, and seek accountability.
+- **Problem:** Believing that marriage alone will eliminate all struggles with sexual temptation.
+  **Solution:** Marriage is God's design for the expression of sexual desire (Genesis 2:24), but it does not eliminate the need for both husband and wife to pursue sexual purity (1 Thessalonians 4:3), exercise the self-control that is a fruit of the Spirit (Galatians 5:22-23), and rely on the Holy Spirit for strength (Ephesians 5:18). Both single and married believers are called to honor God with their bodies.
