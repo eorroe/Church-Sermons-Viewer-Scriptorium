@@ -1,0 +1,6058 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 33170,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 35320,
+    "dDurationMs": 5619,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 57320,
+    "dDurationMs": 3089,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 68690,
+    "dDurationMs": 14799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 88530,
+    "dDurationMs": 6609,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 103820,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 115060,
+    "dDurationMs": 11679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 135150,
+    "dDurationMs": 4210,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 141850,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 149940,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 161570,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 167670,
+    "dDurationMs": 15320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 189290,
+    "dDurationMs": 3099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 197800,
+    "dDurationMs": 3319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 219880,
+    "dDurationMs": 16160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 238840,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 249800,
+    "dDurationMs": 15529,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 266840,
+    "dDurationMs": 13430,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bad\n[Music]",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 280840,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "foreign",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 285310,
+    "dDurationMs": 11809,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 302690,
+    "dDurationMs": 3069,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 315790,
+    "dDurationMs": 19099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 336400,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hello hello hello precious people\nwelcome to our thursday evening",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 342320,
+    "dDurationMs": 10159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "live stream my name is pastor anna\nand joining us is this evening",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 348800,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i have joy valera one of our anointed\nworship leaders praise god for that and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 354560,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we\nare looking forward to being with you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 357680,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this evening this next\nhour as we are going to have a time of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 361440,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worship\nprayer and a message from the word of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 366319,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god we continue our series from the book\nof exodus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 370240,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that we call it the opposition to your\nfreedom",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 374240,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jesus wants to set you free but if there\nis",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 377280,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anything that the enemy attacks in your\nlife",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 380479,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is the deliverance and the freedom that\ngod offers you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 384160,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and we certainly see this in the book of\nexodus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 387520,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when god delivered his people from\negyptian bondage so",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 390720,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we started our series last thursday and\ntoday we're gonna do",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 394479,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the second devotional from the book of\nexodus in a few moments",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 399199,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "please hit share share share\nshare hit the share button before we get",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 405120,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "started\nhelp us to evangelize in social media",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 409280,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the more the the more we share the\ntransmission",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 413120,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the many of us share the transmission\nthe more people we are able to reach",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 417759,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with the gospel of christ so it's\nimportant that we do that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 421199,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whenever we go live so please right now\nhit",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 424560,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the share button and i thank those of\nyou that already",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 428800,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have hit the share button thank you for\nsharing",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 432160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this transmission i also want to welcome\nan audience in the youtube channel",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 437120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you have not subscribed to the\nyoutube channel here in the description",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 441039,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of this video i included\nthe link for the youtube channel for the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 446080,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "church\nso if you have not done so yet please",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 449840,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "subscribe\nto our youtube channel by hitting",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 453919,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "subscribe the subscribe button when you\ngo into the youtube channel from the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 458160,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "church\nlet's welcome the presence of the lord",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 460880,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "joyce if you can get us\nstarted let's welcome the presence of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 465680,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the lord\nas we change",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 470479,
+    "dDurationMs": 10961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the atmosphere in our homes\nin in wherever we are let's invite the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 479680,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presence of jesus\nthe bible says that god dwells",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 484720,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the praises of his people so right\nwhere you are",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 488319,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i want to encourage you to take this\nnext hour that we're gonna be",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 492479,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on life and forget about everything\nforget about the day you had forget",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 499199,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about\nthe things that are waiting for you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 502160,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "forget about everything\nand let's be like mary let's sit at the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 508400,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feet of jesus for this next\nhour to hear his words",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 513279,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of life of healing and restoration\nto receive his peace to receive his",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 520320,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grace\nto receive the wisdom that comes",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 524480,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from the heart of christ that shows us\nhow to live victoriously in this life",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 531120,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say jesus we welcome you we welcome your\npresence",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 535680,
+    "dDurationMs": 10800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in our homes where we are right now\nand we invite you holy spirit to come",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 542480,
+    "dDurationMs": 10479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and draw close draws closer to jesus\nshow us the glory of jesus teach us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 549839,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the words of christ let us know him\nbetter",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 555519,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meet us at our point of need\nfeel our rooms our homes right now with",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 562080,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your peace\nwith your grace with faith with hope",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 566959,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with the joy of your holy spirit and the\njoy of your salvation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 571920,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have your way during this hour as we\ncome together",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 576080,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the name of jesus we open our hearts\nand our spirit to you to receive what",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 582640,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have to say\nand to receive what you have for us as",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 586399,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your people\nindeed we are living already",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 591600,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in perilous times prophetic times\nlike you told us lord in the word",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 598720,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and father we pray that you would\nstrengthen us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 602880,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that faith will rise up within us\nthat we will no longer walk by side by",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 610160,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what we hear\nor feel or see in the natural but that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 613839,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we will be a people now\nmore than ever that walks by faith",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 618720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in you in your power and in your\npromises",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 622079,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let us have a time of refreshment in\nyour presence",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 626720,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a time where you can strengthen us where\nyou can empower us and where you can",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 632800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "speak to us\nand reveal to us your truth that when we",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 637680,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "receive it when we obey it and when we\napply it in our lives",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 642160,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it gives us victory over our enemies and\nthe works of darkness",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 647519,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we love you jesus and we worship you in\nspirit and in truth",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 652280,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 657279,
+    "dDurationMs": 18560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hear the word\n[Music]",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 668480,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for the dry season is over",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 676190,
+    "dDurationMs": 14930,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    }, {
+      "utf8": "\nheavy with blessings",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 688079,
+    "dDurationMs": 3041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your eyes",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 692959,
+    "dDurationMs": 24880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jesus christ open\nthe heavens now we receive",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 700480,
+    "dDurationMs": 17359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the spirit of god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 720190,
+    "dDurationMs": 14599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 736720,
+    "dDurationMs": 13730,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lord of the hearts\n[Music]",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 756839,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 761180,
+    "dDurationMs": 3129,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 764399,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we received",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 775210,
+    "dDurationMs": 26629,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    }, {
+      "utf8": "\nwe received",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 804880,
+    "dDurationMs": 10959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a flower",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 817730,
+    "dDurationMs": 3340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 826839,
+    "dDurationMs": 17000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything that you spoke",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 848399,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we received",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 867680,
+    "dDurationMs": 11519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a flower we\nreceive your",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 874399,
+    "dDurationMs": 11440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "love when you come like a flower\nlike a flower we",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 882839,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "receive",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 893839,
+    "dDurationMs": 10641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your love when it comes blessed be the\nname of jesus we love you father",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 901920,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and we thank you for everything that you\nare doing in our lives",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 906560,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for every prayer that you are answering\nbecause sure we are hearing",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 910839,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "testimonies of prayers that you are\nanswering",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 914639,
+    "dDurationMs": 10161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "healings prohibition\nreconciliation in marriages in families",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 922079,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "employment open doors thank you for\nbeing a father that listens to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 926880,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our prayer and answers them\nby the power of your spirit and we pray",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 933519,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right now\nfor one another when i pray",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 937680,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i'm seeing some prayer requests that are\ncoming through",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 941440,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alicia prayed for guidance and patience\nand she's also asking for prayer for her",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 947279,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "daughters in school\nand also for for her job that she will",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 951759,
+    "dDurationMs": 9281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be able to keep a roof\nover her head and provide for herself",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 957519,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and family and also for my fiance\nthat love will continue to grow with god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 963440,
+    "dDurationMs": 4079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "love\nso let's pray for all those needs right",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 966560,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now\nwe continue to pray for the sick for",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 969839,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those that are sick\nand we pray that you will release the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 973759,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "power of your spirit\nto heal those that are sick",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 979199,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with covet 19 with cancer\nwith diabetes with heart conditions with",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 984720,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "depression\nyour name is healer healer and you are",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 989279,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the lord that heals us\nfrom all of our sickness and diseases so",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 993920,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right now we rebuke\nsickness and we pray and we are trusting",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 998639,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you for a miracle of healing\nas it is written that by the stripes of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1003759,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jesus christ we have been healed\nyou carry our sickness in your own body",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1008959,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so that today we can be healed and\ndelivered by the power",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1012480,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of your sacrifice so we continue to cry\nout to you for friends",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1017519,
+    "dDurationMs": 8001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for family members for for co-workers\nfor neighbors for members of the church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1023040,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that are suffering sickness and physical\naffliction right now",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1027199,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "father release the power and the\nanointing of your spirit",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1031039,
+    "dDurationMs": 10481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to deliver your people from sickness\nand disease in the name of jesus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1037600,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we prayed o lord for provision\ni prayed o lord for the employment of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1043679,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your people\ni prayed o father that you would cover",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1048400,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our sources of work with the blood of\njesus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1051760,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i pray for open doors and opportunities\nfor promotion in the name of jesus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1056799,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you are jehovah jireh the lord that\nprovides",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1059840,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all of our needs it don't matter how bad\nthings might be",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1063919,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "around us and in the world we are\ntrusting you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1068640,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you are faithful to provide for our\nneeds",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1072320,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i pray for families i pray for single\nmothers",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1076240,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for families for homes and i pray that\nyou would cover their finances",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1081919,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i pray that you would cover their places\nof employment and their businesses",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1086240,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the finances of ministries and churches\nat this hour",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1090000,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the name of jesus we rebuild the hand\nof the devourer",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1094400,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatever he uses to steal and destroy\nthe blessing the provision of god in our",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1100320,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lives\nand in our families right now in the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1103280,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "name of jesus we rebuke\nit and we thank you because you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1108480,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are a faithful father that provides for\nthe needs",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1112720,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of your people because you\nprovide a roof over our head because you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1118880,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will\nyou provide food for ourselves and for",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1122480,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our families because you provide the\nfinances that we need",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1126799,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to pay the daily expenses of our lives\nbecause you are",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1130559,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "faithful to provide the finances of your\nchurch and ministries",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1135120,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so that we can continue to do the work\nthat you have called",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1138559,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us to do and make disciples of all\nnations",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1142799,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the name of jesus father i pray for\nour sons and daughters",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1148080,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i pray for our children in school as\nthis has been a difficult time for them",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1153120,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but i pray father that you would give\nthem wisdom",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1156480,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and grace to learn that a spirit of\nteaching",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1160880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and understanding and revelation will\ncome upon our children",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1164640,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they will be able to learn what they\nare being taught in the schools of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1168559,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "father in the name of jesus\ni prayed a father for all the teachers",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1174320,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the schools and universities in\ncolleges",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1177520,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that your grace will be with them that\nyour wisdom will be with them",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1181360,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that a spirit of creativity will come\nupon them",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1184400,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to be able to teach our children during\nthis difficult time of pandemic",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1189280,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that they would use creative ways to\nteach",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1192640,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our children or father bless all the\nteachers",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1197120,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the school system and education in\nour nation and throughout the world",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1201520,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the name of jesus i pray for\nrelationships",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1206480,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and i pray father that you will destroy\nthe work of the enemy in relationships",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1211919,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatever he says to divide to confuse to\nbring division and strife",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1216240,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right now we rebuke it in the name of\njesus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1219440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and i pray for the name of jesus and the\ngospel of the kingdom",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1222799,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to be glorified in our relationships in\nfamilies in friendships in marriages",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1229600,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in relationships oh lord father that we\nwould honor your word in our",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1234159,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relationship so that the enemy will not\nfind a way in to come and destroy and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1239039,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rob us of your blessing\nlet us be peacemakers wherever we are",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1243679,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let us have a spirit and a heart of\nservanthood",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1246640,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that we will not think only about our\nown needs and desires",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1250880,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but that we will be willing to serve\nothers and to prove",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1254640,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "others needs above our own needs\nhelp us to communicate correctly in our",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1261360,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relationships in our families in our\nmarriages",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1264320,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that the way that we speak would honor\nchrist",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1268080,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it would that we will be agents of your\nhealing",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1271280,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of your reconciliation of your\ndeliverance",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1274320,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "by speaking only those words that are\npleasing before you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1279919,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deliver our mouth from speaking things\nand words",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1284400,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that the enemy uses to destroy\nrelationships",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1288080,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to bring confusion and strife in our\nhomes and in our families",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1293360,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let us use our words to glorify\nchrist help us to have the fruit of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1299039,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "self-control that we will never speak\nout of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1301360,
+    "dDurationMs": 10559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anger or frustration or bitterness\nbut help us to have self-control so that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1308320,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what we speak you can find freedom\nto move in our circumstances and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1314000,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relationships\nand bring healing restoration and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1317280,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reconciliation\nin the mighty name of jesus father",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1322880,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have your way of god helps us to be\ndoers of your word",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1327280,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in every area of our lives in our homes\nin our families",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1332240,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in our marriages in our relationships at\nwork",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1335760,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at church wherever we go that we will be\ndoers of your word",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1341440,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "disciples of jesus christ at this hour\nbecause when we live by faith there is",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1346720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no law that can come against us to\ncondemn us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1349760,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we honor your word in every\nsituation and circumstance that we face",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1354720,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you will always give us victory and the\nenemy will never find an open door to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1359679,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come\nand do his evil word so help us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1363840,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not only to be listeners of your word\nbut to live by your word to honor your",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1370559,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "word in our lives\nand to live by your word not by the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1375280,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "systems of the world not by the voices\nof the world",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1378880,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not by what is popular and accepted\namong",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1382799,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "society and people let us not\nfollow people let us not follow this",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1388960,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "world because this world is in a path of\nperdition",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1393520,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but lead us into your path of eternal\nlife and righteousness",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1397280,
+    "dDurationMs": 11600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the name of jesus\nthank you lord thank you lord",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1404320,
+    "dDurationMs": 11200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thank you lord and we say amen\nand amen hallelujah",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1411919,
+    "dDurationMs": 9841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well i want us to go ahead and\ncontinue the series that i started",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1418640,
+    "dDurationMs": 11200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "last week on the book of\nexodus um from the book of exodus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1426000,
+    "dDurationMs": 10880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and last week i started talking\nabout god how god wants to set you free",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1434240,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and this evening i want to do a second\ndevotion",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1437600,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on that thing and the opposition\nthat you are going to face to your",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1442960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "freedom\nand one and one of them is god wants to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1447919,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "separate\nyour family god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1452080,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wants you free and and the bible clearly\nshows that about our god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1456720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that he's a god that wants to set his\npeople free",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1460799,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the gospel of john chapter 8 verse 36\nit says",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1464559,
+    "dDurationMs": 9921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if the son makes you free you shall be\nfree indeed so that is the good news",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1471760,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god wants to set you free he wants to\nset you free from sin",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1476960,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he wants to set you free from sickness\nfrom the works of the devil in your life",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1482080,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he wants to set you free from the pain\nof your past",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1486240,
+    "dDurationMs": 12240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from anxiety from stress from unbelief\nhe wants to set us free but",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1494480,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the enemy who is satan does not want to\nlet you go",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1500480,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the enemy resists the deliverance of\njesus christ in your life",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1505919,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and he makes you all kinds of offers\nthat may sound good and even look like",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1512159,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "freedom\nto stop you from walking in the freedom",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1516159,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of jesus christ\nand and and i want us to go back to the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1520480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "book of exodus\nif you want to turn there i'm going to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1523360,
+    "dDurationMs": 10319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "put it in the screen in a few minutes\nin the book of exodus because",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1529919,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the book of exodus shows us\nthe deliverance of israel from the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1536400,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bondage\nof egypt or pharaoh and when we look",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1541200,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at the book of exodus we see a god\nthat is with his people that is fighting",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1547039,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for his people\nthat is bringing his power and all the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1551200,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resources of heaven\nto fight for the freedom of his",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1556080,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people and god\nraised a man named moses",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1563120,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and he sent moses to go to pharaoh with\na message",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1568080,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and and and the message was\nlet my people go",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1574480,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that was the message that that god\ngave to moses and he asked him to give",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1579600,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to pharaoh\ngo to egypt go to pharaoh and tell him",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1584159,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god says let my people go\nso that they may serve me when you study",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1591120,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the book of exodus\nyou would see that faro",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1595679,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "initially did not receive that message\nand he said to moses who is this god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1601279,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you are talking about i don't even\nknow this god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1604640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he says i'm not gonna do that i'm not\ngonna let",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1608080,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the israelites go get out of my palace\ni don't want anything to do with what",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1613760,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're saying\nand faro got upset and he ordered",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1618880,
+    "dDurationMs": 9919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that the slave drivers do not give them\nthey use any straw for making bricks",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1627120,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he said make the people get it\nthemselves",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1630320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so he ordered that they make the same\namount of bricks",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1634320,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as before so at the announcement of\nfreedom",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1638080,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "faro said i don't receive this i don't\neven know this god that you're talking",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1642880,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about\nand what i'm gonna do is i'm gonna load",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1647520,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the egyptian the the jews with more\nwork i'm gonna make them sweat and i",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1654240,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will teach them\nnot to listen to your lies that's that's",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1658000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what he did\nand friends this is exactly what the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1662159,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enemy is gonna do in your life\nthe moment that you receive",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1668399,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god's promise of freedom and deliverance\nand restoration for your life",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1673039,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you surrender your life to christ\nyour pharaoh and pharaoh in the book of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1679039,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exodus symbolizes\nsatan the devil faro is gonna rise",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1684000,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "against you and he's gonna bring all\nkinds of situations",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1688880,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and problems he's gonna send the wrong\npeople your way",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1693200,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to pressure you to oppress you so that\nyou would give up on god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1698000,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and give up on his promise of\ndeliverance",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1702240,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but when pharaoh began to load up the\negyptians",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1707440,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god began to manifest his supernatural\npower",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1711679,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he sent plagues he turned the waters of\nthe nile river into blood",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1718559,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and and and he just manifested his power\nin an amazing way",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1723600,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so that pharaoh will finally receive the\nmessage",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1727120,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from the lord and at first we see that\nafter certain",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1731360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "after plagues faro calls back moses and\narrow and i spoke about this at length",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1736399,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "last thursday\nif you didn't get a chance to watch the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1739440,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "live stream you can go and watch it\nlater",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1741840,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the live stream videos are archived\nthere",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1745120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the youtube channel and also in the\nchurch's facebook page you can scroll",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1749360,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down and find it and listen it\nso i spoke about this at length last",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1752880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thursday so i'm not going to take too\nmuch time now",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1755120,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but last week i was telling you that\nafter he sees the plagues then he calls",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1761919,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a father calls back moses and adam and\nsays okay all right",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1766320,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "okay go ahead offer sacrifices to your\nlord",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1770159,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worship him i don't have any problem\nwith the youths worship god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1773600,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but he says they must do it here\nin this land and this is the kind of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1780799,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "offer that god\nthat satan will give us to make us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1785279,
+    "dDurationMs": 11201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feel like his freedom but\nmoses refused the offer to offer to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1793600,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "offer sacrifices to god from the land of\negypt",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1797600,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and he said no that's not what the god\nthe lord commanded the lord said",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1801520,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that we must leave egypt travel in the\nwilderness for three days and go to the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1806640,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "place that he would show us\nto serve him and to worship him and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1811679,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "satan will offer you the same thing my\nfriend",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1815039,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "satan will say okay you want to serve\ngod you want to go to church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1818480,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you want to read the bible okay i don't\nhave no problem with you doing that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1822240,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as long as you do it from my territory\nin other words satan wants you to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1829120,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go to church on sunday worship god and\nthen monday through saturday",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1833520,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he wants you to be living according to\nhis world",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1836799,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "system but that doesn't work\nmoses refused the offer he said no i",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1842880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cannot accept this offer\nbecause if we end up worshiping god from",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1846720,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your territory pharaoh\nthe egyptians are going to end up",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1850480,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stoning us\nand that is exactly the same thing that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1853919,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "happens to us\nwhen we want to worship god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1858320,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from satan's territory when we refuse to\nmove from the kingdom of darkness and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1863600,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into the kingdom of god\nthe world and and and and the kingdom of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1869279,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "darkness will\nend up astonish you know why",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1873840,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because when we want to worship god and\ncontinue to live",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1877360,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "according to the world system we don't\nhave any spiritual authority",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1882480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and therefore we cannot declare the word\nof god over our circumstances without",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1887360,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "authority\nwe cannot make any damage to the kingdom",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1891679,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of satan\nwhen we don't walk in the authority that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1894880,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we have in the name of jesus\nand i spoke about this at length last",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1898880,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thursday\nbut today i want us to look at the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1902320,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "second offer\nthat pharaoh gave moses in the book of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1906720,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exodus\nbecause pharaoh continues to go back and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1910480,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "forth with moses\nno i'm not i'm not gonna let them go",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1914720,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first says i don't believe this message\ni don't even know this god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1918000,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you're talking about and i'm not\ngonna do it and then god sends plagues",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1921919,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then satan uh pharaoh calls moses\nand aaron back and says okay okay okay",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1926320,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go\nyou go go ahead and worship your god but",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1928720,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do it from my territory\nand and moses says no i i'm not gonna",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1933279,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "receive that that's not what the lord\ncommanded",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1935840,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so god continues to display his power\nand he continues to send plagues over",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1940559,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the nation of egypt\nand now faro sends",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1945120,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for moses and aaron again and we find it\nin",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1949200,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exodus chapter 10 verse 8 let's go there\nhe said faro now calls for moses and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1956480,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aaron a second time\nas god continued to send plagues over",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1960880,
+    "dDurationMs": 4399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "egypt\nmoses and aaron were brought back to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1964320,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pharaoh and\npharaoh tells them all right he told",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1967600,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them there is a second offer\ngo and worship the lord your god but who",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1973519,
+    "dDurationMs": 9681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exactly\nwill be going with you and in verse 9",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1979279,
+    "dDurationMs": 11520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "moses replied we will all go\ntake a note of that we will all go",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1987200,
+    "dDurationMs": 10319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "young and old our sons and daughters\nand our flocks and our herds we must all",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 1994159,
+    "dDurationMs": 10561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "repeat all with me me and my house\nwill serve the lord we must all",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2000640,
+    "dDurationMs": 11279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "join together in celebrating a festival\nto the lord in verse 10 father retorted",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2009120,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the lord will certainly need to be with\nyou",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2012720,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if i let you if i let you take your\nlittle ones",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2016799,
+    "dDurationMs": 10401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i can see through your\nevil plan and in verse 11",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2023760,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "moses again refuses the offer from faro\nand says",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2028080,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "never never because this is not\nwhy what god says friends you must have",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2034799,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that\nthe same determination in your life",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2037600,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whenever\nsatan offers you something that does not",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2041120,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "align with the word of god\nyou must reject it and this is what",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2046000,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "moses did here in the book of exodus\nhe says no never i don't accept this",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2050879,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "only the man may go\nand worship the lord since that is what",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2054800,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have requested\nand pharaoh threw them out of the palace",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2061839,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i want you to notice what faro is doing\nhere",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2066159,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because god gave a message to moses and\nit was very specific",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2071280,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he says go to pharaoh and tell him let\nmy people go",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2075599,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they must all travel three days in the\nwilderness and go to the place where i",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2079919,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will show them\nwhere they can serve me and they can",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2082960,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worship me\nand that faro time after time",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2087599,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tries to change the offer from god\nand in this second offer is very",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2093839,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting\nbecause in this second offer he goes",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2097520,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back to moses and tell him okay\nyou want to worship you lord you want to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2102480,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leave egypt\ni have no problem with that believe with",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2106720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me the women\nlive with me your children live with me",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2111839,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your sons\nand daughters and your vlogs and your",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2114880,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hurts\nand the man can go ahead and leave and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2118640,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worship\nthe lord you know what saith father was",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2122400,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing there\nand again pharaoh and satan are the same",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2125599,
+    "dDurationMs": 10561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the book of exodus\nfaro wanted to separate the families",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2133040,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he wanted to keep their children and the\nwomen",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2137280,
+    "dDurationMs": 11440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and have the man only worship\ngod faro who is satan",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2145280,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wanted to bring division so that\nonly the man will worship",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2152240,
+    "dDurationMs": 10720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god but friends\nmoses refused again this offer",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2159760,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and in the same way today\nsatan comes to divide us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2166320,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "satan attacks marriages satan\nattacks families because satan knows",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2173119,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that if he can destroy marriages as god\nhas established it",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2177680,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and if he can destroy families he will\ndestroy a nation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2182640,
+    "dDurationMs": 11040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and he will destroy the church\nwe must refuse just like moses",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2189920,
+    "dDurationMs": 11439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "any offers from the devil that comes to\nseparate and divide our families",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2198079,
+    "dDurationMs": 10561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we must reject any offer from\npharaoh that excludes anyone",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2205599,
+    "dDurationMs": 9921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "women children\nthe younger generation from worshiping",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2212240,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "christ anything\nanything that satan tries to bring to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2218000,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our lives and through our nation\nand to our churches that divides",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2223280,
+    "dDurationMs": 10559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just like moses we must reject it\nsatan comes to divide the old generation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2231119,
+    "dDurationMs": 10321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from the young generation\nsatan comes to divide women from man",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2237839,
+    "dDurationMs": 12401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "satan comes to divine families to divide\nspouses satan comes to divide us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2246000,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "based on nationality on a skin color\nonly language that we speak and just",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2252560,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like moses\nwe must reject his offer",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2258240,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't leave your children at home\nand bring them to church you know we we",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2264640,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "already\nopened the sunday morning service we",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2268000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "already have\nsunday morning in personal services and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2270960,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now i'm so happy\nthat we were able to open the children",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2275119,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ministry again\nwe are offering children church again on",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2279040,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sunday mornings at 11 am\nright now due to to the pandemic and the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2283280,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the social distance protocol that we\nhave to keep in place",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2286720,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we do require reservations but they're\nvery easy but you can make reservations",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2290720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for you and for your children for sunday\nmornings",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2293440,
+    "dDurationMs": 10159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go to our website don't leave\nyour children behind don't",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2299920,
+    "dDurationMs": 9439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leave your family behind bring them to\nthe house of the lord",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2305839,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you have teenagers at home encourage\nthem",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2310560,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encourage your teenagers to get\nconnected to church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2315520,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to get connected to the youth ministry\nto get connected to the church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2320960,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because there is a principle that the\nbook of exodus is teaching us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2325359,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and is this true freedom\ncomes when the family stays united",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2332800,
+    "dDurationMs": 11279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "together to worship jesus christ\nin unity pray for your family",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2340240,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now more than ever pray for your family\npray for your children pray for your",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2346800,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "young teenagers at home\nand be a role model at home of what",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2353040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a christian man or a christian woman\nlooks like",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2357680,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know something about the young\npeople",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2361440,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is you know what they're very real and\nhonest",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2366079,
+    "dDurationMs": 10561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this young generation can smell a funny\nmiles away this young generation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2373520,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wants nothing to do with religion they\nwant nothing to do with hypocrisy",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2379760,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they are looking for the real thing\nthey are looking for a real god and they",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2385440,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are looking for a real people\nthat does not only talks about the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2390000,
+    "dDurationMs": 9119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gospel\nbelieves and honor the gospel in every",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2394640,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "area of their lives and parent\nyou are the spiritual authority in your",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2402160,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "home\nas a father as a mother you are the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2407119,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spiritual\nauthority in your home you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2410800,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are responsible before god for whatever\nhappens",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2414800,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in your home you know being a father\nbeing a mother",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2418160,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is a wonderful blessing what a beautiful\ngift",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2423280,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god has given us to be able\nto be fathers and mother to children",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2430160,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's a huge blessing it's a beautiful\ngift",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2434319,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but with it comes a responsibility\ngod has entrusted you with children and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2441599,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even if you are not a natural father or\na natural mother",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2445520,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we are a spiritual fathers and spiritual\nmothers to this generation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2450640,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god has entrusted us all with children\ngod has entrusted us all with young",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2457280,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people and teenagers\nand we are responsible before god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2462400,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for whatever happens in our homes\nand in our churches now",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2469119,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you are one of those fathers or\nmothers that is going through a",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2472160,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "difficult time with your teenagers\nbecause you know what i think",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2478160,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parenthood motherhood and fatherhood has\nalways been difficult but i think that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2482240,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now in the times that we are living in\nbeing a father and being a mother is a",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2488800,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very very very hard job\nand a very difficult responsibility",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2495359,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because our kids everywhere they go in\nthe tv",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2499839,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the music industry in the\nentertainment industry",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2503119,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the schools in the college in\nuniversity everywhere they go they are",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2508400,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being bombarded and they are being\ninfluenced",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2511359,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "by voices and ideas and\nsystems that do not honor god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2517920,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i mean we are seeing sexual immorality\nlike we have never seen before",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2523440,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i mean ideas that reject the word of god\nthat reject jesus christ",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2530240,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and i pray for parents every single day\nof my life",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2534000,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because now more than ever it has become\na very",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2537760,
+    "dDurationMs": 10079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "difficult job in this corrupt\nsociety and sometimes kids and teenagers",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2544880,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they go through phases i went through it\nand you may be in a situation right now",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2550240,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at home where\nyou brought your child in in church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2555520,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you honor the word of god at home you\npray with them you taught them the word",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2559599,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of god\nand and and when they grew up as an",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2562319,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adult either your son\nor your daughter they no longer live at",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2566480,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "home with you they have their own life\nand they don't serve christ they don't",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2570160,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to be in church\nand they don't want to serve christ but",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2573599,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i want to encourage you this evening\nto continue to pray for them",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2579839,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and to continue to believe that they\nseed the good seed that you saw in their",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2584480,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hearts one day\nin god's time and god's way god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2589599,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will make it flourish there is a\nwonderful promise",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2593440,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the book of isaiah 55 verse 11.\nlet me put it in the screen for you and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2599680,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it says\nit is the same with my word",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2603599,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i send it out and it always notice what\nit says there",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2608400,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it always produces fruit it might take\nsome time",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2613200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it might take some time before you see\nyour your son or your daughter",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2617760,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "serving god again and worshiping jesus\nagain it might takes",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2621040,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time it might take some trials in my\nthey might have to go through some rough",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2625440,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things\nbefore they can open their hearts to the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2629040,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lord again but look at the promise that\ngod is giving you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2632319,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mom and dad he says i\nmy word i send it out and it always",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2638400,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "produces fruit\nit will accomplish all that i wanted to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2644240,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it will prosper every word\ni send it i love that it will prosper",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2651119,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every word i send it\nso if you are going through a difficult",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2656720,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "phase or a difficult season\nwith with your son or your daughter and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2660560,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they don't want to serve god\njust keep on praying keep on trusting",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2666240,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "keep on declaring the word of god upon\ntheir life",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2669359,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "keep on rebuking the devil because\nthe good seed that you planted in your",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2675599,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son\nor your daughter there is a promise in",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2678400,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the book of isaiah\ngod will make it prosper",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2683200,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it would always always produce food\nfruit the seed that you plant in your",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2689359,
+    "dDurationMs": 9921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "child now\nwill bear group fruit one day that's why",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2695440,
+    "dDurationMs": 9679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't wait until your kids get older\ndon't wait until they become teenagers",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2702720,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to speak to them about the lord to pray\nwith them and to bring them to church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2706800,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that might be too late when they are\nlittle",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2710560,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that is the time that is the time that\nyou must pray with for them without",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2715280,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ceasing\nthat is the time where you must teach",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2718400,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them the word of god at home\nthat is the time where you must bring",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2722240,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them to church you must get them\ninvolved and connected to church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2726160,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you must get them involved to the\nchildren ministry this is the time to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2730240,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plant the good seed in their hearts\nbecause god says when you do your part",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2735920,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as a parent\nand you plant the good seed of my word",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2740560,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in their hearts\nno matter what comes against them no",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2744400,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "matter how long\nit might take it will produce",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2749040,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fruit it will prosper in their lives\nthe best inheritance that a father or",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2757200,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mother can give to their children is not\na bank account",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2761359,
+    "dDurationMs": 9921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's not a degree it's not an education\nbecause those things eventually",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2768000,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fade away and i'm not saying by this\nthat it's wrong for you to leave an",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2772720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inheritance to your children\ni'm not saying with this that it's wrong",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2777359,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to encourage them to go to college\nand get a degree and pursue a career i'm",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2782319,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not saying that there is anything wrong\nwith that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2784960,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of course it's good and we should always\nencourage our children to excel in",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2790240,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatever it is that god has called them\nto do",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2792319,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but what i'm saying is that all those\nthings eventually one day can fade away",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2798000,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but the best inheritance that a father\nand a mother can give to the children",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2802000,
+    "dDurationMs": 11280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is a relationship with jesus christ\neternal life the presence of god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2810079,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plan the word of god in your children\nnow do not accept satan's offer",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2817440,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the same offer that pharaoh gave to\nmoses",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2820560,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "okay the man can leave but leave your\nchildren and your women",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2824480,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "behind god said no no no no doesn't work\nthat way",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2828319,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we all are going to worship\ngod not even one of us not even one of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2834640,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our family members\nwill stay behind you see the original",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2839760,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plan of god\nis for the family to worship him",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2845680,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pharaoh offered moses only for the man\nto worship him",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2850480,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and this might even sound spiritual\nbut it's not god's will",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2856720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god did not establish worship only for\nmen",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2860160,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or women alone god did not establish\nworship",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2864480,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for young people only or for all people\nonly",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2868240,
+    "dDurationMs": 10319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worship is for the man for the women\nand all generations to worship together",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2875359,
+    "dDurationMs": 9441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and not divide it satan\nwants to divide this is his plan be",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2882720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aware of this\nsatan is going to do everything within",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2886480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "his power to divide your family\nto divide your marriage to divide the",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2892559,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "church\nthat is his plan to divide the family",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2896240,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unity\nto the to separate genders and to divide",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2900160,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the older generation from the young\nwe must reject that offer",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2906319,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this is not god's will god\nwants the older generation and the new",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2912640,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generation\nto serve god together",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2916720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he wants the older generation to serve\ngod",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2920160,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there is no retirement in the kingdom of\nheaven",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2923599,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some of these worldly ideas have been\naccepted by the church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2927760,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "especially here in the western world\nwhere they think of the older generation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2932960,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is only there to sit up in a pew\nand retire and wait for you for death",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2936720,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and wait to go to jesus\nand then only the young generation is",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2939760,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supposed to carry the\nthe work of the kingdom that is a lie",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2943599,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from the enemy\nthat is the same offer that pharaoh made",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2947599,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to\nto moses in the book of exodus when he",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2950160,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "says leave the woman leave the children\nand let the man go divide",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2954400,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that is not god's will there is no\nretirement",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2957839,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the kingdom of heaven we never stop\nserving jesus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2961839,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we never stop doing the work of the\nkingdom no matter how old you are",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2965760,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whether you are in\nyour 20s your 30 your 40s or your 80s",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2971119,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god wants all generations to be\nworshipping jesus together",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2976160,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he wants the older generation to serve\ngod",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2979440,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and mentor and guide the younger\ngeneration",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2984079,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he wants the younger generation to serve\nhim to know jesus to know his word",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2989280,
+    "dDurationMs": 11120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and to serve him but satan\nwants to divide this is",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 2996000,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "his plan to divide the family unit\nto separate genders you know some of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3003280,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these\nlegalistic ideas they they have",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3006880,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "infiltrated the church where they want\nto separate",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3010960,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "genders they they don't allow the women\nto serve they don't allow the women to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3016079,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preach\nand they separate the men from the women",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3020000,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this is the same\noffer that pharaoh made to moses to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3024559,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "separate the man from the woman and to\nseparate the older generation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3029760,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from the young generation moses rejected\nthe offer",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3034480,
+    "dDurationMs": 9920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and in the same way today we must\nreject the offer that brings division",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3041440,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and separation and breaks the unity in\nthe family",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3045920,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "satan wants to bring division even\nbefore",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3050319,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the marriage is formed look at what the\nbook",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3054079,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "second corinthians chapter 6 verse 14\nsays",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3058240,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it says don't team up\nwith those who are unbelievers",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3065040,
+    "dDurationMs": 11519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how can righteousness be a partner\nwith with wickedness how can",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3071599,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "light live with darkness",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3077040,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't marry outside of god's will\nand marry a man or a woman that is not",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3083920,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "serving god\nor someone that is not at the same",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3088160,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spiritual level\nthan you are you know marriage is a",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3093119,
+    "dDurationMs": 11121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blessing from god\nit's a gift from god and marriage works",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3100079,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when it's done god's way marriage works\nwhen jesus is the center of the home and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3106960,
+    "dDurationMs": 8879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the center of the family\nmarriage works when the word of god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3113040,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is the authority in the marriage and\nit's a blessing",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3117359,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's a joy it's a gift\nbut when we try to do marriage outside",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3123359,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of god's\nwill and outside of god's",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3127200,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "design when jesus is not the center of\nthe marriage",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3132000,
+    "dDurationMs": 11920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marriage can be rather than a gift\na living hell here on earth",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3139599,
+    "dDurationMs": 10881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so don't marry outside of god's will\nbecause when you do that you give up",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3147119,
+    "dDurationMs": 9841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your freedom in christ\nmany christians are getting married",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3154160,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "outside of god's will sometimes they get\ndesperate",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3158400,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know they feel lonely and and they\njust",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3161680,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marry the first one that looks their way\nbecause they want companionship",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3166000,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but you know what my friend you can\nyou can be next to someone every night",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3171839,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can have someone in your home\nand still feel very lonely emotionally",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3176400,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and spiritually\njust because you have someone next to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3179599,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you does not mean that you're not going\nto be feeling lonely",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3184720,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because many christians are marrying\nsomeone who is not serving god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3191839,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they allow satan to break unity\nbecause satan wants to bring division",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3198079,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even before the\nmarriage is formed and that's why he's",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3202079,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gonna pressure you\nand that's why he's gonna tempt you and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3205200,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's why he's gonna push you\nto marry someone outside of god's will",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3212000,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and if you are married and if you are in\nthis situation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3216079,
+    "dDurationMs": 9201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where you are married to someone that is\nan unbeliever and it's not serving god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3220720,
+    "dDurationMs": 11520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just pray there is restoration in christ\npray honor god let them see",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3229280,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the love the grace of god in you let\nthem see",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3232800,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a change in you a change in your\ncharacter",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3236160,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the way that you speak serve them\npray without ceasing because there is",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3243280,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "restoration in jesus christ because to\ndivide",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3247440,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "families is bondage and that's exactly\nwhat the book of exodus is teaching us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3252720,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to divide family is bondage to divide\nmarriages is bondage husbands who",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3259680,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mistreat their wives\nis bondage and wise who",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3265200,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do not honor their husband and want to\ncontrol their husbands",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3268880,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that is bondage friends\nthe book of exodus is teaching us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3275440,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something very important\nthat we must listen and that is",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3282480,
+    "dDurationMs": 10639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we need to work on our marriages\nand we need to work hard in our families",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3290480,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because satan comes to divide the family\nunity",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3295119,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "satan comes to destroy marriages that's\nwhy sometimes i i talk to married",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3299839,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "couples\nand they say but pastor and marriage is",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3303200,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so hard and it is because\nfirst of all you are trying to live with",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3309440,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a person\nthat is different from you that thinks",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3313839,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different from you\nthat feels different from you and and is",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3318799,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hard\nand on top of that you have an enemy",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3322240,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that\nhates the marriage that hates the unity",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3325760,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in families\nthat hates the unity in churches and he",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3329839,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comes to you\nwith everything that he's got and with",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3334640,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every weapon in hell trying to destroy\nyour marriage",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3340079,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trying to divide your family because he\nknows",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3345040,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that separation in marriage separation\nin family",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3349599,
+    "dDurationMs": 12801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brings bondage he knows\nthat division in churches a strife",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3356960,
+    "dDurationMs": 11200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in churches confusion in churches gossip\nin churches puts that church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3365520,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in bondage and they will never walk in\nthe spiritual authority of christ and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3370240,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the freedom\nand the deliverance that jesus has for",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3373839,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us\nwith god's help resolve",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3378640,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the issues that divide you from your\nspouse",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3382160,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you are having issues in your\nmarriage and problems in your marriage",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3386000,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pray don't give up on it work\nhard on it with the grace of god",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3393040,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there is restoration and healing in\njesus christ",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3396640,
+    "dDurationMs": 10959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there is unity and peace in jesus christ\nin churches we must pray for unity",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3404240,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and we must work hard at keeping unity\nin our churches unity does not happen",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3410160,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "automatically we pray\nbut then there is a part that we have to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3413680,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do\nwe cannot live for self we cannot",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3418240,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continue to say whatever we feel like\nsaying",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3421760,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we have to think about others we have to\nbe willing to serve",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3425760,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "others we have to be patient and\nmerciful with",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3429359,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "others we have to be patient when we see\nthe weaknesses of others",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3433520,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when they offend us we have to forgive\nand when we offend we have to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3437920,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ask for forgiveness we have to work hard\nmy friends",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3442960,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in all relationships in our lives\nwhether it's marriage",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3446640,
+    "dDurationMs": 12320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "family work church friendship\nto keep unity because separation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3454079,
+    "dDurationMs": 12161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and division brings bondage\ngod has a plan for your freedom",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3462160,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that includes the entire family\nworship god god has a plan for his",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3470079,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "church\nand that includes that we don't allow",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3473839,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "satan\nto bring any barriers of separation",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3477839,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "between\nus gender must not separate us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3482559,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "age must not separate us nationality\nlanguage skin colors must not separate",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3489520,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us\neconomic status must not separate us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3493520,
+    "dDurationMs": 10880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "political abuse must not separate us\nbecause god has a plan for his church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3500960,
+    "dDurationMs": 11280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that plan includes unity\nand satan works very hard",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3507599,
+    "dDurationMs": 11281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to bring barriers that would separate us\nso i want us to pray right now",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3515359,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for families i want to take a moment\nright now",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3519760,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to pray for families and marriages",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3525040,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and let's pray and i'm going to ask\njoyce if you can",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3528079,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start leading us into worship",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3532079,
+    "dDurationMs": 13361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let's pray that we will be determined\nnot to allow division in our marriages",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3541359,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and in our families let's pray\nthat as fathers and mothers we will be",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3548400,
+    "dDurationMs": 10719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the spiritual leaders\nat home bring our children to church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3555520,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and restore an altar of prayer an alarm\nof worship",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3559920,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in our homes let's pray",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3565040,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "father we thank you for the book of\nexodus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3570160,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you have a plan for us as your\npeople",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3574720,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you want us free from sickness\nfrom bondage from oppression from",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3581599,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poverty\nfrom worry from anxiety from stress",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3586160,
+    "dDurationMs": 10959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and from all the works of the devil\nbut that plan includes unity",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3594160,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unity in our marriages and unity in our\nfamilies",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3599680,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and father let us receive this\nrevelation that you are giving us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3603680,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tonight from the book of exodus\npharaoh made an offer to moses",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3610000,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and said okay you want to worship god is\nfine",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3614960,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but let only the man live and worship\ngod",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3619440,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leave here with me your children\nyour women and your heard",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3625920,
+    "dDurationMs": 8879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and moses refused the offer\nbecause he knew that that was not god's",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3632559,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will for them\nhe knew that if they allow pharaoh to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3637920,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "separate them to separate the man\nfrom the women and their children and to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3643119,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "divide the family\nhe knew that they will never",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3648079,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experience freedom so i pray tonight for\nfamilies",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3653680,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and marriages that are struggling\nthat are in bondage i pray for husbands",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3661359,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and wives\nthat have accepted the offer of pharaoh",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3666720,
+    "dDurationMs": 11200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they have allowed satan to divide their\nfamilies they have allowed satan",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3673599,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to separate their children from them",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3678000,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they have buy into the offer that you\ncan go to church by yourself and leave",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3682799,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your children behind\nyou can worship jesus and pray for your",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3687440,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "family and leave them\nbehind in my territory we rebuild that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3692000,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "offer\nright now in the name of jesus i pray",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3694880,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for every father and every mother\nthat is listening to me right now that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3700160,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you would enlighten this revelation in\ntheir hearts",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3703760,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that right now they will rise up in\nthe power of the spirit",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3707280,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and say me and my house\nwill serve the lord as long as my",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3714720,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "children are\nunder my roof as the spiritual",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3718960,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "authority and leader in my home\ni am making a commitment right now",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3725200,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to teach them the word of god to to\nmodel to them what it's like to be a",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3730160,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "godly man or a godly woman\ni'm making a commitment before god that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3735039,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even if they don't want to\nwhen i go to church they will come to",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3739680,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "church\nwith me we as a family unity",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3743920,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "together together and in unity\nwill worship and serve jesus christ",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3751599,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as a family unit we will go to church\ntogether",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3756079,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the father the mother the children will\ncome as a family unit together to church",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3761760,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to serve jesus to worship jesus\nas a family unit we will pray together",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3768640,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at home\nwe will study the bible at home together",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3773200,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we would serve our community we will\nserve the people around us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3777760,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "together as a family we will not allow\nfaro",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3783280,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to bring division in our marriages and\nin our families",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3786720,
+    "dDurationMs": 8879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no more in the name of jesus because\nwhen we do that",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3792400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we walk in bondage\nwe will never experience the freedom of",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3797760,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "christ\nwhen we allow pharaoh to divide our",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3802000,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marriage and to divide our families\nwhen we allow pharaoh to divide our",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3807599,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spiritual family at church\nand divide us father i pray for",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3813359,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marriages\nand i pray for the power of the holy",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3817200,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spirit to move\nin our marriages and destroy the works",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3821359,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the devil\nin our families and in our marriages",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3826079,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as fathers and mothers give us wisdom\npower and boldness to walk in authority",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3832880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in our homes\nwe are not our children best friends",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3838000,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that have not that's not what you have\ncalled us to do as fathers and mothers",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3842480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but you have called us to be spiritual\nleaders",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3846160,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emotional leaders at home to our\nchildren",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3850640,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to raise them in the ways of god\nto sow the good seed of god's word in",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3856799,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their heart\nnow when their children so that when",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3859760,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they grow\nto be adult and to be women and men",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3865520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they themselves will make the decision\nto follow christ",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3870640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thank you for the words of the prophet\nisaiah in isaiah 55",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3874640,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because we know that when we plot the\ngood seed of god's word in our",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3878400,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "children's\narts even if they go through a difficult",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3881920,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "season\neven if it takes some time it would",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3885440,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always\nbear good fruit it would always",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3889839,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "flourish in their lives\ni want to pray right now for single",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3896720,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people for single men and women\nand i want to pray that no matter",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3903359,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how much pressure we feel around us that\nwe will honor god's word",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3908640,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that we will not join or marry or\nteam up",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3913039,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with anyone that is not serving christ\nor with anyone that is not at the same",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3919760,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spiritual level that we are\nbecause when we do that we give up our",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3924799,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "freedom in christ\nand satan tries to divide the family",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3929280,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unit\neven before the marriage is formed by",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3932960,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tempting us and pressuring us to marry\noutside of god's will and to marry an",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3939440,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unbeliever to marry a man or a woman\nthat is not serving christ",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3943359,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is never god's will for us\nso i want to pray for single people",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3948839,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tonight\nthose that are single because they have",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3952240,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "never married yet or they have gone\nthrough a divorce",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3956160,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or they have become widows they have\nlost their spouse",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3961440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i want to pray for the grace of god to\nbe with the single",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3965200,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people in the body of christ\nbecause there are many pressures and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3969920,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many temptations around us\npushing us not to honor god's will",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3976000,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and to marry outside of the will of god\nwhen we marry an unbeliever we are",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3981920,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marrying\noutside of the will of god and that's",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3985599,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how satan brings the\ndivision into the family unit and when",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3990640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we marry\noutside of the will of god we give up",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 3994880,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our freedom in christ but i pray that in\nthe same way that moses refused",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4000720,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pharaoh's offer that today with the\ngrace of god we would also",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4006880,
+    "dDurationMs": 10880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "refuse any offers that satan gives us\nto marry outside of god's will",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4014960,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give them grace i pray for those that\nare single",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4019200,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that you lord will feel the\nloneliness the emotion on a spiritual",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4023680,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "loneliness in their lives\nwith your presence that you will send",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4027760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "godly\npeople their way i pray for godly",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4030720,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "friendships for godly friends\nthat you can use to feel the loneliness",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4036559,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and to provide for the companionship\nand the emotional and the spiritual",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4040640,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "support that they need\nin the name of jesus",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4045680,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thank you lord because you have a plan\nfor our lives",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4049200,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but our plan includes\nthat the entire family will worship and",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4056160,
+    "dDurationMs": 10639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "serve\njesus together in jesus name amen",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4062640,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amen thank you so much for being\nwith joyce and myself this evening i",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4068799,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have run out of time\nbut we'll see you again sunday at 11 a.m",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4073119,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you can\ncome and worship with us in person we",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4076559,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would love for you to be in the house of\nthe lord with us",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4079359,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in person and worship together if not we\nwill get to you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4083680,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on live stream i pray that you will have\na blessed and a joyful rest of thursday",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4088640,
+    "dDurationMs": 17199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evening\nand we'll see you again god bless you",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 4106550,
+    "dDurationMs": 5010,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 4118250,
+    "dDurationMs": 22710,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    }, {
+      "utf8": "\nyou",
+      "acAsrConf": 255
+    } ]
+  } ]
+}
