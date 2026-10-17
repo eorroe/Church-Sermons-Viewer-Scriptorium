@@ -1,4 +1,4 @@
-const CACHE_NAME = 'scriptorium-v1';
+const CACHE_NAME = 'scriptorium-v2';
 const META_CACHE = 'scriptorium-meta';
 const APP_SHELL = [
   '/',

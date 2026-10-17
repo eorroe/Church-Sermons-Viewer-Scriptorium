@@ -638,12 +638,19 @@ a:hover {
     }
 }
 
-.markdown-body > h1:first-of-type {
-    position: sticky;
-    top: 0;
-    z-index: 10;
+@media (max-width: 640px) {
+    .lesson-tracker > h1:first-of-type {
+        font-size: 1.0rem;
+    }
+}
+
+.lesson-tracker > h1:first-of-type {
+    font-size: 1.8rem;
+    border-bottom: 2px solid var(--gold);
+    padding-bottom: 0.3em;
     background-color: var(--parchment);
-    margin-top: 0;
+    margin: 0;
+    width: 100%;
 }
 
 .markdown-body h2 {
@@ -1106,6 +1113,449 @@ a:hover {
 
 
 
+/* Lesson Tracker */
+
+.lesson-tracker {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    display: flow-root;
+    background-color: var(--parchment);
+    margin-bottom: 0;
+}
+
+.lesson-tracker-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0.6rem 1rem;
+    margin-bottom: 0.25rem;
+    background-color: var(--parchment);
+    border: 2px solid var(--gold);
+    color: var(--heading);
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 2px;
+}
+
+.lesson-tracker-toggle:hover {
+    background-color: rgba(197, 160, 89, 0.15);
+}
+
+.lesson-tracker-panel {
+    padding: 1rem;
+    border: 1px solid rgba(197, 160, 89, 0.3);
+    border-radius: 2px;
+    background-color: rgba(244, 236, 225, 0.5);
+}
+
+.lesson-name-btn,
+.lesson-step-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    width: 100%;
+    padding: 0.5rem 0.85rem;
+    margin: 0.3rem 0;
+    background-color: transparent;
+    border: 1px solid var(--gold);
+    color: var(--heading);
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 2px;
+}
+
+.lesson-name-btn:hover,
+.lesson-step-btn:hover {
+    background-color: rgba(197, 160, 89, 0.15);
+}
+
+.lesson-name-btn {
+    font-size: 1rem;
+    border-width: 2px;
+}
+
+.lesson-step-list {
+    list-style: none;
+    margin: 0.5rem 0 0 1.25rem;
+    padding: 0;
+    border-left: 1px solid rgba(197, 160, 89, 0.4);
+}
+
+.lesson-step-item {
+    margin: 0;
+}
+
+.lesson-step-btn {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 0.95rem;
+    font-weight: 400;
+}
+
+.lesson-step-title {
+    flex: 1;
+}
+
+.lesson-state-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    opacity: 0.85;
+    white-space: nowrap;
+}
+
+.lesson-tracker-empty {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-style: italic;
+    color: #5a4a3a;
+}
+
+.lesson-name-btn[data-state="1"],
+.lesson-step-btn[data-state="1"] {
+    background-color: #15803d;
+    border-color: #15803d;
+    color: #ffffff;
+}
+
+.lesson-name-btn[data-state="2"],
+.lesson-step-btn[data-state="2"] {
+    background-color: #0f766e;
+    border-color: #0f766e;
+    color: #ffffff;
+}
+
+.lesson-name-btn[data-state="3"],
+.lesson-step-btn[data-state="3"] {
+    background-color: #1d4ed8;
+    border-color: #1d4ed8;
+    color: #ffffff;
+}
+
+.lesson-name-btn[data-state="4"],
+.lesson-step-btn[data-state="4"] {
+    background-color: #991b1b;
+    border-color: #991b1b;
+    color: #ffffff;
+}
+
+.lesson-name-btn[data-state="5"],
+.lesson-step-btn[data-state="5"] {
+    background-color: #b91c1c;
+    border-color: #b91c1c;
+    color: #ffffff;
+}
+
+.show-lessons-btn {
+    padding: 0.5rem 1rem;
+    background-color: transparent;
+    border: 1px solid var(--gold);
+    color: var(--heading);
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 2px;
+}
+
+.show-lessons-btn:hover {
+    background-color: rgba(197, 160, 89, 0.15);
+}
+
+.sort-lessons-btn {
+    padding: 0.4rem 0.85rem;
+    background-color: transparent;
+    border: 1px solid var(--gold);
+    color: var(--heading);
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 2px;
+}
+
+.sort-lessons-btn:hover {
+    background-color: rgba(197, 160, 89, 0.15);
+}
+
+.back-btn {
+    padding: 0.4rem 0.85rem;
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: var(--heading);
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 2px;
+}
+
+.back-btn:hover {
+    border-color: var(--gold);
+    background-color: rgba(197, 160, 89, 0.15);
+}
+
+.lesson-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.75rem 1rem;
+    background-color: var(--parchment);
+    border: 1px solid rgba(197, 160, 89, 0.3);
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--heading);
+}
+
+.lesson-item:hover {
+    background-color: rgba(197, 160, 89, 0.1);
+    border-color: var(--gold);
+}
+
+.lesson-item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lesson-item-name {
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.lesson-item-progress {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 0.8rem;
+}
+
+.lesson-item-step {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 0.9rem;
+}
+
+.lesson-item-state-badge {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+    padding: 0.15rem 0.5rem;
+    border-radius: 2px;
+    background-color: rgba(197, 160, 89, 0.2);
+    white-space: nowrap;
+}
+
+.lesson-item[data-state="1"],
+.lesson-item[data-state="1"] .lesson-item-state-badge {
+    background-color: #15803d;
+    border-color: #15803d;
+    color: #ffffff;
+}
+
+.lesson-item[data-state="2"],
+.lesson-item[data-state="2"] .lesson-item-state-badge {
+    background-color: #0f766e;
+    border-color: #0f766e;
+    color: #ffffff;
+}
+
+.lesson-item[data-state="3"],
+.lesson-item[data-state="3"] .lesson-item-state-badge {
+    background-color: #1d4ed8;
+    border-color: #1d4ed8;
+    color: #ffffff;
+}
+
+.lesson-item[data-state="4"],
+.lesson-item[data-state="4"] .lesson-item-state-badge {
+    background-color: #991b1b;
+    border-color: #991b1b;
+    color: #ffffff;
+}
+
+.lesson-item[data-state="5"],
+.lesson-item[data-state="5"] .lesson-item-state-badge {
+    background-color: #b91c1c;
+    border-color: #b91c1c;
+    color: #ffffff;
+}
+
+.lesson-group-state-badge[data-state="1"],
+.lesson-group-state-badge[data-state="2"],
+.lesson-group-state-badge[data-state="3"],
+.lesson-group-state-badge[data-state="4"],
+.lesson-group-state-badge[data-state="5"] {
+    background-color: inherit;
+    border-color: inherit;
+    color: inherit;
+}
+
+.lesson-group-state-badge[data-state="1"] {
+    background-color: #15803d;
+    border-color: #15803d;
+    color: #ffffff;
+}
+
+.lesson-group-state-badge[data-state="2"] {
+    background-color: #0f766e;
+    border-color: #0f766e;
+    color: #ffffff;
+}
+
+.lesson-group-state-badge[data-state="3"] {
+    background-color: #1d4ed8;
+    border-color: #1d4ed8;
+    color: #ffffff;
+}
+
+.lesson-group-state-badge[data-state="4"] {
+    background-color: #991b1b;
+    border-color: #991b1b;
+    color: #ffffff;
+}
+
+.lesson-group-state-badge[data-state="5"] {
+    background-color: #b91c1c;
+    border-color: #b91c1c;
+    color: #ffffff;
+}
+
+.lesson-group-header[data-state="1"] {
+    background-color: #15803d;
+    border-color: #15803d;
+    color: #ffffff;
+}
+
+.lesson-group-header[data-state="2"] {
+    background-color: #0f766e;
+    border-color: #0f766e;
+    color: #ffffff;
+}
+
+.lesson-group-header[data-state="3"] {
+    background-color: #1d4ed8;
+    border-color: #1d4ed8;
+    color: #ffffff;
+}
+
+.lesson-group-header[data-state="4"] {
+    background-color: #991b1b;
+    border-color: #991b1b;
+    color: #ffffff;
+}
+
+.lesson-group-header[data-state="5"] {
+    background-color: #b91c1c;
+    border-color: #b91c1c;
+    color: #ffffff;
+}
+
+.lesson-group {
+    margin-bottom: 0.75rem;
+    padding: 0;
+    background-color: var(--parchment);
+    border: 1px solid rgba(197, 160, 89, 0.3);
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--heading);
+}
+
+.lesson-group:hover {
+    background-color: rgba(197, 160, 89, 0.1);
+    border-color: var(--gold);
+}
+
+.lesson-group-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    margin-bottom: 0;
+    border-radius: 2px;
+}
+
+.lesson-step-indent {
+    padding: 0.5rem 0.75rem;
+    margin: 0.2rem 0;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--heading);
+}
+
+.lesson-step-indent:hover {
+    background-color: rgba(197, 160, 89, 0.1);
+    border-color: var(--gold);
+}
+
+.lesson-step-list-indented {
+    margin-left: 1.5rem;
+    border-left: 2px solid rgba(197, 160, 89, 0.3);
+    padding-left: 0.75rem;
+}
+
+.lesson-step-indent[data-state="1"],
+.lesson-step-indent[data-state="1"] .lesson-item-state-badge {
+    background-color: #15803d;
+    border-color: #15803d;
+    color: #ffffff;
+}
+
+.lesson-step-indent[data-state="2"],
+.lesson-step-indent[data-state="2"] .lesson-item-state-badge {
+    background-color: #0f766e;
+    border-color: #0f766e;
+    color: #ffffff;
+}
+
+.lesson-step-indent[data-state="3"],
+.lesson-step-indent[data-state="3"] .lesson-item-state-badge {
+    background-color: #1d4ed8;
+    border-color: #1d4ed8;
+    color: #ffffff;
+}
+
+.lesson-step-indent[data-state="4"],
+.lesson-step-indent[data-state="4"] .lesson-item-state-badge {
+    background-color: #991b1b;
+    border-color: #991b1b;
+    color: #ffffff;
+}
+
+.lesson-step-indent[data-state="5"],
+.lesson-step-indent[data-state="5"] .lesson-item-state-badge {
+    background-color: #b91c1c;
+    border-color: #b91c1c;
+    color: #ffffff;
+}
+
+.lesson-list {
+    margin-top: 1rem;
+}
+
+.lesson-list-search {
+    margin-bottom: 1rem;
+}
 
 /* Animations */
 @keyframes fadeIn {

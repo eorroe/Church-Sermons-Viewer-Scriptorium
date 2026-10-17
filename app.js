@@ -12,12 +12,24 @@ const REPO_TREE_CACHE_KEY = 'repo-tree';
 const CHURCH_LIST_CACHE_KEY = 'church-list';
 const SERMON_INDEX_CACHE_KEY = 'sermon-index';
 const QUOTES_CACHE_KEY = 'quotes';
+const LESSON_STATES_STORE = 'lesson-states';
+const LESSON_STATE_LABELS = [
+    'Already Practice',
+    'Learning To Practice',
+    'Can See Self Practicing',
+    'Cannot See Self Practicing',
+    'Have Trouble Understanding'
+];
 
 let currentPath = '';
 let selectedItem = null;
 let isLoading = false;
+let showSermonContent = true;
+let sortLessonsByStateOrder = 0;
 let db = null;
 let currentFiles = [];
+let currentLessons = [];
+let currentLessonsScope = '';
 let rootSermonSearch = '';
 let searchBody = false;
 let currentQuote = '';
@@ -47,11 +59,14 @@ const elements = {
 
 const openCacheDb = () => {
     return new Promise((resolve, reject) => {
-        const request = indexedDB.open('scriptorium-cache', 1);
+        const request = indexedDB.open('scriptorium-cache', 2);
         request.onupgradeneeded = (event) => {
             const database = event.target.result;
             if (!database.objectStoreNames.contains('cache')) {
                 database.createObjectStore('cache', { keyPath: 'key' });
+            }
+            if (!database.objectStoreNames.contains('lesson-states')) {
+                database.createObjectStore('lesson-states', { keyPath: 'id' });
             }
         };
         request.onsuccess = (event) => resolve(event.target.result);
@@ -92,6 +107,86 @@ const setCachedItem = async (key, value) => {
         const transaction = db.transaction(['cache'], 'readwrite');
         const store = transaction.objectStore('cache');
         const request = store.put({ key, value, timestamp: Date.now() });
+        request.onsuccess = () => resolve();
+        request.onerror = () => reject(request.error);
+    });
+};
+
+const buildLessonStateId = (path, step) => `${path}::${step}`;
+
+const getLessonStates = async (path) => {
+    if (!db) return {};
+    return new Promise((resolve, reject) => {
+        const transaction = db.transaction([LESSON_STATES_STORE], 'readonly');
+        const store = transaction.objectStore(LESSON_STATES_STORE);
+        const request = store.getAll();
+        request.onsuccess = () => {
+            const states = {};
+            (request.result || []).forEach((record) => {
+                if (record.path === path) {
+                    states[record.step] = record.state;
+                }
+            });
+            resolve(states);
+        };
+        request.onerror = () => reject(request.error);
+    });
+};
+
+const updateLessonNameState = async (path) => {
+    const stepButtons = elements.mainContent.querySelectorAll(`.lesson-step-btn[data-lesson-path="${escapeHtml(path)}"]`);
+    if (stepButtons.length === 0) return;
+    
+    const stateCounts = {};
+    let stepsWithState = 0;
+    
+    stepButtons.forEach((btn) => {
+        const state = Number(btn.dataset.state || 0);
+        if (state !== 0) {
+            stepsWithState++;
+            stateCounts[state] = (stateCounts[state] || 0) + 1;
+        }
+    });
+    
+    const totalSteps = stepButtons.length;
+    const nameButton = elements.mainContent.querySelector(`.lesson-name-btn[data-lesson-path="${escapeHtml(path)}"]`);
+    if (!nameButton) return;
+    
+    if (stepsWithState > totalSteps / 2) {
+        let maxState = 0;
+        let maxCount = 0;
+        for (const [state, count] of Object.entries(stateCounts)) {
+            if (count > maxCount) {
+                maxCount = count;
+                maxState = Number(state);
+            }
+        }
+        nameButton.dataset.state = String(maxState);
+        const label = nameButton.querySelector('.lesson-state-label');
+        if (label) {
+            label.textContent = LESSON_STATE_LABELS[maxState - 1];
+        }
+    } else {
+        nameButton.dataset.state = '0';
+        const label = nameButton.querySelector('.lesson-state-label');
+        if (label) {
+            label.textContent = 'Not Set';
+        }
+    }
+};
+
+const setLessonState = async (path, step, state) => {
+    if (!db) return;
+    return new Promise((resolve, reject) => {
+        const transaction = db.transaction([LESSON_STATES_STORE], 'readwrite');
+        const store = transaction.objectStore(LESSON_STATES_STORE);
+        const request = store.put({
+            id: buildLessonStateId(path, step),
+            path,
+            step,
+            state,
+            updatedAt: Date.now()
+        });
         request.onsuccess = () => resolve();
         request.onerror = () => reject(request.error);
     });
@@ -478,10 +573,15 @@ const renderFolders = (folders, path) => {
                         ${getFilterIcon()}
                         <span class="filter-btn-text">Filter Sources</span>
                     </button>
-                    <h2 class="font-['Cinzel'] text-xl text-[#7e2217]">Select Church / Source</h2>
                 </div>
-                <button id="check-new-church-btn" class="check-new-btn">Check For New Church</button>
+                <div class="flex items-center gap-2">
+                    <button id="show-lessons-church-btn" class="show-lessons-btn" title="Show Lessons for All Churches">
+                        Show Lessons
+                    </button>
+                    <button id="check-new-church-btn" class="check-new-btn">Check For New Church</button>
+                </div>
             </div>
+            <h2 class="font-['Cinzel'] text-xl text-[#7e2217] mb-4">Select Church / Source</h2>
             ${renderSearchInput('Search all sermons...', 'root-sermon-search')}
             <div id="church-list-container" class="church-list flex flex-col gap-2 ${showSermons ? 'hidden' : ''}">
                 ${folderHtml || '<p class="text-[#7e2217] italic">No churches match your filter.</p>'}
@@ -521,7 +621,12 @@ const renderFiles = (files, path) => {
         <div class="mb-8">
             <div class="flex justify-between items-center mb-4 border-b border-[#c5a059]/30 pb-2">
                 <h2 class="font-['Cinzel'] text-xl text-[#7e2217]">Select Sermon</h2>
-                <button id="check-new-sermons-btn" class="check-new-btn">Check For New Sermons</button>
+                <div class="flex items-center gap-2">
+                    <button id="show-lessons-sermon-btn" class="show-lessons-btn" title="Show Lessons for This Sermon">
+                        Show Lessons
+                    </button>
+                    <button id="check-new-sermons-btn" class="check-new-btn">Check For New Sermons</button>
+                </div>
             </div>
             ${renderSearchInput('Search sermons...', 'sermon-search')}
             <div id="sermon-list-container" class="church-list flex flex-col gap-2">
@@ -538,11 +643,289 @@ const renderMarkdown = (content) => {
         return `<a ${attrs} target="_blank" rel="noopener noreferrer">`;
     });
     const linkedHtml = linkifyBiblicalReferences(html);
+    const nameMatch = /^<h1>([\s\S]*?)<\/h1>/.exec(linkedHtml);
+    const h1Content = nameMatch ? nameMatch[1] : '';
+    const bodyHtml = linkedHtml.replace(/^<h1>[\s\S]*?<\/h1>/, '').trim();
+    return {
+        h1: h1Content ? `<h1>${h1Content}</h1>` : '',
+        body: bodyHtml ? `<div class="markdown-body fade-in">${bodyHtml}</div>` : '<p class="lesson-tracker-empty">No content.</p>'
+    };
+};
+
+const parseLessonStructure = (content) => {
+    const lesson = { name: '', steps: [] };
+    const nameMatch = content.match(/^#\s+(.+)$/m);
+    if (nameMatch) {
+        lesson.name = nameMatch[1].trim();
+    }
+
+    const stepsHeader = content.match(/^##\s+Steps\s*$/m);
+    if (stepsHeader) {
+        const afterSteps = content.slice(stepsHeader.index + stepsHeader[0].length);
+        const nextSection = afterSteps.match(/^##\s+/m);
+        const stepsBlock = nextSection ? afterSteps.slice(0, nextSection.index) : afterSteps;
+        const stepPattern = /^###\s+Step\s+(\d+)\s*:?\s*(.*)$/gm;
+        let match;
+        while ((match = stepPattern.exec(stepsBlock)) !== null) {
+            const stepNumber = parseInt(match[1], 10);
+            const stepTitle = match[2].trim() || `Step ${stepNumber}`;
+            lesson.steps.push({ number: stepNumber, title: stepTitle });
+        }
+    }
+
+    return lesson;
+};
+
+const renderLessonTracker = (path, lesson, h1Content = '') => {
+    const lessonName = lesson.name || getDisplayName(path.split('/').pop());
+    const stepButtons = lesson.steps.map((step) => `
+        <li class="lesson-step-item">
+            <button class="lesson-step-btn fade-in" data-lesson-path="${escapeHtml(path)}" data-step="${step.number}" data-state="0" type="button">
+                <span class="lesson-step-title">Step ${step.number}: ${escapeHtml(step.title)}</span>
+                <span class="lesson-state-label">Not Set</span>
+            </button>
+        </li>
+    `).join('');
+
+    const stepsMarkup = lesson.steps.length
+        ? `<ol class="lesson-step-list">${stepButtons}</ol>`
+        : '<p class="lesson-tracker-empty">No structured steps in this lesson.</p>';
+
     return `
-        <div class="markdown-body fade-in">
-            ${linkedHtml}
+        <div class="lesson-tracker fade-in">
+            <button class="lesson-tracker-toggle" type="button">
+                <span class="lesson-tracker-toggle-text">Show Lesson Steps</span>
+            </button>
+            <div class="lesson-tracker-panel hidden">
+                <button class="lesson-name-btn fade-in" data-lesson-path="${escapeHtml(path)}" data-step="0" data-state="0" type="button">
+                    <span class="lesson-name-label">${escapeHtml(lessonName)}</span>
+                    <span class="lesson-state-label">Not Set</span>
+                </button>
+                ${stepsMarkup}
+            </div>
+            ${h1Content}
         </div>
     `;
+};
+
+const applyLessonStates = async (path) => {
+    const states = await getLessonStates(path);
+    elements.mainContent.querySelectorAll('[data-lesson-path]').forEach((button) => {
+        const step = Number(button.dataset.step);
+        const state = states[step] || 0;
+        button.dataset.state = String(state);
+        const label = button.querySelector('.lesson-state-label');
+        if (label) {
+            label.textContent = state === 0 ? 'Not Set' : LESSON_STATE_LABELS[state - 1];
+        }
+    });
+};
+
+const collectLessonsFromSermons = async (sermons) => {
+    const lessons = [];
+    for (const sermon of sermons) {
+        try {
+            const content = await fetchFileContent(sermon.path);
+            const lesson = parseLessonStructure(content);
+            if (!lesson.name || lesson.steps.length === 0) continue;
+            const savedStates = await getLessonStates(sermon.path);
+            for (const step of lesson.steps) {
+                lessons.push({
+                    lessonPath: sermon.path,
+                    lessonName: lesson.name,
+                    stepNumber: step.number,
+                    stepTitle: step.title,
+                    state: savedStates[step.number] || 0,
+                    sermonPath: sermon.path
+                });
+            }
+        } catch {
+            continue;
+        }
+    }
+    return lessons;
+};
+
+const sortLessonsByState = (lessons) => {
+    const stateOrder = { 1: 0, 2: 1, 3: 2, 4: 3, 5: 4, 0: 5 };
+    return [...lessons].sort((a, b) => {
+        const aOrder = stateOrder[a.state] ?? 5;
+        const bOrder = stateOrder[b.state] ?? 5;
+        return aOrder - bOrder;
+    });
+};
+
+const renderLessonsListItem = (lesson, index, total) => {
+    const label = lesson.state === 0 ? 'Not Set' : (LESSON_STATE_LABELS[lesson.state - 1] || 'Not Set');
+    const progress = `${index + 1} / ${total}`;
+    return `
+        <div class="lesson-item fade-in" data-lesson-path="${escapeHtml(lesson.lessonPath)}" data-step="${lesson.stepNumber}" data-state="${lesson.state}">
+            <div class="lesson-item-header">
+                <span class="lesson-item-name">${escapeHtml(lesson.lessonName)}</span>
+                <span class="lesson-item-progress">${progress}</span>
+            </div>
+            <div class="lesson-item-step">
+                <span>Step ${lesson.stepNumber}: ${escapeHtml(lesson.stepTitle)}</span>
+                <span class="lesson-item-state-badge">${label}</span>
+            </div>
+        </div>
+    `;
+};
+
+const renderLessonsView = (lessons, scope) => {
+    const header = scope === 'church' ? 'Church Lessons' : 'Sermon Lessons';
+
+    // Group lessons by lessonPath
+    const lessonGroups = new Map();
+    lessons.forEach(lesson => {
+        if (!lessonGroups.has(lesson.lessonPath)) {
+            lessonGroups.set(lesson.lessonPath, {
+                lessonName: lesson.lessonName,
+                lessonPath: lesson.lessonPath,
+                steps: []
+            });
+        }
+        lessonGroups.get(lesson.lessonPath).steps.push(lesson);
+    });
+
+    const groups = Array.from(lessonGroups.values());
+
+    // Compute dominant state per group for sorting
+    groups.forEach(group => {
+        const stateCounts = {};
+        group.steps.forEach(s => { if (s.state !== 0) stateCounts[s.state] = (stateCounts[s.state] || 0) + 1; });
+        let maxState = 0, maxCount = 0;
+        for (const [state, count] of Object.entries(stateCounts)) {
+            if (count > maxCount) { maxCount = count; maxState = Number(state); }
+        }
+        group.dominantState = maxState;
+    });
+
+    const sortedGroups = sortLessonsByStateOrder === 0 ? groups : sortLessonsByStateOrder === 1 ? [...groups].sort((a, b) => {
+        const aState = a.dominantState ?? 5;
+        const bState = b.dominantState ?? 5;
+        if (aState === 0) return bState === 0 ? 0 : 1;
+        if (bState === 0) return -1;
+        return bState - aState;
+    }) : [...groups].sort((a, b) => {
+        const order = { 1: 0, 2: 1, 3: 2, 4: 3, 5: 4, 0: 5 };
+        return (order[a.dominantState] ?? 5) - (order[b.dominantState] ?? 5);
+    });
+
+    const groupsHtml = sortedGroups.map((group) => {
+        const stepsHtml = group.steps.map((step) => {
+            const label = step.state === 0 ? 'Not Set' : (LESSON_STATE_LABELS[step.state - 1] || 'Not Set');
+            return `
+                <div class="lesson-step-indent" data-lesson-path="${escapeHtml(step.lessonPath)}" data-step="${step.stepNumber}" data-state="${step.state}">
+                    <div class="lesson-item-step">
+                        <span>Step ${step.stepNumber}: ${escapeHtml(step.stepTitle)}</span>
+                        <span class="lesson-item-state-badge">${label}</span>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        const groupLabel = group.dominantState === 0 ? 'Not Set' : (LESSON_STATE_LABELS[group.dominantState - 1] || 'Not Set');
+
+        return `
+            <div class="lesson-group" data-state="${group.dominantState}">
+                <div class="lesson-item-header lesson-group-header" data-state="${group.dominantState}">
+                    <span class="lesson-item-name">${escapeHtml(group.lessonName)}</span>
+                    <span class="lesson-item-progress lesson-group-state-badge" data-state="${group.dominantState}">${groupLabel}</span>
+                </div>
+                <div class="lesson-step-list-indented">
+                    ${stepsHtml}
+                </div>
+            </div>
+        `;
+    }).join('');
+
+    return `
+        <div class="mb-8">
+            <div class="flex justify-between items-center mb-4 border-b border-[#c5a059]/30 pb-2">
+                <div class="flex items-center gap-2">
+                    <button id="back-to-sermons-btn" class="back-btn text-[#c5a059] hover:text-[#c5a059]/80 font-['Cinzel'] text-sm underline">
+                        ← Back
+                    </button>
+                    <h2 class="font-['Cinzel'] text-xl text-[#7e2217]">${header}</h2>
+                </div>
+                <div class="flex items-center gap-2">
+                    <button id="toggle-sort-lessons-btn" class="sort-lessons-btn" title="Sort by State Order">
+                        ${sortLessonsByStateOrder === 0 ? 'Sort: Original' : sortLessonsByStateOrder === 1 ? 'Sort: Reversed State Order' : 'Sort: State Order'}
+                    </button>
+                </div>
+            </div>
+            ${renderSearchInput('Search lessons...', 'lesson-search')}
+            <div id="lesson-list-container" class="lesson-list flex flex-col gap-2">
+                ${groupsHtml || '<p class="text-[#7e2217] italic">No lessons found.</p>'}
+            </div>
+        </div>
+    `;
+};
+
+const buildGroupsHtml = (lessons) => {
+    const lessonGroups = new Map();
+    lessons.forEach(lesson => {
+        if (!lessonGroups.has(lesson.lessonPath)) {
+            lessonGroups.set(lesson.lessonPath, {
+                lessonName: lesson.lessonName,
+                lessonPath: lesson.lessonPath,
+                steps: []
+            });
+        }
+        lessonGroups.get(lesson.lessonPath).steps.push(lesson);
+    });
+
+    const groups = Array.from(lessonGroups.values());
+
+    groups.forEach(group => {
+        const stateCounts = {};
+        group.steps.forEach(s => { if (s.state !== 0) stateCounts[s.state] = (stateCounts[s.state] || 0) + 1; });
+        let maxState = 0, maxCount = 0;
+        for (const [state, count] of Object.entries(stateCounts)) {
+            if (count > maxCount) { maxCount = count; maxState = Number(state); }
+        }
+        group.dominantState = maxState;
+    });
+
+    const sortedGroups = sortLessonsByStateOrder === 0 ? groups : sortLessonsByStateOrder === 1 ? [...groups].sort((a, b) => {
+        const aState = a.dominantState ?? 5;
+        const bState = b.dominantState ?? 5;
+        if (aState === 0) return bState === 0 ? 0 : 1;
+        if (bState === 0) return -1;
+        return bState - aState;
+    }) : [...groups].sort((a, b) => {
+        const order = { 1: 0, 2: 1, 3: 2, 4: 3, 5: 4, 0: 5 };
+        return (order[a.dominantState] ?? 5) - (order[b.dominantState] ?? 5);
+    });
+
+    return sortedGroups.map((group) => {
+        const stepsHtml = group.steps.map((step) => {
+            const label = step.state === 0 ? 'Not Set' : (LESSON_STATE_LABELS[step.state - 1] || 'Not Set');
+            return `
+                <div class="lesson-step-indent" data-lesson-path="${escapeHtml(step.lessonPath)}" data-step="${step.stepNumber}" data-state="${step.state}">
+                    <div class="lesson-item-step">
+                        <span>Step ${step.stepNumber}: ${escapeHtml(step.stepTitle)}</span>
+                        <span class="lesson-item-state-badge">${label}</span>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        const groupLabel = group.dominantState === 0 ? 'Not Set' : (LESSON_STATE_LABELS[group.dominantState - 1] || 'Not Set');
+
+        return `
+            <div class="lesson-group" data-state="${group.dominantState}">
+                <div class="lesson-item-header lesson-group-header" data-state="${group.dominantState}">
+                    <span class="lesson-item-name">${escapeHtml(group.lessonName)}</span>
+                    <span class="lesson-item-progress lesson-group-state-badge" data-state="${group.dominantState}">${groupLabel}</span>
+                </div>
+                <div class="lesson-step-list-indented">
+                    ${stepsHtml}
+                </div>
+            </div>
+        `;
+    }).join('');
 };
 
 const renderEmptyState = (message) => {
@@ -1041,7 +1424,16 @@ const loadSermons = async (path, skipCache = false) => {
         }
 
         currentFiles = files;
-        elements.mainContent.innerHTML = renderFiles(files, path);
+        
+        // Toggle between sermon list and lessons view
+        if (showSermonContent) {
+            elements.mainContent.innerHTML = renderFiles(files, path);
+        } else {
+            // Load lessons from sermons
+            const lessons = await collectLessonsFromSermons(files);
+            elements.mainContent.innerHTML = renderLessonsView(lessons, 'church');
+        }
+        
         showQuote();
         renderPinnedPanel(false);
         renderRecentsPanel(false);
@@ -1064,7 +1456,11 @@ const loadMarkdownFile = async (path) => {
     try {
         const content = await fetchFileContent(path);
         hideLoading();
-        elements.mainContent.innerHTML = renderMarkdown(content);
+        const lesson = parseLessonStructure(content);
+        const markdownResult = renderMarkdown(content);
+        elements.mainContent.innerHTML = renderLessonTracker(path, lesson, markdownResult.h1) + markdownResult.body;
+        await applyLessonStates(path);
+        await updateLessonNameState(path);
         hideQuote();
     } catch (error) {
         hideLoading();
@@ -1436,7 +1832,7 @@ const runSearch = async (searchId, query) => {
         }
     } else if (searchId === 'sermon-search') {
         let filtered = query ? filterFiles(query) : currentFiles;
-
+        
         if (searchBody && query.trim().length > 0) {
             const bodyMatches = await searchInBodies(query, currentFiles);
             const merged = new Map();
@@ -1444,15 +1840,30 @@ const runSearch = async (searchId, query) => {
             bodyMatches.forEach(f => merged.set(f.path, f));
             filtered = [...merged.values()];
         }
-
+        
         const container = document.getElementById('sermon-list-container');
         if (container) {
             container.innerHTML = renderFileButtons(filtered, currentPath);
         }
-
+        
         const toggle = document.getElementById('sermon-search-body-toggle');
         if (toggle) {
             toggle.classList.toggle('hidden', query.trim().length === 0);
+        }
+    } else if (searchId === 'lesson-search') {
+        if (!showSermonContent) {
+            // Filter lessons when in lessons view - use exact substring match for precision
+            let filtered = query ? currentLessons.filter(lesson => {
+                const lowerQuery = query.toLowerCase();
+                const nameMatch = escapeHtml(lesson.lessonName).toLowerCase().includes(lowerQuery);
+                const stepMatch = escapeHtml(lesson.stepTitle).toLowerCase().includes(lowerQuery);
+                return nameMatch || stepMatch;
+            }) : currentLessons;
+            
+            const container = document.getElementById('lesson-list-container');
+            if (container) {
+                container.innerHTML = buildGroupsHtml(filtered);
+            }
         }
     }
 };
@@ -1503,7 +1914,7 @@ const init = async () => {
     }
 
     elements.mainContent.addEventListener('click', handleItemClick);
-    elements.mainContent.addEventListener('click', (e) => {
+    elements.mainContent.addEventListener('click', async (e) => {
         const toggleBtn = e.target.closest('.search-toggle-btn');
         if (toggleBtn) {
             e.stopPropagation();
@@ -1532,10 +1943,133 @@ const init = async () => {
             return;
         }
 
+        const showLessonsChurchBtn = e.target.closest('#show-lessons-church-btn');
+        if (showLessonsChurchBtn) {
+            e.stopPropagation();
+            hideFilterHint();
+            showSermonContent = false;
+            const churchSermons = currentFiles.filter(f => f.church || (f.subpath ? f.subpath.split('/')[0] : ''));
+            const lessons = await collectLessonsFromSermons(currentFiles);
+            currentLessons = lessons;
+            currentLessonsScope = 'church';
+            elements.mainContent.innerHTML = renderLessonsView(lessons, 'church');
+            return;
+        }
+
+        const showLessonsSermonBtn = e.target.closest('#show-lessons-sermon-btn');
+        if (showLessonsSermonBtn) {
+            e.stopPropagation();
+            hideFilterHint();
+            showSermonContent = false;
+            const lessons = await collectLessonsFromSermons(currentFiles);
+            currentLessons = lessons;
+            currentLessonsScope = 'sermon';
+            elements.mainContent.innerHTML = renderLessonsView(lessons, 'sermon');
+            return;
+        }
+
+        const toggleSortBtn = e.target.closest('#toggle-sort-lessons-btn');
+        if (toggleSortBtn) {
+            e.stopPropagation();
+            sortLessonsByStateOrder = (sortLessonsByStateOrder + 1) % 3;
+            toggleSortBtn.textContent = sortLessonsByStateOrder === 0 ? 'Sort: Original' : sortLessonsByStateOrder === 1 ? 'Sort: Reversed State Order' : 'Sort: State Order';
+            const groupsHtml = buildGroupsHtml(currentLessons);
+            document.getElementById('lesson-list-container').innerHTML = groupsHtml;
+            return;
+        }
+
+        const backBtn = e.target.closest('#back-to-sermons-btn');
+        if (backBtn) {
+            e.stopPropagation();
+            showSermonContent = true;
+            const pathBack = currentLessonsScope === 'church' ? '' : currentPath;
+            if (pathBack) {
+                loadSermons(pathBack);
+            } else {
+                loadRootDirectories();
+            }
+            return;
+        }
+
         const filterBtn = e.target.closest('#filter-churches-btn');
         if (filterBtn) {
             e.stopPropagation();
             openFilterPopup();
+        }
+    });
+
+    elements.mainContent.addEventListener('click', async (e) => {
+        const trackerToggle = e.target.closest('.lesson-tracker-toggle');
+        if (trackerToggle) {
+            const panel = trackerToggle.closest('.lesson-tracker')?.querySelector('.lesson-tracker-panel');
+            if (panel) {
+                const isHidden = panel.classList.toggle('hidden');
+                const toggleText = trackerToggle.querySelector('.lesson-tracker-toggle-text');
+                if (toggleText) {
+                    toggleText.textContent = isHidden ? 'Show Lesson Steps' : 'Hide Lesson Steps';
+                }
+            }
+            return;
+        }
+
+        const stateButton = e.target.closest('.lesson-step-btn');
+        if (stateButton) {
+            const path = stateButton.dataset.lessonPath;
+            const step = Number(stateButton.dataset.step);
+            const currentState = Number(stateButton.dataset.state || 0);
+            const nextState = (currentState + 1) % (LESSON_STATE_LABELS.length + 1);
+            stateButton.dataset.state = String(nextState);
+            const label = stateButton.querySelector('.lesson-state-label');
+            if (label) {
+                label.textContent = nextState === 0 ? 'Not Set' : LESSON_STATE_LABELS[nextState - 1];
+            }
+            await setLessonState(path, step, nextState);
+            await updateLessonNameState(path);
+            return;
+        }
+
+        const lessonItem = e.target.closest('.lesson-item');
+        if (lessonItem) {
+            const path = lessonItem.dataset.lessonPath;
+            const step = Number(lessonItem.dataset.step);
+            const currentState = Number(lessonItem.dataset.state || 0);
+            const nextState = (currentState + 1) % (LESSON_STATE_LABELS.length + 1);
+            lessonItem.dataset.state = String(nextState);
+            const badge = lessonItem.querySelector('.lesson-item-state-badge');
+            if (badge) {
+                badge.textContent = nextState === 0 ? 'Not Set' : LESSON_STATE_LABELS[nextState - 1];
+            }
+            await setLessonState(path, step, nextState);
+            currentLessons = currentLessons.map(l => {
+                if (l.lessonPath === path && l.stepNumber === step) {
+                    l.state = nextState;
+                }
+                return l;
+            });
+            document.getElementById('lesson-list-container').innerHTML = buildGroupsHtml(currentLessons);
+            return;
+        }
+
+        const lessonStepIndent = e.target.closest('.lesson-step-indent');
+        if (lessonStepIndent) {
+            const path = lessonStepIndent.dataset.lessonPath;
+            const step = Number(lessonStepIndent.dataset.step);
+            const currentState = Number(lessonStepIndent.dataset.state || 0);
+            const nextState = (currentState + 1) % (LESSON_STATE_LABELS.length + 1);
+            lessonStepIndent.dataset.state = String(nextState);
+            const badge = lessonStepIndent.querySelector('.lesson-item-state-badge');
+            if (badge) {
+                badge.textContent = nextState === 0 ? 'Not Set' : LESSON_STATE_LABELS[nextState - 1];
+            }
+            await setLessonState(path, step, nextState);
+            currentLessons = currentLessons.map(l => {
+                if (l.lessonPath === path && l.stepNumber === step) {
+                    l.state = nextState;
+                }
+                return l;
+            });
+            document.getElementById('lesson-list-container').innerHTML = buildGroupsHtml(currentLessons);
+            return;
         }
     });
     elements.retryBtn.addEventListener('click', handleRetry);
@@ -1559,12 +2093,20 @@ const init = async () => {
         }
     });
 
-    elements.mainContent.addEventListener('input', debounce(async (e) => {
+    elements.mainContent.addEventListener('click', debounce(async (e) => {
         if (e.target.id === 'root-sermon-search') {
             rootSermonSearch = e.target.value;
             await runSearch('root-sermon-search', rootSermonSearch || '');
         } else if (e.target.id === 'sermon-search') {
             await runSearch('sermon-search', e.target.value);
+        } else if (e.target.id === 'lesson-search') {
+            await runSearch('lesson-search', e.target.value);
+        }
+    }, 300));
+
+    elements.mainContent.addEventListener('input', debounce(async (e) => {
+        if (e.target.id === 'lesson-search') {
+            await runSearch('lesson-search', e.target.value);
         }
     }, 300));
 
