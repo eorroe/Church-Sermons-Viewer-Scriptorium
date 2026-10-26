@@ -1551,6 +1551,9 @@ a:hover {
 
 .lesson-list {
     margin-top: 1rem;
+    max-height: calc(100vh - 220px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
 }
 
 .lesson-list-search {
